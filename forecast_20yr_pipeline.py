@@ -1,33 +1,32 @@
 #!/usr/bin/env python3
 """
-forecast_20yr_pipeline.py (mapping-fix patch)
+forecast_20yr_pipeline.py
 
-Patch summary
-- Fixes a bug where GLM fallback forecasts were reported for historical training years
-  because the code reused the training-design row mapping when assembling forecast counts.
-- For GLM path we now construct a proper forecast design matrix (X_forecast) for the
-  requested forecast years and clusters, using the same column order as the GLM design
-  used for fitting. We then compute lam_matrix = exp(draws @ X_forecast.T) to produce
-  counts for the requested forecast years instead of reusing training rows.
+Optimized pipeline with:
+ - Default GLM (statsmodels) fallback (use --use-pymc to enable PyMC if environment supports it)
+ - Vectorized ensemble sampling
+ - Efficient construction of forecast design matrix (avoids DataFrame fragmentation)
+ - Safe parquet writing with CSV fallback if pyarrow/fastparquet not available
 
-Other behavior is unchanged (vectorized sampling, optional PyMC, optional expand-events).
-Run with --no-pymc to force GLM fallback if your env cannot compile PyMC/pytensor.
+Usage examples:
+  # Default (fast, GLM fallback)
+  python forecast_20yr_pipeline.py --input updated.csv --start-year 2026 --horizon-years 20 --ensembles 100 --output-prefix forecast_2026_2045
 
-Usage (example):
-  python forecast_20yr_pipeline.py --input updated.csv --start-year 2026 --horizon-years 20 \
-    --time-bin yearly --ensembles 500 --output-prefix forecast_2026_2045 --no-pymc
+  # Enable PyMC (only when your env supports pytensor compilation)
+  python forecast_20yr_pipeline.py --input updated.csv --start-year 2026 --horizon-years 20 --ensembles 100 --use-pymc --output-prefix forecast_2026_2045
 """
 from __future__ import annotations
 import argparse
 import math
-import os
 from datetime import datetime
 import numpy as np
 import pandas as pd
-import random
 from dateutil import parser as dtparser
+import random
+import sys
+import warnings
 
-# optional libraries
+# optional libs
 try:
     import hdbscan
 except Exception:
@@ -48,7 +47,7 @@ except Exception:
     sm = None
 
 # -----------------------
-# CLI / defaults
+# CLI
 # -----------------------
 def parse_args():
     p = argparse.ArgumentParser()
@@ -60,14 +59,14 @@ def parse_args():
     p.add_argument("--start-year", type=int, default=2026)
     p.add_argument("--horizon-years", type=int, default=20)
     p.add_argument("--time-bin", choices=["yearly","monthly"], default="yearly")
-    p.add_argument("--ensembles", type=int, default=100, help="Number of ensemble realizations (default 100)")
+    p.add_argument("--ensembles", type=int, default=100, help="Number of ensemble realizations")
     p.add_argument("--output-prefix", default="forecast_2026_2045")
     p.add_argument("--clusters-min-samples", type=int, default=5, help="HDBSCAN min_samples")
     p.add_argument("--min-cluster-size", type=int, default=25, help="HDBSCAN min_cluster_size")
-    p.add_argument("--min-cluster-count", type=int, default=10, help="Merge clusters with total historical count < this into 'other' to reduce dimensionality")
-    p.add_argument("--use-neg-bin", action="store_true", help="fit Negative Binomial instead of Poisson (via overdispersion)")
+    p.add_argument("--min-cluster-count", type=int, default=10, help="Merge clusters with historical counts < this into 'other' to reduce dimensionality")
+    p.add_argument("--use-neg-bin", action="store_true", help="Use Negative Binomial family in GLM (or PyMC NB)")
     p.add_argument("--dbscan-eps-km", type=float, default=50.0, help="DBSCAN eps (km) when hdbscan unavailable")
-    p.add_argument("--no-pymc", action="store_true", help="Force using statsmodels GLM fallback even if PyMC is installed")
+    p.add_argument("--use-pymc", action="store_true", default=False, help="Enable Bayesian PyMC model (may require pytensor compilation). Default is GLM fallback.")
     p.add_argument("--draws", type=int, default=500, help="PyMC draws (if used)")
     p.add_argument("--tune", type=int, default=500, help="PyMC tune (if used)")
     p.add_argument("--expand-events", action="store_true", help="Expand aggregated counts into per-event sampled rows (can be very large)")
@@ -79,12 +78,13 @@ def parse_args():
 def ensure_datetime_series(df, col):
     s = pd.to_datetime(df[col], utc=True, errors='coerce')
     if s.isna().any():
+        # fallback parse
         s2 = df[col].astype(str).apply(lambda x: dtparser.parse(x) if x and not pd.isna(x) else pd.NaT)
         s = pd.to_datetime(s2, utc=True, errors='coerce')
     return s
 
 # -----------------------
-# Clustering with small-cluster merging
+# Clustering
 # -----------------------
 def compute_spatial_clusters(df, lat_col="latitude", lon_col="longitude",
                              min_cluster_size=25, min_samples=5, dbscan_eps_km=50.0, min_cluster_count=10):
@@ -115,12 +115,11 @@ def compute_spatial_clusters(df, lat_col="latitude", lon_col="longitude",
         df = df.copy()
         df["cluster"] = labels
 
-    # Merge small clusters into -1 to reduce dimensionality if requested
+    # Merge small clusters into -1 for dimensionality control
     counts = df["cluster"].value_counts()
     small = counts[counts < min_cluster_count].index.tolist()
     if small:
-        mask_small = df["cluster"].isin(small)
-        df.loc[mask_small, "cluster"] = -1
+        df.loc[df["cluster"].isin(small), "cluster"] = -1
     return df
 
 # -----------------------
@@ -136,10 +135,9 @@ def aggregate_counts(df, time_col="time", cluster_col="cluster", bin="yearly"):
     return agg
 
 # -----------------------
-# Fit hierarchical model (PyMC optional) or GLM fallback (statsmodels)
+# Modeling (GLM fallback or PyMC)
 # -----------------------
-def fit_hierarchical_model(agg, time_bin="yearly", use_neg_bin=False, draws=500, tune=500, allow_pymc=True):
-    # prepare indices
+def fit_hierarchical_model(agg, time_bin="yearly", use_neg_bin=False, draws=500, tune=500, allow_pymc=False):
     if time_bin == "yearly":
         time_idx = agg["year"].astype(int)
     else:
@@ -149,7 +147,6 @@ def fit_hierarchical_model(agg, time_bin="yearly", use_neg_bin=False, draws=500,
     time_rel = (time_idx - t0).astype(int)
     K = len(clusters_unique)
 
-    # Try PyMC if allowed and installed
     if allow_pymc and pm is not None:
         with pm.Model() as model:
             mu_a = pm.Normal("mu_a", mu=0.0, sigma=5.0)
@@ -166,16 +163,15 @@ def fit_hierarchical_model(agg, time_bin="yearly", use_neg_bin=False, draws=500,
             trace = pm.sample(draws=draws, tune=tune, cores=1, progressbar=True)
         return ("pymc", model, trace, clusters_unique, t0)
 
-    # Fallback to GLM (statsmodels) and return result info
+    # GLM fallback
     if sm is None:
-        raise RuntimeError("statsmodels is required for GLM fallback. Install statsmodels or disable --no-pymc accordingly.")
-
+        raise RuntimeError("statsmodels is required for GLM fallback. Install statsmodels or enable --use-pymc accordingly.")
     df_design = agg.copy()
     df_design["time_rel"] = time_rel
     dummies = pd.get_dummies(df_design["cluster"].astype(str), prefix="cl", drop_first=True)
     X = pd.concat([pd.Series(1, index=df_design.index, name="intercept"), dummies, df_design["time_rel"].rename("time_rel")], axis=1)
     y = df_design["count"]
-    # Coerce numeric and convert to numpy arrays for speed
+    # ensure numeric arrays
     X = X.apply(pd.to_numeric, errors='coerce').fillna(0.0).astype(float)
     y = pd.to_numeric(y, errors='coerce').fillna(0.0).astype(float)
     family = sm.families.NegativeBinomial() if use_neg_bin else sm.families.Poisson()
@@ -185,14 +181,14 @@ def fit_hierarchical_model(agg, time_bin="yearly", use_neg_bin=False, draws=500,
         "params": glm_res.params.astype(float),
         "cov": glm_res.cov_params().astype(float),
         "design_columns": X.columns.tolist(),
-        "X": X,        # keep X matrix for reference
+        "X": X,
         "clusters_unique": clusters_unique,
         "t0": t0
     }
     return ("glm", glm_model, result_info, clusters_unique, t0)
 
 # -----------------------
-# Vectorized ensemble sampling (fixed GLM mapping)
+# Vectorized sampling (GLM fixed to build X_fore efficiently)
 # -----------------------
 def sample_ensembles_vectorized(model_tuple, start_year, horizon_years, ensembles=100, use_neg_bin=False, rng_seed=12345):
     kind = model_tuple[0]
@@ -201,24 +197,23 @@ def sample_ensembles_vectorized(model_tuple, start_year, horizon_years, ensemble
     if kind == "pymc":
         _, model, trace, clusters, t0 = model_tuple
         posterior = trace.posterior
-        a_all = posterior["a"].values.reshape(-1, posterior["a"].shape[-1])  # (n_samples, K)
+        a_all = posterior["a"].values.reshape(-1, posterior["a"].shape[-1])
         beta_all = posterior["beta_time"].values.reshape(-1)
         n_posterior = a_all.shape[0]
         rng = np.random.default_rng(rng_seed)
         idxs = rng.integers(0, n_posterior, size=ensembles)
-        a_draws = a_all[idxs]         # (ensembles, K)
-        beta_draws = beta_all[idxs]   # (ensembles,)
+        a_draws = a_all[idxs]
+        beta_draws = beta_all[idxs]
         design_rows = []
         for c_idx, c in enumerate(clusters):
             for y in years:
-                time_rel = y - t0
-                design_rows.append((c_idx, int(c), int(y), int(time_rel)))
+                design_rows.append((c_idx, int(c), int(y), int(y - t0)))
         design_df = pd.DataFrame(design_rows, columns=["cluster_idx","cluster","year","time_rel"])
         time_rel_arr = design_df["time_rel"].to_numpy()
         cluster_idx_arr = design_df["cluster_idx"].to_numpy()
         lam = np.exp(a_draws[:, cluster_idx_arr] + (beta_draws[:, None] * time_rel_arr[None, :]))
-        rng = np.random.default_rng(rng_seed + 1)
-        counts = rng.poisson(lam)
+        rng2 = np.random.default_rng(rng_seed + 1)
+        counts = rng2.poisson(lam)
         ensembles_list = []
         for e in range(ensembles):
             df_e = pd.DataFrame({
@@ -228,56 +223,40 @@ def sample_ensembles_vectorized(model_tuple, start_year, horizon_years, ensemble
                 "count": counts[e, :]
             })
             ensembles_list.append(df_e)
-        ensembles_counts = pd.concat(ensembles_list, ignore_index=True)
-        return ensembles_counts
+        return pd.concat(ensembles_list, ignore_index=True)
 
-    # GLM path (fixed): construct forecast design matrix (X_forecast) that matches GLM design_columns
     if kind == "glm":
         _, glm_model, result_info, clusters_unique, t0 = model_tuple
-        X_fit = result_info["X"]                     # training design
-        cols = result_info["design_columns"]         # column order used in fit
+        cols = result_info["design_columns"]
         mean_vec = result_info["params"].reindex(cols).fillna(0.0).values
         cov_mat = result_info["cov"].reindex(index=cols, columns=cols).fillna(0.0).values
         rng = np.random.default_rng(rng_seed)
         draws = rng.multivariate_normal(mean_vec, cov_mat, size=ensembles)  # (ensembles, p)
 
-        # Build forecast design rows for all clusters and forecast years
+        # build forecast design rows
         design_rows = []
         cluster_list = list(clusters_unique)
-        for c_idx, c in enumerate(cluster_list):
+        for c in cluster_list:
             for y in years:
-                time_rel = y - t0
-                design_rows.append({"cluster": c, "year": int(y), "time_rel": time_rel})
+                design_rows.append({"cluster": c, "year": int(y), "time_rel": int(y - t0)})
         design_df = pd.DataFrame(design_rows)
 
-        # Create dummies consistent with training (drop_first=True behavior)
-        # We'll create dummies with same prefix and then reindex columns to match 'cols'
-        design_df["cluster_str"] = design_df["cluster"].astype(str)
-        dummies_fore = pd.get_dummies(design_df["cluster_str"], prefix="cl", drop_first=True)
-
-        # Build X_forecast DataFrame with same columns as 'cols'
-        X_fore = pd.DataFrame(index=design_df.index)
-        X_fore["intercept"] = 1.0
-        X_fore["time_rel"] = design_df["time_rel"].astype(float)
-        # add dummy columns (may be subset of cols)
-        for ccol in [c for c in cols if c.startswith("cl_")]:
-            if ccol in dummies_fore.columns:
-                X_fore[ccol] = dummies_fore[ccol].astype(float)
-            else:
-                X_fore[ccol] = 0.0
-        # ensure column order matches 'cols'
+        # Efficient X_fore construction (no per-column insertion)
+        intercept_ser = pd.Series(1.0, index=design_df.index, name="intercept")
+        time_rel_ser = pd.Series(design_df["time_rel"].astype(float).values, index=design_df.index, name="time_rel")
+        dummies_fore = pd.get_dummies(design_df["cluster"].astype(str), prefix="cl", drop_first=True)
+        dummy_cols = [c for c in cols if c.startswith("cl_")]
+        dummies_fore_reindexed = dummies_fore.reindex(columns=dummy_cols, fill_value=0.0).astype(float)
+        X_fore = pd.concat([intercept_ser, dummies_fore_reindexed, time_rel_ser], axis=1)
         X_fore = X_fore.reindex(columns=cols, fill_value=0.0).astype(float)
 
-        # compute lam_matrix = exp( draws @ X_fore.T )
-        X_T = X_fore.values.T   # (p, n_rows)
-        lam_matrix = np.exp( draws.dot(X_T) )   # (ensembles, n_rows)
+        X_T = X_fore.values.T  # (p, n_rows)
+        lam_matrix = np.exp(draws.dot(X_T))  # (ensembles, n_rows)
 
         rng2 = np.random.default_rng(rng_seed + 1)
-        counts = rng2.poisson(lam_matrix)   # (ensembles, n_rows)
+        counts = rng2.poisson(lam_matrix)
 
-        # Assemble aggregated DataFrame mapping design_df rows to counts columns
         records = []
-        n_rows = lam_matrix.shape[1]
         for e in range(ensembles):
             rec = pd.DataFrame({
                 "ensemble": e,
@@ -286,13 +265,12 @@ def sample_ensembles_vectorized(model_tuple, start_year, horizon_years, ensemble
                 "count": counts[e, :]
             })
             records.append(rec)
-        ensembles_counts = pd.concat(records, ignore_index=True)
-        return ensembles_counts
+        return pd.concat(records, ignore_index=True)
 
     raise RuntimeError("Unknown model kind")
 
 # -----------------------
-# Efficient expansion to per-event sampled rows (vectorized)
+# Expand aggregated counts to events (vectorized)
 # -----------------------
 def expand_aggregated_counts_to_events(aggregated_df, original_df, lat_col="latitude", lon_col="longitude", mag_col="mag"):
     rng = np.random.default_rng(2023)
@@ -330,7 +308,17 @@ def expand_aggregated_counts_to_events(aggregated_df, original_df, lat_col="lati
     return pd.DataFrame(events_rows)
 
 # -----------------------
-# Main workflow
+# Safe parquet writer (CSV fallback)
+# -----------------------
+def safe_to_parquet(df: pd.DataFrame, path: str):
+    try:
+        df.to_parquet(path, index=False)
+    except Exception as e:
+        warnings.warn(f"Parquet write failed ({e}). Falling back to CSV at {path}.csv")
+        df.to_csv(path + ".csv", index=False)
+
+# -----------------------
+# Main
 # -----------------------
 def main():
     args = parse_args()
@@ -348,20 +336,23 @@ def main():
     print(df["cluster"].value_counts().head(10))
 
     agg = aggregate_counts(df, time_col=args.time_col, cluster_col="cluster", bin=args.time_bin)
-    print("Fitting hierarchical model (PyMC if available and not disabled, otherwise statsmodels GLM)...")
-    allow_pymc = (not args.no_pymc)
-    model_tuple = fit_hierarchical_model(agg, time_bin=args.time_bin, use_neg_bin=args.use_neg_bin, draws=args.draws, tune=args.tune, allow_pymc=allow_pymc)
+
+    print("Fitting hierarchical model (PyMC if --use-pymc and available, otherwise statsmodels GLM)...")
+    allow_pymc = bool(args.use_pymc)
+    model_tuple = fit_hierarchical_model(agg, time_bin=args.time_bin, use_neg_bin=args.use_neg_bin,
+                                         draws=args.draws, tune=args.tune, allow_pymc=allow_pymc)
 
     print("Sampling ensembles (vectorized)...")
-    sampled = sample_ensembles_vectorized(model_tuple, start_year=args.start_year, horizon_years=args.horizon_years, ensembles=args.ensembles, use_neg_bin=args.use_neg_bin)
-
-    ensembles_counts = sampled  # sample_ensembles_vectorized now returns aggregated DF directly for both paths
+    ensembles_counts = sample_ensembles_vectorized(model_tuple, start_year=args.start_year,
+                                                   horizon_years=args.horizon_years, ensembles=args.ensembles,
+                                                   use_neg_bin=args.use_neg_bin)
 
     out_prefix = args.output_prefix
     counts_path = f"{out_prefix}_counts.parquet"
-    ensembles_counts.to_parquet(counts_path, index=False)
-    print("Wrote aggregated ensemble counts to:", counts_path)
+    print("Writing aggregated counts to:", counts_path)
+    safe_to_parquet(ensembles_counts, counts_path)
 
+    # per-year summary
     summary = ensembles_counts.groupby(["ensemble","year"])["count"].sum().reset_index(name="count")
     summary_q = summary.groupby("year")["count"].agg([("p5", lambda x: np.quantile(x,0.05)),
                                                       ("p50", lambda x: np.quantile(x,0.5)),
@@ -375,7 +366,7 @@ def main():
         print("Expanding aggregated counts to per-event sampled rows (may be slow/large)...")
         events_df = expand_aggregated_counts_to_events(ensembles_counts, df, lat_col=args.lat_col, lon_col=args.lon_col, mag_col=args.mag_col)
         events_path = f"{out_prefix}_events.parquet"
-        events_df.to_parquet(events_path, index=False)
+        safe_to_parquet(events_df, events_path)
         print("Wrote per-event ensembles to:", events_path)
 
     print("Done.")
