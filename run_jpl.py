@@ -18,6 +18,7 @@ Usage examples:
 """
 import argparse
 import sys
+import os
 from datetime import datetime, timezone
 import pandas as pd
 import numpy as np
@@ -25,8 +26,6 @@ from dateutil import parser as dt_parser
 
 # Import JPL computation functions from generate_celestial_dataset
 try:
-    import sys
-    import os
     sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
     from generate_celestial_dataset import (
         compute_jpl_features_for_epoch, 
@@ -50,7 +49,7 @@ def parse_datetime(dt_str):
     """Parse datetime string to timezone-aware UTC datetime."""
     try:
         dt = dt_parser.isoparse(dt_str)
-    except:
+    except (ValueError, AttributeError):
         dt = dt_parser.parse(dt_str)
     
     if dt.tzinfo is None:

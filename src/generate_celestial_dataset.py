@@ -68,14 +68,14 @@ try:
     from skyfield.api import load, Topos
     SKYFIELD_AVAILABLE = True
     # We'll lazily load the ephemeris when needed
-except Exception:
+except (ImportError, ModuleNotFoundError):
     SKYFIELD_AVAILABLE = False
 
 # Swiss ephemeris (for sidereal mode + lunar nodes)
 try:
     import swisseph as swe
     SWEPH_AVAILABLE = True
-except Exception:
+except (ImportError, ModuleNotFoundError):
     SWEPH_AVAILABLE = False
 
 # Mean radii (km) used to estimate angular diameter

@@ -278,10 +278,8 @@ def _zero_null_like_values(df):
             df[col] = df[col].replace(null_like, np.nan)
             
             # Try to convert to numeric if possible
-            try:
-                df[col] = pd.to_numeric(df[col], errors='ignore')
-            except:
-                pass
+            # pd.to_numeric with errors='ignore' already handles conversion failures gracefully
+            df[col] = pd.to_numeric(df[col], errors='ignore')
     
     return df
 

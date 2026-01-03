@@ -33,7 +33,7 @@ def parse_time(t):
     else:
         try:
             dt = dt_parser.isoparse(str(t))
-        except:
+        except (ValueError, AttributeError):
             dt = dt_parser.parse(str(t))
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
