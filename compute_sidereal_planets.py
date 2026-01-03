@@ -264,6 +264,27 @@ def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
 
     return out
 
+def _zero_null_like_values(df):
+    """
+    Replace NULL-like string values with actual NaN in numeric columns.
+    This handles cases where CSV contains 'NULL', 'null', 'None', 'N/A', etc.
+    """
+    null_like = ['NULL', 'null', 'None', 'NONE', 'N/A', 'n/a', 'NA', '#N/A', '', ' ']
+    
+    for col in df.columns:
+        # Check if column contains string representations of null
+        if df[col].dtype == 'object':
+            # Replace null-like strings with NaN
+            df[col] = df[col].replace(null_like, np.nan)
+            
+            # Try to convert to numeric if possible
+            try:
+                df[col] = pd.to_numeric(df[col], errors='ignore')
+            except:
+                pass
+    
+    return df
+
 def process_file(input_csv, output_csv=None, combustion_deg=DEFAULT_COMBUSTION_DEG, de_file="de421.bsp"):
     if output_csv is None:
         output_csv = input_csv + ".with_astrology.csv"
@@ -279,6 +300,10 @@ def process_file(input_csv, output_csv=None, combustion_deg=DEFAULT_COMBUSTION_D
 
     logging.info(f"Reading input CSV: {input_csv}")
     df = pd.read_csv(input_csv, low_memory=False)
+    
+    # Normalize NULL-like values
+    df = _zero_null_like_values(df)
+    
     if 'time' not in df.columns or 'latitude' not in df.columns or 'longitude' not in df.columns:
         logging.error("Input CSV must contain columns: time, latitude, longitude")
         raise SystemExit(1)
