@@ -3,30 +3,17 @@
 compute_sidereal_planets.py
 
 Reads a CSV with columns including:
- - time (ISO 8601 UTC, e.g. 1950-12-14T14:15:54.820Z)
+ - time (ISO 8601 UTC)
  - latitude
  - longitude
 
-Computes sidereal ecliptic longitude & latitude, longitude/360,
-zodiac sign (1..12), topocentric altitude (rise/above horizon),
-combustion (distance to Sun < threshold), and retrograde for:
-  Sun, Moon, Mars, Saturn, Venus, and both versions of the lunar nodes
-  (Rahu_mean, Ketu_mean, Rahu_true, Ketu_true).
+Computes sidereal ecliptic longitudes/latitudes, zodiac sign, topocentric altitude,
+combustion, retrograde for Sun, Moon, Mars, Saturn, Venus, Rahu/Ketu (mean & true)
 
-Outputs: <input_filename>.with_astrology.csv
+Outputs: <input>.with_astrology.csv
 
-Usage:
-  python compute_sidereal_planets.py input.csv
-
-Optional flags:
-  --combustion  : combustion threshold in degrees (default 8.5)
-  --de-file     : DE ephemeris filename for skyfield (default de421.bsp)
-  --output      : output filename (default: input.csv.with_astrology.csv)
-
-Requires:
-  pip install -r requirements.txt
+(Updated to normalize textual NULL tokens and zero numeric NULLs for magnitude/depth fields.)
 """
-
 import sys
 import os
 import math
@@ -39,16 +26,14 @@ from datetime import timezone
 from skyfield.api import load, Topos
 import logging
 
-# Configure logging
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-# Constants / Defaults
 DEFAULT_COMBUSTION_DEG = 8.5
 ZODIAC_SIGNS = [
     "Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
     "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"
 ]
-ZODIAC_INDEX_BASE = 1  # 1..12
+ZODIAC_INDEX_BASE = 1
 
 PLANETS = {
     "Sun": swe.SUN,
@@ -63,9 +48,7 @@ NODE_TYPES = {
     "true": swe.TRUE_NODE
 }
 
-# Utility functions
 def set_sidereal_lahiri():
-    # Set Lahiri ayanamsha explicitly
     swe.set_sid_mode(swe.SIDM_LAHIRI, 0)
 
 def parse_time_to_jd_utc(timestr):
@@ -88,7 +71,6 @@ def zodiac_from_long(lon):
     return ZODIAC_SIGNS[sign_index], sign_index + ZODIAC_INDEX_BASE
 
 def angular_separation_deg(lon1, lat1, lon2, lat2):
-    # convert ecliptic spherical coords to cartesian unit vectors and compute angle
     def sph_to_cart(lon_deg, lat_deg):
         lon = math.radians(lon_deg)
         lat = math.radians(lat_deg)
@@ -103,7 +85,6 @@ def angular_separation_deg(lon1, lat1, lon2, lat2):
     return math.degrees(math.acos(dot))
 
 def angular_difference_short(a, b):
-    # minimal signed difference b - a in degrees (-180,180]
     d = (b - a + 180.0) % 360.0 - 180.0
     return d
 
@@ -113,10 +94,8 @@ def estimate_speed_deg_per_day(jd, planet_const, sidereal=True):
         FLAG |= swe.FLG_SIDEREAL
     try:
         res = swe.calc_ut(jd, planet_const, FLAG)
-        # Try to extract speed from returned structure
         if isinstance(res, tuple) and len(res) >= 4:
             sp = res[3]
-            # Sometimes sp is a list/tuple with first element the longitudinal speed
             if isinstance(sp, (list, tuple)) and len(sp) > 0:
                 sp_val = sp[0]
                 if sp_val is not None:
@@ -125,9 +104,8 @@ def estimate_speed_deg_per_day(jd, planet_const, sidereal=True):
                 return float(sp)
     except Exception:
         pass
-    # Numerical derivative fallback
     try:
-        delta = 0.0005  # days (~43.2 seconds)
+        delta = 0.0005
         r1 = swe.calc_ut(jd, planet_const, swe.FLG_SWIEPH | (swe.FLG_SIDEREAL if sidereal else 0))
         r2 = swe.calc_ut(jd + delta, planet_const, swe.FLG_SWIEPH | (swe.FLG_SIDEREAL if sidereal else 0))
         lon1 = float(r1[0][0])
@@ -139,26 +117,19 @@ def estimate_speed_deg_per_day(jd, planet_const, sidereal=True):
 
 def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
     out = {}
-
-    # Skyfield observer and time
     t = ts.from_datetime(dt)
     observer = eph["earth"] + Topos(latitude_degrees=float(lat), longitude_degrees=float(lon))
-
-    # FLAGS for swisseph: sidereal + speed + swieph
     FLAG_SID_SPEED = swe.FLG_SWIEPH | swe.FLG_SIDEREAL | swe.FLG_SPEED
 
-    # Sun (sidereal) for combustion reference
     try:
         sun_res = swe.calc_ut(jd, swe.SUN, FLAG_SID_SPEED)
         sun_lon = normalize_deg(sun_res[0][0])
         sun_lat = float(sun_res[0][1])
     except Exception:
-        # fallback to non-sidereal
         sun_res = swe.calc_ut(jd, swe.SUN, swe.FLG_SWIEPH | swe.FLG_SPEED)
         sun_lon = normalize_deg(sun_res[0][0])
         sun_lat = float(sun_res[0][1])
 
-    # Planets
     for pname, pconst in PLANETS.items():
         try:
             res = swe.calc_ut(jd, pconst, FLAG_SID_SPEED)
@@ -171,7 +142,6 @@ def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
             out[f"{pname}_zodiac"] = sign
             out[f"{pname}_zodiac_index"] = sidx
 
-            # retrograde detection
             speed = None
             try:
                 if isinstance(res, tuple) and len(res) >= 4:
@@ -186,7 +156,6 @@ def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
                 speed = estimate_speed_deg_per_day(jd, pconst, sidereal=True)
             out[f"{pname}_is_retrograde"] = (speed < 0) if (speed is not None) else None
 
-            # altitude via skyfield
             try:
                 body = eph[pname.lower()]
                 astrom = observer.at(t).observe(body).apparent()
@@ -197,7 +166,6 @@ def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
             out[f"{pname}_altitude_deg"] = alt_deg
             out[f"{pname}_is_above_horizon"] = (alt_deg > 0.0) if (not np.isnan(alt_deg)) else None
 
-            # combustion: angular separation to Sun in sidereal ecliptic coords
             sep = angular_separation_deg(lon_sid, lat_sid, sun_lon, sun_lat)
             out[f"{pname}_is_combust"] = (sep < combustion_deg)
 
@@ -212,7 +180,6 @@ def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
             out[f"{pname}_is_combust"] = None
             out[f"{pname}_is_retrograde"] = None
 
-    # Nodes: mean and true
     for node_label, node_const in NODE_TYPES.items():
         try:
             res = swe.calc_ut(jd, node_const, FLAG_SID_SPEED)
@@ -233,7 +200,6 @@ def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
             sep_r = angular_separation_deg(node_lon, node_lat, sun_lon, sun_lat)
             out[f"{rahu_key}_is_combust"] = (sep_r < combustion_deg)
 
-            # Ketu opposite
             ketu_lon = normalize_deg(node_lon + 180.0)
             ketu_lat = -node_lat
             out[f"{ketu_key}_sid_long"] = ketu_lon
@@ -264,15 +230,42 @@ def compute_row_outputs(jd, dt, lat, lon, eph, ts, combustion_deg):
 
     return out
 
+# --- Begin: helper to normalize NULL-like tokens and zero numeric NULLs ---
+def _zero_null_like_values(df: pd.DataFrame, cols=None):
+    """
+    Replace common textual NULL tokens with NaN and set numeric NULLs to 0
+    for the specified columns. Modifies and returns the DataFrame.
+    Default target columns: mag, magnitude, depthError, magError
+    """
+    if cols is None:
+        cols = ["mag", "magnitude", "depthError", "magError"]
+
+    null_tokens = {"NULL", "null", "NaN", ""}
+    obj_cols = df.select_dtypes(include=["object"]).columns
+    for c in obj_cols:
+        try:
+            df[c] = df[c].where(~df[c].astype(str).str.strip().isin(null_tokens), other=np.nan)
+        except Exception:
+            df[c] = df[c].astype(str).where(~df[c].astype(str).str.strip().isin(null_tokens), other=np.nan)
+
+    modified = []
+    for c in cols:
+        if c in df.columns:
+            df[c] = pd.to_numeric(df[c], errors="coerce").fillna(0)
+            modified.append(c)
+
+    if modified:
+        logging.info(f"Normalized NULL-like tokens and set zeros for columns: {modified}")
+    return df
+# --- End helper ---
+
 def process_file(input_csv, output_csv=None, combustion_deg=DEFAULT_COMBUSTION_DEG, de_file="de421.bsp"):
     if output_csv is None:
         output_csv = input_csv + ".with_astrology.csv"
 
-    # Initialize swisseph
     swe.set_ephe_path('.')  # can be changed by env var or user
     set_sidereal_lahiri()
 
-    # Load skyfield ephemeris
     logging.info("Loading ephemeris (this may download de421 if not present)...")
     eph = load(de_file)
     ts = load.timescale()
@@ -283,6 +276,8 @@ def process_file(input_csv, output_csv=None, combustion_deg=DEFAULT_COMBUSTION_D
         logging.error("Input CSV must contain columns: time, latitude, longitude")
         raise SystemExit(1)
 
+    df = _zero_null_like_values(df, cols=["mag", "magnitude", "depthError", "magError"])
+
     results = []
     total = len(df)
     logging.info(f"Processing {total} rows...")
@@ -292,7 +287,6 @@ def process_file(input_csv, output_csv=None, combustion_deg=DEFAULT_COMBUSTION_D
             lat = row['latitude']
             lon = row['longitude']
             if pd.isna(time_val) or pd.isna(lat) or pd.isna(lon):
-                # append NaN-filled dict for missing data
                 results.append({})
                 continue
             try:

@@ -1,14 +1,41 @@
-pandas>=1.5
-numpy>=1.22
-scikit-learn>=1.0
-hdbscan>=0.8
-pymc>=5.0
-arviz>=0.15
-python-dateutil>=2.8
-geopy>=2.3
-pytz>=2022.1
-statsmodels>=0.14
-# Optional (useful for plotting / notebooks)
-matplotlib>=3.5
-seaborn>=0.12
-jupyterlab>=4.0
+# Core scientific stack
+numpy
+pandas
+python-dateutil
+pytz
+
+# Ephemeris / celestial libraries
+skyfield
+jplephem
+pyswisseph
+astroquery
+astropy
+
+# I/O / data formats
+openpyxl
+pyarrow
+
+# Machine learning & utilities
+scikit-learn
+xgboost
+joblib
+
+# Visualisation & analysis
+matplotlib
+seaborn
+folium
+branca
+
+# Notebook / interactive
+notebook
+ipykernel
+
+# Networking / misc
+requests
+tqdm
+
+# Optional (useful but not required for basic runs)
+# - install these if you need them: they are left as comments to avoid mandatory installs
+# dask
+# s3fs
+# numexpr
