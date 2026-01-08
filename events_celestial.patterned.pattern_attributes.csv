@@ -1,0 +1,13 @@
+pattern_id,pattern_size,pattern_name,top_features
+8,2543,pattern_8 | Moon_sid_long=289.71; Sun_sid_long=71.35,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+5,2315,pattern_5 | Sun_sid_long=289.67; Moon_sid_long=75.02,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+1,2303,pattern_1 | Moon_sid_long=89.81; Sun_sid_long=84.24,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+11,2187,pattern_11 | Sun_sid_long=279.86; Moon_sid_long=284.68,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+6,2169,pattern_6 | _jd_=2404873.92; Moon_sid_long=94.09,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+7,2047,pattern_7 | longitude_num=-117.40; Moon_sid_long=133.60,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+10,1961,pattern_10 | _jd_=2404381.67; Sun_sid_long=260.92,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+2,1881,pattern_2 | latitude_num=-12.43; longitude_num=151.83,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+3,1859,pattern_3 | latitude_num=-28.24; longitude_num=-79.42,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+0,1836,pattern_0 | longitude_num=-116.93; _jd_=2405900.09,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+9,1199,pattern_9 | mag=5.43; _jd_=2427084.23,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
+4,1061,pattern_4 | mag=7.05; longitude_num=121.52,"longitude_num,_jd_,latitude_num,Sun_sid_long,mag,Moon_sid_long"
