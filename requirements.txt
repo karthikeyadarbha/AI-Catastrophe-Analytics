@@ -3,6 +3,7 @@ numpy
 pandas
 python-dateutil
 pytz
+scipy
 
 # Ephemeris / celestial libraries
 skyfield
@@ -15,27 +16,29 @@ astropy
 openpyxl
 pyarrow
 
-# Machine learning & utilities
+# Machine learning, clustering & dimensionality reduction
 scikit-learn
+umap-learn
+pynndescent
 xgboost
 joblib
 
-# Visualisation & analysis
+# Visualisation & interactive notebooks
 matplotlib
 seaborn
 folium
 branca
-
-# Notebook / interactive
+plotly
 notebook
 ipykernel
+jupyterlab
 
-# Networking / misc
+# Utilities / networking
 requests
 tqdm
 
 # Optional (useful but not required for basic runs)
-# - install these if you need them: they are left as comments to avoid mandatory installs
+# - install these if you need them: left commented to avoid mandatory installs
 # dask
 # s3fs
 # numexpr
