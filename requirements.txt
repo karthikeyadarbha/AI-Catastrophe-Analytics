@@ -42,3 +42,5 @@ tqdm
 # dask
 # s3fs
 # numexpr
+
+duckdb
