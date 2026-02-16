@@ -1,0 +1,2640 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e658eead79016c0034fdc822de09fb92 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_e658eead79016c0034fdc822de09fb92" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_e658eead79016c0034fdc822de09fb92 = L.map(
+                "map_e658eead79016c0034fdc822de09fb92",
+                {
+                    center: [15.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 2,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_90ae8774b762d33fcb7effbbf99460cb = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_90ae8774b762d33fcb7effbbf99460cb.addTo(map_e658eead79016c0034fdc822de09fb92);
+        
+    
+            var heat_map_d989839f0cb0f8c04dbaaba3f0bccace = L.heatLayer(
+                [[9.0, 93.0, 91.91], [9.0, 93.0, 91.91], [9.0, 90.0, 91.91], [9.0, 126.0, 91.91], [14.5, 93.0, 90.89], [14.5, 93.0, 90.89], [14.5, 126.0, 90.89], [-0.5, 90.0, 90.88], [-0.5, 100.0, 90.88], [-0.5, 102.0, 90.88], [15.0, 145.0, 90.67], [9.5, 90.0, 89.63], [-5.0, -72.0, 88.95], [19.5, 126.0, 88.73], [19.5, 145.0, 88.73], [-7.0, -72.0, 88.49], [-7.0, 102.0, 88.49], [-7.0, 100.0, 88.49], [-7.0, 90.0, 88.49], [20.0, 94.0, 88.47], [20.0, 145.0, 88.47], [20.0, 126.0, 88.47], [21.0, 94.0, 88.05], [2.0, 102.0, 87.98], [2.0, 100.0, 87.98], [21.0, 145.0, 87.62], [21.0, 94.0, 87.62], [-7.5, -72.0, 86.9], [14.5, 93.0, 86.75], [14.5, 93.0, 86.75], [-2.0, 90.0, 86.71], [-2.0, 102.0, 86.71], [-2.0, 100.0, 86.71], [-33.5, -175.0, 86.57], [18.5, 126.0, 86.15], [-12.5, -72.0, 86.06], [6.5, 93.0, 85.78], [6.5, 93.0, 85.78], [6.5, 90.0, 85.78], [-15.5, -175.0, 85.75], [23.0, 69.0, 85.43], [3.0, 102.0, 85.43], [3.0, 100.0, 85.43], [24.0, 60.0, 85.41], [-25.0, -175.0, 85.41], [3.5, 102.0, 85.16], [3.5, 100.0, 85.16], [23.0, 69.0, 85.1], [31.0, 142.0, 85.01], [-14.0, -72.0, 84.82], [24.5, 60.0, 84.78], [23.0, 69.0, 84.66], [8.0, 93.0, 84.62], [8.0, 93.0, 84.62], [8.0, 126.0, 84.62], [8.0, 90.0, 84.62], [33.0, 142.0, 84.59], [33.0, -124.0, 84.59], [15.0, 145.0, 84.38], [24.0, 60.0, 84.36], [8.5, 93.0, 83.88], [8.5, 90.0, 83.88], [8.5, 93.0, 83.88], [28.0, 75.0, 83.8], [28.0, 70.0, 83.8], [36.5, 35.0, 83.58], [36.5, -124.0, 83.58], [5.0, 100.0, 83.5], [5.0, 102.0, 83.5], [-1.0, 102.0, 83.42], [-1.0, 100.0, 83.42], [38.0, 142.0, 83.36], [38.0, -124.0, 83.36], [-22.5, -175.0, 83.25], [-16.0, -175.0, 83.21], [-5.0, -72.0, 83.17], [28.0, 75.0, 83.02], [25.0, 94.0, 82.97], [25.0, 60.0, 82.97], [-12.0, -72.0, 82.88], [49.5, -125.0, 82.69], [49.5, 150.0, 82.69], [11.0, 93.0, 82.36], [11.0, 93.0, 82.36], [35.0, 15.0, 82.34], [-42.5, 170.0, 82.2], [3.5, 90.0, 81.91], [35.0, 15.0, 81.83], [-12.5, -72.0, 81.76], [36.5, 35.0, 81.27], [20.0, 94.0, 81.23], [28.0, 70.0, 81.14], [43.5, -125.0, 80.53], [43.5, 150.0, 80.53], [52.0, -180.0, 80.43], [-44.0, 170.0, 80.41], [34.5, 142.0, 80.37], [28.0, 75.0, 80.28], [28.0, 70.0, 80.28], [40.7, 26.0, 80.12], [23.0, 69.0, 80.11], [40.7, 26.0, 80.1], [28.0, 75.0, 80.02], [27.5, 145.0, 79.51], [-11.0, -72.0, 78.69], [29.0, 145.0, 78.47], [27.0, 94.0, 78.26], [37.5, 35.0, 78.21], [13.5, 126.0, 78.15]],
+                {
+  "minOpacity": 0.5,
+  "maxZoom": 18,
+  "radius": 25,
+  "blur": 15,
+  "gradient": {
+  0.4: "blue",
+  0.65: "lime",
+  1: "red",
+},
+}
+            );
+        
+    
+            heat_map_d989839f0cb0f8c04dbaaba3f0bccace.addTo(map_e658eead79016c0034fdc822de09fb92);
+        
+    
+            var marker_cluster_fc49fdfba38e44d70c145470e1a4f00d = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_0914837f7b58ccb89c22d69e386deb65 = L.circleMarker(
+                [9.0, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_4be19a5f08372bdaeef17a1ad16070a3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0bf70ac4d7024a1fed44620dd8a5c7a5 = $(`<div id="html_0bf70ac4d7024a1fed44620dd8a5c7a5" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Segment</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-16<br>             <b>AI Probability:</b> 91.91%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 9.0, 93.0         </div>         </div>`)[0];
+                popup_4be19a5f08372bdaeef17a1ad16070a3.setContent(html_0bf70ac4d7024a1fed44620dd8a5c7a5);
+            
+        
+
+        circle_marker_0914837f7b58ccb89c22d69e386deb65.bindPopup(popup_4be19a5f08372bdaeef17a1ad16070a3)
+        ;
+
+        
+    
+    
+            var circle_marker_a6789acf715993255d63da7959fe0869 = L.circleMarker(
+                [9.0, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_0160decde63b5641ec59917894c946b4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d50977669c4dde2b820ded24a27e8faa = $(`<div id="html_d50977669c4dde2b820ded24a27e8faa" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-16<br>             <b>AI Probability:</b> 91.91%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 9.0, 93.0         </div>         </div>`)[0];
+                popup_0160decde63b5641ec59917894c946b4.setContent(html_d50977669c4dde2b820ded24a27e8faa);
+            
+        
+
+        circle_marker_a6789acf715993255d63da7959fe0869.bindPopup(popup_0160decde63b5641ec59917894c946b4)
+        ;
+
+        
+    
+    
+            var circle_marker_169d3f86fb8cd4e09255e9429099bddb = L.circleMarker(
+                [9.0, 90.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_028d390cb39bbd6406fbc12eedc8b476 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3cc1f8cabf2605a15b2b47e84f055717 = $(`<div id="html_3cc1f8cabf2605a15b2b47e84f055717" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-16<br>             <b>AI Probability:</b> 91.91%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 9.0, 90.0         </div>         </div>`)[0];
+                popup_028d390cb39bbd6406fbc12eedc8b476.setContent(html_3cc1f8cabf2605a15b2b47e84f055717);
+            
+        
+
+        circle_marker_169d3f86fb8cd4e09255e9429099bddb.bindPopup(popup_028d390cb39bbd6406fbc12eedc8b476)
+        ;
+
+        
+    
+    
+            var circle_marker_4541dd401bfb02527a97df7f31b3b0f9 = L.circleMarker(
+                [9.0, 126.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_25e09daffb739e404ce63bad71f1dd4a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_776ca877735a426f3ed7ea4670d21ef3 = $(`<div id="html_776ca877735a426f3ed7ea4670d21ef3" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Philippine Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-16<br>             <b>AI Probability:</b> 91.91%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 9.0, 126.0         </div>         </div>`)[0];
+                popup_25e09daffb739e404ce63bad71f1dd4a.setContent(html_776ca877735a426f3ed7ea4670d21ef3);
+            
+        
+
+        circle_marker_4541dd401bfb02527a97df7f31b3b0f9.bindPopup(popup_25e09daffb739e404ce63bad71f1dd4a)
+        ;
+
+        
+    
+    
+            var circle_marker_af0f2099c51683bb736717aa95cc9890 = L.circleMarker(
+                [14.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_fc11fbd752671b7dc3fa947b812bc25a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_14564b7261e36f69732aa60009588e69 = $(`<div id="html_14564b7261e36f69732aa60009588e69" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Segment</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-10-31<br>             <b>AI Probability:</b> 90.89%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 14.5, 93.0         </div>         </div>`)[0];
+                popup_fc11fbd752671b7dc3fa947b812bc25a.setContent(html_14564b7261e36f69732aa60009588e69);
+            
+        
+
+        circle_marker_af0f2099c51683bb736717aa95cc9890.bindPopup(popup_fc11fbd752671b7dc3fa947b812bc25a)
+        ;
+
+        
+    
+    
+            var circle_marker_a50781339777fbf18b1e602591bf4b83 = L.circleMarker(
+                [14.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_a8c31d58103cfb5e01a37f527346bf1f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_743865b8caf756f4364db277d6a29ccd = $(`<div id="html_743865b8caf756f4364db277d6a29ccd" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-10-31<br>             <b>AI Probability:</b> 90.89%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 14.5, 93.0         </div>         </div>`)[0];
+                popup_a8c31d58103cfb5e01a37f527346bf1f.setContent(html_743865b8caf756f4364db277d6a29ccd);
+            
+        
+
+        circle_marker_a50781339777fbf18b1e602591bf4b83.bindPopup(popup_a8c31d58103cfb5e01a37f527346bf1f)
+        ;
+
+        
+    
+    
+            var circle_marker_224fb08449890487a3b336e39983b93d = L.circleMarker(
+                [14.5, 126.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_19f1e0f802633b6057997e66254ac567 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_98061ae1bb9ce8870754dac9fe44756c = $(`<div id="html_98061ae1bb9ce8870754dac9fe44756c" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Philippine Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-10-31<br>             <b>AI Probability:</b> 90.89%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 14.5, 126.0         </div>         </div>`)[0];
+                popup_19f1e0f802633b6057997e66254ac567.setContent(html_98061ae1bb9ce8870754dac9fe44756c);
+            
+        
+
+        circle_marker_224fb08449890487a3b336e39983b93d.bindPopup(popup_19f1e0f802633b6057997e66254ac567)
+        ;
+
+        
+    
+    
+            var circle_marker_b0e1fa875725ebde01a33bd73762a3d4 = L.circleMarker(
+                [-0.5, 90.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_df873dea7ef2eff330d89454efd77871 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d565107c89e57153f0d9759e6a84a2fe = $(`<div id="html_d565107c89e57153f0d9759e6a84a2fe" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-06-20<br>             <b>AI Probability:</b> 90.88%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -0.5, 90.0         </div>         </div>`)[0];
+                popup_df873dea7ef2eff330d89454efd77871.setContent(html_d565107c89e57153f0d9759e6a84a2fe);
+            
+        
+
+        circle_marker_b0e1fa875725ebde01a33bd73762a3d4.bindPopup(popup_df873dea7ef2eff330d89454efd77871)
+        ;
+
+        
+    
+    
+            var circle_marker_50762d6e7caa9f061d4a1dc9651fc0ad = L.circleMarker(
+                [-0.5, 100.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_7397fa81023be346d4b8610f13a5c7e5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6f1d08a4991e43dac70175138475152f = $(`<div id="html_6f1d08a4991e43dac70175138475152f" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-06-20<br>             <b>AI Probability:</b> 90.88%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -0.5, 100.0         </div>         </div>`)[0];
+                popup_7397fa81023be346d4b8610f13a5c7e5.setContent(html_6f1d08a4991e43dac70175138475152f);
+            
+        
+
+        circle_marker_50762d6e7caa9f061d4a1dc9651fc0ad.bindPopup(popup_7397fa81023be346d4b8610f13a5c7e5)
+        ;
+
+        
+    
+    
+            var circle_marker_1a8f17e27ca8b324a878e48f222f1c25 = L.circleMarker(
+                [-0.5, 102.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_bdfaa5cc733a37a944f27eec1cfbbcd3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_12abcd21693fd8fb97c0628f22fae6cd = $(`<div id="html_12abcd21693fd8fb97c0628f22fae6cd" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-06-20<br>             <b>AI Probability:</b> 90.88%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -0.5, 102.0         </div>         </div>`)[0];
+                popup_bdfaa5cc733a37a944f27eec1cfbbcd3.setContent(html_12abcd21693fd8fb97c0628f22fae6cd);
+            
+        
+
+        circle_marker_1a8f17e27ca8b324a878e48f222f1c25.bindPopup(popup_bdfaa5cc733a37a944f27eec1cfbbcd3)
+        ;
+
+        
+    
+    
+            var circle_marker_3d1b4dbe5e0c5e4bd235ab702fbe6b6d = L.circleMarker(
+                [15.0, 145.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_4d38fda7b2b82048325dfe74ddb48707 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8216fa3dd596354f52df7c3b712134b4 = $(`<div id="html_8216fa3dd596354f52df7c3b712134b4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Izu-Bonin-Mariana</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-11-01<br>             <b>AI Probability:</b> 90.67%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 15.0, 145.0         </div>         </div>`)[0];
+                popup_4d38fda7b2b82048325dfe74ddb48707.setContent(html_8216fa3dd596354f52df7c3b712134b4);
+            
+        
+
+        circle_marker_3d1b4dbe5e0c5e4bd235ab702fbe6b6d.bindPopup(popup_4d38fda7b2b82048325dfe74ddb48707)
+        ;
+
+        
+    
+    
+            var circle_marker_05f556143269c653bad4a6ebb57a6830 = L.circleMarker(
+                [9.5, 90.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_24edeab484979b4c08d481fc5e5dc5f4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c276d4d00b39b0a015e2d561222cdd5e = $(`<div id="html_c276d4d00b39b0a015e2d561222cdd5e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-10-31<br>             <b>AI Probability:</b> 89.63%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 9.5, 90.0         </div>         </div>`)[0];
+                popup_24edeab484979b4c08d481fc5e5dc5f4.setContent(html_c276d4d00b39b0a015e2d561222cdd5e);
+            
+        
+
+        circle_marker_05f556143269c653bad4a6ebb57a6830.bindPopup(popup_24edeab484979b4c08d481fc5e5dc5f4)
+        ;
+
+        
+    
+    
+            var circle_marker_952d7c7881f0f5d8847ce98820a88208 = L.circleMarker(
+                [-5.0, -72.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_be03f45fc3d502a16fdfb75f3b5605d2 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_dfd860cd589f073e783f7636adc9c44f = $(`<div id="html_dfd860cd589f073e783f7636adc9c44f" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-06-19<br>             <b>AI Probability:</b> 88.95%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -5.0, -72.0         </div>         </div>`)[0];
+                popup_be03f45fc3d502a16fdfb75f3b5605d2.setContent(html_dfd860cd589f073e783f7636adc9c44f);
+            
+        
+
+        circle_marker_952d7c7881f0f5d8847ce98820a88208.bindPopup(popup_be03f45fc3d502a16fdfb75f3b5605d2)
+        ;
+
+        
+    
+    
+            var circle_marker_6f5ea3d424f507724901497ff136740e = L.circleMarker(
+                [19.5, 126.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_74a5530edd4e0e13fe4979e9119f83da = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d20db6aa581dfd9207c822524b773354 = $(`<div id="html_d20db6aa581dfd9207c822524b773354" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Philippine Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-03<br>             <b>AI Probability:</b> 88.73%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 19.5, 126.0         </div>         </div>`)[0];
+                popup_74a5530edd4e0e13fe4979e9119f83da.setContent(html_d20db6aa581dfd9207c822524b773354);
+            
+        
+
+        circle_marker_6f5ea3d424f507724901497ff136740e.bindPopup(popup_74a5530edd4e0e13fe4979e9119f83da)
+        ;
+
+        
+    
+    
+            var circle_marker_10db6f3403e5a4233c3cc54b87e1e88e = L.circleMarker(
+                [19.5, 145.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_bab416bb4f4b19f57ba345e422c778cd = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8591b4816cbdacab79a234e35d901996 = $(`<div id="html_8591b4816cbdacab79a234e35d901996" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Izu-Bonin-Mariana</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-03<br>             <b>AI Probability:</b> 88.73%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 19.5, 145.0         </div>         </div>`)[0];
+                popup_bab416bb4f4b19f57ba345e422c778cd.setContent(html_8591b4816cbdacab79a234e35d901996);
+            
+        
+
+        circle_marker_10db6f3403e5a4233c3cc54b87e1e88e.bindPopup(popup_bab416bb4f4b19f57ba345e422c778cd)
+        ;
+
+        
+    
+    
+            var circle_marker_862534e5543bf71a3cd7bee2abfa9114 = L.circleMarker(
+                [-7.0, -72.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_338a6da84fcbbbbd9367fa59322181be = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9758881cadc04b08e3e1ebc8d4cbd78b = $(`<div id="html_9758881cadc04b08e3e1ebc8d4cbd78b" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-06-03<br>             <b>AI Probability:</b> 88.49%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -7.0, -72.0         </div>         </div>`)[0];
+                popup_338a6da84fcbbbbd9367fa59322181be.setContent(html_9758881cadc04b08e3e1ebc8d4cbd78b);
+            
+        
+
+        circle_marker_862534e5543bf71a3cd7bee2abfa9114.bindPopup(popup_338a6da84fcbbbbd9367fa59322181be)
+        ;
+
+        
+    
+    
+            var circle_marker_47977b2805da9261f9c80b436dfedf01 = L.circleMarker(
+                [-7.0, 102.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_b8b26140b447303d294cee1b8c350893 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d38c27050c3195e2d069abde9385a940 = $(`<div id="html_d38c27050c3195e2d069abde9385a940" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-06-03<br>             <b>AI Probability:</b> 88.49%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -7.0, 102.0         </div>         </div>`)[0];
+                popup_b8b26140b447303d294cee1b8c350893.setContent(html_d38c27050c3195e2d069abde9385a940);
+            
+        
+
+        circle_marker_47977b2805da9261f9c80b436dfedf01.bindPopup(popup_b8b26140b447303d294cee1b8c350893)
+        ;
+
+        
+    
+    
+            var circle_marker_d6cc259575a3a4a05723d6a706f2c900 = L.circleMarker(
+                [-7.0, 100.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_924dd9c00c9eae64108b9729c7199321 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a41e6499316fe6c4dd807ed7c17a7748 = $(`<div id="html_a41e6499316fe6c4dd807ed7c17a7748" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-06-03<br>             <b>AI Probability:</b> 88.49%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -7.0, 100.0         </div>         </div>`)[0];
+                popup_924dd9c00c9eae64108b9729c7199321.setContent(html_a41e6499316fe6c4dd807ed7c17a7748);
+            
+        
+
+        circle_marker_d6cc259575a3a4a05723d6a706f2c900.bindPopup(popup_924dd9c00c9eae64108b9729c7199321)
+        ;
+
+        
+    
+    
+            var circle_marker_06872a4db875216b126607beb44ebf15 = L.circleMarker(
+                [-7.0, 90.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_1cdacb82ff6c85d371811a1a311407ed = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cc0cdeddc0b846b62304fa4f839fde86 = $(`<div id="html_cc0cdeddc0b846b62304fa4f839fde86" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-06-03<br>             <b>AI Probability:</b> 88.49%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -7.0, 90.0         </div>         </div>`)[0];
+                popup_1cdacb82ff6c85d371811a1a311407ed.setContent(html_cc0cdeddc0b846b62304fa4f839fde86);
+            
+        
+
+        circle_marker_06872a4db875216b126607beb44ebf15.bindPopup(popup_1cdacb82ff6c85d371811a1a311407ed)
+        ;
+
+        
+    
+    
+            var circle_marker_8506079830b3e87cea4f9b6c77ea914d = L.circleMarker(
+                [20.0, 94.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_93b3422924d3096fe4c40d9122c9196a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5e6d51c1e2c5420101c82ea387c9ac1c = $(`<div id="html_5e6d51c1e2c5420101c82ea387c9ac1c" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Burmese Arc</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-03-04<br>             <b>AI Probability:</b> 88.47%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 20.0, 94.0         </div>         </div>`)[0];
+                popup_93b3422924d3096fe4c40d9122c9196a.setContent(html_5e6d51c1e2c5420101c82ea387c9ac1c);
+            
+        
+
+        circle_marker_8506079830b3e87cea4f9b6c77ea914d.bindPopup(popup_93b3422924d3096fe4c40d9122c9196a)
+        ;
+
+        
+    
+    
+            var circle_marker_a6fc0174b12b6c8cdbdec74f2c3e2d0b = L.circleMarker(
+                [20.0, 145.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_59f9eb2154bea8aa96cc745a1ac5a638 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d4273e51e1177d45a4ec7019cf75d482 = $(`<div id="html_d4273e51e1177d45a4ec7019cf75d482" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Izu-Bonin-Mariana</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-03-04<br>             <b>AI Probability:</b> 88.47%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 20.0, 145.0         </div>         </div>`)[0];
+                popup_59f9eb2154bea8aa96cc745a1ac5a638.setContent(html_d4273e51e1177d45a4ec7019cf75d482);
+            
+        
+
+        circle_marker_a6fc0174b12b6c8cdbdec74f2c3e2d0b.bindPopup(popup_59f9eb2154bea8aa96cc745a1ac5a638)
+        ;
+
+        
+    
+    
+            var circle_marker_1e265c9b35ddb45a318326b4fdbc5257 = L.circleMarker(
+                [20.0, 126.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_59c8f2f5fb5557f7d5ba27c1455561c7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cf0945092f043fd0be3e58719c3f9378 = $(`<div id="html_cf0945092f043fd0be3e58719c3f9378" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Philippine Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-03-04<br>             <b>AI Probability:</b> 88.47%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 20.0, 126.0         </div>         </div>`)[0];
+                popup_59c8f2f5fb5557f7d5ba27c1455561c7.setContent(html_cf0945092f043fd0be3e58719c3f9378);
+            
+        
+
+        circle_marker_1e265c9b35ddb45a318326b4fdbc5257.bindPopup(popup_59c8f2f5fb5557f7d5ba27c1455561c7)
+        ;
+
+        
+    
+    
+            var circle_marker_f468bf847ce6fa6d2356aa1e9317154b = L.circleMarker(
+                [21.0, 94.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_618b97435fbe9de1af1f70bea96be762 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_db659fc68e50b740e5c2b9807d70f916 = $(`<div id="html_db659fc68e50b740e5c2b9807d70f916" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Burmese Arc</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-03<br>             <b>AI Probability:</b> 88.05%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 21.0, 94.0         </div>         </div>`)[0];
+                popup_618b97435fbe9de1af1f70bea96be762.setContent(html_db659fc68e50b740e5c2b9807d70f916);
+            
+        
+
+        circle_marker_f468bf847ce6fa6d2356aa1e9317154b.bindPopup(popup_618b97435fbe9de1af1f70bea96be762)
+        ;
+
+        
+    
+    
+            var circle_marker_c3f5efc48fc36297babd72df3a35b6d1 = L.circleMarker(
+                [2.0, 102.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_7786c4132c0b9779ee29011af1b84a72 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ae902bab3d1240563c5a391fe96fce7a = $(`<div id="html_ae902bab3d1240563c5a391fe96fce7a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-16<br>             <b>AI Probability:</b> 87.98%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 2.0, 102.0         </div>         </div>`)[0];
+                popup_7786c4132c0b9779ee29011af1b84a72.setContent(html_ae902bab3d1240563c5a391fe96fce7a);
+            
+        
+
+        circle_marker_c3f5efc48fc36297babd72df3a35b6d1.bindPopup(popup_7786c4132c0b9779ee29011af1b84a72)
+        ;
+
+        
+    
+    
+            var circle_marker_5c1ea52ce4e22abee0f8934f69971d07 = L.circleMarker(
+                [2.0, 100.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_cf5d35f7a543cfecc2c7b438fe310ef3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_de4c0df73ba9a0e992f9e93a9c374459 = $(`<div id="html_de4c0df73ba9a0e992f9e93a9c374459" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-16<br>             <b>AI Probability:</b> 87.98%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 2.0, 100.0         </div>         </div>`)[0];
+                popup_cf5d35f7a543cfecc2c7b438fe310ef3.setContent(html_de4c0df73ba9a0e992f9e93a9c374459);
+            
+        
+
+        circle_marker_5c1ea52ce4e22abee0f8934f69971d07.bindPopup(popup_cf5d35f7a543cfecc2c7b438fe310ef3)
+        ;
+
+        
+    
+    
+            var circle_marker_597400293dd44e678cee963ead9053fe = L.circleMarker(
+                [21.0, 145.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_c40ba1f5965ebfefe05a7fba4afd2bf5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_11031066023ed333133e0c69fc71a3ca = $(`<div id="html_11031066023ed333133e0c69fc71a3ca" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Izu-Bonin-Mariana</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-14<br>             <b>AI Probability:</b> 87.62%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 21.0, 145.0         </div>         </div>`)[0];
+                popup_c40ba1f5965ebfefe05a7fba4afd2bf5.setContent(html_11031066023ed333133e0c69fc71a3ca);
+            
+        
+
+        circle_marker_597400293dd44e678cee963ead9053fe.bindPopup(popup_c40ba1f5965ebfefe05a7fba4afd2bf5)
+        ;
+
+        
+    
+    
+            var circle_marker_6a1f6ddf31b3905192cb9bb8b0c2b4df = L.circleMarker(
+                [21.0, 94.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_c449e5d68a65170fd84900d2ca9794c2 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_27abb1ba3263e6c2a6506db124c175f7 = $(`<div id="html_27abb1ba3263e6c2a6506db124c175f7" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Burmese Arc</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-14<br>             <b>AI Probability:</b> 87.62%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 21.0, 94.0         </div>         </div>`)[0];
+                popup_c449e5d68a65170fd84900d2ca9794c2.setContent(html_27abb1ba3263e6c2a6506db124c175f7);
+            
+        
+
+        circle_marker_6a1f6ddf31b3905192cb9bb8b0c2b4df.bindPopup(popup_c449e5d68a65170fd84900d2ca9794c2)
+        ;
+
+        
+    
+    
+            var circle_marker_e80419ca5b0986b1894da287a9cf3372 = L.circleMarker(
+                [-7.5, -72.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_2edd2d023a3312eaf1d4284b8e6e9053 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_01f8c0da23ccf1190b5569a8e34b9225 = $(`<div id="html_01f8c0da23ccf1190b5569a8e34b9225" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-14<br>             <b>AI Probability:</b> 86.9%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -7.5, -72.0         </div>         </div>`)[0];
+                popup_2edd2d023a3312eaf1d4284b8e6e9053.setContent(html_01f8c0da23ccf1190b5569a8e34b9225);
+            
+        
+
+        circle_marker_e80419ca5b0986b1894da287a9cf3372.bindPopup(popup_2edd2d023a3312eaf1d4284b8e6e9053)
+        ;
+
+        
+    
+    
+            var circle_marker_6e13eb0e850d34e0cfe6196acd3ba444 = L.circleMarker(
+                [14.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_e9f117a54f02b06f75ef60bdeae74080 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_00e56702ee0c2cefe3d111a1efa8b736 = $(`<div id="html_00e56702ee0c2cefe3d111a1efa8b736" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Segment</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-03<br>             <b>AI Probability:</b> 86.75%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 14.5, 93.0         </div>         </div>`)[0];
+                popup_e9f117a54f02b06f75ef60bdeae74080.setContent(html_00e56702ee0c2cefe3d111a1efa8b736);
+            
+        
+
+        circle_marker_6e13eb0e850d34e0cfe6196acd3ba444.bindPopup(popup_e9f117a54f02b06f75ef60bdeae74080)
+        ;
+
+        
+    
+    
+            var circle_marker_5bf8b2a7317b0fa44f3f20ffad6b7933 = L.circleMarker(
+                [14.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_37422797572d30328a162bb76680c73b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_bcafb3455c434c4dd8384f8bfdeded40 = $(`<div id="html_bcafb3455c434c4dd8384f8bfdeded40" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-03<br>             <b>AI Probability:</b> 86.75%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 14.5, 93.0         </div>         </div>`)[0];
+                popup_37422797572d30328a162bb76680c73b.setContent(html_bcafb3455c434c4dd8384f8bfdeded40);
+            
+        
+
+        circle_marker_5bf8b2a7317b0fa44f3f20ffad6b7933.bindPopup(popup_37422797572d30328a162bb76680c73b)
+        ;
+
+        
+    
+    
+            var circle_marker_337c60d31c6c7a66b0775673342fedd9 = L.circleMarker(
+                [-2.0, 90.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_ead9967e4efeccec7c01be0e6d27fa4d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4e63b1217d2ba0d110a60fabce5a287f = $(`<div id="html_4e63b1217d2ba0d110a60fabce5a287f" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-06-15<br>             <b>AI Probability:</b> 86.71%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -2.0, 90.0         </div>         </div>`)[0];
+                popup_ead9967e4efeccec7c01be0e6d27fa4d.setContent(html_4e63b1217d2ba0d110a60fabce5a287f);
+            
+        
+
+        circle_marker_337c60d31c6c7a66b0775673342fedd9.bindPopup(popup_ead9967e4efeccec7c01be0e6d27fa4d)
+        ;
+
+        
+    
+    
+            var circle_marker_ce5afb78931fbda9520eccb4f9a593a1 = L.circleMarker(
+                [-2.0, 102.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_f33d4d3f9c7db864e1d393e898a0a679 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cfbec8abaeb8df371eff35bdb5725099 = $(`<div id="html_cfbec8abaeb8df371eff35bdb5725099" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-06-15<br>             <b>AI Probability:</b> 86.71%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -2.0, 102.0         </div>         </div>`)[0];
+                popup_f33d4d3f9c7db864e1d393e898a0a679.setContent(html_cfbec8abaeb8df371eff35bdb5725099);
+            
+        
+
+        circle_marker_ce5afb78931fbda9520eccb4f9a593a1.bindPopup(popup_f33d4d3f9c7db864e1d393e898a0a679)
+        ;
+
+        
+    
+    
+            var circle_marker_92b000d193811dd22aa59a80bf9a41d3 = L.circleMarker(
+                [-2.0, 100.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_4726e8100d212b5466f96751f60b4cd6 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b7bceda6a27c08791f51987da22cc494 = $(`<div id="html_b7bceda6a27c08791f51987da22cc494" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-06-15<br>             <b>AI Probability:</b> 86.71%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -2.0, 100.0         </div>         </div>`)[0];
+                popup_4726e8100d212b5466f96751f60b4cd6.setContent(html_b7bceda6a27c08791f51987da22cc494);
+            
+        
+
+        circle_marker_92b000d193811dd22aa59a80bf9a41d3.bindPopup(popup_4726e8100d212b5466f96751f60b4cd6)
+        ;
+
+        
+    
+    
+            var circle_marker_e7083061030d56139e6107eee943a6e4 = L.circleMarker(
+                [-33.5, -175.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_3a43d18e9ec12551c5141e2e274978f7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5990195ae0e1185d07986fc9c3fccd7f = $(`<div id="html_5990195ae0e1185d07986fc9c3fccd7f" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Tonga-Kermadec</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-03-07<br>             <b>AI Probability:</b> 86.57%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -33.5, -175.0         </div>         </div>`)[0];
+                popup_3a43d18e9ec12551c5141e2e274978f7.setContent(html_5990195ae0e1185d07986fc9c3fccd7f);
+            
+        
+
+        circle_marker_e7083061030d56139e6107eee943a6e4.bindPopup(popup_3a43d18e9ec12551c5141e2e274978f7)
+        ;
+
+        
+    
+    
+            var circle_marker_f3bd67ee47e4814502c67623061560da = L.circleMarker(
+                [18.5, 126.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_ef2389aac8368bdb032a43f76a674098 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_86e2c4736536200f795063a7da70e492 = $(`<div id="html_86e2c4736536200f795063a7da70e492" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Philippine Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-15<br>             <b>AI Probability:</b> 86.15%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 18.5, 126.0         </div>         </div>`)[0];
+                popup_ef2389aac8368bdb032a43f76a674098.setContent(html_86e2c4736536200f795063a7da70e492);
+            
+        
+
+        circle_marker_f3bd67ee47e4814502c67623061560da.bindPopup(popup_ef2389aac8368bdb032a43f76a674098)
+        ;
+
+        
+    
+    
+            var circle_marker_ce70edc9fe46e696b81779b117094260 = L.circleMarker(
+                [-12.5, -72.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_b5b7a59d240804d2355c9d62324433e4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4eca88ebb4b88a77bf1ba192b9d67602 = $(`<div id="html_4eca88ebb4b88a77bf1ba192b9d67602" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-05-02<br>             <b>AI Probability:</b> 86.06%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -12.5, -72.0         </div>         </div>`)[0];
+                popup_b5b7a59d240804d2355c9d62324433e4.setContent(html_4eca88ebb4b88a77bf1ba192b9d67602);
+            
+        
+
+        circle_marker_ce70edc9fe46e696b81779b117094260.bindPopup(popup_b5b7a59d240804d2355c9d62324433e4)
+        ;
+
+        
+    
+    
+            var circle_marker_c5b08f7f93ac5f9f50ccc46135c58a81 = L.circleMarker(
+                [6.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_b24be8f96383cdc949aa497ca6dfb3bc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7de3b2a249d2aedc132c021e783f7cf0 = $(`<div id="html_7de3b2a249d2aedc132c021e783f7cf0" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Segment</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2028-12-02<br>             <b>AI Probability:</b> 85.78%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 6.5, 93.0         </div>         </div>`)[0];
+                popup_b24be8f96383cdc949aa497ca6dfb3bc.setContent(html_7de3b2a249d2aedc132c021e783f7cf0);
+            
+        
+
+        circle_marker_c5b08f7f93ac5f9f50ccc46135c58a81.bindPopup(popup_b24be8f96383cdc949aa497ca6dfb3bc)
+        ;
+
+        
+    
+    
+            var circle_marker_573f2b349668fa6cf4d2ba23b9835301 = L.circleMarker(
+                [6.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_aa418058afc62b925b5b061b2521badf = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8976c1c6f099832662c59a0c50c63b6d = $(`<div id="html_8976c1c6f099832662c59a0c50c63b6d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2028-12-02<br>             <b>AI Probability:</b> 85.78%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 6.5, 93.0         </div>         </div>`)[0];
+                popup_aa418058afc62b925b5b061b2521badf.setContent(html_8976c1c6f099832662c59a0c50c63b6d);
+            
+        
+
+        circle_marker_573f2b349668fa6cf4d2ba23b9835301.bindPopup(popup_aa418058afc62b925b5b061b2521badf)
+        ;
+
+        
+    
+    
+            var circle_marker_a850a59a70df2b219805bddad2ede44e = L.circleMarker(
+                [6.5, 90.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_3456020b7492a27204af47c985f8d25a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_51f7cc3e93b53a3aee62e0cead50e8dc = $(`<div id="html_51f7cc3e93b53a3aee62e0cead50e8dc" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2028-12-02<br>             <b>AI Probability:</b> 85.78%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 6.5, 90.0         </div>         </div>`)[0];
+                popup_3456020b7492a27204af47c985f8d25a.setContent(html_51f7cc3e93b53a3aee62e0cead50e8dc);
+            
+        
+
+        circle_marker_a850a59a70df2b219805bddad2ede44e.bindPopup(popup_3456020b7492a27204af47c985f8d25a)
+        ;
+
+        
+    
+    
+            var circle_marker_b87fe8bd3e65b44eceb880188b90a105 = L.circleMarker(
+                [-15.5, -175.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_f546de3635b40832dde45546e58a6a18 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8d50bb25e6d60ec4a3bbb6b84eac5bc7 = $(`<div id="html_8d50bb25e6d60ec4a3bbb6b84eac5bc7" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Tonga-Kermadec</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-05-02<br>             <b>AI Probability:</b> 85.75%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -15.5, -175.0         </div>         </div>`)[0];
+                popup_f546de3635b40832dde45546e58a6a18.setContent(html_8d50bb25e6d60ec4a3bbb6b84eac5bc7);
+            
+        
+
+        circle_marker_b87fe8bd3e65b44eceb880188b90a105.bindPopup(popup_f546de3635b40832dde45546e58a6a18)
+        ;
+
+        
+    
+    
+            var circle_marker_12b7d6c0b89cb7f4c653dde7e03debd1 = L.circleMarker(
+                [23.0, 69.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_8820eafb514727b5de169a15867217ae = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_68917e62cd1be6c33250de5390f30872 = $(`<div id="html_68917e62cd1be6c33250de5390f30872" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Kachchh-Gujarat Rift</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-15<br>             <b>AI Probability:</b> 85.43%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 23.0, 69.0         </div>         </div>`)[0];
+                popup_8820eafb514727b5de169a15867217ae.setContent(html_68917e62cd1be6c33250de5390f30872);
+            
+        
+
+        circle_marker_12b7d6c0b89cb7f4c653dde7e03debd1.bindPopup(popup_8820eafb514727b5de169a15867217ae)
+        ;
+
+        
+    
+    
+            var circle_marker_41d92e197fab1b81778a72f9d53a2936 = L.circleMarker(
+                [3.0, 102.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_a3d1ab8a75bd003d0c050fb4c6b9f2bf = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9471c9a48768e1fab5e7aed874631f22 = $(`<div id="html_9471c9a48768e1fab5e7aed874631f22" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-10-30<br>             <b>AI Probability:</b> 85.43%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 3.0, 102.0         </div>         </div>`)[0];
+                popup_a3d1ab8a75bd003d0c050fb4c6b9f2bf.setContent(html_9471c9a48768e1fab5e7aed874631f22);
+            
+        
+
+        circle_marker_41d92e197fab1b81778a72f9d53a2936.bindPopup(popup_a3d1ab8a75bd003d0c050fb4c6b9f2bf)
+        ;
+
+        
+    
+    
+            var circle_marker_b4de1485ab5b34c4a35dd844ae558068 = L.circleMarker(
+                [3.0, 100.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_0234ba4a3e9587474126b33bf9d818c0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f40386d49eebd01c416b13b3cb7ba666 = $(`<div id="html_f40386d49eebd01c416b13b3cb7ba666" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-10-30<br>             <b>AI Probability:</b> 85.43%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 3.0, 100.0         </div>         </div>`)[0];
+                popup_0234ba4a3e9587474126b33bf9d818c0.setContent(html_f40386d49eebd01c416b13b3cb7ba666);
+            
+        
+
+        circle_marker_b4de1485ab5b34c4a35dd844ae558068.bindPopup(popup_0234ba4a3e9587474126b33bf9d818c0)
+        ;
+
+        
+    
+    
+            var circle_marker_3bad3acbbbfcdb5de0471b54e152ae91 = L.circleMarker(
+                [24.0, 60.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_d0e21aaee1c3301d74ffa48caf8bab0c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3a8614821e59a9f8d612876acd2d2fa4 = $(`<div id="html_3a8614821e59a9f8d612876acd2d2fa4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Makran Subduction Zone</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-03<br>             <b>AI Probability:</b> 85.41%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 24.0, 60.0         </div>         </div>`)[0];
+                popup_d0e21aaee1c3301d74ffa48caf8bab0c.setContent(html_3a8614821e59a9f8d612876acd2d2fa4);
+            
+        
+
+        circle_marker_3bad3acbbbfcdb5de0471b54e152ae91.bindPopup(popup_d0e21aaee1c3301d74ffa48caf8bab0c)
+        ;
+
+        
+    
+    
+            var circle_marker_593037c401321b170cc72c548fe1bc9c = L.circleMarker(
+                [-25.0, -175.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_76c52a33086acf21ea5ee67075aeefe7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a88175c26edabd2031451fbe1884067d = $(`<div id="html_a88175c26edabd2031451fbe1884067d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Tonga-Kermadec</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-03-26<br>             <b>AI Probability:</b> 85.41%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> -25.0, -175.0         </div>         </div>`)[0];
+                popup_76c52a33086acf21ea5ee67075aeefe7.setContent(html_a88175c26edabd2031451fbe1884067d);
+            
+        
+
+        circle_marker_593037c401321b170cc72c548fe1bc9c.bindPopup(popup_76c52a33086acf21ea5ee67075aeefe7)
+        ;
+
+        
+    
+    
+            var circle_marker_f1173dda2f9b8e42cc1e5034cc82061b = L.circleMarker(
+                [3.5, 102.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_e02bf9bef8def96433b32b4d18c00172 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cf0c2f986217ce3d08574c7ee0e941e4 = $(`<div id="html_cf0c2f986217ce3d08574c7ee0e941e4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2028-12-02<br>             <b>AI Probability:</b> 85.16%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 3.5, 102.0         </div>         </div>`)[0];
+                popup_e02bf9bef8def96433b32b4d18c00172.setContent(html_cf0c2f986217ce3d08574c7ee0e941e4);
+            
+        
+
+        circle_marker_f1173dda2f9b8e42cc1e5034cc82061b.bindPopup(popup_e02bf9bef8def96433b32b4d18c00172)
+        ;
+
+        
+    
+    
+            var circle_marker_7daeb54ca773a67403aa851f67be719e = L.circleMarker(
+                [3.5, 100.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_bcd6661c2f92dd733d89dad05a7826ac = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9d02c994d8946cddcec05163d0912eb2 = $(`<div id="html_9d02c994d8946cddcec05163d0912eb2" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2028-12-02<br>             <b>AI Probability:</b> 85.16%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 3.5, 100.0         </div>         </div>`)[0];
+                popup_bcd6661c2f92dd733d89dad05a7826ac.setContent(html_9d02c994d8946cddcec05163d0912eb2);
+            
+        
+
+        circle_marker_7daeb54ca773a67403aa851f67be719e.bindPopup(popup_bcd6661c2f92dd733d89dad05a7826ac)
+        ;
+
+        
+    
+    
+            var circle_marker_89f15f25dad72bfb216cd1751ec6357f = L.circleMarker(
+                [23.0, 69.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_b1a2df8ab063e24e131e61735eaa6a4b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b82a681b22f7d7c4518433686707f338 = $(`<div id="html_b82a681b22f7d7c4518433686707f338" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Kachchh-Gujarat Rift</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-03<br>             <b>AI Probability:</b> 85.1%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 23.0, 69.0         </div>         </div>`)[0];
+                popup_b1a2df8ab063e24e131e61735eaa6a4b.setContent(html_b82a681b22f7d7c4518433686707f338);
+            
+        
+
+        circle_marker_89f15f25dad72bfb216cd1751ec6357f.bindPopup(popup_b1a2df8ab063e24e131e61735eaa6a4b)
+        ;
+
+        
+    
+    
+            var circle_marker_48430ce935824d05796ed2e302639a66 = L.circleMarker(
+                [31.0, 142.0],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_7de38302e9e6ce71bff48d9efe048d06 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cc0240ad13fc4a30bb639025d1ab4065 = $(`<div id="html_cc0240ad13fc4a30bb639025d1ab4065" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Japan Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-22<br>             <b>AI Probability:</b> 85.01%<br>             <b>Category:</b> EXTREME<br>             <b>Coordinates:</b> 31.0, 142.0         </div>         </div>`)[0];
+                popup_7de38302e9e6ce71bff48d9efe048d06.setContent(html_cc0240ad13fc4a30bb639025d1ab4065);
+            
+        
+
+        circle_marker_48430ce935824d05796ed2e302639a66.bindPopup(popup_7de38302e9e6ce71bff48d9efe048d06)
+        ;
+
+        
+    
+    
+            var circle_marker_2ca6ab5b922598e36ca852b2ee907b5d = L.circleMarker(
+                [-14.0, -72.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_88dd8c7727beb3cf5a1b55617a4d9b1c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_afb405f4742ef4644d5ffb4450c94e7e = $(`<div id="html_afb405f4742ef4644d5ffb4450c94e7e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-08-19<br>             <b>AI Probability:</b> 84.82%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -14.0, -72.0         </div>         </div>`)[0];
+                popup_88dd8c7727beb3cf5a1b55617a4d9b1c.setContent(html_afb405f4742ef4644d5ffb4450c94e7e);
+            
+        
+
+        circle_marker_2ca6ab5b922598e36ca852b2ee907b5d.bindPopup(popup_88dd8c7727beb3cf5a1b55617a4d9b1c)
+        ;
+
+        
+    
+    
+            var circle_marker_f6c5d4d3a8d5fd4d386e691a1252860a = L.circleMarker(
+                [24.5, 60.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_44ec2dc750ea5cc3f680b60ec65f6356 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1f6398fb27ff907dc047dbb215056f01 = $(`<div id="html_1f6398fb27ff907dc047dbb215056f01" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Makran Subduction Zone</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-03-04<br>             <b>AI Probability:</b> 84.78%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 24.5, 60.0         </div>         </div>`)[0];
+                popup_44ec2dc750ea5cc3f680b60ec65f6356.setContent(html_1f6398fb27ff907dc047dbb215056f01);
+            
+        
+
+        circle_marker_f6c5d4d3a8d5fd4d386e691a1252860a.bindPopup(popup_44ec2dc750ea5cc3f680b60ec65f6356)
+        ;
+
+        
+    
+    
+            var circle_marker_677000f1cb7928d50aa67186c6791c72 = L.circleMarker(
+                [23.0, 69.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_2141028fcfc8f0c1a9bb549a94f5dfe4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6438ace60e3bb43e6f362cf3eafb0abf = $(`<div id="html_6438ace60e3bb43e6f362cf3eafb0abf" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Kachchh-Gujarat Rift</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-03-03<br>             <b>AI Probability:</b> 84.66%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 23.0, 69.0         </div>         </div>`)[0];
+                popup_2141028fcfc8f0c1a9bb549a94f5dfe4.setContent(html_6438ace60e3bb43e6f362cf3eafb0abf);
+            
+        
+
+        circle_marker_677000f1cb7928d50aa67186c6791c72.bindPopup(popup_2141028fcfc8f0c1a9bb549a94f5dfe4)
+        ;
+
+        
+    
+    
+            var circle_marker_d78743fd5a2838bdc81ff9f5983a6a2f = L.circleMarker(
+                [8.0, 93.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_0910efe7d4e2884d577360cce74e093f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b4f558a9673a616fbec109ff79389410 = $(`<div id="html_b4f558a9673a616fbec109ff79389410" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-01-22<br>             <b>AI Probability:</b> 84.62%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 8.0, 93.0         </div>         </div>`)[0];
+                popup_0910efe7d4e2884d577360cce74e093f.setContent(html_b4f558a9673a616fbec109ff79389410);
+            
+        
+
+        circle_marker_d78743fd5a2838bdc81ff9f5983a6a2f.bindPopup(popup_0910efe7d4e2884d577360cce74e093f)
+        ;
+
+        
+    
+    
+            var circle_marker_f170bca63967b2e0c28d716707ea2aa8 = L.circleMarker(
+                [8.0, 93.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_90763d2c9e1830ac5851d4ba59ccd550 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f7997b41571d60a7966a9067a99ab19e = $(`<div id="html_f7997b41571d60a7966a9067a99ab19e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Segment</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-01-22<br>             <b>AI Probability:</b> 84.62%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 8.0, 93.0         </div>         </div>`)[0];
+                popup_90763d2c9e1830ac5851d4ba59ccd550.setContent(html_f7997b41571d60a7966a9067a99ab19e);
+            
+        
+
+        circle_marker_f170bca63967b2e0c28d716707ea2aa8.bindPopup(popup_90763d2c9e1830ac5851d4ba59ccd550)
+        ;
+
+        
+    
+    
+            var circle_marker_b23946b59df9beedd8f33567c42ed4f2 = L.circleMarker(
+                [8.0, 126.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_4c13b046d8a2938a96a8cd047e17416a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0827e0a3190780f8ef3c4a53de337e59 = $(`<div id="html_0827e0a3190780f8ef3c4a53de337e59" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Philippine Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-01-22<br>             <b>AI Probability:</b> 84.62%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 8.0, 126.0         </div>         </div>`)[0];
+                popup_4c13b046d8a2938a96a8cd047e17416a.setContent(html_0827e0a3190780f8ef3c4a53de337e59);
+            
+        
+
+        circle_marker_b23946b59df9beedd8f33567c42ed4f2.bindPopup(popup_4c13b046d8a2938a96a8cd047e17416a)
+        ;
+
+        
+    
+    
+            var circle_marker_97acf9b64874a20be4373eda21126605 = L.circleMarker(
+                [8.0, 90.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_76634bad307a9b16872c19727d6b16d1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_b37162ed790ce3e7259471466296407a = $(`<div id="html_b37162ed790ce3e7259471466296407a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-01-22<br>             <b>AI Probability:</b> 84.62%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 8.0, 90.0         </div>         </div>`)[0];
+                popup_76634bad307a9b16872c19727d6b16d1.setContent(html_b37162ed790ce3e7259471466296407a);
+            
+        
+
+        circle_marker_97acf9b64874a20be4373eda21126605.bindPopup(popup_76634bad307a9b16872c19727d6b16d1)
+        ;
+
+        
+    
+    
+            var circle_marker_dfcda558f97fd720a64b19ba200f546d = L.circleMarker(
+                [33.0, 142.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_b099c8e97987437dcdd835fb47730687 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0460e64d06afa9ceee48f2eda98c988b = $(`<div id="html_0460e64d06afa9ceee48f2eda98c988b" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Japan Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 84.59%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 33.0, 142.0         </div>         </div>`)[0];
+                popup_b099c8e97987437dcdd835fb47730687.setContent(html_0460e64d06afa9ceee48f2eda98c988b);
+            
+        
+
+        circle_marker_dfcda558f97fd720a64b19ba200f546d.bindPopup(popup_b099c8e97987437dcdd835fb47730687)
+        ;
+
+        
+    
+    
+            var circle_marker_20a7e64ee56ef5a105a53d9b8bf028f9 = L.circleMarker(
+                [33.0, -124.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_4589d998afac51195efa7c063b25affc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_62e9a71d9f6ce76cef3147fa9bfb7f5d = $(`<div id="html_62e9a71d9f6ce76cef3147fa9bfb7f5d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">San Andreas Fault (California)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 84.59%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 33.0, -124.0         </div>         </div>`)[0];
+                popup_4589d998afac51195efa7c063b25affc.setContent(html_62e9a71d9f6ce76cef3147fa9bfb7f5d);
+            
+        
+
+        circle_marker_20a7e64ee56ef5a105a53d9b8bf028f9.bindPopup(popup_4589d998afac51195efa7c063b25affc)
+        ;
+
+        
+    
+    
+            var circle_marker_f52068c77623946b4e47610ae88471aa = L.circleMarker(
+                [15.0, 145.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_b29f85f985285d2f17082262e78f97ba = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2d2c15e839796cbd7b18c39937a78c8e = $(`<div id="html_2d2c15e839796cbd7b18c39937a78c8e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Izu-Bonin-Mariana</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-14<br>             <b>AI Probability:</b> 84.38%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 15.0, 145.0         </div>         </div>`)[0];
+                popup_b29f85f985285d2f17082262e78f97ba.setContent(html_2d2c15e839796cbd7b18c39937a78c8e);
+            
+        
+
+        circle_marker_f52068c77623946b4e47610ae88471aa.bindPopup(popup_b29f85f985285d2f17082262e78f97ba)
+        ;
+
+        
+    
+    
+            var circle_marker_8e4409acbf4dcea3a4be7173246536fd = L.circleMarker(
+                [24.0, 60.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_5d1cd74376fd91acaeda37b7a9ccc9ed = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1006d467114946cac2f2cd7fe4a44f8e = $(`<div id="html_1006d467114946cac2f2cd7fe4a44f8e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Makran Subduction Zone</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-16<br>             <b>AI Probability:</b> 84.36%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 24.0, 60.0         </div>         </div>`)[0];
+                popup_5d1cd74376fd91acaeda37b7a9ccc9ed.setContent(html_1006d467114946cac2f2cd7fe4a44f8e);
+            
+        
+
+        circle_marker_8e4409acbf4dcea3a4be7173246536fd.bindPopup(popup_5d1cd74376fd91acaeda37b7a9ccc9ed)
+        ;
+
+        
+    
+    
+            var circle_marker_45f0b620436ba713ced3df7dbb06bbea = L.circleMarker(
+                [8.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_b1510da9d0e8fd32a175e5a802f57b9f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_03f2ab4d189b928e488edf84551c3e8a = $(`<div id="html_03f2ab4d189b928e488edf84551c3e8a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Segment</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 83.88%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 8.5, 93.0         </div>         </div>`)[0];
+                popup_b1510da9d0e8fd32a175e5a802f57b9f.setContent(html_03f2ab4d189b928e488edf84551c3e8a);
+            
+        
+
+        circle_marker_45f0b620436ba713ced3df7dbb06bbea.bindPopup(popup_b1510da9d0e8fd32a175e5a802f57b9f)
+        ;
+
+        
+    
+    
+            var circle_marker_cc0ed13fcea15d8132e3ca0f84199057 = L.circleMarker(
+                [8.5, 90.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_77e636f59da20a878549c846785e2abc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8dea9afa6ac91dfffdb7d5eae1d1b134 = $(`<div id="html_8dea9afa6ac91dfffdb7d5eae1d1b134" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 83.88%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 8.5, 90.0         </div>         </div>`)[0];
+                popup_77e636f59da20a878549c846785e2abc.setContent(html_8dea9afa6ac91dfffdb7d5eae1d1b134);
+            
+        
+
+        circle_marker_cc0ed13fcea15d8132e3ca0f84199057.bindPopup(popup_77e636f59da20a878549c846785e2abc)
+        ;
+
+        
+    
+    
+            var circle_marker_3ca20e04aedc3f5b687c553005c4a05b = L.circleMarker(
+                [8.5, 93.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_fc5fb700a60602d3e8394355bfdebd0d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_57f8281737d1112ad8eb96dc1a5cd317 = $(`<div id="html_57f8281737d1112ad8eb96dc1a5cd317" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 83.88%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 8.5, 93.0         </div>         </div>`)[0];
+                popup_fc5fb700a60602d3e8394355bfdebd0d.setContent(html_57f8281737d1112ad8eb96dc1a5cd317);
+            
+        
+
+        circle_marker_3ca20e04aedc3f5b687c553005c4a05b.bindPopup(popup_fc5fb700a60602d3e8394355bfdebd0d)
+        ;
+
+        
+    
+    
+            var circle_marker_5322beb1c5e87ba39785d7c95552a5f9 = L.circleMarker(
+                [28.0, 75.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_c73f95bf668c214dcd9d33fadbc60044 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c5cbc98a9114a97cebb7652148335e16 = $(`<div id="html_c5cbc98a9114a97cebb7652148335e16" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Gangetic Plain / Himalayan Front</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-22<br>             <b>AI Probability:</b> 83.8%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 28.0, 75.0         </div>         </div>`)[0];
+                popup_c73f95bf668c214dcd9d33fadbc60044.setContent(html_c5cbc98a9114a97cebb7652148335e16);
+            
+        
+
+        circle_marker_5322beb1c5e87ba39785d7c95552a5f9.bindPopup(popup_c73f95bf668c214dcd9d33fadbc60044)
+        ;
+
+        
+    
+    
+            var circle_marker_a9c3faf8f75d4c2de2608af4f8bd854d = L.circleMarker(
+                [28.0, 70.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_d4dc543d31b31d4a80bad3eb943aadb9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_67a67bd81e94425c0603d0d514fcc76a = $(`<div id="html_67a67bd81e94425c0603d0d514fcc76a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Himalayan Thrust</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-22<br>             <b>AI Probability:</b> 83.8%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 28.0, 70.0         </div>         </div>`)[0];
+                popup_d4dc543d31b31d4a80bad3eb943aadb9.setContent(html_67a67bd81e94425c0603d0d514fcc76a);
+            
+        
+
+        circle_marker_a9c3faf8f75d4c2de2608af4f8bd854d.bindPopup(popup_d4dc543d31b31d4a80bad3eb943aadb9)
+        ;
+
+        
+    
+    
+            var circle_marker_cff4b61ae7092053b20706aac2226f14 = L.circleMarker(
+                [36.5, 35.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_a8f520ea37f536d65bcc2d46a1449462 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_991724defe68cbcafa80d01600e24351 = $(`<div id="html_991724defe68cbcafa80d01600e24351" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">East Anatolian Fault (Turkey)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-23<br>             <b>AI Probability:</b> 83.58%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 36.5, 35.0         </div>         </div>`)[0];
+                popup_a8f520ea37f536d65bcc2d46a1449462.setContent(html_991724defe68cbcafa80d01600e24351);
+            
+        
+
+        circle_marker_cff4b61ae7092053b20706aac2226f14.bindPopup(popup_a8f520ea37f536d65bcc2d46a1449462)
+        ;
+
+        
+    
+    
+            var circle_marker_7dc2e85d3bc80fd5a747d81e64daccf3 = L.circleMarker(
+                [36.5, -124.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_7e3b9759f5037af260efae878ec3b371 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_db36beaab78e3d753295e7d1dae307dc = $(`<div id="html_db36beaab78e3d753295e7d1dae307dc" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">San Andreas Fault (California)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-23<br>             <b>AI Probability:</b> 83.58%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 36.5, -124.0         </div>         </div>`)[0];
+                popup_7e3b9759f5037af260efae878ec3b371.setContent(html_db36beaab78e3d753295e7d1dae307dc);
+            
+        
+
+        circle_marker_7dc2e85d3bc80fd5a747d81e64daccf3.bindPopup(popup_7e3b9759f5037af260efae878ec3b371)
+        ;
+
+        
+    
+    
+            var circle_marker_d3b3bada19d93ff80944000abb8980a6 = L.circleMarker(
+                [5.0, 100.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_054156f780dd66e1d18a56c7af37c09a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_198f2686bca91f85444811ffadb82323 = $(`<div id="html_198f2686bca91f85444811ffadb82323" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-01-22<br>             <b>AI Probability:</b> 83.5%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 5.0, 100.0         </div>         </div>`)[0];
+                popup_054156f780dd66e1d18a56c7af37c09a.setContent(html_198f2686bca91f85444811ffadb82323);
+            
+        
+
+        circle_marker_d3b3bada19d93ff80944000abb8980a6.bindPopup(popup_054156f780dd66e1d18a56c7af37c09a)
+        ;
+
+        
+    
+    
+            var circle_marker_aeb0d543a29b8d96a2b00ebeacb4c02f = L.circleMarker(
+                [5.0, 102.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_050360e8be9c122b3ddce583fa6b628f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7808b0b00b32b4eab1075871b86d1ca8 = $(`<div id="html_7808b0b00b32b4eab1075871b86d1ca8" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-01-22<br>             <b>AI Probability:</b> 83.5%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 5.0, 102.0         </div>         </div>`)[0];
+                popup_050360e8be9c122b3ddce583fa6b628f.setContent(html_7808b0b00b32b4eab1075871b86d1ca8);
+            
+        
+
+        circle_marker_aeb0d543a29b8d96a2b00ebeacb4c02f.bindPopup(popup_050360e8be9c122b3ddce583fa6b628f)
+        ;
+
+        
+    
+    
+            var circle_marker_565f51b4b121871f1e4488ca07a01f22 = L.circleMarker(
+                [-1.0, 102.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_803d578fa6cdd185ab93a27a17a353bd = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_476fa933af4f1f743eeb9d878dc2779a = $(`<div id="html_476fa933af4f1f743eeb9d878dc2779a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Sumatra-Java Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-14<br>             <b>AI Probability:</b> 83.42%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -1.0, 102.0         </div>         </div>`)[0];
+                popup_803d578fa6cdd185ab93a27a17a353bd.setContent(html_476fa933af4f1f743eeb9d878dc2779a);
+            
+        
+
+        circle_marker_565f51b4b121871f1e4488ca07a01f22.bindPopup(popup_803d578fa6cdd185ab93a27a17a353bd)
+        ;
+
+        
+    
+    
+            var circle_marker_40376015644d94f14ad78fb5beaae156 = L.circleMarker(
+                [-1.0, 100.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_024f899f84cb3e1f1ea14651761ebb0e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0363844c617fdf97acc33ba1998809ad = $(`<div id="html_0363844c617fdf97acc33ba1998809ad" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Java-Sumatra Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-14<br>             <b>AI Probability:</b> 83.42%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -1.0, 100.0         </div>         </div>`)[0];
+                popup_024f899f84cb3e1f1ea14651761ebb0e.setContent(html_0363844c617fdf97acc33ba1998809ad);
+            
+        
+
+        circle_marker_40376015644d94f14ad78fb5beaae156.bindPopup(popup_024f899f84cb3e1f1ea14651761ebb0e)
+        ;
+
+        
+    
+    
+            var circle_marker_2334ee20d49e4274f3c5b44bc058201d = L.circleMarker(
+                [38.0, 142.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_db9e298c9f204449794819901cd5d797 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_51860ef77d2989f403a4940834b15c93 = $(`<div id="html_51860ef77d2989f403a4940834b15c93" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Japan Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-03-13<br>             <b>AI Probability:</b> 83.36%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 38.0, 142.0         </div>         </div>`)[0];
+                popup_db9e298c9f204449794819901cd5d797.setContent(html_51860ef77d2989f403a4940834b15c93);
+            
+        
+
+        circle_marker_2334ee20d49e4274f3c5b44bc058201d.bindPopup(popup_db9e298c9f204449794819901cd5d797)
+        ;
+
+        
+    
+    
+            var circle_marker_b154310affa072b05bba8c72d84cfd84 = L.circleMarker(
+                [38.0, -124.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_65db2a59563117d5ca73febf46e09695 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_11acc0f0faa59bc231185def67291d97 = $(`<div id="html_11acc0f0faa59bc231185def67291d97" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">San Andreas Fault (California)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-03-13<br>             <b>AI Probability:</b> 83.36%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 38.0, -124.0         </div>         </div>`)[0];
+                popup_65db2a59563117d5ca73febf46e09695.setContent(html_11acc0f0faa59bc231185def67291d97);
+            
+        
+
+        circle_marker_b154310affa072b05bba8c72d84cfd84.bindPopup(popup_65db2a59563117d5ca73febf46e09695)
+        ;
+
+        
+    
+    
+            var circle_marker_6c054f4d8e68c3942f858f97977d1c9f = L.circleMarker(
+                [-22.5, -175.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_606aedb7fdf6e12225cd5e88bbd18f1b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_302564a7f9cc9df9c6dabadc76180478 = $(`<div id="html_302564a7f9cc9df9c6dabadc76180478" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Tonga-Kermadec</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-09-13<br>             <b>AI Probability:</b> 83.25%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -22.5, -175.0         </div>         </div>`)[0];
+                popup_606aedb7fdf6e12225cd5e88bbd18f1b.setContent(html_302564a7f9cc9df9c6dabadc76180478);
+            
+        
+
+        circle_marker_6c054f4d8e68c3942f858f97977d1c9f.bindPopup(popup_606aedb7fdf6e12225cd5e88bbd18f1b)
+        ;
+
+        
+    
+    
+            var circle_marker_d9f37cc2a743f5655a99c5a6a04cd293 = L.circleMarker(
+                [-16.0, -175.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_9ce5f252db342c44cc1ea5adf0e1759d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4615230503003459a5912232f6c4b074 = $(`<div id="html_4615230503003459a5912232f6c4b074" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Tonga-Kermadec</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-04-23<br>             <b>AI Probability:</b> 83.21%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -16.0, -175.0         </div>         </div>`)[0];
+                popup_9ce5f252db342c44cc1ea5adf0e1759d.setContent(html_4615230503003459a5912232f6c4b074);
+            
+        
+
+        circle_marker_d9f37cc2a743f5655a99c5a6a04cd293.bindPopup(popup_9ce5f252db342c44cc1ea5adf0e1759d)
+        ;
+
+        
+    
+    
+            var circle_marker_d0e96dd01a4da88ff2d3ed425f3b56c3 = L.circleMarker(
+                [-5.0, -72.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_c48e9329ca2f11517a7446ee1c990690 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0d7a404abbdb954ac5788c474a09b5ce = $(`<div id="html_0d7a404abbdb954ac5788c474a09b5ce" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2028-07-12<br>             <b>AI Probability:</b> 83.17%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -5.0, -72.0         </div>         </div>`)[0];
+                popup_c48e9329ca2f11517a7446ee1c990690.setContent(html_0d7a404abbdb954ac5788c474a09b5ce);
+            
+        
+
+        circle_marker_d0e96dd01a4da88ff2d3ed425f3b56c3.bindPopup(popup_c48e9329ca2f11517a7446ee1c990690)
+        ;
+
+        
+    
+    
+            var circle_marker_0762bc33f82127024b31075ef7c6cda8 = L.circleMarker(
+                [28.0, 75.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_500a534267bed0529b825fcdfe6eeaf0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9f78886e0890d927304a13cc9e3377e3 = $(`<div id="html_9f78886e0890d927304a13cc9e3377e3" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Gangetic Plain / Himalayan Front</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-03-22<br>             <b>AI Probability:</b> 83.02%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 28.0, 75.0         </div>         </div>`)[0];
+                popup_500a534267bed0529b825fcdfe6eeaf0.setContent(html_9f78886e0890d927304a13cc9e3377e3);
+            
+        
+
+        circle_marker_0762bc33f82127024b31075ef7c6cda8.bindPopup(popup_500a534267bed0529b825fcdfe6eeaf0)
+        ;
+
+        
+    
+    
+            var circle_marker_e7a211b8113e6521aa294f60aaf4bdf2 = L.circleMarker(
+                [25.0, 94.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_d43d3ea7ab361b257258197cf28d94f5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d1ed4d76f422eaa37b37923dfe5df772 = $(`<div id="html_d1ed4d76f422eaa37b37923dfe5df772" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Burmese Arc</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-09-29<br>             <b>AI Probability:</b> 82.97%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 25.0, 94.0         </div>         </div>`)[0];
+                popup_d43d3ea7ab361b257258197cf28d94f5.setContent(html_d1ed4d76f422eaa37b37923dfe5df772);
+            
+        
+
+        circle_marker_e7a211b8113e6521aa294f60aaf4bdf2.bindPopup(popup_d43d3ea7ab361b257258197cf28d94f5)
+        ;
+
+        
+    
+    
+            var circle_marker_bb22c808242f3c40ea63c5711331b4a0 = L.circleMarker(
+                [25.0, 60.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_a0cc45f7ef608e83773da6bb376dbec4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8ffe17f7e29c59b7289968a82055f1bb = $(`<div id="html_8ffe17f7e29c59b7289968a82055f1bb" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Makran Subduction Zone</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-09-29<br>             <b>AI Probability:</b> 82.97%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 25.0, 60.0         </div>         </div>`)[0];
+                popup_a0cc45f7ef608e83773da6bb376dbec4.setContent(html_8ffe17f7e29c59b7289968a82055f1bb);
+            
+        
+
+        circle_marker_bb22c808242f3c40ea63c5711331b4a0.bindPopup(popup_a0cc45f7ef608e83773da6bb376dbec4)
+        ;
+
+        
+    
+    
+            var circle_marker_c965564d3af0bcf7031ab198eb4df73e = L.circleMarker(
+                [-12.0, -72.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_d25076b076645722abf6df9a2a589053 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_de65b88cb286a54978eef21e1b2e9247 = $(`<div id="html_de65b88cb286a54978eef21e1b2e9247" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 82.88%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -12.0, -72.0         </div>         </div>`)[0];
+                popup_d25076b076645722abf6df9a2a589053.setContent(html_de65b88cb286a54978eef21e1b2e9247);
+            
+        
+
+        circle_marker_c965564d3af0bcf7031ab198eb4df73e.bindPopup(popup_d25076b076645722abf6df9a2a589053)
+        ;
+
+        
+    
+    
+            var circle_marker_c5d8af94863d11e153da7d7c29a89176 = L.circleMarker(
+                [49.5, -125.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_4d5bdd75be2636284a5a974ca7a5a798 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_77b5b52bda810940da3bc477a93fabd0 = $(`<div id="html_77b5b52bda810940da3bc477a93fabd0" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Cascadia Subduction</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-14<br>             <b>AI Probability:</b> 82.69%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 49.5, -125.0         </div>         </div>`)[0];
+                popup_4d5bdd75be2636284a5a974ca7a5a798.setContent(html_77b5b52bda810940da3bc477a93fabd0);
+            
+        
+
+        circle_marker_c5d8af94863d11e153da7d7c29a89176.bindPopup(popup_4d5bdd75be2636284a5a974ca7a5a798)
+        ;
+
+        
+    
+    
+            var circle_marker_1f8c15697b85a2e3e7f386a86e6c3a32 = L.circleMarker(
+                [49.5, 150.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_c3df5217e3d462d8198c28c36d6eb854 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_042ac5ece474f03b47e46c7a0d821a94 = $(`<div id="html_042ac5ece474f03b47e46c7a0d821a94" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Kuril-Kamchatka</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-14<br>             <b>AI Probability:</b> 82.69%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 49.5, 150.0         </div>         </div>`)[0];
+                popup_c3df5217e3d462d8198c28c36d6eb854.setContent(html_042ac5ece474f03b47e46c7a0d821a94);
+            
+        
+
+        circle_marker_1f8c15697b85a2e3e7f386a86e6c3a32.bindPopup(popup_c3df5217e3d462d8198c28c36d6eb854)
+        ;
+
+        
+    
+    
+            var circle_marker_6fd1732810b434e0a69f48e15c6c1041 = L.circleMarker(
+                [11.0, 93.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_0b84ba777d920eb3cd90eea098736232 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9ddc8bf0d80bae995846e68d1ae25c65 = $(`<div id="html_9ddc8bf0d80bae995846e68d1ae25c65" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-06-13<br>             <b>AI Probability:</b> 82.36%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 11.0, 93.0         </div>         </div>`)[0];
+                popup_0b84ba777d920eb3cd90eea098736232.setContent(html_9ddc8bf0d80bae995846e68d1ae25c65);
+            
+        
+
+        circle_marker_6fd1732810b434e0a69f48e15c6c1041.bindPopup(popup_0b84ba777d920eb3cd90eea098736232)
+        ;
+
+        
+    
+    
+            var circle_marker_16afca35a68ead0292d6e4b2ff35416c = L.circleMarker(
+                [11.0, 93.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_73e5faefbfdde4669def058f9a00d6bd = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4147b7daaaa600984046292aeadb0358 = $(`<div id="html_4147b7daaaa600984046292aeadb0358" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Andaman-Nicobar Segment</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-06-13<br>             <b>AI Probability:</b> 82.36%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 11.0, 93.0         </div>         </div>`)[0];
+                popup_73e5faefbfdde4669def058f9a00d6bd.setContent(html_4147b7daaaa600984046292aeadb0358);
+            
+        
+
+        circle_marker_16afca35a68ead0292d6e4b2ff35416c.bindPopup(popup_73e5faefbfdde4669def058f9a00d6bd)
+        ;
+
+        
+    
+    
+            var circle_marker_ba80011fdc52da38d486be90d4e321f2 = L.circleMarker(
+                [35.0, 15.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_732d0b11f7d9573c2c608db92aa78dd0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_42be86526bc0a7b31ebb9cc0fb529672 = $(`<div id="html_42be86526bc0a7b31ebb9cc0fb529672" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Mediterranean-Hellenic</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-14<br>             <b>AI Probability:</b> 82.34%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 35.0, 15.0         </div>         </div>`)[0];
+                popup_732d0b11f7d9573c2c608db92aa78dd0.setContent(html_42be86526bc0a7b31ebb9cc0fb529672);
+            
+        
+
+        circle_marker_ba80011fdc52da38d486be90d4e321f2.bindPopup(popup_732d0b11f7d9573c2c608db92aa78dd0)
+        ;
+
+        
+    
+    
+            var circle_marker_8df2b1291f15370a00c9dbb3db13ccca = L.circleMarker(
+                [-42.5, 170.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_cc641e2f28b23d2640a2be91cee8e483 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1b391f433dbceec4c22a9c3a8b0bb683 = $(`<div id="html_1b391f433dbceec4c22a9c3a8b0bb683" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Alpine Fault (New Zealand)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-20<br>             <b>AI Probability:</b> 82.2%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -42.5, 170.0         </div>         </div>`)[0];
+                popup_cc641e2f28b23d2640a2be91cee8e483.setContent(html_1b391f433dbceec4c22a9c3a8b0bb683);
+            
+        
+
+        circle_marker_8df2b1291f15370a00c9dbb3db13ccca.bindPopup(popup_cc641e2f28b23d2640a2be91cee8e483)
+        ;
+
+        
+    
+    
+            var circle_marker_668e477208677abedbb8f0fa743e3f55 = L.circleMarker(
+                [3.5, 90.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_5e7cc55c368e15ec2ef0a0c48e6fb1b3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5327134869827715408cbf923f1291ac = $(`<div id="html_5327134869827715408cbf923f1291ac" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Ninety East Ridge</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-23<br>             <b>AI Probability:</b> 81.91%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 3.5, 90.0         </div>         </div>`)[0];
+                popup_5e7cc55c368e15ec2ef0a0c48e6fb1b3.setContent(html_5327134869827715408cbf923f1291ac);
+            
+        
+
+        circle_marker_668e477208677abedbb8f0fa743e3f55.bindPopup(popup_5e7cc55c368e15ec2ef0a0c48e6fb1b3)
+        ;
+
+        
+    
+    
+            var circle_marker_6b3b0c757abc1885d2e3c473f7b94e50 = L.circleMarker(
+                [35.0, 15.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_d3d3f04c59dab500261d4d74e7ef2c8a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_467d104d30f308cae667dbb2abd92768 = $(`<div id="html_467d104d30f308cae667dbb2abd92768" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Mediterranean-Hellenic</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-02-23<br>             <b>AI Probability:</b> 81.83%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 35.0, 15.0         </div>         </div>`)[0];
+                popup_d3d3f04c59dab500261d4d74e7ef2c8a.setContent(html_467d104d30f308cae667dbb2abd92768);
+            
+        
+
+        circle_marker_6b3b0c757abc1885d2e3c473f7b94e50.bindPopup(popup_d3d3f04c59dab500261d4d74e7ef2c8a)
+        ;
+
+        
+    
+    
+            var circle_marker_449711c0e3c4a9891f18726d73af4014 = L.circleMarker(
+                [-12.5, -72.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_436ae2116b6decab23c1b2e0afd5c6d8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8ecf1d48e71327e0ddcd96ef4d27b495 = $(`<div id="html_8ecf1d48e71327e0ddcd96ef4d27b495" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-03-23<br>             <b>AI Probability:</b> 81.76%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -12.5, -72.0         </div>         </div>`)[0];
+                popup_436ae2116b6decab23c1b2e0afd5c6d8.setContent(html_8ecf1d48e71327e0ddcd96ef4d27b495);
+            
+        
+
+        circle_marker_449711c0e3c4a9891f18726d73af4014.bindPopup(popup_436ae2116b6decab23c1b2e0afd5c6d8)
+        ;
+
+        
+    
+    
+            var circle_marker_7d485ec25e6b23266b1aff3d1522f965 = L.circleMarker(
+                [36.5, 35.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_865004402386f0db30b48e3c0a915e56 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_75f55322bab648f6058e7f9d41944a8c = $(`<div id="html_75f55322bab648f6058e7f9d41944a8c" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">East Anatolian Fault (Turkey)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-15<br>             <b>AI Probability:</b> 81.27%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 36.5, 35.0         </div>         </div>`)[0];
+                popup_865004402386f0db30b48e3c0a915e56.setContent(html_75f55322bab648f6058e7f9d41944a8c);
+            
+        
+
+        circle_marker_7d485ec25e6b23266b1aff3d1522f965.bindPopup(popup_865004402386f0db30b48e3c0a915e56)
+        ;
+
+        
+    
+    
+            var circle_marker_5cb7b2ee5358255fc7f38a7c1c2bc890 = L.circleMarker(
+                [20.0, 94.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_3a90fbb90747de33dc0f3af6714bd027 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_53884af4beb4ad675bc6be0eaee52f69 = $(`<div id="html_53884af4beb4ad675bc6be0eaee52f69" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Burmese Arc</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-10-19<br>             <b>AI Probability:</b> 81.23%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 20.0, 94.0         </div>         </div>`)[0];
+                popup_3a90fbb90747de33dc0f3af6714bd027.setContent(html_53884af4beb4ad675bc6be0eaee52f69);
+            
+        
+
+        circle_marker_5cb7b2ee5358255fc7f38a7c1c2bc890.bindPopup(popup_3a90fbb90747de33dc0f3af6714bd027)
+        ;
+
+        
+    
+    
+            var circle_marker_3eb1511f345000838fc32ffd4d6ff54b = L.circleMarker(
+                [28.0, 70.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_2388d5c41f151e98cd291bfe49041d1f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f94f4ee0719ecae97a4ffa1353198de6 = $(`<div id="html_f94f4ee0719ecae97a4ffa1353198de6" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Himalayan Thrust</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-05-11<br>             <b>AI Probability:</b> 81.14%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 28.0, 70.0         </div>         </div>`)[0];
+                popup_2388d5c41f151e98cd291bfe49041d1f.setContent(html_f94f4ee0719ecae97a4ffa1353198de6);
+            
+        
+
+        circle_marker_3eb1511f345000838fc32ffd4d6ff54b.bindPopup(popup_2388d5c41f151e98cd291bfe49041d1f)
+        ;
+
+        
+    
+    
+            var circle_marker_3d29a1d9f1644b429065e2b9f4ab23d7 = L.circleMarker(
+                [43.5, -125.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_198dc30da6f4bba7ec83203bb00c0e4c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ff733409b50965d1b2c72287eb706b1e = $(`<div id="html_ff733409b50965d1b2c72287eb706b1e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Cascadia Subduction</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-04-18<br>             <b>AI Probability:</b> 80.53%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 43.5, -125.0         </div>         </div>`)[0];
+                popup_198dc30da6f4bba7ec83203bb00c0e4c.setContent(html_ff733409b50965d1b2c72287eb706b1e);
+            
+        
+
+        circle_marker_3d29a1d9f1644b429065e2b9f4ab23d7.bindPopup(popup_198dc30da6f4bba7ec83203bb00c0e4c)
+        ;
+
+        
+    
+    
+            var circle_marker_a8bfcac951f993493423b16663b54e2d = L.circleMarker(
+                [43.5, 150.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_a111da93324318036b34982328f6b418 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1c447d19a1e8b88d8ae43390c2153763 = $(`<div id="html_1c447d19a1e8b88d8ae43390c2153763" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Kuril-Kamchatka</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-04-18<br>             <b>AI Probability:</b> 80.53%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 43.5, 150.0         </div>         </div>`)[0];
+                popup_a111da93324318036b34982328f6b418.setContent(html_1c447d19a1e8b88d8ae43390c2153763);
+            
+        
+
+        circle_marker_a8bfcac951f993493423b16663b54e2d.bindPopup(popup_a111da93324318036b34982328f6b418)
+        ;
+
+        
+    
+    
+            var circle_marker_ee45124fa823d73884a3bddd745ead70 = L.circleMarker(
+                [52.0, -180.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_e4304a5913007457f9a439d7776086d0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_667f38ddae30eba6ac6829fd75c38806 = $(`<div id="html_667f38ddae30eba6ac6829fd75c38806" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Aleutian Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-11-16<br>             <b>AI Probability:</b> 80.43%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 52.0, -180.0         </div>         </div>`)[0];
+                popup_e4304a5913007457f9a439d7776086d0.setContent(html_667f38ddae30eba6ac6829fd75c38806);
+            
+        
+
+        circle_marker_ee45124fa823d73884a3bddd745ead70.bindPopup(popup_e4304a5913007457f9a439d7776086d0)
+        ;
+
+        
+    
+    
+            var circle_marker_1176d11f8cc0883dc5f97c35b82a0efd = L.circleMarker(
+                [-44.0, 170.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_c1bae0e9ee0559fd7fa3f7f1cfcb0f10 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_abcab3bc590aa6a91c7b03b9fb62a287 = $(`<div id="html_abcab3bc590aa6a91c7b03b9fb62a287" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Alpine Fault (New Zealand)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-06-02<br>             <b>AI Probability:</b> 80.41%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -44.0, 170.0         </div>         </div>`)[0];
+                popup_c1bae0e9ee0559fd7fa3f7f1cfcb0f10.setContent(html_abcab3bc590aa6a91c7b03b9fb62a287);
+            
+        
+
+        circle_marker_1176d11f8cc0883dc5f97c35b82a0efd.bindPopup(popup_c1bae0e9ee0559fd7fa3f7f1cfcb0f10)
+        ;
+
+        
+    
+    
+            var circle_marker_972898384eccb6e102634a2a2af04cf4 = L.circleMarker(
+                [34.5, 142.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_72caa01657494a926843588f4ffcc794 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4048443eab53d00fb299d8e773ca80f4 = $(`<div id="html_4048443eab53d00fb299d8e773ca80f4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Japan Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-09-26<br>             <b>AI Probability:</b> 80.37%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 34.5, 142.0         </div>         </div>`)[0];
+                popup_72caa01657494a926843588f4ffcc794.setContent(html_4048443eab53d00fb299d8e773ca80f4);
+            
+        
+
+        circle_marker_972898384eccb6e102634a2a2af04cf4.bindPopup(popup_72caa01657494a926843588f4ffcc794)
+        ;
+
+        
+    
+    
+            var circle_marker_88209bc479221cae853cd8b8ecbc17bd = L.circleMarker(
+                [28.0, 75.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_fabde5318b89d6d48cbc75a6e64ef8a8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_84bb2fca328245e54a49dbddf7c7ce18 = $(`<div id="html_84bb2fca328245e54a49dbddf7c7ce18" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Gangetic Plain / Himalayan Front</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 80.28%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 28.0, 75.0         </div>         </div>`)[0];
+                popup_fabde5318b89d6d48cbc75a6e64ef8a8.setContent(html_84bb2fca328245e54a49dbddf7c7ce18);
+            
+        
+
+        circle_marker_88209bc479221cae853cd8b8ecbc17bd.bindPopup(popup_fabde5318b89d6d48cbc75a6e64ef8a8)
+        ;
+
+        
+    
+    
+            var circle_marker_aedf9efc20264ea9f941c3531c744829 = L.circleMarker(
+                [28.0, 70.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_e262e225e53577dd89bbddbbdcad550e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cf708da5c7b276c8af5730b7c3ffb50d = $(`<div id="html_cf708da5c7b276c8af5730b7c3ffb50d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Himalayan Thrust</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 80.28%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 28.0, 70.0         </div>         </div>`)[0];
+                popup_e262e225e53577dd89bbddbbdcad550e.setContent(html_cf708da5c7b276c8af5730b7c3ffb50d);
+            
+        
+
+        circle_marker_aedf9efc20264ea9f941c3531c744829.bindPopup(popup_e262e225e53577dd89bbddbbdcad550e)
+        ;
+
+        
+    
+    
+            var circle_marker_8ef1e9e8bafb6372a23f73bcdc22ba22 = L.circleMarker(
+                [40.7, 26.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_e1b9a27b9151419a556bde47e243d33a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_148488d63aecdd6155462061ffe9a3b3 = $(`<div id="html_148488d63aecdd6155462061ffe9a3b3" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">North Anatolian Fault (Turkey)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-03-06<br>             <b>AI Probability:</b> 80.12%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 40.7, 26.0         </div>         </div>`)[0];
+                popup_e1b9a27b9151419a556bde47e243d33a.setContent(html_148488d63aecdd6155462061ffe9a3b3);
+            
+        
+
+        circle_marker_8ef1e9e8bafb6372a23f73bcdc22ba22.bindPopup(popup_e1b9a27b9151419a556bde47e243d33a)
+        ;
+
+        
+    
+    
+            var circle_marker_7afcc3981b8161b20b87fb13b27c78e9 = L.circleMarker(
+                [23.0, 69.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_748efc0a6df9e043938a57e43def49ea = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_73007fdac0c4e4f85a3ea674bc3510af = $(`<div id="html_73007fdac0c4e4f85a3ea674bc3510af" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Kachchh-Gujarat Rift</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-03-12<br>             <b>AI Probability:</b> 80.11%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 23.0, 69.0         </div>         </div>`)[0];
+                popup_748efc0a6df9e043938a57e43def49ea.setContent(html_73007fdac0c4e4f85a3ea674bc3510af);
+            
+        
+
+        circle_marker_7afcc3981b8161b20b87fb13b27c78e9.bindPopup(popup_748efc0a6df9e043938a57e43def49ea)
+        ;
+
+        
+    
+    
+            var circle_marker_a0bb02765ce77f70f7430a0f75a9573e = L.circleMarker(
+                [40.7, 26.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_9f6491c7882cbdf3716d5b5a42a27c0a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9f1b42a74c4b0fb1f516f8cc4cd93967 = $(`<div id="html_9f1b42a74c4b0fb1f516f8cc4cd93967" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">North Anatolian Fault (Turkey)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-10-13<br>             <b>AI Probability:</b> 80.1%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 40.7, 26.0         </div>         </div>`)[0];
+                popup_9f6491c7882cbdf3716d5b5a42a27c0a.setContent(html_9f1b42a74c4b0fb1f516f8cc4cd93967);
+            
+        
+
+        circle_marker_a0bb02765ce77f70f7430a0f75a9573e.bindPopup(popup_9f6491c7882cbdf3716d5b5a42a27c0a)
+        ;
+
+        
+    
+    
+            var circle_marker_1ca941577a0ccf0362127e3c135f4b35 = L.circleMarker(
+                [28.0, 75.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_e4ae3983d7098af72d9831a51c1ba2dc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6ae15649d072aaaaa1aee4507ff87e81 = $(`<div id="html_6ae15649d072aaaaa1aee4507ff87e81" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Gangetic Plain / Himalayan Front</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-03-05<br>             <b>AI Probability:</b> 80.02%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 28.0, 75.0         </div>         </div>`)[0];
+                popup_e4ae3983d7098af72d9831a51c1ba2dc.setContent(html_6ae15649d072aaaaa1aee4507ff87e81);
+            
+        
+
+        circle_marker_1ca941577a0ccf0362127e3c135f4b35.bindPopup(popup_e4ae3983d7098af72d9831a51c1ba2dc)
+        ;
+
+        
+    
+    
+            var circle_marker_f629fed9f74032895585df55ea19b5e0 = L.circleMarker(
+                [27.5, 145.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_31e091b18cd044fae01baaed9b44030d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_61d00a53581d230186722de458aa9765 = $(`<div id="html_61d00a53581d230186722de458aa9765" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Izu-Bonin-Mariana</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-03-07<br>             <b>AI Probability:</b> 79.51%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 27.5, 145.0         </div>         </div>`)[0];
+                popup_31e091b18cd044fae01baaed9b44030d.setContent(html_61d00a53581d230186722de458aa9765);
+            
+        
+
+        circle_marker_f629fed9f74032895585df55ea19b5e0.bindPopup(popup_31e091b18cd044fae01baaed9b44030d)
+        ;
+
+        
+    
+    
+            var circle_marker_ed4cb1e2187057f610f489092d74e652 = L.circleMarker(
+                [-11.0, -72.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_a2dc009a534c265a128b80e79cf5ae62 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_527d0b9af4d5a2e0f02ce93b9c69daa8 = $(`<div id="html_527d0b9af4d5a2e0f02ce93b9c69daa8" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Chile-Peru Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2030-01-25<br>             <b>AI Probability:</b> 78.69%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> -11.0, -72.0         </div>         </div>`)[0];
+                popup_a2dc009a534c265a128b80e79cf5ae62.setContent(html_527d0b9af4d5a2e0f02ce93b9c69daa8);
+            
+        
+
+        circle_marker_ed4cb1e2187057f610f489092d74e652.bindPopup(popup_a2dc009a534c265a128b80e79cf5ae62)
+        ;
+
+        
+    
+    
+            var circle_marker_274a05eed8602081c6f288be55267617 = L.circleMarker(
+                [29.0, 145.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_5fd4df97efb6e7c1afd1b7c39a3231d0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c61dacec381ebf0ef3e196d2c4f1e044 = $(`<div id="html_c61dacec381ebf0ef3e196d2c4f1e044" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Izu-Bonin-Mariana</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-07-17<br>             <b>AI Probability:</b> 78.47%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 29.0, 145.0         </div>         </div>`)[0];
+                popup_5fd4df97efb6e7c1afd1b7c39a3231d0.setContent(html_c61dacec381ebf0ef3e196d2c4f1e044);
+            
+        
+
+        circle_marker_274a05eed8602081c6f288be55267617.bindPopup(popup_5fd4df97efb6e7c1afd1b7c39a3231d0)
+        ;
+
+        
+    
+    
+            var circle_marker_978610e57daeb2b132df217e227db1e6 = L.circleMarker(
+                [27.0, 94.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_4372bc365efd02048b7c23c4b5cfa632 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0e4807d24d7b4d38f99bfbda751d7e21 = $(`<div id="html_0e4807d24d7b4d38f99bfbda751d7e21" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Indo-Burmese Arc</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2029-09-24<br>             <b>AI Probability:</b> 78.26%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 27.0, 94.0         </div>         </div>`)[0];
+                popup_4372bc365efd02048b7c23c4b5cfa632.setContent(html_0e4807d24d7b4d38f99bfbda751d7e21);
+            
+        
+
+        circle_marker_978610e57daeb2b132df217e227db1e6.bindPopup(popup_4372bc365efd02048b7c23c4b5cfa632)
+        ;
+
+        
+    
+    
+            var circle_marker_60f315cb5c3217c32c7bac3459625b7e = L.circleMarker(
+                [37.5, 35.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_7431374b40c66c1011938220b11fd69d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9bd485c28af460cdd986dd6e5946e292 = $(`<div id="html_9bd485c28af460cdd986dd6e5946e292" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">East Anatolian Fault (Turkey)</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2027-03-23<br>             <b>AI Probability:</b> 78.21%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 37.5, 35.0         </div>         </div>`)[0];
+                popup_7431374b40c66c1011938220b11fd69d.setContent(html_9bd485c28af460cdd986dd6e5946e292);
+            
+        
+
+        circle_marker_60f315cb5c3217c32c7bac3459625b7e.bindPopup(popup_7431374b40c66c1011938220b11fd69d)
+        ;
+
+        
+    
+    
+            var circle_marker_758fe7981b76794717eee27550e2f7bb = L.circleMarker(
+                [13.5, 126.0],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(marker_cluster_fc49fdfba38e44d70c145470e1a4f00d);
+        
+    
+        var popup_f9960511a893cf12dc6dbb19f01e00e5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_087fb51c85019f4aa0032a8b8704fa8f = $(`<div id="html_087fb51c85019f4aa0032a8b8704fa8f" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 200px;">             <h4 style="margin-bottom:5px;">Philippine Trench</h4>             <hr style="margin:5px 0;">             <b>Date:</b> 2026-07-17<br>             <b>AI Probability:</b> 78.15%<br>             <b>Category:</b> HIGH<br>             <b>Coordinates:</b> 13.5, 126.0         </div>         </div>`)[0];
+                popup_f9960511a893cf12dc6dbb19f01e00e5.setContent(html_087fb51c85019f4aa0032a8b8704fa8f);
+            
+        
+
+        circle_marker_758fe7981b76794717eee27550e2f7bb.bindPopup(popup_f9960511a893cf12dc6dbb19f01e00e5)
+        ;
+
+        
+    
+    
+            marker_cluster_fc49fdfba38e44d70c145470e1a4f00d.addTo(map_e658eead79016c0034fdc822de09fb92);
+        
+</script>
+</html>

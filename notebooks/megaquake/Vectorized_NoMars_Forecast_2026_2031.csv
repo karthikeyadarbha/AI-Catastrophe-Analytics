@@ -1,0 +1,165 @@
+Risk_Date,Threatened_Zone,Latitude,Longitude,Peak_Stress_Probability
+2027-11-16,Andaman-Nicobar Trench,9.0,93.0,94.23
+2027-11-16,Andaman-Nicobar Segment,9.0,93.0,94.23
+2027-11-16,Philippine Trench,9.0,126.0,94.23
+2027-11-16,Ninety East Ridge,9.0,90.0,94.23
+2030-06-17,Java-Sumatra Trench,-2.5,100.0,93.28
+2030-06-17,Ninety East Ridge,-2.5,90.0,93.28
+2030-06-17,Sumatra-Java Trench,-2.5,102.0,93.28
+2026-03-03,Philippine Trench,16.0,126.0,93.03
+2026-03-03,Izu-Bonin-Mariana,16.0,145.0,93.03
+2029-06-03,Java-Sumatra Trench,-6.5,100.0,92.89
+2029-06-03,Ninety East Ridge,-6.5,90.0,92.89
+2029-06-03,Sumatra-Java Trench,-6.5,102.0,92.89
+2029-06-03,Chile-Peru Trench,-6.5,-72.0,92.89
+2026-09-01,Chile-Peru Trench,-19.0,-72.0,92.61
+2026-09-01,Tonga-Kermadec,-19.0,-175.0,92.61
+2029-03-04,Philippine Trench,16.5,126.0,92.41
+2029-03-04,Izu-Bonin-Mariana,16.5,145.0,92.41
+2030-06-19,Chile-Peru Trench,-5.0,-72.0,92.33
+2026-03-03,Indo-Burmese Arc,23.5,94.0,91.96
+2029-03-03,Indo-Burmese Arc,20.0,94.0,91.83
+2026-03-03,Andaman-Nicobar Trench,14.5,93.0,91.57
+2026-03-03,Andaman-Nicobar Segment,14.5,93.0,91.57
+2029-03-03,Andaman-Nicobar Trench,14.5,93.0,91.37
+2029-03-03,Andaman-Nicobar Segment,14.5,93.0,91.37
+2030-04-18,Tonga-Kermadec,-28.0,-175.0,91.11
+2026-11-01,Andaman-Nicobar Segment,14.5,93.0,90.97
+2026-11-01,Philippine Trench,14.5,126.0,90.97
+2026-11-01,Andaman-Nicobar Trench,14.5,93.0,90.97
+2026-03-03,Kachchh-Gujarat Rift,23.0,69.0,90.9
+2028-03-31,Cascadia Subduction,41.0,-125.0,90.85
+2028-03-31,Kuril-Kamchatka,41.0,150.0,90.85
+2028-03-31,Japan Trench,41.0,142.0,90.85
+2028-03-31,North Anatolian Fault (Turkey),40.7,26.0,90.84
+2026-03-03,Ninety East Ridge,10.0,90.0,90.81
+2026-10-31,Ninety East Ridge,9.5,90.0,90.68
+2027-11-16,Java-Sumatra Trench,4.5,100.0,90.63
+2027-11-16,Sumatra-Java Trench,4.5,102.0,90.63
+2029-03-04,Ninety East Ridge,8.5,90.0,90.44
+2029-03-04,Chile-Peru Trench,-14.5,-72.0,90.32
+2029-03-04,Sumatra-Java Trench,1.0,102.0,90.3
+2029-03-04,Java-Sumatra Trench,1.0,100.0,90.3
+2028-03-31,San Andreas Fault (California),39.5,-124.0,90.15
+2029-10-22,Himalayan Thrust,28.0,70.0,90.04
+2029-10-22,Indo-Gangetic Plain / Himalayan Front,28.0,75.0,90.04
+2029-10-22,Izu-Bonin-Mariana,28.0,145.0,90.04
+2026-03-03,Makran Subduction Zone,24.0,60.0,89.98
+2029-10-23,Philippine Trench,18.5,126.0,89.85
+2029-03-05,Tonga-Kermadec,-20.5,-175.0,89.78
+2026-10-31,Izu-Bonin-Mariana,16.5,145.0,89.69
+2028-03-31,East Anatolian Fault (Turkey),38.0,35.0,89.55
+2026-09-03,Japan Trench,32.0,142.0,89.28
+2028-03-31,Indo-Burmese Arc,26.0,94.0,89.18
+2028-03-31,Izu-Bonin-Mariana,26.0,145.0,89.18
+2026-08-31,Java-Sumatra Trench,-3.5,100.0,89.16
+2026-08-31,Sumatra-Java Trench,-3.5,102.0,89.16
+2029-10-23,Japan Trench,32.0,142.0,88.88
+2028-04-01,Aleutian Trench,52.0,-180.0,88.85
+2029-10-22,Indo-Burmese Arc,27.0,94.0,88.68
+2028-03-31,Indo-Gangetic Plain / Himalayan Front,27.0,75.0,88.59
+2028-03-31,Mediterranean-Hellenic,35.0,15.0,88.58
+2029-10-22,San Andreas Fault (California),39.0,-124.0,88.57
+2026-09-02,Kuril-Kamchatka,44.5,150.0,88.53
+2026-09-02,Cascadia Subduction,44.5,-125.0,88.53
+2026-09-02,Alpine Fault (New Zealand),-42.0,170.0,88.47
+2029-03-03,Kachchh-Gujarat Rift,23.0,69.0,88.4
+2026-09-03,Mediterranean-Hellenic,35.0,15.0,88.29
+2026-09-03,San Andreas Fault (California),35.0,-124.0,88.29
+2029-10-22,Cascadia Subduction,40.0,-125.0,88.24
+2029-10-22,Kuril-Kamchatka,40.0,150.0,88.24
+2029-10-13,Chile-Peru Trench,-32.5,-72.0,88.04
+2029-10-13,Tonga-Kermadec,-32.5,-175.0,88.04
+2027-11-14,Chile-Peru Trench,-7.0,-72.0,88.02
+2026-09-03,East Anatolian Fault (Turkey),36.0,35.0,87.87
+2026-09-03,Indo-Burmese Arc,22.5,94.0,87.83
+2027-03-22,Indo-Burmese Arc,23.0,94.0,87.81
+2027-03-22,Kachchh-Gujarat Rift,23.0,69.0,87.81
+2027-03-22,Makran Subduction Zone,24.0,60.0,87.77
+2027-03-23,Indo-Gangetic Plain / Himalayan Front,27.0,75.0,87.56
+2028-05-24,Sumatra-Java Trench,-3.5,102.0,87.54
+2028-05-24,Ninety East Ridge,-3.5,90.0,87.54
+2028-05-24,Java-Sumatra Trench,-3.5,100.0,87.54
+2026-06-15,Ninety East Ridge,0.0,90.0,87.54
+2028-05-25,Chile-Peru Trench,-6.0,-72.0,87.5
+2029-10-22,Andaman-Nicobar Trench,15.0,93.0,87.48
+2029-10-22,Andaman-Nicobar Segment,15.0,93.0,87.48
+2028-03-30,Himalayan Thrust,28.0,70.0,87.45
+2027-03-22,Himalayan Thrust,28.0,70.0,87.39
+2026-02-21,Java-Sumatra Trench,1.5,100.0,87.17
+2026-02-21,Sumatra-Java Trench,1.5,102.0,87.17
+2026-06-01,Java-Sumatra Trench,-5.0,100.0,87.14
+2026-06-01,Chile-Peru Trench,-5.0,-72.0,87.14
+2026-06-01,Sumatra-Java Trench,-5.0,102.0,87.14
+2030-10-13,Philippine Trench,18.5,126.0,86.93
+2030-10-13,Izu-Bonin-Mariana,18.5,145.0,86.93
+2026-02-21,Tonga-Kermadec,-25.0,-175.0,86.91
+2026-02-21,Chile-Peru Trench,-25.0,-72.0,86.91
+2029-03-04,Makran Subduction Zone,24.5,60.0,86.87
+2027-03-22,Philippine Trench,13.0,126.0,86.84
+2027-03-22,Andaman-Nicobar Segment,13.0,93.0,86.84
+2027-03-22,Andaman-Nicobar Trench,13.0,93.0,86.84
+2028-04-14,Tonga-Kermadec,-18.0,-175.0,86.84
+2029-10-22,Java-Sumatra Trench,4.0,100.0,86.59
+2029-10-22,Ninety East Ridge,4.0,90.0,86.59
+2029-10-22,Sumatra-Java Trench,4.0,102.0,86.59
+2027-05-07,Ninety East Ridge,-9.0,90.0,86.47
+2028-03-30,Makran Subduction Zone,24.0,60.0,86.31
+2026-12-01,Java-Sumatra Trench,3.0,100.0,86.3
+2026-12-01,Sumatra-Java Trench,3.0,102.0,86.3
+2029-10-22,Makran Subduction Zone,25.0,60.0,86.19
+2026-03-06,Japan Trench,40.5,142.0,86.14
+2030-04-18,Alpine Fault (New Zealand),-42.0,170.0,85.75
+2026-02-22,Indo-Gangetic Plain / Himalayan Front,28.0,75.0,85.54
+2026-02-22,Himalayan Thrust,28.0,70.0,85.54
+2030-10-14,Indo-Burmese Arc,21.5,94.0,85.36
+2026-03-06,North Anatolian Fault (Turkey),40.7,26.0,85.32
+2026-02-21,Mediterranean-Hellenic,35.0,15.0,84.92
+2026-02-21,San Andreas Fault (California),34.5,-124.0,84.92
+2027-03-27,Chile-Peru Trench,-27.0,-72.0,84.74
+2027-03-27,Tonga-Kermadec,-27.0,-175.0,84.74
+2028-05-09,Andaman-Nicobar Trench,5.0,93.0,84.73
+2028-05-09,Philippine Trench,5.0,126.0,84.73
+2028-09-22,Andaman-Nicobar Segment,15.0,93.0,84.52
+2026-02-23,East Anatolian Fault (Turkey),36.0,35.0,84.46
+2028-03-30,Kachchh-Gujarat Rift,23.0,69.0,84.45
+2030-10-13,Japan Trench,33.0,142.0,84.39
+2030-10-13,San Andreas Fault (California),33.0,-124.0,84.39
+2030-06-01,Andaman-Nicobar Segment,8.5,93.0,84.07
+2030-06-01,Andaman-Nicobar Trench,8.5,93.0,84.07
+2030-06-01,Philippine Trench,8.5,126.0,84.07
+2030-10-13,Makran Subduction Zone,25.0,60.0,83.64
+2030-09-15,Tonga-Kermadec,-21.5,-175.0,83.47
+2030-09-18,East Anatolian Fault (Turkey),37.5,35.0,83.21
+2030-03-08,Kachchh-Gujarat Rift,23.0,69.0,83.07
+2030-03-20,Mediterranean-Hellenic,35.0,15.0,83.05
+2030-11-10,Andaman-Nicobar Segment,11.5,93.0,82.84
+2030-11-10,Andaman-Nicobar Trench,11.5,93.0,82.84
+2027-10-16,Izu-Bonin-Mariana,19.0,145.0,82.51
+2030-10-13,Ninety East Ridge,8.0,90.0,82.24
+2028-03-30,Alpine Fault (New Zealand),-42.0,170.0,81.99
+2030-03-22,Chile-Peru Trench,-24.0,-72.0,81.96
+2030-10-13,Java-Sumatra Trench,4.0,100.0,81.94
+2030-10-13,Sumatra-Java Trench,4.0,102.0,81.94
+2030-10-11,Chile-Peru Trench,-19.5,-72.0,81.88
+2028-09-22,Sumatra-Java Trench,-9.5,102.0,81.68
+2028-09-22,Java-Sumatra Trench,-9.5,100.0,81.68
+2028-09-22,Ninety East Ridge,-9.5,90.0,81.68
+2028-09-20,Chile-Peru Trench,-11.5,-72.0,81.32
+2026-07-18,Izu-Bonin-Mariana,27.0,145.0,81.06
+2026-07-18,Indo-Gangetic Plain / Himalayan Front,27.0,75.0,81.06
+2029-03-04,Indo-Gangetic Plain / Himalayan Front,27.0,75.0,80.85
+2026-07-18,Philippine Trench,17.0,126.0,80.8
+2026-07-18,Andaman-Nicobar Segment,13.5,93.0,80.63
+2026-07-18,Andaman-Nicobar Trench,13.5,93.0,80.63
+2029-03-04,Japan Trench,32.0,142.0,80.63
+2027-03-28,Java-Sumatra Trench,-8.5,100.0,79.51
+2027-03-28,Sumatra-Java Trench,-8.5,102.0,79.51
+2026-07-18,Makran Subduction Zone,25.0,60.0,79.47
+2030-01-26,Ninety East Ridge,6.0,90.0,79.28
+2030-01-26,Java-Sumatra Trench,3.0,100.0,78.85
+2030-01-26,Sumatra-Java Trench,3.0,102.0,78.85
+2028-11-09,Philippine Trench,11.5,126.0,78.74
+2030-09-18,North Anatolian Fault (Turkey),40.7,26.0,78.22
+2026-02-08,Kuril-Kamchatka,42.0,150.0,77.53
+2026-02-08,Cascadia Subduction,42.0,-125.0,77.53

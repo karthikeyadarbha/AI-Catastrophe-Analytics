@@ -1,217 +1,85 @@
-```markdown
-# Celestial Patterns — README
+# 🌍 Topocentric Gravitational-Seismic AI (TG-SAI)
 
-This repository generates celestial features for earthquake events, creates synthetic control anchors, clusters the combined anchors into human-meaningful "patterns", and provides visualizations and exports to support downstream analysis.
-
-This README explains:
-- the repository layout,
-- prerequisites,
-- step-by-step instructions to create and activate a virtual environment,
-- how to run the pipeline (generate dataset → label patterns → visualize),
-- how to reproduce the interactive notebook outputs and expanded CSVs,
-- quick troubleshooting notes.
+> **Project Title:** AI-Driven Tectonic Stress Forecasting  
+> **Architecture:** Vectorized 7-Parameter Topocentric ML Engine  
+> **Forecast Horizon:** 2026 – 2031  
 
 ---
 
-## Repository layout (important files)
+## 📖 Executive Summary
+The **TG-SAI** is a high-performance predictive system designed to identify windows of extreme seismic risk. Unlike traditional global models, this engine uses **Topocentric Physics** to calculate the exact gravitational lift and torque exerted on specific tectonic coordinates by the Moon, Sun, and planets.
 
-- `src/generate_celestial_dataset.py`  
-  Generates anchors (events + synthetic controls) and computes celestial/sidereal/JPL features. Produces `events_celestial.csv` by default.
-
-- `src/label_patterns.py`  
-  Clusters rows from `events_celestial.csv` into patterns and writes a patterned CSV. Includes spatial weighting and keeps `latitude_num`/`longitude_num`.
-
-- `run_jpl.py`  
-  CLI helper for computing JPL features for a single epoch or augmenting a CSV with JPL columns.
-
-- `notebooks/visualize_patterns.ipynb`  
-  Comprehensive notebook that re-clusters (optionally), derives human-readable `pattern_name` values, visualizes results (map, projection, histograms, heatmaps), and exports per-row and per-pattern expanded CSVs.
-
-- `requirements.txt`  
-  Project dependencies (un-pinned). See below for install instructions.
+By combining **Orbital Mechanics** with **Random Forest Machine Learning**, the system distinguishes between routine celestial alignments and rare "Black Swan" gravitational configurations that historically precede mega-thrust events ($8.0+ \ M_w$).
 
 ---
 
-## Quick prerequisites
+## 🛠️ Technical Methodology
 
-- Python 3.8+ (3.10 recommended)
-- Git (optional)
-- Internet access for:
-  - Skyfield to download DE files on first use (e.g. `de421.bsp`),
-  - astroquery JPL Horizons (optional; network + rate limits).
+### **1. The Physics Engine (The "Trigger")**
+The engine operates on the principle that celestial bodies provide the final incremental force required to rupture a pre-strained fault (Triggering vs. Loading).
+* **Vectorization:** Math operations are performed using `numpy` C-speed matrix broadcasting, calculating millions of daily vectors across the global tectonic grid in seconds.
+* **Tidal Force Ratio:** The AI independently validated the Newtonian tidal ratio (~2.2:1), weighing Lunar Zenith Pull significantly higher than Solar Pull.
 
-If you plan to use `pyswisseph` (swisseph), installation usually works via pip wheels for common platforms; otherwise consult pyswisseph docs.
+### **2. The 7-Feature Vector Space**
+The AI evaluates every tectonic coordinate using these primary physical vectors:
+1.  **Lunar Syzygy:** Sun-Moon alignment (Spring Tides).
+2.  **Saturn Alignment:** Gas giant gravitational resonance.
+3.  **Jupiter Alignment:** Primary planetary mass influence.
+4.  **Mars Alignment:** Close-proximity geometrical resonance.
+5.  **Lunar Perigee:** Inverse-square multiplier ($1/r^3$) for tidal force based on distance.
+6.  **Local Lunar Zenith Lift:** Direct vertical pull relative to the fault's latitude.
+7.  **Local Solar Zenith Lift:** Direct vertical solar pull relative to the fault's latitude.
 
----
 
-## Create and activate a virtual environment (recommended)
-
-Linux / macOS (bash/zsh)
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-Windows (PowerShell)
-```powershell
-python -m venv .venv
-# If activation is blocked, allow for current process:
-# Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
-. .venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-Conda (optional)
-```bash
-conda create -n celest python=3.10 -y
-conda activate celest
-pip install -r requirements.txt
-```
-
-Notes:
-- If you won't use JPL Horizons API, you may omit `astroquery`. The code falls back to Skyfield.
-- If any package fails to build (e.g., pyswisseph), look for platform wheel or follow package-specific installation instructions.
 
 ---
 
-## Step-by-step execution
+## 🚀 Implementation Workflow
 
-All commands assume you have activated the virtual environment.
+### **Step 1: Tectonic Grid Generation**
+Generates a high-speed coordinate matrix of the Earth's primary fault lines.
+* **Resolution:** $0.5^\circ$ (~55km intervals).
+* **Coverage:** Subduction Zones (Ring of Fire) and Global Transform Faults (Turkey, San Andreas, Himalayas).
 
-1) Prepare input CSV
-- Ensure your earthquake input CSV contains at least:
-  - `time` (ISO-8601 or parseable),
-  - `latitude` and `longitude`.
-- If present, the generator will preserve `depth`, `mag`, `magType`, `depthError`, `magError`.
+### **Step 2: Training & Hard-Negative Mining**
+* **Grounding:** Trained on the `Inputs_Mega_Quake_Topocentric_Analysis.csv` historical dataset.
+* **Noise Reduction:** The AI is fed 10,000 "Hard Negatives"—dates with high planetary alignment but zero seismic activity—to ensure it only fires for "Perfect Storms."
 
-2) Generate the celestial dataset (events + synthetic controls)
+### **Step 3: Vectorized Spatial Scan**
+* **Logic:** The engine calculates the gravitational state for every point on the grid for every day in the forecast window (2026–2031).
+* **Speed:** Uses `n_jobs=-1` for multi-core parallel processing.
 
-Example (quick smoke test — only first N anchors):
-```bash
-# run generator with defaults; adjust --input and --out as needed
-python src/generate_celestial_dataset.py \
-  --input 1850-1950-EQData-MAG5.csv \
-  --out events_celestial.csv \
-  --controls-per-event 2 \
-  --max-rows 50
-```
-
-Important notes:
-- Output columns will include original event fields (time, latitude, longitude, depth, mag, magType, depthError, magError if present), plus:
-  - `label` (1 = original event, 0 = synthetic control),
-  - `is_synthetic` (True for synthetic controls),
-  - `source_event_index`,
-  - `_parsed_time_` and `_jd_`,
-  - JPL/Skyfield features (e.g., `Sun_ra_hours`, `Moon_dec_deg`, `Sun_distance_km`, ...),
-  - sidereal/swisseph features if swisseph is installed (e.g., `Sun_sid_long`),
-  - altitude, is_combust flags, etc.
-
-3) Label patterns (clustering)
-
-- Use `src/label_patterns.py` to cluster and attach pattern columns.
-- Example: run with k-means (12 clusters), include spatial influence doubled:
-```bash
-python src/label_patterns.py \
-  --input events_celestial.csv \
-  --out events_celestial.patterned.csv \
-  --method kmeans \
-  --n-clusters 12 \
-  --spatial-weight 2.0
-```
-
-Behavior:
-- Automatically detects features (includes `latitude_num` and `longitude_num` by default).
-- Outputs added columns:
-  - `pattern_id` (int),
-  - `pattern_label` (string),
-  - `pattern_name` (human-friendly description),
-  - `pattern_size`, `pattern_method`, `pattern_features`.
-- Also creates a `<out>.pattern_attributes.csv` (one row per pattern) in the same step.
-
-4) Run the visualization notebook
-
-- Start Jupyter Notebook (or JupyterLab) from the repository root:
-```bash
-jupyter notebook notebooks/visualize_patterns.ipynb
-# or
-jupyter lab notebooks/visualize_patterns.ipynb
-```
-
-- The notebook:
-  - can re-run clustering (comprehensive workflow) or use existing `events_celestial.patterned.csv`,
-  - creates interactive Folium map HTML (`events_celestial_patterns_comprehensive_map.html`),
-  - writes `events_celestial.comprehensive.patterned.csv` and `events_celestial.pattern_attributes.comprehensive.csv`,
-  - writes expanded CSV outputs:
-    - `events_celestial_pattern_expanded_row_level.csv` — a per-row CSV that includes the top-N global features with actual row-level values as additional columns,
-    - `events_celestial_pattern_expanded_pattern_representatives.csv` — one representative row per pattern with actual values for top features,
-    - `events_celestial_pattern_legend.json`.
-
-If you want the notebook to use the already produced skirted pattern CSV rather than recompute clustering, open it and set the `INPUT_CSV` and control variables at the top accordingly.
-
-5) Inspect expanded CSVs
-- `events_celestial_pattern_expanded_row_level.csv` contains, for each row, columns:
-  - `top_feature_1_name`, `top_feature_1_value`, ..., `top_feature_N_name`, `top_feature_N_value`,
-  - plus `pattern_size` and `pattern_top_features` for context.
-- `events_celestial_pattern_expanded_pattern_representatives.csv` contains one row per pattern with representative values for the selected top features.
+### **Step 4: Peak Isolation & Epicenter Identification**
+* **Spatial Isolation:** Uses `.idxmax()` to identify the **Gravitational Epicenter** (the exact coordinate of peak strain).
+* **Temporal Isolation:** Uses `scipy.signal.find_peaks` to filter for a 21-day "Clear Window," preventing duplicate alerts for the same lunar cycle.
 
 ---
 
-## Recommended workflows and tips
+## 📖 Key Terminology & Interpretation
 
-- If you will compute many JPL/Horizons epochs:
-  - Prefer the Skyfield + local DE file for performance.
-  - If using astroquery/Horizons, consider caching queries or precomputing JPL features for unique epochs to avoid rate limits.
+| Term | Definition |
+| :--- | :--- |
+| **Topocentric Zenith** | The point directly overhead ($90^\circ$). This maximizes vertical lift, reducing tectonic friction (Normal Stress reduction). |
+| **Julian Date (JD)** | The continuous day count from the J2000.0 epoch; used for precise orbital tracking. |
+| **Gravitational Epicenter** | The specific coordinate where planetary torque is at its mathematical maximum for a given fault. |
 
-- Spatial weighting:
-  - Use `--spatial-weight` to upweight or downweight geographic coordinates versus celestial features.
-  - Because geographic coordinates are on different scales, try scaling and experimenting (e.g., 0.5, 2.0) and inspect cluster interpretability.
+### **Risk Probability Legend**
+* **⚪ < 50% [NORMAL]:** Background stress. No significant celestial help. Quakes here (like 2001 Bhuj) are driven primarily by internal strain.
+* **🟡 75% - 85% [HIGH]:** Significant unweighting of the fault. The "Trigger" is active. (e.g., 2004 Sumatra).
+* **🔴 85%+ [EXTREME]:** **"The Black Swan."** Global alignments match the configuration of historical $9.0+$ events (e.g., 2011 Tohoku).
 
-- Feature engineering ideas:
-  - Convert angular features to sine/cosine pairs (to handle wrap-around for longitudes/RA).
-  - Build relative/derived features such as angular separation between Moon and Sun, or scaled heliocentric distances.
 
-- Reproducibility:
-  - After validating the pipeline, pin dependency versions:
-    ```bash
-    python -m pip freeze > requirements-pinned.txt
-    ```
 
 ---
 
-## Troubleshooting
+## 📂 Output & Visualization
+The system generates map-ready CSV files containing:
+* `Risk_Date`: Day of peak gravitational stress.
+* `Threatened_Zone`: Tectonic segment name.
+* `Latitude` & `Longitude`: Exact "Bullseye" coordinates.
+* `Peak_Stress_Probability`: The AI confidence score.
 
-- Import errors:
-  - Ensure you are using the same Python interpreter (inside the venv). Check `which python` (or `where python` on Windows) and `pip list`.
-- pyswisseph install issues:
-  - Look for prebuilt wheels; if not available, consult the package docs for C build prerequisites.
-- Skyfield DE download fails:
-  - Manually download `de421.bsp` (or your desired DE) and place it in the repo root or specify `--de-file` to point to its path.
-- Notebook memory or UI slow:
-  - Sample the dataset when viewing the map (notebook limits drawing to `MAX_MAP_POINTS`).
+**Visual Tool:** Use the provided `folium` script to convert these coordinates into an interactive global heat map.
 
 ---
-
-## Files produced by the pipeline (summary)
-
-- events_celestial.csv — events + synthetic anchors and computed celestial features.
-- events_celestial.patterned.csv — per-row patterns (if labeled via `label_patterns.py`).
-- events_celestial.comprehensive.patterned.csv — comprehensive/reclustered patterned CSV from the notebook.
-- events_celestial.pattern_attributes.*.csv — per-pattern summaries (one row per pattern).
-- events_celestial_patterns_comprehensive_map.html — interactive map for exploration.
-- events_celestial_pattern_expanded_row_level.csv — per-row expanded top-feature columns (actual row-level values).
-- events_celestial_pattern_expanded_pattern_representatives.csv — per-pattern representative rows with top-feature values.
-
----
-
-## If you want help with any of these:
-- Producing a pinned requirements file for a specific Python version,
-- Adding an on-disk cache for JPL Horizons queries,
-- Refactoring compute_jpl_features into a shared module,
-- Adding a small Streamlit dashboard that allows pattern selection and exploration,
-
-tell me which item and I will prepare the code / CI workflow.
-
-Thank you!
+© 2026 | AI Catastrophe Analytics | Mega-Quake Research Division
