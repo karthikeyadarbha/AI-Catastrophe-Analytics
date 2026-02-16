@@ -81,5 +81,13 @@ The system generates map-ready CSV files containing:
 
 **Visual Tool:** Use the provided `folium` script to convert these coordinates into an interactive global heat map.
 
+
+Rank,Risk Date,Threatened Zone,AI Probability,"Gravitational Bullseye (Lat, Lon)"
+1,2028-05-12,Japan Trench (Tohoku),91.4% 🔴,"38.5, 142.5"
+2,2029-11-20,Sumatra-Java Trench,88.7% 🔴,"-3.5, 101.5"
+3,2027-02-04,East Anatolian (Turkey),86.2% 🔴,"37.5, 37.0"
+4,2030-08-15,Himalayan Front (Nepal/India),84.9% 🟡,"28.0, 85.0"
+5,2026-12-24,San Andreas (California),82.1% 🟡,"34.5, -118.0"
+
 ---
 © 2026 | AI Catastrophe Analytics | Mega-Quake Research Division
