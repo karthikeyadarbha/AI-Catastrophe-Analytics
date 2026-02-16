@@ -82,12 +82,38 @@ The system generates map-ready CSV files containing:
 **Visual Tool:** Use the provided `folium` script to convert these coordinates into an interactive global heat map.
 
 
-Rank,Risk Date,Threatened Zone,AI Probability,"Gravitational Bullseye (Lat, Lon)"
-1,2028-05-12,Japan Trench (Tohoku),91.4% 🔴,"38.5, 142.5"
-2,2029-11-20,Sumatra-Java Trench,88.7% 🔴,"-3.5, 101.5"
-3,2027-02-04,East Anatolian (Turkey),86.2% 🔴,"37.5, 37.0"
-4,2030-08-15,Himalayan Front (Nepal/India),84.9% 🟡,"28.0, 85.0"
-5,2026-12-24,San Andreas (California),82.1% 🟡,"34.5, -118.0"
+# 🚨 ZERO HOUR REPORT: MEGA-QUAKE FORECAST (2026–2031)
+**Analytical Engine:** Vectorized 7-Parameter Topocentric AI  
+**Data Integrity:** Unified DuckDB Ensemble (`mega_quake_unified.db`)  
+**Report Date:** 2026-02-16  
 
 ---
-© 2026 | AI Catastrophe Analytics | Mega-Quake Research Division
+
+## 📈 Global Strategic Overview
+This report identifies the highest-risk gravitational anomalies for the next five years. The system isolates windows where **Planetary Resonance** and **Lunar Zenith Lift** create a "Trigger Environment" for major tectonic ruptures ($M_w 7.5+$).
+
+---
+
+## 📅 High-Risk Chronology (Top 5 Events)
+
+| Risk Date | Threatened Zone | Lat, Lon | AI Confidence | Stress Profile |
+| :--- | :--- | :--- | :--- | :--- |
+| **2028-05-12** | **Japan Trench (Tohoku)** | `38.50, 142.50` | **91.4% [🔴]** | Triple Alignment + Zenith Bullseye |
+| **2029-11-20** | **Sumatra-Java Trench** | `-3.50, 101.50` | **88.7% [🔴]** | Perigee Supermoon + Syzygy |
+| **2027-02-04** | **East Anatolian (Turkey)** | `37.50, 37.00` | **86.2% [🔴]** | Mars Resonance + Solar Zenith |
+| **2030-08-15** | **Himalayan Front (Nepal)** | `28.00, 85.00` | **84.9% [🟡]** | Saturn-Jupiter Vector Overlap |
+| **2026-12-24** | **San Andreas (California)**| `34.50, -118.00`| **82.1% [🟡]** | Lunar Declination Peak |
+
+---
+
+## 🔬 Physics Breakdown: The Trigger Mechanisms
+
+### **1. The Japan 2028 "Black Swan"**
+* **Mechanism:** The Moon reaches a specific declination that aligns exactly with the 38.5°N latitude of the Tohoku segment. 
+* **Tidal Effect:** Combined with a Sun-Mars alignment, the vertical pull (Zenith Lift) reaches a mathematical maximum.
+* **Tectonic Impact:** Reduction of **Normal Stress** on the subduction interface, allowing the Pacific Plate to slip.
+[Image of the Japan Trench subduction zone showing tectonic plate interaction]
+
+### **2. The Sumatra 2029 Perigee Surge**
+* **Mechanism:** The Moon reaches Perigee (closest approach) within 12 hours of the Full Moon.
+* **Tidal
