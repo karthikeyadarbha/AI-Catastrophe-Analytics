@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "astro-engine"
+version = "0.1.0"
+description = "A modular Vedic-astrology ephemeris and astronomical event-detection library (Swiss Ephemeris and JPL/Skyfield backends)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Celestial Influence Research" }]
+keywords = ["astrology", "vedic", "jyotish", "ephemeris", "astronomy", "sidereal", "ayanamsa", "swisseph", "skyfield"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Astronomy",
+]
+dependencies = [
+    # IANA time-zone database. Needed on platforms without a system zoneinfo
+    # (Windows, minimal containers) since the models resolve zones via zoneinfo.ZoneInfo.
+    "tzdata; platform_system == 'Windows'",
+]
+
+[project.optional-dependencies]
+swiss = ["pyswisseph>=2.10"]
+jpl = ["skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21"]
+all = ["pyswisseph>=2.10", "skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21"]
+test = ["pytest>=7.0", "pyswisseph>=2.10", "skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21"]
+
+[project.urls]
+Homepage = "https://github.com/Celestial-Influence-Research/Astral-DataScience-platform"
+Repository = "https://github.com/Celestial-Influence-Research/Astral-DataScience-platform"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["astro_engine*"]
+
+[tool.setuptools.package-data]
+astro_engine = ["config/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "swiss: tests that require the pyswisseph backend",
+    "jpl: tests that require the skyfield backend and a DE kernel",
+    "network: tests that may download an ephemeris kernel",
+]

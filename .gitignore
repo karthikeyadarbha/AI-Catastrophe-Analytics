@@ -1,4 +1,5 @@
 .venv/
+.venv-astro/
 earthquake_astro.db
 src/mega_eq_distribution.ipynb
 src/mega_eq_distribution.py
