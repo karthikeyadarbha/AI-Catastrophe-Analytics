@@ -110,3 +110,17 @@ class SwissEphemerisEngine(EphemerisEngineBase):
         """Direct or retrograde, from the sign of the geocentric speed."""
         speed = self.get_planet_speed(planet, date, location)
         return MotionType.DIRECT if speed >= 0 else MotionType.RETROGRADE
+
+    def get_ascendant(self, date: Date, location: Location) -> float:
+        """Sidereal Ascendant (Lagna) longitude in degrees ``[0, 360)``.
+
+        Uses Swiss Ephemeris house computation with the sidereal flag; the
+        house system is irrelevant to the Ascendant, so Placidus is used.
+        """
+        jd = self._get_julian_day_utc(date)
+        with _SWE_LOCK:
+            swe.set_sid_mode(self._sid_flag)
+            _, ascmc = swe.houses_ex(
+                jd, location.latitude, location.longitude, b"P", swe.FLG_SIDEREAL
+            )
+        return ascmc[0] % 360.0

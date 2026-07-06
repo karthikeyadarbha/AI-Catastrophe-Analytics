@@ -40,10 +40,17 @@ from .models.events import Event, Period, InstantEvent
 from .models.event_filter import EventFilter
 from .models.event_repository import EventRepository
 from .models.planetary_position import PlanetaryPosition
+from .models.lagna import Ascendant
 
 # Utilities
 from .utils.ayanamsa import lahiri_ayanamsa, lahiri_ayanamsa_at
 from .utils.astrometry import get_rasi, get_nakshatra_and_pada, longitude_to_dms_string
+from .utils.ascendant import (
+    mean_obliquity,
+    greenwich_mean_sidereal_time,
+    local_apparent_sidereal_time,
+    tropical_ascendant,
+)
 
 __version__ = "0.1.0"
 
@@ -70,10 +77,15 @@ __all__ = [
     "EventFilter",
     "EventRepository",
     "PlanetaryPosition",
+    "Ascendant",
     "lahiri_ayanamsa",
     "lahiri_ayanamsa_at",
     "get_rasi",
     "get_nakshatra_and_pada",
     "longitude_to_dms_string",
+    "mean_obliquity",
+    "greenwich_mean_sidereal_time",
+    "local_apparent_sidereal_time",
+    "tropical_ascendant",
     "__version__",
 ]

@@ -21,6 +21,9 @@ class EphemerisEngineBase(ABC):
       and is deliberately independent of the observer's location.
     * ``get_planet_motion`` classifies the sign of the speed.
 
+    * ``get_ascendant`` returns the **sidereal** Ascendant (Lagna) longitude for
+      the observer's location; it is location-dependent and not tied to a body.
+
     Ketu is defined as Rahu + 180 degrees.
     """
 
@@ -35,6 +38,19 @@ class EphemerisEngineBase(ABC):
     @abstractmethod
     def get_planet_speed(self, planet: PlanetName, date: Date, location: Location) -> float:
         """Return the geocentric tropical longitudinal speed (degrees/day)."""
+
+    def get_ascendant(self, date: Date, location: Location) -> float:
+        """Return the sidereal Ascendant (Lagna) longitude in degrees ``[0, 360)``.
+
+        The Ascendant is the ecliptic point rising on the eastern horizon; it
+        depends on ``location`` (latitude and longitude) and the local sidereal
+        time, not on any ephemeris body. Backends must honour the engine's
+        configured ayanamsa so the result is directly comparable to
+        :meth:`get_planet_longitude`.
+        """
+        raise NotImplementedError(
+            f"{type(self).__name__} does not implement Ascendant (Lagna) computation."
+        )
 
     @property
     @abstractmethod

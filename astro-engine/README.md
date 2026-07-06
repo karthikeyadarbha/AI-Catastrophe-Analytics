@@ -47,6 +47,9 @@ print(pos.rasi, pos.nakshatra, pos.pada, pos.dms)
 - **Rich derived data** per planet: zodiac sign (rasi), nakshatra, pada (quarter),
   degrees-minutes-seconds within sign, longitudinal speed, and direct/retrograde
   motion.
+- **Lagna (Ascendant)** — the rising sidereal zodiac point for any date, time and
+  place, on either backend. Validated against
+  [drikpanchang.com](https://www.drikpanchang.com/) across past/recent/future dates.
 - **Event detection plugins**: retrograde periods, combustion (proximity to the
   Sun) periods, rasi (sign) ingress, and nakshatra/pada ingress.
 - **Two backends, one interface**:
@@ -107,6 +110,13 @@ print(pos.speed)       # deg/day; negative => retrograde
 for p in engine.positions("2025-01-01", (17.385, 78.4867)):
     print(p.planet.value, round(p.longitude, 3), p.rasi.value)
 
+# --- Lagna (Ascendant) ------------------------------------------------------
+asc = engine.lagna("2025-01-01 06:00", (17.3842, 78.4564), tz="Asia/Kolkata")
+print(asc.rasi)        # ZodiacSign.DHANASSU  (Sagittarius rising)
+print(asc.dms)         # "4° 56' 50" (Dhanassu)"
+print(asc.nakshatra, asc.pada)
+lon = engine.ascendant_longitude("2025-01-01 06:00", (17.3842, 78.4564), tz="Asia/Kolkata")
+
 # --- Event detection -------------------------------------------------------
 events = engine.find_events(
     start="2025-01-01",
@@ -135,6 +145,7 @@ accept a name string or `PlanetName`.
 | **Nakshatra** | Lunar mansion — one of 27 arcs of 13°20′. |
 | **Pada** | Quarter of a nakshatra (3°20′); 4 padas × 27 nakshatras = 108. |
 | **Graha** | One of the nine "planets" incl. the lunar nodes Rahu/Ketu. |
+| **Lagna** | Ascendant — the sidereal zodiac point rising on the eastern horizon at a given time and place; the anchor of a birth chart. |
 | **Combustion** | A planet too close to the Sun to be visible; thresholds are per-planet. |
 
 ## Architecture
@@ -252,6 +263,8 @@ AstroEngine(backend="swiss", *, ayanamsa="Lahiri", topocentric=False, **backend_
 | `position(planet, when, location, *, tz=None)` | Full `PlanetaryPosition` (longitude, speed, rasi, nakshatra, pada, dms). |
 | `positions(when, location, planets=None, *, tz=None)` | Positions of many planets (all nine by default). |
 | `longitude(planet, when, location, *, tz=None)` | Just the sidereal longitude (degrees). |
+| `lagna(when, location, *, tz=None)` | The `Ascendant` (rising sign, nakshatra, pada, dms). Alias: `ascendant(...)`. |
+| `ascendant_longitude(when, location, *, tz=None)` | Just the sidereal Ascendant longitude (degrees). |
 | `find_events(start, end, location, *, plugins=None, planets=None, tz=None)` | Run detectors over a range → `EventRepository`. |
 | `backend` / `plugins` / `ephemeris` | Introspection properties. |
 | `available_backends()` | Static list of registered backends. |
@@ -310,6 +323,30 @@ meaningful rather than an arbitrary curve fit. See `tests/test_ayanamsa.py`.
 
 Other ayanamsas (Raman, KP, …) are available on the **Swiss** backend only; the
 JPL backend raises `NotImplementedError` for them.
+
+### Lagna (Ascendant) validation
+
+The Ascendant is computed from apparent local sidereal time, the true obliquity
+(mean obliquity + IAU-2000B nutation) and the observer's latitude, then reduced
+to the sidereal zodiac with the Lahiri ayanamsa. Sidereal time is derived
+directly from the **UT** Julian Day (the IAU-1982 GMST series) rather than from a
+ΔT/UT1-routed value — a subtlety that keeps far-future dates correct (a naive
+`gast`-based model drifts by tens of arcminutes by 2200).
+
+Validated against **drikpanchang.com** (Lahiri / Chitra-Paksha, Swiss Ephemeris)
+for Hyderabad, India (17.3842° N, 78.4564° E, Asia/Kolkata) across three eras —
+both backends reproduce the rising sign exactly:
+
+| Date & time (IST) | Era | drikpanchang | Swiss backend | JPL backend |
+| --- | --- | --- | --- | --- |
+| 1900-03-21 05:45 | very past | Aquarius | Aquarius (328.07°) | Aquarius (328.08°) |
+| 2025-01-01 06:00 | recent | Sagittarius | Sagittarius (244.95°) | Sagittarius (244.95°) |
+| 2076-06-15 12:30 | very future | Virgo | Virgo (153.07°) | Virgo (153.07°) |
+
+The independent Swiss and JPL backends agree on the Ascendant to **≤ 16″** over
+1900–2200. Because the Swiss backend *is* `pyswisseph` + Lahiri — the same engine
+family drikpanchang runs — its Ascendant matches drikpanchang to the arcsecond
+for identical coordinates. See `tests/test_lagna.py`.
 
 ## Extending the engine
 

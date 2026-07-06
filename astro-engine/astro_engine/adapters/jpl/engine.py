@@ -21,6 +21,11 @@ from astro_engine.models.location import Location
 from astro_engine.models.motion import MotionType
 from astro_engine.core.exceptions import EphemerisError
 from astro_engine.utils.ayanamsa import get_ayanamsa, julian_day_ut
+from astro_engine.utils.ascendant import (
+    mean_obliquity,
+    local_apparent_sidereal_time,
+    tropical_ascendant,
+)
 from astro_engine.adapters.jpl.constants import (
     TARGET_CANDIDATES,
     NODE_PLANETS,
@@ -56,6 +61,7 @@ class JplEphemerisEngine(EphemerisEngineBase):
         try:
             from skyfield.api import Loader, load_file, wgs84
             from skyfield.framelib import ecliptic_frame
+            from skyfield.nutationlib import iau2000b
         except ImportError as e:  # pragma: no cover - dependency guard
             raise EphemerisError(
                 "The JPL backend requires 'skyfield'. Install with "
@@ -66,6 +72,7 @@ class JplEphemerisEngine(EphemerisEngineBase):
         self.topocentric = topocentric
         self._wgs84 = wgs84
         self._ecliptic_frame = ecliptic_frame
+        self._iau2000b = iau2000b
 
         # Load the ephemeris: an existing file path is used directly, otherwise
         # the name is downloaded into cache_dir on first use.
@@ -237,3 +244,30 @@ class JplEphemerisEngine(EphemerisEngineBase):
         """Direct or retrograde, from the sign of the geocentric speed."""
         speed = self.get_planet_speed(planet, date, location)
         return MotionType.DIRECT if speed >= 0 else MotionType.RETROGRADE
+
+    def get_ascendant(self, date: Date, location: Location) -> float:
+        """Sidereal Ascendant (Lagna) longitude in degrees ``[0, 360)``.
+
+        Sidereal time is derived from the **UT** Julian Day (not Skyfield's
+        ``gast``, which routes through a ΔT model and diverges from Swiss
+        Ephemeris by tens of arcminutes for far-future dates). Nutation from the
+        IAU 2000B series supplies the equation of the equinoxes and true
+        obliquity.
+        """
+        import math
+
+        t, dt_utc = self._time_from_date(date)
+        jd_ut = julian_day_ut(dt_utc)
+        jd_tt = t.tt
+
+        eps_mean = mean_obliquity(jd_tt)
+        dpsi_1e7, deps_1e7 = self._iau2000b(jd_tt)
+        dpsi_deg = float(dpsi_1e7) * 1e-7 / 3600.0
+        deps_deg = float(deps_1e7) * 1e-7 / 3600.0
+        eps_true = eps_mean + deps_deg
+        eoe = dpsi_deg * math.cos(math.radians(eps_true))
+
+        ramc = local_apparent_sidereal_time(jd_ut, location.longitude, eoe)
+        tropical = tropical_ascendant(ramc, eps_true, location.latitude)
+        ayan = get_ayanamsa(self._sidereal_mode, jd_ut)
+        return (tropical - ayan) % 360.0

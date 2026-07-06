@@ -10,6 +10,7 @@ from .models.date_range import DateRange
 from .models.location import Location
 from .models.planet import PlanetName
 from .models.planetary_position import PlanetaryPosition
+from .models.lagna import Ascendant
 from .models.event_repository import EventRepository
 
 # Types accepted by the convenience API.
@@ -149,6 +150,30 @@ class AstroEngine:
         zone = self._coerce_tz(tz, loc)
         return self._manager.ephemeris_engine.get_planet_longitude(
             self._coerce_planet(planet), self._coerce_date(when, zone), loc
+        )
+
+    def lagna(self, when: WhenLike, location: LocationLike, *, tz: TzLike = None) -> Ascendant:
+        """The Ascendant (Lagna) at ``when`` and ``location``.
+
+        Returns an :class:`Ascendant` with the sidereal longitude, rising rasi,
+        nakshatra, pada and a DMS string. Unlike a planet, the Ascendant depends
+        on the observer's latitude/longitude and the local sidereal time.
+        """
+        loc = self._coerce_location(location)
+        zone = self._coerce_tz(tz, loc)
+        date = self._coerce_date(when, zone)
+        longitude = self._manager.ephemeris_engine.get_ascendant(date, loc)
+        return Ascendant.from_longitude(longitude, date, loc)
+
+    #: Alias for :meth:`lagna`.
+    ascendant = lagna
+
+    def ascendant_longitude(self, when: WhenLike, location: LocationLike, *, tz: TzLike = None) -> float:
+        """Sidereal Ascendant (Lagna) longitude in degrees only."""
+        loc = self._coerce_location(location)
+        zone = self._coerce_tz(tz, loc)
+        return self._manager.ephemeris_engine.get_ascendant(
+            self._coerce_date(when, zone), loc
         )
 
     # ------------------------------------------------------------------ #

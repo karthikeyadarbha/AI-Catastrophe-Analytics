@@ -11,6 +11,7 @@ from .event_filter import EventFilter
 from .event_repository import EventRepository
 from .context import Context
 from .planetary_position import PlanetaryPosition
+from .lagna import Ascendant
 
 __all__ = [
     "PlanetName",
@@ -27,4 +28,5 @@ __all__ = [
     "EventRepository",
     "Context",
     "PlanetaryPosition",
+    "Ascendant",
 ]

@@ -9,6 +9,12 @@ from .astrometry import (
     RASI_SPAN,
 )
 from .ayanamsa import lahiri_ayanamsa, lahiri_ayanamsa_at, get_ayanamsa, julian_day_ut
+from .ascendant import (
+    mean_obliquity,
+    greenwich_mean_sidereal_time,
+    local_apparent_sidereal_time,
+    tropical_ascendant,
+)
 
 __all__ = [
     "load_json",
@@ -22,4 +28,8 @@ __all__ = [
     "lahiri_ayanamsa_at",
     "get_ayanamsa",
     "julian_day_ut",
+    "mean_obliquity",
+    "greenwich_mean_sidereal_time",
+    "local_apparent_sidereal_time",
+    "tropical_ascendant",
 ]
