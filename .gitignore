@@ -8,3 +8,6 @@ src/mega_quake_risk.db
 src/mega_quake_unified.db
 src/mega_quake_unified.db.wal
 src/mega_eq_distribution.ipynb
+
+__pycache__/
+*.pyc

@@ -1,0 +1,7 @@
+# Data caches and generated outputs are not committed.
+data/
+outputs/
+*.csv
+*.parquet
+__pycache__/
+*.pyc

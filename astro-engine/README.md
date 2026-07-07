@@ -31,6 +31,7 @@ print(pos.rasi, pos.nakshatra, pos.pada, pos.dms)
 - [Backends](#backends)
 - [The high-level API (`AstroEngine`)](#the-high-level-api-astroengine)
 - [Plugins (event detection)](#plugins-event-detection)
+- [The Vedic feature library (`astro_engine.vedic`)](#the-vedic-feature-library-astro_enginevedic)
 - [Ayanamsa accuracy & validation](#ayanamsa-accuracy--validation)
 - [Extending the engine](#extending-the-engine)
 - [Testing](#testing)
@@ -193,6 +194,13 @@ astro_engine/
 │   ├── retrograde.py      # RetrogradePlugin
 │   ├── combustion.py      # CombustionPlugin
 │   └── transit.py         # RasiTransitPlugin + NakshatraTransitPlugin
+├── vedic/                 # vectorized Vedic feature sub-libraries  (NEW)
+│   ├── sky.py            # SkySampler → SkySample (the shared substrate)
+│   ├── featureset.py     # FeatureSet container (categorical + boolean)
+│   ├── features.py       # VedicFeatures facade (compute() + chart())
+│   ├── tables.py         # classical reference tables
+│   ├── signs.py  panchanga.py  bhava.py  varga.py  dasha.py
+│   └── dignity.py  aspects.py  declination.py  cycles.py  stars.py  upagraha.py
 ├── models/                # immutable domain objects (Date, Location, …)
 ├── utils/
 │   ├── ayanamsa.py        # independent Lahiri ayanamsa  (NEW)
@@ -304,6 +312,76 @@ Combustion thresholds (degrees from the Sun) are fully configurable:
   "Jupiter": { "direct": 14.0, "retrograde": 12.0 }
 }
 ```
+
+## The Vedic feature library (`astro_engine.vedic`)
+
+The scalar `AstroEngine` answers *point* questions ("where is Mars now?",
+"when does Mercury go retrograde?"). Its sibling `astro_engine.vedic` answers
+*bulk* questions — it turns **arrays of instants (and places)** into **arrays of
+classical jyotish features**, vectorized end to end, so a single chart and a null
+of a million random moments run through the identical code path. It was built to
+feed statistical studies (e.g. the earthquake battery in `research/`) but the same
+facade also prints a single, human-readable chart.
+
+Everything is a pure function of one shared substrate,
+`SkySample` — a bundle of numpy arrays (per body: tropical/sidereal longitude,
+ecliptic latitude, RA, declination, distance, speed, retrograde flag; per instant:
+ayanamsa, true obliquity, RAMC, ascendant). The substrate reuses the validated JPL
+backend, so its numbers reproduce the scalar engine to sub-arcsecond precision.
+
+### Use-case sub-libraries
+
+Each Vedic use case is its own module exposing `features(sample) -> FeatureSet`:
+
+| Module | What it derives |
+| --- | --- |
+| `signs` | Sidereal rasi of every graha + the ascendant (Sun's sign doubles as a season control) |
+| `panchanga` | Tithi, paksha, karana, yoga, Moon's nakshatra + pada, vara (weekday) |
+| `bhava` | Whole-sign house of every graha from the Lagna; dusthana flags |
+| `varga` | Divisional-chart sign — D1/D2/D3/**D9**/D10/D12/D30/D60 (Navamsa in the battery) |
+| `dasha` | Vimshottari mahadasha lord of the moment; full period timeline for a chart |
+| `dignity` | Exalt/own/friend/neutral/enemy/debilitated state, combustion, graha yuddha, stationary |
+| `aspects` | Western/Ptolemaic aspects, Vedic graha-drishti, declination parallels/contraparallels |
+| `declination` | Out-of-bounds flags, N/S hemisphere, lunar-nodal major/minor standstills |
+| `cycles` | Slow outer-planet pair phases (Jupiter–Saturn … Neptune–Pluto) for mundane astrology |
+| `stars` | Conjunctions of Sun/Moon/Lagna with prominent fixed stars + the Galactic Centre |
+| `upagraha` | Gulika/Mandi sign and a day/night flag (approximate) |
+
+### A single chart
+
+```python
+from datetime import datetime, timezone
+from astro_engine.vedic import VedicFeatures
+
+vf = VedicFeatures()  # uses $ASTRO_KERNEL or downloads de421.bsp
+chart = vf.chart(datetime(2024, 1, 1, 12, tzinfo=timezone.utc), 28.6139, 77.2090)
+
+print(chart["ascendant"]["sign"])          # Gemini
+print(chart["planets"]["Saturn"]["dignity"])  # own  (Saturn in Aquarius)
+print(chart["panchanga"]["tithi"])         # Krishna Shashthi
+print(chart["vimshottari"][0]["lord"])     # running mahadasha lord
+```
+
+### Bulk feature extraction
+
+```python
+import pandas as pd
+from astro_engine.vedic import VedicFeatures
+
+vf = VedicFeatures(exclude=["stars", "upagraha"])   # or include=[...] to focus
+times = pd.date_range("1990-01-01", periods=100_000, freq="7h", tz="UTC")
+
+fs = vf.compute(times, latitude=35.0, longitude=139.0)   # one FeatureSet
+counts, n = fs.categorical_counts("moon_nakshatra")       # 27-way histogram
+n_true, n_tot = fs.flag_count("Moon_out_of_bounds")       # boolean rate
+```
+
+Every feature is either **categorical** (an integer category per instant, tested
+with chi-square) or a **boolean flag** (tested with a binomial) — a uniform shape
+that lets a study loop over *all* features generically and pool a null cheaply.
+`FeatureSet` records each feature's category names and `family`, so results group
+themselves. Selecting `include=`/`exclude=` modules keeps the feature count (and
+the multiple-comparison burden) under control.
 
 ## Ayanamsa accuracy & validation
 
