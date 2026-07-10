@@ -388,9 +388,14 @@ the multiple-comparison burden) under control.
 
 The engine ships an **[MCP](https://modelcontextprotocol.io) server** so any
 MCP-capable AI assistant can compute charts on demand. It wraps `VedicFeatures`
-and exposes six tools — `vedic_chart`, `planet_positions`, `ascendant`,
-`panchanga`, `vimshottari_dasha`, `divisional_chart` — each taking an ISO-8601
-datetime (no offset ⇒ UTC) plus latitude/longitude and returning JSON.
+plus the event engine and exposes eight tools:
+
+- **Snapshot** (one instant): `vedic_chart`, `planet_positions`, `ascendant`,
+  `panchanga`, `vimshottari_dasha`, `divisional_chart` — each takes an ISO-8601
+  datetime (no offset ⇒ UTC) plus latitude/longitude and returns JSON.
+- **Event search** (over time): `find_planetary_event` and `events_in_range` —
+  answer *when* something happens (combustion/asta, retrograde/vakri, sign &
+  nakshatra ingress) rather than the state at a single moment.
 
 ```bash
 pip install -e ".[mcp]"        # adds the `mcp` SDK (+ skyfield/pandas/numpy)
@@ -398,6 +403,30 @@ export ASTRO_KERNEL=de421.bsp  # or a path to a .bsp you already have
 astro-engine-mcp               # stdio transport (local desktop clients)
 astro-engine-mcp --http        # remote server on http://127.0.0.1:8000/mcp
 ```
+
+### Answer open-ended "when did …?" questions
+
+The snapshot tools only describe a single instant, so an assistant cannot answer
+*"when did Mercury last get combust?"* by calling them — it would have to poll
+hundreds of dates. `find_planetary_event` does that search server-side in one
+call, widening the time window until it finds the event:
+
+```jsonc
+// user (any language): "బుధుడు చివరిసారి ఎప్పుడు అస్తమించాడు?"
+//                       ("when did Budha last get combust?")
+find_planetary_event(event_type="combustion", planet="Budha", direction="last")
+// → { "planet": "Mercury",
+//     "events": [{ "event_type": "combustion",
+//                  "start": "2024-05-30T06:34:02+00:00",
+//                  "end":   "2024-06-30T05:42:53+00:00",
+//                  "duration_days": 30.96 }] }
+```
+
+`direction` is `"last"` (most recent past, default) or `"next"`. Common
+Sanskrit/Telugu graha names — **Budha, Kuja, Guru, Shukra, Shani, Ravi/Surya,
+Chandra** — and event synonyms (**asta**, **vakri**) are accepted, so the
+assistant can pass the user's own wording. `events_in_range` lists every
+occurrence between two explicit dates (with a span cap to protect a free host).
 
 ### Use it locally (Claude Desktop, Cursor, VS Code, Gemini CLI)
 

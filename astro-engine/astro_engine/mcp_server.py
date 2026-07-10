@@ -32,9 +32,9 @@ from __future__ import annotations
 
 import argparse
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from functools import lru_cache
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
 import numpy as np
 
@@ -42,13 +42,18 @@ from mcp.server.fastmcp import FastMCP
 
 from .vedic import VedicFeatures, varga
 from .vedic import tables as T
+from .facade import AstroEngine
+from .models.planet import PlanetName
 
 INSTRUCTIONS = (
-    "Vedic (sidereal / Lahiri) astrology engine. Tools compute a rasi chart, "
-    "planetary positions, the ascendant (lagna), the five-limbed panchanga, the "
-    "Vimshottari dasha timeline, and arbitrary divisional (varga) charts for a "
-    "given UTC/offset datetime and geographic location. Datetimes are ISO-8601; "
-    "a datetime without an offset is treated as UTC. Positions are sidereal."
+    "Vedic (sidereal / Lahiri) astrology engine. Point-in-time tools compute a "
+    "rasi chart, planetary positions, the ascendant (lagna), the five-limbed "
+    "panchanga, the Vimshottari dasha timeline, and arbitrary divisional (varga) "
+    "charts. Event tools search over time: find_planetary_event answers "
+    "'when did/will a planet get combust / go retrograde / change sign or "
+    "nakshatra' (past or future, no date range needed); events_in_range lists "
+    "every such event in an explicit window. Datetimes are ISO-8601; a datetime "
+    "without an offset is treated as UTC. Positions are sidereal (Lahiri)."
 )
 
 mcp = FastMCP("astro-engine", instructions=INSTRUCTIONS)
@@ -95,6 +100,121 @@ def _chart(datetime_iso: str, latitude: float, longitude: float,
            dasha_levels: int = 1) -> Dict:
     return _clean(_engine().chart(_parse_dt(datetime_iso), latitude, longitude,
                                   dasha_levels=dasha_levels))
+
+
+# --------------------------------------------------------------------------- #
+# event search (combustion / retrograde / ingress) over a time window
+# --------------------------------------------------------------------------- #
+@lru_cache(maxsize=1)
+def _astro() -> AstroEngine:
+    """Build one :class:`AstroEngine` (JPL backend) sharing ``$ASTRO_KERNEL``.
+
+    This is the event-detection facade; it uses the same DE kernel as
+    :func:`_engine` so point queries and event scans stay consistent.
+    """
+    return AstroEngine(backend="jpl",
+                       ephemeris=os.environ.get("ASTRO_KERNEL", "de421.bsp"))
+
+
+#: Friendly event names (and a few Sanskrit/synonym aliases) -> plugin name.
+_EVENT_ALIASES = {
+    "combustion": "combustion", "combust": "combustion", "asta": "combustion",
+    "astangata": "combustion", "astamana": "combustion",
+    "retrograde": "retrograde", "retro": "retrograde", "vakri": "retrograde",
+    "sign_change": "rasi_transit", "sign": "rasi_transit", "rasi": "rasi_transit",
+    "rashi": "rasi_transit", "rasi_transit": "rasi_transit", "ingress": "rasi_transit",
+    "nakshatra_change": "nakshatra_transit", "nakshatra": "nakshatra_transit",
+    "nakshatra_transit": "nakshatra_transit", "star": "nakshatra_transit",
+}
+
+#: Planets each period plugin cannot describe.
+_COMBUST_SKIP = {"Sun", "Rahu", "Ketu"}
+_RETRO_SKIP = {"Sun", "Moon", "Rahu", "Ketu"}
+_TRANSIT_PLUGINS = {"rasi_transit", "nakshatra_transit"}
+
+#: Common Sanskrit / Telugu graha names -> canonical English planet name, so the
+#: tool is forgiving if an assistant passes "Budha", "Kuja", "Shani", etc.
+_PLANET_ALIASES = {
+    "surya": "Sun", "soorya": "Sun", "ravi": "Sun", "aditya": "Sun",
+    "chandra": "Moon", "soma": "Moon", "chandrudu": "Moon",
+    "mangala": "Mars", "mangal": "Mars", "kuja": "Mars", "angaraka": "Mars",
+    "sevvai": "Mars",
+    "budha": "Mercury", "budh": "Mercury", "budhudu": "Mercury",
+    "guru": "Jupiter", "brihaspati": "Jupiter", "brhaspati": "Jupiter",
+    "bruhaspati": "Jupiter",
+    "shukra": "Venus", "sukra": "Venus", "shukrudu": "Venus",
+    "shani": "Saturn", "sani": "Saturn", "shanaischara": "Saturn",
+    "rahu": "Rahu", "ketu": "Ketu",
+}
+
+#: Typical days between successive occurrences (a synodic-ish cycle, padded), so
+#: the directional search almost always resolves on the first window.
+_SPAN_DEFAULTS = {
+    "combustion": {"Mercury": 180, "Venus": 780, "Mars": 1000, "Jupiter": 470, "Saturn": 430},
+    "retrograde": {"Mercury": 160, "Venus": 650, "Mars": 1000, "Jupiter": 450, "Saturn": 410},
+    "rasi_transit": {"Moon": 6, "Sun": 46, "Mercury": 100, "Venus": 180, "Mars": 100,
+                     "Jupiter": 470, "Saturn": 1120, "Rahu": 650, "Ketu": 650},
+    "nakshatra_transit": {"Moon": 4, "Sun": 20, "Mercury": 40, "Venus": 55, "Mars": 55,
+                          "Jupiter": 190, "Saturn": 450, "Rahu": 260, "Ketu": 260},
+}
+_SPAN_FALLBACK = {"combustion": 1000, "retrograde": 1000,
+                  "rasi_transit": 1120, "nakshatra_transit": 450}
+_SEARCH_CAP_DAYS = 2200
+
+
+def _resolve_event_type(event_type: str) -> str:
+    key = str(event_type).strip().lower().replace(" ", "_").replace("-", "_")
+    try:
+        return _EVENT_ALIASES[key]
+    except KeyError:
+        raise ValueError(
+            f"Unknown event_type {event_type!r}. Use one of: combustion, "
+            "retrograde, sign_change, nakshatra_change."
+        )
+
+
+def _coerce_planet_name(planet: str) -> str:
+    raw = str(planet).strip()
+    alias = _PLANET_ALIASES.get(raw.lower())
+    if alias is not None:
+        return alias
+    try:
+        return PlanetName(raw.title()).value
+    except ValueError:
+        raise ValueError(
+            f"Unknown planet {planet!r}. Valid: "
+            f"{[p.value for p in PlanetName]}."
+        )
+
+
+def _event_instant(ev: Any) -> datetime:
+    """Representative instant of an event: a period's onset, else the instant."""
+    date_range = getattr(ev, "date_range", None)
+    if date_range is not None:
+        return date_range.start.dt
+    return ev.date.dt
+
+
+def _event_to_dict(ev: Any) -> Dict:
+    out: Dict[str, Any] = {
+        "event_type": ev.event_type,
+        "planet": getattr(ev.planet, "value", str(ev.planet)),
+    }
+    date_range = getattr(ev, "date_range", None)
+    if date_range is not None:
+        out["start"] = date_range.start.dt.isoformat()
+        out["end"] = date_range.end.dt.isoformat()
+        out["duration_days"] = round((date_range.end - date_range.start).total_seconds() / 86400.0, 3)
+    else:
+        out["date"] = ev.date.dt.isoformat()
+    extra = getattr(ev, "extra", None)
+    if extra:
+        out.update(_clean(extra))
+    return out
+
+
+def _default_span_days(plugin: str, planet: str) -> int:
+    return int(_SPAN_DEFAULTS.get(plugin, {}).get(planet, _SPAN_FALLBACK.get(plugin, 1000)))
 
 
 # --------------------------------------------------------------------------- #
@@ -203,6 +323,142 @@ def divisional_chart(datetime_iso: str, latitude: float, longitude: float,
     for planet, entry in chart["planets"].items():
         out[planet] = _sign(entry["longitude"])
     return out
+
+
+@mcp.tool()
+def find_planetary_event(event_type: str, planet: str, direction: str = "last",
+                         reference_datetime_iso: Optional[str] = None,
+                         latitude: float = 0.0, longitude: float = 0.0,
+                         max_events: int = 1) -> Dict:
+    """Find the most recent ("last") or next ("next") occurrence of an event.
+
+    Answers open-ended natural questions like "when did Mercury last get
+    combust (asta)?", "when is Saturn next retrograde?", or "when did Jupiter
+    last change sign?" -- WITHOUT the caller supplying a date range. It searches
+    outward from a reference instant (default: now), widening the window until
+    the event is found.
+
+    Args:
+        event_type: "combustion", "retrograde", "sign_change" (rasi ingress) or
+            "nakshatra_change" (nakshatra/pada ingress). Synonyms combust/asta,
+            retro/vakri, rasi/sign, star/nakshatra are also accepted.
+        planet: Graha -- Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu
+            or Ketu. Common Sanskrit/Telugu names (Budha, Kuja, Guru, Shukra,
+            Shani, Ravi/Surya, Chandra ...) are also accepted. (Combustion
+            excludes Sun/Rahu/Ketu; retrograde excludes Sun/Moon/Rahu/Ketu.)
+        direction: "last" (most recent past occurrence, default) or "next"
+            (nearest future occurrence).
+        reference_datetime_iso: ISO-8601 instant to search from; no offset means
+            UTC. Defaults to the current time.
+        latitude, longitude: Observer location in decimal degrees. Combustion,
+            retrograde and ingress are geocentric so location barely matters; it
+            is accepted for completeness.
+        max_events: How many successive occurrences to return (default 1).
+
+    Returns a dict echoing the resolved query plus an ``events`` list; each event
+    has the planet and ISO ``start``/``end`` (periods) or ``date`` (ingress),
+    with the entered/left rasi or nakshatra in ``extra`` fields for ingress.
+    """
+    plugin = _resolve_event_type(event_type)
+    planet_name = _coerce_planet_name(planet)
+    dir_norm = str(direction).strip().lower()
+    if dir_norm not in ("last", "next"):
+        raise ValueError("direction must be 'last' or 'next'.")
+
+    base: Dict[str, Any] = {"event_type": plugin, "planet": planet_name,
+                            "direction": dir_norm}
+    if plugin == "combustion" and planet_name in _COMBUST_SKIP:
+        return {**base, "events": [],
+                "note": "Combustion (asta) is undefined for the Sun and the "
+                        "lunar nodes Rahu/Ketu."}
+    if plugin == "retrograde" and planet_name in _RETRO_SKIP:
+        return {**base, "events": [],
+                "note": "The Sun and Moon never go retrograde; the nodes "
+                        "Rahu/Ketu are always retrograde."}
+
+    ref = (_parse_dt(reference_datetime_iso) if reference_datetime_iso
+           else datetime.now(timezone.utc))
+    span_base = _default_span_days(plugin, planet_name)
+    engine = _astro()
+    location = (float(latitude), float(longitude))
+    want = max(1, int(max_events))
+
+    searched = span_base
+    for mult in (1, 3, 9):
+        searched = min(span_base * mult, _SEARCH_CAP_DAYS)
+        if dir_norm == "last":
+            start, end = ref - timedelta(days=searched), ref
+        else:
+            start, end = ref, ref + timedelta(days=searched)
+        repo = engine.find_events(start, end, location,
+                                  plugins=[plugin], planets=[planet_name], tz="UTC")
+        if dir_norm == "last":
+            matches = sorted((e for e in repo if _event_instant(e) <= ref),
+                             key=_event_instant, reverse=True)
+        else:
+            matches = sorted((e for e in repo if _event_instant(e) >= ref),
+                             key=_event_instant)
+        if matches:
+            return {**base, "reference": ref.isoformat(), "searched_days": searched,
+                    "events": [_event_to_dict(e) for e in matches[:want]]}
+        if searched >= _SEARCH_CAP_DAYS:
+            break
+
+    when = "before" if dir_norm == "last" else "after"
+    return {**base, "reference": ref.isoformat(), "searched_days": searched, "events": [],
+            "note": f"No {plugin.replace('_', ' ')} for {planet_name} {when} "
+                    f"{ref.isoformat()} within {searched} days."}
+
+
+@mcp.tool()
+def events_in_range(start_datetime_iso: str, end_datetime_iso: str, event_type: str,
+                    latitude: float = 0.0, longitude: float = 0.0,
+                    planet: Optional[str] = None) -> Dict:
+    """List every occurrence of one event type within an explicit date range.
+
+    Use this for bounded "what happens between X and Y" questions -- e.g. all
+    retrograde periods in 2025, or Jupiter's sign changes this decade. For
+    open-ended "when did/will ..." questions prefer :func:`find_planetary_event`.
+
+    Args:
+        start_datetime_iso, end_datetime_iso: ISO-8601 bounds; no offset = UTC.
+        event_type: combustion, retrograde, sign_change or nakshatra_change.
+        latitude, longitude: observer location (geocentric events; barely matters).
+        planet: optional single graha to restrict to; omit for all nine.
+
+    To protect a shared/free host the span is capped (the fast-moving Moon makes
+    ingress scans expensive): about 150 days for sign/nakshatra ingress when the
+    Moon is included, ~11 years for a single non-Moon planet's ingress, and
+    ~6 years for combustion/retrograde (less when scanning all planets).
+    """
+    plugin = _resolve_event_type(event_type)
+    start = _parse_dt(start_datetime_iso)
+    end = _parse_dt(end_datetime_iso)
+    if end <= start:
+        raise ValueError("end_datetime_iso must be after start_datetime_iso.")
+
+    planet_name = _coerce_planet_name(planet) if planet else None
+    span_days = (end - start).total_seconds() / 86400.0
+    if plugin in _TRANSIT_PLUGINS:
+        moon_involved = planet_name is None or planet_name == "Moon"
+        cap = 150 if moon_involved else 4000
+    else:
+        cap = 2200 if planet_name else 800
+    if span_days > cap:
+        raise ValueError(
+            f"Requested {span_days:.0f}-day range exceeds the {cap}-day cap for "
+            f"{plugin!r}. Narrow the range or query a single planet at a time."
+        )
+
+    engine = _astro()
+    repo = engine.find_events(start, end, (float(latitude), float(longitude)),
+                              plugins=[plugin],
+                              planets=[planet_name] if planet_name else None,
+                              tz="UTC")
+    events = sorted(repo, key=_event_instant)
+    return {"event_type": plugin, "planet": planet_name or "all",
+            "start": start.isoformat(), "end": end.isoformat(),
+            "count": len(events), "events": [_event_to_dict(e) for e in events]}
 
 
 # --------------------------------------------------------------------------- #
