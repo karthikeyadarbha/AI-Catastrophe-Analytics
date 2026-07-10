@@ -1,5 +1,10 @@
 # 🌍 Topocentric Gravitational-Seismic AI (TG-SAI)
 
+> **AI app setup:** See
+> **[Using Astro Engine from AI Apps](astro-engine/AI_ASSISTANT_INTEGRATIONS.md)**
+> for MCP and non-MCP options across mobile apps, browsers, messaging apps, and
+> custom websites.
+
 > **Project Title:** AI-Driven Tectonic Stress Forecasting  
 > **Architecture:** Vectorized 7-Parameter Topocentric ML Engine  
 > **Forecast Horizon:** 2026 – 2031  

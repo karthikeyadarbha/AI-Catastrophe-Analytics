@@ -33,6 +33,7 @@ print(pos.rasi, pos.nakshatra, pos.pada, pos.dms)
 - [Plugins (event detection)](#plugins-event-detection)
 - [The Vedic feature library (`astro_engine.vedic`)](#the-vedic-feature-library-astro_enginevedic)
 - [MCP server](#mcp-server)
+- [AI assistant integration guide (MCP and non-MCP)](AI_ASSISTANT_INTEGRATIONS.md)
 - [Ayanamsa accuracy & validation](#ayanamsa-accuracy--validation)
 - [Extending the engine](#extending-the-engine)
 - [Testing](#testing)
@@ -389,6 +390,10 @@ the multiple-comparison burden) under control.
 The engine ships an **[MCP](https://modelcontextprotocol.io) server** so any
 MCP-capable AI assistant can compute charts on demand. It wraps `VedicFeatures`
 plus the event engine and exposes eight tools:
+
+For a complete mobile/web setup comparison—including Claude Skills, Poe,
+ChatGPT Actions, Telegram, WhatsApp, PWAs, developer function calling, and
+platform limitations—see **[Using Astro Engine from AI Apps](AI_ASSISTANT_INTEGRATIONS.md)**.
 
 - **Snapshot** (one instant): `vedic_chart`, `planet_positions`, `ascendant`,
   `panchanga`, `vimshottari_dasha`, `divisional_chart` — each takes an ISO-8601
