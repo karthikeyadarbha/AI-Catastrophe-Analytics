@@ -1,0 +1,6 @@
+{
+    "retrograde": "astro_engine.plugins.retrograde.RetrogradePlugin",
+    "combustion": "astro_engine.plugins.combustion.CombustionPlugin",
+    "rasi_transit": "astro_engine.plugins.transit.RasiTransitPlugin",
+    "nakshatra_transit": "astro_engine.plugins.transit.NakshatraTransitPlugin"
+}

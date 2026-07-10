@@ -1,0 +1,16 @@
+# Python build / cache artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Test / tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Downloaded ephemeris kernels (fetched on demand)
+tests/.cache/
+*.bsp

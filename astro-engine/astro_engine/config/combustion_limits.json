@@ -1,0 +1,22 @@
+{
+    "Moon": {
+        "direct": 12.0
+    },
+    "Mars": {
+        "direct": 17.0
+    },
+    "Mercury": {
+        "direct": 17.0
+    },
+    "Jupiter": {
+        "direct": 14.0,
+        "retrograde": 12.0
+    },
+    "Venus": {
+        "direct": 10.0,
+        "retrograde": 8.0
+    },
+    "Saturn": {
+        "direct": 13.0
+    }
+}
