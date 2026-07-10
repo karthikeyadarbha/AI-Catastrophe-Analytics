@@ -473,6 +473,7 @@ apps expect OAuth or no-auth instead).
 
 | Assistant | Add your own MCP server in the app/site? | Where |
 |-----------|:----------------------------------------:|-------|
+| **Mistral Le Chat** | ✅ Yes (Free plan; **added and used inside the iOS/Android app**, worldwide) | chat.mistral.ai *or the app* → Connectors → *Add custom connector* → paste the `/mcp` URL |
 | **Claude** (Anthropic) | ✅ Yes (Free beta / Pro / Max / Team / Enterprise) | Settings → Connectors → *Add custom connector* → paste the `/mcp` URL |
 | **ChatGPT** (OpenAI) | ✅ Yes (Plus / Pro / Business / Enterprise / Edu) | Settings → Apps → Advanced → enable **Developer mode** → *Create* → server URL |
 | **Gemini app** (Google) | ✅ Yes (Gemini Spark; US-only, 18+, personal account, English) | gemini.google.com → Settings & help → Connected Apps → *custom apps for Spark* → MCP URL |
@@ -482,6 +483,56 @@ apps expect OAuth or no-auth instead).
 Add the server on the **web** UI of these apps; once connected it also works in
 their mobile apps (settings sync). Write actions require confirmation; this
 server is read-only.
+
+### Add it on a phone — mobile apps, Chrome & Safari
+
+This is the whole point for a **non-technical user**: they install one app, and
+just ask questions in plain language (Telugu, Hindi, English — the assistant
+translates and calls the tool). You set the connector up **once**; they never
+see the word "MCP". Two free routes that work worldwide (incl. India):
+
+**Route A — Mistral Le Chat (easiest; everything happens on the phone).**
+Le Chat supports custom MCP connectors on the **Free** plan, and — unlike the
+others — you can add them **inside the iOS/Android app itself**.
+
+1. Install **Le Chat** (App Store / Play Store) or open **chat.mistral.ai** in
+   **Chrome/Safari**, and sign in.
+2. Open **Connectors** (a.k.a. *Connections*) → **Add connector** → **Custom**.
+3. Paste your server URL: `https://<user>-<space>.hf.space/mcp`.
+   - If you set an `ASTRO_MCP_TOKEN`, pick **Bearer** auth and paste the token.
+   - Otherwise leave authentication as **None**.
+4. Save. Now just type or speak, e.g. *"బుధుడు చివరిసారి ఎప్పుడు అస్తమించాడు?"*
+   (*"when did Budha last get combust?"*) — Le Chat calls `find_planetary_event`
+   and answers.
+
+**Route B — Claude (add in a browser once, then use in the app).**
+Claude's mobile app can **use** a custom connector but can't **add** one, so you
+add it in a browser and it syncs to the phone.
+
+1. In **Chrome (Android)** or **Safari (iOS)** go to **claude.ai** → sign in →
+   **Settings → Connectors → Add custom connector**.
+2. Paste `https://<user>-<space>.hf.space/mcp` (plus the Bearer token if you set one)
+   and save. (Free plan allows **1** custom connector.)
+3. Open the **Claude app** on the phone — the connector is already there. Ask away.
+
+> **About Chrome / Safari:** you don't install anything *in* the browser — the
+> browser is simply how you reach the assistant's website (chat.mistral.ai,
+> claude.ai) to add the connector. On **Android** use Chrome; on **iOS** use
+> Safari (or the app). From Safari you can **Share → Add to Home Screen** to get
+> an app-like icon for the website.
+
+**Two things worth knowing:**
+
+- **First answer can take ~30–60 s** if the free Hugging Face Space had gone to
+  sleep (cold start). That's normal — asking once wakes it. To avoid it, ping the
+  Space on a schedule or use an always-on tier.
+- **No birth details needed** for "when did / will …?" questions — combustion,
+  retrograde and sign/nakshatra changes are geocentric, so the user never has to
+  enter a location or time of birth. They just ask.
+
+**Not a good fit (for reference):** **ChatGPT** custom connectors are web-only,
+need Plus/Pro (Free has none), and don't work in its mobile app; the **Gemini**
+app's custom apps are **US-only**; **DeepSeek** has no in-app custom MCP.
 
 ## Ayanamsa accuracy & validation
 
