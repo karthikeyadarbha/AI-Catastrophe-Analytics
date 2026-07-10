@@ -29,9 +29,13 @@ dependencies = [
 
 [project.optional-dependencies]
 swiss = ["pyswisseph>=2.10"]
-jpl = ["skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21"]
-all = ["pyswisseph>=2.10", "skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21"]
-test = ["pytest>=7.0", "pyswisseph>=2.10", "skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21"]
+jpl = ["skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21", "pandas>=1.5"]
+all = ["pyswisseph>=2.10", "skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21", "pandas>=1.5"]
+mcp = ["mcp>=1.9", "skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21", "pandas>=1.5"]
+test = ["pytest>=7.0", "pyswisseph>=2.10", "skyfield>=1.45", "jplephem>=2.20", "numpy>=1.21", "pandas>=1.5"]
+
+[project.scripts]
+astro-engine-mcp = "astro_engine.mcp_server:main"
 
 [project.urls]
 Homepage = "https://github.com/Celestial-Influence-Research/Astral-DataScience-platform"

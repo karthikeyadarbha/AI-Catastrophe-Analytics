@@ -32,6 +32,7 @@ print(pos.rasi, pos.nakshatra, pos.pada, pos.dms)
 - [The high-level API (`AstroEngine`)](#the-high-level-api-astroengine)
 - [Plugins (event detection)](#plugins-event-detection)
 - [The Vedic feature library (`astro_engine.vedic`)](#the-vedic-feature-library-astro_enginevedic)
+- [MCP server](#mcp-server)
 - [Ayanamsa accuracy & validation](#ayanamsa-accuracy--validation)
 - [Extending the engine](#extending-the-engine)
 - [Testing](#testing)
@@ -382,6 +383,76 @@ that lets a study loop over *all* features generically and pool a null cheaply.
 `FeatureSet` records each feature's category names and `family`, so results group
 themselves. Selecting `include=`/`exclude=` modules keeps the feature count (and
 the multiple-comparison burden) under control.
+
+## MCP server
+
+The engine ships an **[MCP](https://modelcontextprotocol.io) server** so any
+MCP-capable AI assistant can compute charts on demand. It wraps `VedicFeatures`
+and exposes six tools — `vedic_chart`, `planet_positions`, `ascendant`,
+`panchanga`, `vimshottari_dasha`, `divisional_chart` — each taking an ISO-8601
+datetime (no offset ⇒ UTC) plus latitude/longitude and returning JSON.
+
+```bash
+pip install -e ".[mcp]"        # adds the `mcp` SDK (+ skyfield/pandas/numpy)
+export ASTRO_KERNEL=de421.bsp  # or a path to a .bsp you already have
+astro-engine-mcp               # stdio transport (local desktop clients)
+astro-engine-mcp --http        # remote server on http://127.0.0.1:8000/mcp
+```
+
+### Use it locally (Claude Desktop, Cursor, VS Code, Gemini CLI)
+
+These clients spawn the server over **stdio**. Add it to the client's MCP config
+— e.g. Claude Desktop's `claude_desktop_config.json` or Gemini CLI's
+`~/.gemini/settings.json`:
+
+```json
+{
+  "mcpServers": {
+    "astro-engine": {
+      "command": "astro-engine-mcp",
+      "env": { "ASTRO_KERNEL": "de421.bsp" }
+    }
+  }
+}
+```
+
+### Use it from the phone/web assistants — deploy it free
+
+To reach a **hosted** assistant (Claude, ChatGPT, the Gemini app) the server must
+be a **public HTTPS remote MCP server** — those apps call it from their cloud, so
+`localhost` will not do. It is read-only astronomical computation on public
+ephemeris data, so it runs safely without heavy auth. Deploy it free on
+**[Hugging Face Spaces](https://huggingface.co/spaces)** (free CPU Docker, auto
+HTTPS) using the bundled recipe:
+
+```powershell
+# from astro-engine/ — assemble a ready-to-push Space folder
+pwsh deploy/huggingface/build_space.ps1 -Out ..\astro-mcp-space
+```
+
+Create a **Docker** Space at <https://huggingface.co/new-space>, push that folder,
+and your endpoint is `https://<user>-<space>.hf.space/mcp`. The included
+[`Dockerfile`](Dockerfile) bundles the `de421.bsp` kernel at build time and runs
+in stateless JSON mode (`--stateless`, proxy-friendly). The same image also runs
+unchanged on Google Cloud Run or Render — the port is read from `$PORT`.
+
+To require a token, set an `ASTRO_MCP_TOKEN` secret; every HTTP request must then
+carry `Authorization: Bearer <token>` (works for CLI/API callers — most consumer
+apps expect OAuth or no-auth instead).
+
+### Which assistants can connect to your server?
+
+| Assistant | Add your own MCP server in the app/site? | Where |
+|-----------|:----------------------------------------:|-------|
+| **Claude** (Anthropic) | ✅ Yes (Free beta / Pro / Max / Team / Enterprise) | Settings → Connectors → *Add custom connector* → paste the `/mcp` URL |
+| **ChatGPT** (OpenAI) | ✅ Yes (Plus / Pro / Business / Enterprise / Edu) | Settings → Apps → Advanced → enable **Developer mode** → *Create* → server URL |
+| **Gemini app** (Google) | ✅ Yes (Gemini Spark; US-only, 18+, personal account, English) | gemini.google.com → Settings & help → Connected Apps → *custom apps for Spark* → MCP URL |
+| **Gemini API / CLI / Enterprise** | ✅ Yes | Add to the Gemini CLI MCP config or a Managed Agent |
+| **DeepSeek** | ❌ Not in the official app/site | Only via third-party MCP clients (Cursor, Cline, …) or its API |
+
+Add the server on the **web** UI of these apps; once connected it also works in
+their mobile apps (settings sync). Write actions require confirmation; this
+server is read-only.
 
 ## Ayanamsa accuracy & validation
 
