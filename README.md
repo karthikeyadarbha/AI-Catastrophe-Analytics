@@ -6,6 +6,13 @@
 
 ---
 
+> ## ⚠️ Audit notice (October 2026)
+> An independent audit found that the risk labels below are **not supported**: once the features use true
+> planetary positions and the training examples are matched, the model scores at chance (AUC about 0.50).
+> See [`docs/audit/README_AUDIT.md`](docs/audit/README_AUDIT.md) for the findings, the corrected pipeline in
+> [`analysis/tgsai_corrected/`](analysis/tgsai_corrected/) and the two full reports.
+
+
 ## 📖 Executive Summary
 The **TG-SAI** is a high-performance predictive system designed to identify windows of extreme seismic risk. Unlike traditional global models, this engine uses **Topocentric Physics** to calculate the exact gravitational lift and torque exerted on specific tectonic coordinates by the Moon, Sun, and planets.
 

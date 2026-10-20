@@ -1,0 +1,4 @@
+model,n_features,AUC_5fold_CV,AUC_train<2008_test>=2008,AUC_shuffled_label_mean,AUC_shuffled_label_max
+"A: repo formulas (crude planets), instantaneous",7,0.501,0.505,0.492,0.513
+"B: true geocentric planets, instantaneous",7,0.505,0.489,0.489,0.515
+"C: B + Vedic features (Moon, tithi, mandala)",15,0.514,0.499,0.495,0.524
