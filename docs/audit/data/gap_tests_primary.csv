@@ -1,0 +1,41 @@
+test,set,n,observed,expected,ratio,p,threshold
+G1 formation 3+ planets in one nakshatra [sid],discovery,4661,173,186.2,0.929,0.8468029562820031,0.0025
+G1 formation 3+ planets in one nakshatra [sid],holdout,4707,191,162.0,1.179,0.012828472557125633,0.0025
+G2 Venus circle [sid],discovery,4661,744/645/707/674/871/875/145,,1.035,0.8378818040359146,0.0025
+G2 Venus circle [sid],holdout,4707,726/668/670/724/855/914/150,,1.038,0.9688496372646336,0.0025
+G1 formation 3+ planets in one nakshatra [trop],discovery,4661,164,155.6,1.054,0.25677189891294244,0.0025
+G1 formation 3+ planets in one nakshatra [trop],holdout,4707,176,165.6,1.063,0.21497011520788378,0.0025
+G2 Venus circle [trop],discovery,4661,701/696/780/661/793/822/208,,1.103,0.08059984462003197,0.0025
+G2 Venus circle [trop],holdout,4707,596/760/706/756/801/840/248,,1.064,0.31545687535339795,0.0025
+G3 Mars stationary,discovery,4661,83,91.2,0.91,0.8213239174452298,0.0025
+G3 Mars stationary,holdout,4707,118,90.1,1.309,0.002582141217997483,0.0025
+G3 Saturn in Krittika & Jupiter in Vishakha,discovery,4661,0,0.0,,1.0,0.0025
+G3 Saturn in Krittika & Jupiter in Vishakha,holdout,4707,0,0.0,,1.0,0.0025
+G4 any planet pair within 3 deg of opposition,discovery,4661,698,706.6,0.988,0.644102018551065,0.0025
+G4 any planet pair within 3 deg of opposition,holdout,4707,463,457.9,1.011,0.40849214367419834,0.0025
+G4 any planet pair within 3 deg of square,discovery,4661,1263,1230.3,1.027,0.1424599047208814,0.0025
+G4 any planet pair within 3 deg of square,holdout,4707,1238,1252.0,0.989,0.6827572381580462,0.0025
+G4 any planet pair within 3 deg of trine,discovery,4661,1121,1094.4,1.024,0.18298998431114308,0.0025
+G4 any planet pair within 3 deg of trine,holdout,4707,1108,1123.7,0.986,0.7092196420422883,0.0025
+G5 Rahu nakshatra,discovery,4661,218/183/191/169/159/173/197/176/175/155/185/160/165/184/182/164/158/180/208/144/178/228/25/178/194/171/161,,1.282,0.000545231048191695,0.0025
+G5 Rahu nakshatra,holdout,4707,205/170/189/166/178/159/193/174/154/147/178/166/141/181/151/172/180/169/181/185/191/164/238/197/182/138/158,,1.19,0.018797898361838962,0.0025
+G5 Moon within 12 deg of node axis,discovery,4661,638,625.1,1.021,0.29638240394578724,0.0025
+G5 Moon within 12 deg of node axis,holdout,4707,631,630.3,1.001,0.4953267076540755,0.0025
+G6 Moon in same nakshatra as any of 5 planets,discovery,4661,797,771.7,1.033,0.16421510245405616,0.0025
+G6 Moon in same nakshatra as any of 5 planets,holdout,4707,821,769.2,1.067,0.022364223573151466,0.0025
+G6 Moon in same nakshatra as Mars or Saturn,discovery,4661,344,343.5,1.001,0.49706596528409713,0.0025
+G6 Moon in same nakshatra as Mars or Saturn,holdout,4707,359,337.2,1.065,0.11448629374569598,0.0025
+G7 Mars combust,discovery,4661,635,683.0,0.93,0.9784308538011643,0.0025
+G7 Mars combust,holdout,4707,734,760.5,0.965,0.8578830953121327,0.0025
+G7 Mercury combust,discovery,4661,2041,2022.0,1.009,0.2920571288761724,0.0025
+G7 Mercury combust,holdout,4707,2066,2034.0,1.016,0.17735705617847164,0.0025
+G7 Jupiter combust,discovery,4661,327,343.7,0.951,0.8321821298953437,0.0025
+G7 Jupiter combust,holdout,4707,351,343.5,1.022,0.3446185722917866,0.0025
+G7 Venus combust,discovery,4661,735,711.2,1.033,0.1716041218404503,0.0025
+G7 Venus combust,holdout,4707,741,741.5,0.999,0.5147120683890379,0.0025
+G7 Saturn combust,discovery,4661,404,445.2,0.908,0.9821295098870111,0.0025
+G7 Saturn combust,holdout,4707,425,419.1,1.014,0.38849378433715004,0.0025
+G7 two or more planets combust,discovery,4661,916,952.4,0.962,0.9103671728843397,0.0025
+G7 two or more planets combust,holdout,4707,1014,1015.2,0.999,0.5230898169547467,0.0025
+G9 affliction score (mean),discovery,4661,1.2976,1.305,0.994,0.7016976369121504,0.0025
+G9 affliction score (mean),holdout,4707,1.3327,1.3268,1.004,0.34958608932431223,0.0025

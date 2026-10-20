@@ -1,0 +1,8 @@
+test,observed,expected,ratio,p,note
+Moon in sharp group,12,14.9,0.80,0.830,100 megaquakes 1900-2025; background uniform over the same years
+Sun in Visakha,7,3.6,1.93,0.072,
+Moon within 5 deg of Sun/planet,13,14.6,0.89,0.715,
+Moon within 12 deg of new/full moon,16,13.1,1.22,0.235,
+PT mandala by Moon nakshatra,"27/29/28/16","22.3/29.4/25.9/22.4",,0.391,chi-square
+BS mandala by Moon nakshatra,"34/27/21/18","26.0/25.7/22.2/26.1",,0.163,chi-square
+RandomForest 5-fold CV AUC vs matched random times (10 repeats),mean 0.527,,,,min 0.495 max 0.571; shuffled-label mean 0.495 max 0.555
