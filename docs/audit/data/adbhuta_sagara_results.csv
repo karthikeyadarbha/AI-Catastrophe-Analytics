@@ -1,0 +1,66 @@
+data_set,test,n,observed,expected,ratio,p,threshold,passes
+Modern M5.5+ all,"T1 circles, Brihaspati lists",9368,2119/2481/2366/2402,2087/2425/2432/2424,1.023,0.2927918270267852,0.0038,False
+Modern M5.5+ all,"T2 circles, compiler's summary lists",9004,2485/2117/2000/2402,2428/2074/2082/2419,1.023,0.1354395851406656,0.0038,False
+Modern M5.5+ all,"T3 circles, Parashara as quoted",9368,2076/2843/2409/2040,2085/2772/2434/2077,1.025,0.43447745318144326,0.0038,False
+Modern M5.5+ all,T4 Moon in a disputed nakshatra,9368,1423,1392.3,1.022,0.19004717826968542,0.0038,False
+Modern M5.5+ all,"T5 yama-clock circle (day forward, night reversed)",9321,2366/2321/2328/2306,2299/2335/2332/2355,1.029,0.38576740145470223,0.0038,False
+Modern M5.5+ all,T6 yama circle = nakshatra circle (BS lists),9321,2347,2343.8,1.001,0.4735561722571036,0.0038,False
+Modern M5.5+ all,T7 yama circle = nakshatra circle (Brihaspati lists),9321,2342,2344.3,0.999,0.5261034866128267,0.0038,False
+Modern M5.5+ all,T8 twilight (within 48 min of sunrise or sunset),9321,1286,1248.2,1.03,0.1284339888638427,0.0038,False
+Modern M5.5+ all,"T3b circles, Parashara exactly as quoted (P.Ashadha unlisted)",9006,2076/2481/2409/2040,2082/2421/2430/2073,1.025,0.5336537113820339,0.0038,False
+Modern M5.5+ all,"T5b yama-clock circle (night in same order as day: Matsya, Vishnudharmottara)",9321,2284/2356/2293/2388,2283/2326/2340/2372,1.013,0.6945144307689959,0.0038,False
+Modern M5.5+ all,T6b same-order yama circle = nakshatra circle (BS lists),9321,2362,2307.0,1.024,0.0955257613115806,0.0038,False
+Modern M5.5+ all,T7b same-order yama circle = nakshatra circle (Brihaspati lists),9321,2352,2306.8,1.02,0.14168434110259207,0.0038,False
+Modern M5.5+ all,T9 Bhargava felt-distance order vs magnitude,9368,rho=-0.0182,,,0.9611637885184433,0.0038,False
+Modern M5.5+ 1990-2007 discovery,"T1 circles, Brihaspati lists",4661,1052/1254/1142/1213,1041/1208/1207/1205,1.038,0.1429540617738074,0.0038,False
+Modern M5.5+ 1990-2007 discovery,"T2 circles, compiler's summary lists",4467,1239/1060/955/1213,1209/1030/1028/1199,1.029,0.07211939164586925,0.0038,False
+Modern M5.5+ 1990-2007 discovery,"T3 circles, Parashara as quoted",4661,1017/1436/1177/1031,1041/1379/1206/1035,1.042,0.2975339850750628,0.0038,False
+Modern M5.5+ 1990-2007 discovery,T4 Moon in a disputed nakshatra,4661,706,695.3,1.015,0.3365012558957017,0.0038,False
+Modern M5.5+ 1990-2007 discovery,"T5 yama-clock circle (day forward, night reversed)",4640,1161/1188/1141/1150,1174/1133/1168/1165,1.048,0.3066955424527305,0.0038,False
+Modern M5.5+ 1990-2007 discovery,T6 yama circle = nakshatra circle (BS lists),4640,1192,1156.9,1.03,0.12012516913870958,0.0038,False
+Modern M5.5+ 1990-2007 discovery,T7 yama circle = nakshatra circle (Brihaspati lists),4640,1190,1147.3,1.037,0.07599371413300497,0.0038,False
+Modern M5.5+ 1990-2007 discovery,T8 twilight (within 48 min of sunrise or sunset),4640,632,621.0,1.018,0.3231452973738716,0.0038,False
+Modern M5.5+ 1990-2007 discovery,"T3b circles, Parashara exactly as quoted (P.Ashadha unlisted)",4479,1017/1254/1177/1031,1039/1205/1203/1032,1.041,0.3897937275064091,0.0038,False
+Modern M5.5+ 1990-2007 discovery,"T5b yama-clock circle (night in same order as day: Matsya, Vishnudharmottara)",4640,1129/1166/1163/1182,1186/1146/1156/1153,1.025,0.27303529420728856,0.0038,False
+Modern M5.5+ 1990-2007 discovery,T6b same-order yama circle = nakshatra circle (BS lists),4640,1156,1148.4,1.007,0.403200551860239,0.0038,False
+Modern M5.5+ 1990-2007 discovery,T7b same-order yama circle = nakshatra circle (Brihaspati lists),4640,1153,1142.0,1.01,0.35941200206204615,0.0038,False
+Modern M5.5+ 1990-2007 discovery,T9 Bhargava felt-distance order vs magnitude,4661,rho=-0.0128,,,0.808620652963962,0.0038,False
+Modern M5.5+ 2008-2026 holdout,"T1 circles, Brihaspati lists",4707,1067/1227/1224/1189,1046/1221/1223/1216,1.02,0.7878670478871393,0.0038,False
+Modern M5.5+ 2008-2026 holdout,"T2 circles, compiler's summary lists",4537,1246/1057/1045/1189,1224/1046/1049/1218,1.018,0.7521192705675441,0.0038,False
+Modern M5.5+ 2008-2026 holdout,"T3 circles, Parashara as quoted",4707,1059/1407/1232/1009,1044/1398/1226/1039,1.014,0.7545884879989715,0.0038,False
+Modern M5.5+ 2008-2026 holdout,T4 Moon in a disputed nakshatra,4707,717,699.1,1.026,0.23731392963288672,0.0038,False
+Modern M5.5+ 2008-2026 holdout,"T5 yama-clock circle (day forward, night reversed)",4681,1205/1133/1187/1156,1174/1164/1173/1170,1.026,0.582836936996034,0.0038,False
+Modern M5.5+ 2008-2026 holdout,T6 yama circle = nakshatra circle (BS lists),4681,1155,1164.8,0.992,0.6349373704780918,0.0038,False
+Modern M5.5+ 2008-2026 holdout,T7 yama circle = nakshatra circle (Brihaspati lists),4681,1152,1154.9,0.998,0.5442102943538634,0.0038,False
+Modern M5.5+ 2008-2026 holdout,T8 twilight (within 48 min of sunrise or sunset),4681,654,640.3,1.021,0.28571005151390655,0.0038,False
+Modern M5.5+ 2008-2026 holdout,"T3b circles, Parashara exactly as quoted (P.Ashadha unlisted)",4527,1059/1227/1232/1009,1043/1220/1225/1039,1.015,0.7616811484584267,0.0038,False
+Modern M5.5+ 2008-2026 holdout,"T5b yama-clock circle (night in same order as day: Matsya, Vishnudharmottara)",4681,1155/1190/1130/1206,1191/1179/1158/1153,1.046,0.22983010411740604,0.0038,False
+Modern M5.5+ 2008-2026 holdout,T6b same-order yama circle = nakshatra circle (BS lists),4681,1206,1170.2,1.031,0.11727795299908166,0.0038,False
+Modern M5.5+ 2008-2026 holdout,T7b same-order yama circle = nakshatra circle (Brihaspati lists),4681,1199,1161.9,1.032,0.10787617140387991,0.0038,False
+Modern M5.5+ 2008-2026 holdout,T9 Bhargava felt-distance order vs magnitude,4707,rho=-0.0238,,,0.9489883604751569,0.0038,False
+Older set 1 (1964-1989),"T1 circles, Brihaspati lists",6111,1376/1551/1605/1579,1354/1586/1583/1588,1.016,0.6834938470673386,0.0038,False
+Older set 1 (1964-1989),"T2 circles, compiler's summary lists",5879,1596/1319/1385/1579,1578/1358/1356/1587,1.022,0.571957145465809,0.0038,False
+Older set 1 (1964-1989),"T3 circles, Parashara as quoted",6111,1363/1770/1618/1360,1361/1810/1576/1364,1.027,0.563620990070284,0.0038,False
+Older set 1 (1964-1989),T4 Moon in a disputed nakshatra,6111,892,907.0,0.983,0.710066566714844,0.0038,False
+Older set 1 (1964-1989),"T5 yama-clock circle (day forward, night reversed)",6093,1458/1581/1506/1548,1536/1518/1495/1544,1.041,0.08490148406469718,0.0038,False
+Older set 1 (1964-1989),T6 yama circle = nakshatra circle (BS lists),6093,1467,1540.6,0.952,0.9858147647174885,0.0038,False
+Older set 1 (1964-1989),T7 yama circle = nakshatra circle (Brihaspati lists),6093,1470,1531.9,0.96,0.9676665235637986,0.0038,False
+Older set 1 (1964-1989),T8 twilight (within 48 min of sunrise or sunset),6093,771,834.7,0.924,0.9921465488038615,0.0038,False
+Older set 1 (1964-1989),"T3b circles, Parashara exactly as quoted (P.Ashadha unlisted)",5892,1363/1551/1618/1360,1362/1587/1577/1365,1.026,0.5920829570950858,0.0038,False
+Older set 1 (1964-1989),"T5b yama-clock circle (night in same order as day: Matsya, Vishnudharmottara)",6093,1484/1591/1496/1522,1532/1523/1490/1548,1.045,0.17031229904832693,0.0038,False
+Older set 1 (1964-1989),T6b same-order yama circle = nakshatra circle (BS lists),6093,1542,1536.4,1.004,0.4388944439849084,0.0038,False
+Older set 1 (1964-1989),T7b same-order yama circle = nakshatra circle (Brihaspati lists),6093,1543,1528.8,1.009,0.34208178695292163,0.0038,False
+Older set 1 (1964-1989),T9 Bhargava felt-distance order vs magnitude,6111,rho=-0.0041,,,0.6262052841884375,0.0038,False
+Older set 2 (1900-1963),"T1 circles, Brihaspati lists",670,137/193/159/181,148/174/173/174,1.106,0.2326741202634532,0.0038,False
+Older set 2 (1900-1963),"T2 circles, compiler's summary lists",639,166/162/130/181,171/148/147/172,1.093,0.272103870552112,0.0038,False
+Older set 2 (1900-1963),"T3 circles, Parashara as quoted",670,139/220/157/154,148/199/173/149,1.103,0.22206303052928594,0.0038,False
+Older set 2 (1900-1963),T4 Moon in a disputed nakshatra,670,98,99.1,0.989,0.5624899384948717,0.0038,False
+Older set 2 (1900-1963),"T5 yama-clock circle (day forward, night reversed)",669,166/178/162/163,167/167/169/167,1.068,0.7677717264991057,0.0038,False
+Older set 2 (1900-1963),T6 yama circle = nakshatra circle (BS lists),669,182,166.3,1.094,0.08784359088668996,0.0038,False
+Older set 2 (1900-1963),T7 yama circle = nakshatra circle (Brihaspati lists),669,181,166.5,1.087,0.10537817703627311,0.0038,False
+Older set 2 (1900-1963),T8 twilight (within 48 min of sunrise or sunset),669,96,89.9,1.067,0.26171013040637214,0.0038,False
+Older set 2 (1900-1963),"T3b circles, Parashara exactly as quoted (P.Ashadha unlisted)",643,139/193/157/154,148/174/173/149,1.11,0.2364409433035869,0.0038,False
+Older set 2 (1900-1963),"T5b yama-clock circle (night in same order as day: Matsya, Vishnudharmottara)",669,160/168/172/169,166/167/168/167,1.021,0.950105725680196,0.0038,False
+Older set 2 (1900-1963),T6b same-order yama circle = nakshatra circle (BS lists),669,167,166.1,1.006,0.4812891062526471,0.0038,False
+Older set 2 (1900-1963),T7b same-order yama circle = nakshatra circle (Brihaspati lists),669,165,166.1,0.994,0.5530872751182686,0.0038,False
+Older set 2 (1900-1963),T9 Bhargava felt-distance order vs magnitude,670,rho=-0.0330,,,0.8029944108749045,0.0038,False
