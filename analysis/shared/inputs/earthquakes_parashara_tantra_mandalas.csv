@@ -1,0 +1,16 @@
+Event,UTC,Lat,Lon,Mag,Deaths,Loss_bn,Lunar_Syzygy,Saturn_Align,Jupiter_Align,Mars_Align,Lunar_Perigee,Lunar_Zenith,Solar_Zenith,TGSAI_Prob_repo,TGSAI_Prob_consistent,Depth_km_approx,Moon_Nakshatra,Moon_in_Anila,Moon_Nak,BS_Mandala,UserList_Anila,LocalSolarHour,Time_Mandala,PT_Mandala_Skt,PT_Mandala_EngPrinted,DayNight,PT_Time_Mandala,Nak_vs_Time_agree
+Sumatra 2004,2004-12-26 00:58:53,3.316,95.854,9.1,230000,,0.989,0.9,0.019,0.379,0.626,1.0,0.894,79.6,62.9,30,Mrigashirsha,0,Mrigashira,Vayu,False,7.4,Vayu,Indra,Indra,day,Anila,False
+Haiti 2010,2010-01-12 21:53:10,18.443,-72.571,7.0,220000,,0.811,0.161,0.535,0.97,0.85,0.92,0.766,25.8,20.0,13,Mula,0,Mula,Varuna,False,17.0,Agni,Varuna,Varuna,day,Varuna,True
+Sichuan 2008,2008-05-12 06:28:01,31.002,103.322,7.9,87587,130.0,0.997,0.139,0.403,0.089,1.0,0.998,0.975,50.7,9.1,19,Ashlesha,0,Ashlesha,Varuna,False,13.4,Agni,Varuna,Varuna,day,Indra,False
+Kashmir 2005,2005-10-08 03:50:40,34.539,73.588,7.6,73000,,1.0,0.176,0.95,0.959,0.738,0.885,0.789,70.1,19.3,26,Jyeshtha,0,Jyeshtha,Indra,False,8.8,Vayu,Indra,Indra,day,Anila,False
+Turkey-Syria 2023,2023-02-06 01:17:35,37.174,37.032,7.8,59500,163.0,0.998,0.971,0.273,0.783,0.3,0.986,0.603,71.4,37.3,18,Ashlesha,0,Ashlesha,Varuna,False,3.8,Varuna,Varuna,Varuna,night,Varuna,True
+Bam 2003,2003-12-26 01:56:52,29.004,58.337,6.6,20000,,0.997,0.99,0.181,0.519,1.0,0.746,0.61,42.4,1.1,8,Shravana,0,Shravana,Indra,False,5.8,Varuna,Indra,Indra,night,Varuna,False
+Bhuj 2001,2001-01-26 03:16:40,23.419,70.232,7.7,20000,,1.0,0.253,0.431,0.159,0.299,0.763,0.742,46.3,9.9,20,Dhanishta,1,Dhanishta,Indra,True,8.0,Vayu,Anila,Anila,day,Anila,True
+Tohoku 2011,2011-03-11 05:46:23,38.297,142.373,9.0,19700,360.0,1.0,0.849,0.84,0.966,0.314,0.961,0.741,85.2,63.2,29,Krittika,0,Krittika,Agni,False,15.3,Agni,Anala,Anala,day,Varuna,False
+Izmit 1999,1999-08-17 00:01:39,40.748,29.864,7.6,17480,17.0,0.999,0.049,0.249,0.477,0.797,0.921,0.905,61.0,22.4,15,Swati,1,Svati,Vayu,True,2.0,Varuna,Anila,Anila,night,Indra,False
+Nepal 2015,2015-04-25 06:11:26,28.231,84.731,7.8,8964,10.0,1.0,0.807,0.175,0.865,0.886,0.986,0.965,67.6,32.5,8,Punarvasu,0,Punarvasu,Vayu,False,11.8,Agni,Indra,Unassigned,day,Anala,False
+Venezuela 2026,2026-06-24 22:05:11,10.435,-68.472,7.5,6509,37.0,0.508,0.03,0.751,0.256,0.84,1.0,0.975,15.3,8.4,10,Swati,1,Svati,Vayu,True,17.5,Agni,Anila,Anila,day,Varuna,False
+Java 2006,2006-05-26 22:53:58,-7.961,110.446,6.3,5700,,0.999,0.159,0.938,0.046,1.0,1.0,0.883,83.7,10.8,12,Krittika,0,Krittika,Agni,False,6.3,Vayu,Anala,Anala,day,Anila,False
+Sulawesi 2018,2018-09-28 10:02:45,-0.178,119.84,7.5,4300,,0.999,0.026,0.351,0.89,0.619,1.0,1.0,45.9,11.3,20,Bharani,0,Bharani,Agni,False,18.0,Indra,Anala,Anala,night,Anila,False
+Myanmar 2025,2025-03-28 06:20:52,22.013,95.922,7.7,3700,,0.922,0.973,0.047,0.647,0.91,0.903,0.946,26.7,23.2,10,P.Bhadrapada,0,Purva Bhadrapada,Agni,False,12.7,Agni,Anala,Anala,day,Indra,False
+Morocco 2023,2023-09-08 22:11:01,31.055,-8.396,6.9,2960,7.0,0.724,0.988,0.43,0.679,0.878,0.998,0.92,30.4,36.6,18,Ardra,0,Ardra,Varuna,False,21.6,Indra,Varuna,Varuna,night,Anala,False

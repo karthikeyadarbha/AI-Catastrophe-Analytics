@@ -7,3 +7,7 @@ src/mega_quake_risk.db
 src/mega_quake_unified.db
 src/mega_quake_unified.db.wal
 src/mega_eq_distribution.ipynb
+
+# analysis scratch folder (inputs and results are generated here)
+analysis/workdir/
+__pycache__/

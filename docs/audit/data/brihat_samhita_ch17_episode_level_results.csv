@@ -1,0 +1,7 @@
+data_set,conjunction_episodes,episodes_with_quake,expected_by_chance,p_permutation
+Modern M5.5+ all (1990-2026),20,14,10.1,0.0522
+Modern M5.5+ M6.5 and above only,20,2,2.0,0.6024
+Modern M5.5+ 2008-2026 holdout,11,9,5.3,0.0219
+Modern M5.5+ 1990-2007 discovery,9,5,4.8,0.5829
+Older set 1 (1964-1989),15,6,7.1,0.8066
+Older set 2 (1900-1963),35,3,1.2,0.1126

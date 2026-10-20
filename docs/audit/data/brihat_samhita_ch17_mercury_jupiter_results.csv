@@ -1,0 +1,21 @@
+data_set,test,n,observed,expected,ratio,p,threshold,passes
+Modern M5.5+ all,C1 Mercury-Jupiter within 1 deg (planetary war),9368,28,16.2,1.732,0.004672232384273873,0.0125,True
+Modern M5.5+ all,"C2 same, Mercury defeated (the southern one)",9368,6,5.2,1.15,0.42188248870978196,0.0125,False
+Modern M5.5+ all,C3 within 5 deg,9368,277,274.7,1.008,0.4525024082232063,0.0125,False
+Modern M5.5+ all,"C4 within 5 deg, Mercury the southern one",9368,137,155.3,0.882,0.9378101296795269,0.0125,False
+Modern M5.5+ 1990-2007 discovery,C1 Mercury-Jupiter within 1 deg (planetary war),4661,9,7.8,1.157,0.37660188793267707,0.0125,False
+Modern M5.5+ 1990-2007 discovery,"C2 same, Mercury defeated (the southern one)",4661,1,3.2,0.314,0.9585547038524348,0.0125,False
+Modern M5.5+ 1990-2007 discovery,C3 within 5 deg,4661,115,132.9,0.865,0.9503144481754168,0.0125,False
+Modern M5.5+ 1990-2007 discovery,"C4 within 5 deg, Mercury the southern one",4661,67,85.7,0.781,0.9847953693153666,0.0125,False
+Modern M5.5+ 2008-2026 holdout,C1 Mercury-Jupiter within 1 deg (planetary war),4707,19,8.2,2.314,0.000867106878957995,0.0125,True
+Modern M5.5+ 2008-2026 holdout,"C2 same, Mercury defeated (the southern one)",4707,5,1.9,2.657,0.04257143962186242,0.0125,False
+Modern M5.5+ 2008-2026 holdout,C3 within 5 deg,4707,162,142.5,1.137,0.055120525866448986,0.0125,False
+Modern M5.5+ 2008-2026 holdout,"C4 within 5 deg, Mercury the southern one",4707,70,70.3,0.996,0.5308429188885879,0.0125,False
+Older set 1 (1964-1989),C1 Mercury-Jupiter within 1 deg (planetary war),6111,8,10.5,0.765,0.8183383502116988,0.0125,False
+Older set 1 (1964-1989),"C2 same, Mercury defeated (the southern one)",6111,1,3.9,0.259,0.978974477987381,0.0125,False
+Older set 1 (1964-1989),C3 within 5 deg,6111,197,182.4,1.08,0.14524842162865706,0.0125,False
+Older set 1 (1964-1989),"C4 within 5 deg, Mercury the southern one",6111,104,96.7,1.076,0.2396000381578363,0.0125,False
+Older set 2 (1900-1963),C1 Mercury-Jupiter within 1 deg (planetary war),670,3,1.2,2.42,0.1290726272365906,0.0125,False
+Older set 2 (1900-1963),"C2 same, Mercury defeated (the southern one)",670,1,0.8,1.183,0.5709129683013073,0.0125,False
+Older set 2 (1900-1963),C3 within 5 deg,670,17,19.8,0.857,0.772413645316294,0.0125,False
+Older set 2 (1900-1963),"C4 within 5 deg, Mercury the southern one",670,7,12.1,0.577,0.9585772985374674,0.0125,False
