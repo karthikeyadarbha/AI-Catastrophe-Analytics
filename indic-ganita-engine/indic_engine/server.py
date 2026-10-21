@@ -101,5 +101,11 @@ def rohini_bheda(jd_ut: float, planet: str, window_deg: float = 1.0, rule: str =
     lat = _lt.moon_latitude(t["Moon"], t["MoonNode"]) if planet == "Moon" else _lt.planet_latitude(planet, jd_ut)
     return json.dumps({"longitude": t[planet], "latitude": lat, "bheda": _oc.rohini_sakata_bheda(t[planet], lat, window_deg, rule)})
 
+@mcp.tool()
+def drk_positions(jd_ut: float, interior_variant: str = "H") -> str:
+    """Positions by Paramesvara's Drgganita (1431 CE): mean and true nirayana longitudes in the Drk frame. interior_variant H (default) = sighra then manda for Mercury/Venus; A = manda then sighra."""
+    from .compute import drk
+    return json.dumps(drk.planet_positions(jd_ut, interior_variant), ensure_ascii=False, indent=1)
+
 def main(): mcp.run()
 if __name__ == "__main__": main()
