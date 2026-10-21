@@ -127,4 +127,4 @@ This report identifies the highest-risk gravitational anomalies for the next fiv
 ## Astral MCP server (platform)
 The ephemeris platform behind the Vedic-astrology experiments lives in [`astral-mcp-server/`](astral-mcp-server/) (MIT licence). The experiment code is in [`analysis/`](analysis/) and the reports in [`docs/audit/`](docs/audit/).
 
-The Indian-method platform (Āryabhaṭīya, Tantrasaṅgraha, Gaṇitayuktibhāṣā: a verse-referenced rule registry plus a computation engine) lives in [`indic-ganita-engine/`](indic-ganita-engine/) (MIT licence, frozen v1.0.0, see its `FREEZE.md`).
+The Indian-method platform (Āryabhaṭīya, Tantrasaṅgraha, Gaṇitayuktibhāṣā: a verse-referenced rule registry plus a computation engine) lives in [`indic-ganita-engine/`](indic-ganita-engine/) (MIT licence, frozen v1.1.0, see its `FREEZE.md`).

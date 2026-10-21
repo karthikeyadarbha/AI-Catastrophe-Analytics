@@ -161,8 +161,8 @@
   "reference": "2.24",
   "title": "Tithi, nakshatra, yoga from true longitudes",
   "formula": "tithi=(Moon-Sun)/12",
-  "implemented_by": "-",
-  "status": "registered-only",
+  "implemented_by": "compute.panchanga",
+  "status": "implemented",
   "pdf_pages": null,
   "sanskrit": null,
   "sanskrit_verified": false,
@@ -175,13 +175,13 @@
   "reference": "3.15",
   "title": "Motion of the equinoxes (trepidation)",
   "formula": "+-27 degrees, 54\"/yr, period 3600 years",
-  "implemented_by": "-",
-  "status": "registered-only",
+  "implemented_by": "compute.ayanamsa (treatise models)",
+  "status": "implemented",
   "pdf_pages": null,
   "sanskrit": null,
   "sanskrit_verified": false,
   "gloss": "",
-  "notes": "Zero epoch is NOT stated in the text; the Surya-siddhanta tradition uses Saka 444 (522 CE). Needs an external input, so not in the frozen core."
+  "notes": "Text states no zero epoch. v1.1.0: the Source Book ch.14 supplies the epochs and models used by the Indian tradition (Kali 3600 = 499 CE for the Aryabhata school and Suryasiddhanta; see SB.14.AY.*), implemented as selectable models, not as a single TS value."
  },
  {
   "id": "TS.4-6.eclipse",
