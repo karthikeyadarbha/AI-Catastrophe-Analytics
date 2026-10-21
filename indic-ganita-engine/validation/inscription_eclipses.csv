@@ -1,0 +1,17 @@
+event,indic_dt_hours,indic_found,indic_weekday,kind,modern_date,modern_jd,modern_time,modern_weekday,node_sin,note,stated_weekday
+Kalachuri 880 = 1128 CE,-0.1288842111825943,True,Thu,L,1128-11-08,2133372.3701060694,02:22 IST,Thu,0.005,"full moon of Karttika, 3rd quarter of night, Moon in Rohini, total",Thu
+Saka 1119 = 1197 CE,,,,L,no eclipse-possible syzygy in window,,,,,full moon of Margasirsa,
+Saka 1151/52 = 1230-31 CE,-0.12242911756038666,True,Sun,L,1229-12-02,2170285.917395995,15:31 IST,Sun,0.019,bright half of Margasirsa,Thu
+Saka 1151/52 = 1230-31 CE,0.032818302512168884,True,Tue,L,1230-05-28,2170463.1140731405,20:14 IST,Tue,0.068,bright half of Margasirsa,Thu
+Saka 1151/52 = 1230-31 CE,-0.08224558085203171,True,Fri,L,1230-11-22,2170640.565019644,07:03 IST,Fri,0.12,bright half of Margasirsa,Thu
+Kalachuri 322 = 580 CE,-0.19056454673409462,True,Mon,S,0580-04-29,1933022.2374732383,23:11 IST,Mon,0.037,new moon of Caitra,
+Kalachuri 404 = 662 CE,-0.3489503748714924,True,Mon,S,0662-05-23,1962995.7968691355,12:37 IST,Mon,0.21,dark half of Asadha,
+Kalachuri 404 = 662 CE,-0.5021930895745754,True,Tue,S,0662-06-21,1963025.1537123024,21:11 IST,Tue,0.299,dark half of Asadha,
+Saka 1113 (current year 1191-92; Source Book gives A.D. 1192),-0.0035257190465927124,True,Sun,S,1191-06-23,2156243.973498795,16:51 IST,Sun,0.087,new moon of Jyestha,Sun
+"Saka 1113, book year 1192 window",-0.07218419015407562,True,Thu,S,1192-06-11,2156598.1743415054,21:41 IST,Thu,0.057,"same inscription, using the Source Book year as printed",Sun
+Saka 1151/52 = 1230-31 CE,-0.15629032999277115,True,Fri,S,1229-06-22,2170123.2847205866,00:19 IST,Fri,0.176,"new moon, Moon/Sun in Karkataka",
+Saka 1151/52 = 1230-31 CE,0.19655732810497284,True,Sat,S,1229-11-17,2170271.1122781634,20:11 IST,Sat,0.292,"new moon, Moon/Sun in Karkataka",
+Saka 1151/52 = 1230-31 CE,0.09796495735645294,True,Mon,S,1229-12-17,2170300.9426724333,16:07 IST,Mon,0.259,"new moon, Moon/Sun in Karkataka",
+Saka 1151/52 = 1230-31 CE,-0.11968092620372772,True,Tue,S,1230-05-14,2170448.693742507,10:08 IST,Tue,0.185,"new moon, Moon/Sun in Karkataka",
+Saka 1151/52 = 1230-31 CE,-0.052581220865249634,True,Wed,S,1230-11-06,2170625.142794634,20:55 IST,Wed,0.167,"new moon, Moon/Sun in Karkataka",
+Saka 1151/52 = 1230-31 CE,-0.09478401392698288,True,Sat,S,1231-05-03,2170803.301137452,00:43 IST,Sat,0.036,"new moon, Moon/Sun in Karkataka",
