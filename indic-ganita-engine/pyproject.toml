@@ -1,6 +1,6 @@
 [project]
 name = "indic-ganita-engine"
-version = "1.2.0"
+version = "1.3.0"
 description = "Sibling MCP server: verse-referenced rule registry and Indian-method planetary computation (Aryabhatiya, Tantrasangraha, Ganita-yukti-bhasa)"
 requires-python = ">=3.10"
 dependencies = ["mcp<2", "numpy"]

@@ -1,6 +1,6 @@
-# FREEZE – indic-ganita-engine v1.2.0
+# FREEZE – indic-ganita-engine v1.3.0
 
-**Frozen on 2026-10-21, before it is applied to Experiment 1 or Experiment 2.** v1.1.0 only added modules and v1.2.0 only changes the Chandrahari ayanāṃśa anchor; the v1.0.0 computation (positions, Rsine, series) is unchanged. After this point, any change to a file listed in the manifest below requires a new version number and a note here. Results from the experiments must cite this version and the combined hash.
+**Frozen on 2026-10-21, before it is applied to Experiment 1 or Experiment 2.** v1.1.0 and v1.3.0 only add modules, and v1.2.0 only changed the Chandrahari ayanāṃśa anchor; the v1.0.0 computation (positions, Rsine, series) is unchanged. After this point, any change to a file listed in the manifest below requires a new version number and a note here. Results from the experiments must cite this version and the combined hash.
 
 ## What is frozen
 - Primary configuration: `param="TS"` (Tantrasaṅgraha parameters), `scheme="madhava"` (Mādhava Rsine table, R = 3437′44″48‴).
@@ -50,12 +50,25 @@ Standard deviation of (Indic − modern) in degrees, 2000–2003, TS: Sun 0.17, 
 - Interpretation choice 12: the book's printed "+" signs at J0/J100/J200 in his tables are read as negative (standard convention); with that reading the match above holds.
 - OCR coverage: Chapters III.5, IV and parts of V were read; the remaining chapters (stellar identification, Mūla/Yogatārā evidence, appendices) were not read in this version.
 
+## Added in v1.3.0 (source: Dṛggaṇita of Parameśvara, ed. K. V. Sarma 1963)
+- **`compute/drk.py`**: the Kerala Dṛk system of 1431 CE: ahargaṇa from the Śaka year, mean longitudes from (revolutions, correction, dhruva) triples for nine bodies, revised apsides, 15-point equation tables (manda for 7 bodies, śīghra in two halves for 5 planets), four-step true longitudes. Rules in `rules/data/drgganita.json` (17 rules, 14 implemented, 3 registered only). Server tool `drk_positions`.
+- **Checks that passed**: Meṣa-saṃkrānti ahargaṇa for Śaka 1924 equals the book's example plus 90 days; implied mean periods agree with the Āryabhaṭīya-derived values already in the engine to 4–5 digits (Jupiter 4332.32 vs 4332.27, Venus 224.699 vs 224.698); the Dṛk mean Sun meets the tropical mean Sun in AD 522.2, which is the Parahita zero point (Kali 3623) stated in the Chandra Hari book; table maxima match the TS ratios (Sun 129′, Moon 301′, Mars 707′ vs 710′).
+- **Result against a modern ephemeris (1000–2200 CE, `validation/validation_drk_2026-10.txt`)**: Dṛk and TS agree with each other around 1400 for Mars, Jupiter, Saturn. After 1450 Dṛk drifts (relative to its Sun, per century: Mars about −0.45°, Jupiter +0.6°, Saturn −0.9°) while TS stays within about 0.3°. For 2000: Dṛk sd Sun 0.18°, Moon 1.43°, Mars 1.51°, Mercury 2.53°, Jupiter 0.39°, Venus 3.49°, Saturn 1.13°; offsets Mars −2.0°, Jupiter +1.7°, Saturn −2.3°. TS offsets are within 0.5° for all. **For 1850–2025 data (the experiments) TS stays the primary engine; Dṛk is the cross-check and the right model for 1400s-era sky.**
+- The reference theory (myeph) is low precision and misses the Jupiter–Saturn great inequality, so Saturn before about 1700 is not reliable; comparisons between Dṛk and TS on the same reference are valid.
+## Interpretation choices added in v1.3.0
+12. Numerals were read from the Arabic figures printed above the Sanskrit; Sanskrit words were not transcribed (`sanskrit_verified` false).
+13. Venus Karkyādi 5th entry printed 2445, read 2645; Saturn Makaradi 14th entry printed 337, read 332 (editor's note). Both flagged in rule `DG.sighra.tables`.
+14. Mercury and Venus use "śīghra first, then manda" (variant H). The half-step wording of Part I ch.3 vv.20–21 is not fully clear; variants A (manda first) and B (literal half-steps) remain selectable and fit worse.
+15. Table interpolation is second order (the text's own rule for the inverse is registered only). Node direction taken from "cakrāt śuddhaḥ", unconfirmed.
+16. Saturn mandocca 236° (Dṛgg.) differs from the 240° of the TS parameter set; both kept in their own models.
+
 ## Manifest (SHA-256)
 ```
-cd5e18ea58043985038dece4ad8f94ca42b3acc61dc72f84123224b4a1c48fd3  indic_engine/__init__.py
+b37cbc03d689925490e8e49a5a57b29fef6d2ebd831301be8bf07a44b22ebfae  indic_engine/__init__.py
 a50087d855e41315033e900e636253fffcbbabb9af2618578bd61ec318df6dba  indic_engine/compute/__init__.py
 1c59f169a02815fa1580646bf90947808d34f33faca545c5f8ce1da8554338e6  indic_engine/compute/ayanamsa.py
 e0c206d30cd599eee247c86017b1c97cdd1219b462af529e609ffd3d85a1fa23  indic_engine/compute/conjunction.py
+ef4683dfd9256ce345baf389dfa7e84785c6d5a8424b075325177ba5516f888b  indic_engine/compute/drk.py
 0fad0df9537f6abce03c96a946c48fd054e21189ffe5e24fb08aa696b64f1ce0  indic_engine/compute/jya.py
 6d3530b31ef9c7835a1985fb12ccf03c19fa7fd9ccc3a29e6b69c46fb2c2e822  indic_engine/compute/latitude.py
 1bf8d2b218474e9926b398b74f318f7dffb97835c7af0db1efb94141b1c6076d  indic_engine/compute/occultation.py
@@ -67,11 +80,12 @@ f376404d17cbc0e314cc9b6e8f4add46e063dba6eacb681a0e2db55a112edcc7  indic_engine/c
 bf8d643aaf791dd9a45b4d79375caa6dab78cc0e7a27a461b6f7612ec58c0f1e  indic_engine/rules/__init__.py
 336c1a7515b75b4745280973951173e4880f0fc2fa8a5a25f4b0ad9ceb5bf36e  indic_engine/rules/data/aryabhatiya.json
 9c0fedeafbc5ad17579a3d6ef37fc6836a7b0b54016512907b35fe8a8d09f213  indic_engine/rules/data/concordance.json
+cc6b7267a53b1328d766efc73757385c1eb36227672268e1f80b1fb02c43a0f3  indic_engine/rules/data/drgganita.json
 c5fc1a0ee7d83a1628bc5bebed0ca1545793676ac0c776ad21ccaf41a4cb356c  indic_engine/rules/data/sourcebook.json
 0f897478aa84f86730034c92374c1b8dcf214ad3efaa03a31d52dfe34728d2f2  indic_engine/rules/data/tantrasangraha.json
 3a73514af28a28ce92f6b78199c2ba805268cfc551b4bae114e0d21214793f99  indic_engine/rules/data/yuktibhasa.json
 dc9ee49ce419d01d8d0a5c17416c1e4978bdd2a7bb0570b08b67dd094179fefe  indic_engine/rules/registry.py
-c1c23a909698fafbdd46e91f0e42f4c6b1c8d680c1c052074a6945ba340cfb6e  indic_engine/server.py
+af1d423a17416264f4a15965f1f7b818c371f5a955060ef7125675644cadcb3e  indic_engine/server.py
 ```
 
-Combined hash (indic_engine/*.py and *.json): a1b80bdc488bf2ca
+Combined hash (indic_engine/*.py and *.json): 6108f72593767f47

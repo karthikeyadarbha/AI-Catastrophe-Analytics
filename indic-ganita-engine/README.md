@@ -18,7 +18,7 @@ A sibling to `astral-mcp-server`. Where the astral server answers "where was the
 None of the three contains earthquake rules. Those are in Bṛhat Saṃhitā ch. 32, Adbhuta Sāgara and Parāśara Tantra; this platform supplies the Indian-method sky for testing them.
 
 ## Tools
-`list_sources`, `search_rules`, `get_rule`, `indic_positions`, `jya`, `madhava_series`, `compare_treatises`, `ayanamsa`, `compare_ayanamsas`, `panchanga`, `planet_latitudes`, `graha_yuddha`, `visibility`, `rohini_bheda`.
+`list_sources`, `search_rules`, `get_rule`, `indic_positions`, `jya`, `madhava_series`, `compare_treatises`, `ayanamsa`, `compare_ayanamsas`, `panchanga`, `planet_latitudes`, `graha_yuddha`, `visibility`, `rohini_bheda`, `drk_positions`.
 
 ## Run
 ```
@@ -31,3 +31,7 @@ See `FREEZE.md` for the frozen specification and known limits, and `validation/`
 
 ## Added source (v1.2.0)
 K. Chandra Hari, *Hindu Zodiac and Ancient Astronomy*: used for the primary definition of the Chandrahari ayanāṃśa and the Siddhantic zero-point discussion.
+
+
+## Added source (v1.3.0)
+Parameśvara, *Dṛggaṇita* (1431 CE), ed. K. V. Sarma (Hoshiarpur 1963): Kerala Dṛk constants, apsides and equation tables (`compute/drk.py`, `rules/data/drgganita.json`). Validation: `validation/validate_drk.py`.
