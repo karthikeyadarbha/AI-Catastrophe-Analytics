@@ -1,0 +1,95 @@
+[
+ {
+  "id": "GYB.VI.6.arctan",
+  "text": "Ganita-yukti-bhasa",
+  "reference": "Ch.VI s.6 Capikarana, book p.47",
+  "title": "Arc from Rsine (Madhava arctan series)",
+  "formula": "arc = R[ x - x^3/3 + x^5/5 - ... ], x = jya/kotijya, jya<=kotijya",
+  "implemented_by": "compute.series.madhava_arctan",
+  "status": "implemented",
+  "pdf_pages": [
+   102
+  ],
+  "sanskrit": "इष्टज्यात्रिज्ययोर्घाताद् कोट्याप्तं प्रथमं फलम् । ज्यावर्गं गुणकं कृत्वा कोटिवर्गश्च हारकम् ॥ प्रथमादिफलेभ्योऽथ नेया फलततिर्मुहुः । एकत्र्याद्योजसङ्ख्याभिः भक्तेष्वेतेष्वनुक्रमात् ॥ ओजानां संयुतेस्त्यक्त्वा युग्मयोगं धनुर्भवेत् ।",
+  "sanskrit_verified": true,
+  "gloss": "Multiply the given Rsine by the radius and divide by the Rcosine for the first term; repeatedly multiply by sine-squared and divide by cosine-squared; divide the terms by 1, 3, 5...; subtract the sum of even-numbered terms from the sum of odd-numbered terms to get the arc. Quoted in GYB from Tantrasangraha-vyakhya II.206-209.",
+  "notes": ""
+ },
+ {
+  "id": "GYB.VI.8.endcorr",
+  "text": "Ganita-yukti-bhasa",
+  "reference": "Ch.VI s.8 Paridhyanayane samskarah, book p.53",
+  "title": "Madhava end-correction (samskara) to the series",
+  "formula": "last term 1/(2m+1) replaced by (n/2)/(n^2+1), n=2m+2",
+  "implemented_by": "compute.series.madhava_arctan_corrected",
+  "status": "implemented",
+  "pdf_pages": [
+   108
+  ],
+  "sanskrit": "तस्या ऊर्ध्वगता या समसङ्ख्या तद्दलं गुणोन्ते स्यात् । तद्वर्गो रूपयुतो हारः",
+  "sanskrit_verified": true,
+  "gloss": "The even number above the last odd number, halved, is the multiplier at the end; its square plus one is the divisor.",
+  "notes": ""
+ },
+ {
+  "id": "GYB.VI.7.pi",
+  "text": "Ganita-yukti-bhasa",
+  "reference": "Ch.VI s.7, book p.48",
+  "title": "Circumference by the sqrt(12) series",
+  "formula": "C = sqrt(12 d^2) * (1 - 1/(3*3) + 1/(3^2*5) - ...)",
+  "implemented_by": "-",
+  "status": "registered-only",
+  "pdf_pages": [
+   103
+  ],
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Described in prose in the scan"
+ },
+ {
+  "id": "GYB.VII.5.rsine",
+  "text": "Ganita-yukti-bhasa",
+  "reference": "Ch.VII s.5 Istapradese jyanayanam, book pp.63-64",
+  "title": "Rsine at an arbitrary arc via bhujakhanda/kotikhanda corrections",
+  "formula": "Rsine of any arc from the 24 tabular values with proportional corrections; refers to TS II.10b",
+  "implemented_by": "compute.jya.jya",
+  "status": "implemented",
+  "pdf_pages": [
+   118,
+   119
+  ],
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": ""
+ },
+ {
+  "id": "GYB.VII.sine",
+  "text": "Ganita-yukti-bhasa",
+  "reference": "Ch.VII (accurate Rsine and Rcosine by series)",
+  "title": "Madhava sine and cosine series",
+  "formula": "Rsin s = s - s^3/(3!R^2) + s^5/(5!R^4) - ...; Rcos s = R - s^2/(2!R) + s^4/(4!R^3) - ...",
+  "implemented_by": "compute.series.madhava_sine / madhava_cosine",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Existence stated in the GYB introduction and in Tantrasangraha (Table 2.1 note). Exact Sanskrit verse page not located in this scan: marked unverified."
+ },
+ {
+  "id": "GYB.VIII.planetary",
+  "text": "Ganita-yukti-bhasa",
+  "reference": "Ch.VIII",
+  "title": "Rationale of mean/true planets, sighra and manda, three/four-step procedure",
+  "formula": "Earth-centred: sighra circle goes round Earth at the mean Sun's rate; mean planet on it; true planet on the mandocca circle",
+  "implemented_by": "compute.positions (algorithm)",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Rationale for the four-step procedure used in TS 2.26"
+ }
+]
