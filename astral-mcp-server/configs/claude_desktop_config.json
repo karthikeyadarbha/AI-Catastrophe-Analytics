@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "astral-ephemeris": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "<REPLACE_WITH_ABSOLUTE_PATH_TO_astral-mcp-server>",
+        "astral-ephemeris"
+      ]
+    }
+  }
+}

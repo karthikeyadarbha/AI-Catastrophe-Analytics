@@ -124,3 +124,5 @@ This report identifies the highest-risk gravitational anomalies for the next fiv
 ### **2. The Sumatra 2029 Perigee Surge**
 * **Mechanism:** The Moon reaches Perigee (closest approach) within 12 hours of the Full Moon.
 * **Tidal
+## Astral MCP server (platform)
+The ephemeris platform behind the Vedic-astrology experiments lives in [`astral-mcp-server/`](astral-mcp-server/) (MIT licence). The experiment code is in [`analysis/`](analysis/) and the reports in [`docs/audit/`](docs/audit/).

@@ -2,6 +2,9 @@
 
 Code behind the two reports in `docs/audit/` (PDFs): the **Rule-First Study** (experiment 1) and the **Data-First Study** (experiment 2). PDF-building code is not included. The corrected TG-SAI pipeline is in `analysis/tgsai_corrected/`.
 
+## Platform: the astral MCP server
+All sky positions in these studies were first produced with the **astral-ephemeris MCP server** (Swiss Ephemeris based; planet positions, retrograde and combustion states, nakshatras, and bulk enrichment of earthquake catalogues). Its source is in `../astral-mcp-server/` (MIT licence; see its README to install and run). The in-repo `shared/myeph.py` is a lightweight ephemeris validated against it (Sun and Moon within 0.01 deg, planets within 0.17 deg) so the analysis scripts run without the server.
+
 ## Layout
 | Folder | Contents |
 |---|---|
