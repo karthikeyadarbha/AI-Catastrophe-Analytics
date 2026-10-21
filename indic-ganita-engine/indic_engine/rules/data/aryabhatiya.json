@@ -1,0 +1,74 @@
+[
+ {
+  "id": "AB.rev",
+  "text": "Aryabhatiya",
+  "reference": "Gitikapada 3-4 (as quoted by Suryadeva / Laghubhaskariya)",
+  "title": "Revolutions in a yuga",
+  "formula": "Sun 4,320,000; Moon 57,753,336; Mars 2,296,824; Mercury 17,937,020; Jupiter 364,224; Venus 7,022,388; Saturn 146,564; apogee 488,219; node 232,226",
+  "implemented_by": "compute.params.REV['AB']",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Verified from the scan. Mercury and Venus values are the sighra revolutions."
+ },
+ {
+  "id": "AB.epoch",
+  "text": "Aryabhatiya",
+  "reference": "Gitikapada 4",
+  "title": "Epoch: Wednesday sunrise at Lanka",
+  "formula": "Kali start taken as 3/4 yuga (planets 0, apogee 90, node 180) if the four padas are equal",
+  "implemented_by": "compute.params.DHRUVA['AB']",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Assumption: equal-pada reading; flagged"
+ },
+ {
+  "id": "AB.epicycle",
+  "text": "Aryabhatiya",
+  "reference": "Kalakriya",
+  "title": "Manda epicycles in units of 4.5 degrees",
+  "formula": "Sun 3 (13.5), Mercury 7, Venus 4, Mars 14, Jupiter 7, Saturn 9, Moon 7 (31.5)",
+  "implemented_by": "compute.positions (Sun, Moon only)",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Sun 13;30 and Moon 31;30 over 360 equal TS 3/80 and 7/80"
+ },
+ {
+  "id": "AB.sighra",
+  "text": "Aryabhatiya",
+  "reference": "Kalakriya",
+  "title": "Sighra epicycle numbers",
+  "formula": "Saturn 9, Jupiter 16, Mars 53, Venus 59, Mercury 31",
+  "implemented_by": "-",
+  "status": "registered-only",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Matches TS sighra numbers for Saturn, Jupiter, Mars; Venus 59 and Mercury 31 match the TS guna constants"
+ },
+ {
+  "id": "AB.jya",
+  "text": "Aryabhatiya",
+  "reference": "Gitikapada 10 (Rsine differences)",
+  "title": "Rsine differences at 225' steps",
+  "formula": "225,224,222,219,215,210,205,199,191,183,174,164,154,143,131,119,106,93,79,65,51,37,22,7",
+  "implemented_by": "compute.jya.ARYABHATA",
+  "status": "implemented",
+  "pdf_pages": [
+   83
+  ],
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "DISCREPANCY: the printed edition (p.31) reads 117 as the 16th difference; the traditional value is 119 (sum 3438). Engine uses 119, matching TS Table 2.1. Flagged, not silently corrected."
+ }
+]

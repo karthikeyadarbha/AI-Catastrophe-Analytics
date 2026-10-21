@@ -1,0 +1,32 @@
+1900
+               Sun   Moon   Mars  Mercury  Jupiter  Venus  Saturn
+mean_deg     0.061 -0.304 -0.033    0.106   -0.222  0.264  -0.469
+sd_deg       0.165  1.436  0.593    2.224    0.251  1.299   0.191
+max_abs_deg  0.291  3.101  1.143    5.544    0.666  6.142   0.840
+2000
+               Sun   Moon   Mars  Mercury  Jupiter  Venus  Saturn
+mean_deg    -0.167 -0.079  0.297   -0.149   -0.445 -0.209   0.616
+sd_deg       0.169  1.387  1.262    2.127    0.279  1.413   0.269
+max_abs_deg  0.415  3.351  3.695    6.211    0.940  4.101   1.165
+2026
+               Sun   Moon   Mars  Mercury  Jupiter  Venus  Saturn
+mean_deg    -0.226 -0.635 -0.366   -0.298   -0.034 -0.298  -0.629
+sd_deg       0.170  1.244  0.604    2.029    0.143  1.388   0.264
+max_abs_deg  0.475  3.289  1.539    5.334    0.351  4.143   1.054
+
+=== AB parameter set ===
+1900
+               Sun   Moon   Mars  Mercury  Jupiter   Venus  Saturn
+mean_deg     0.061  1.529 -3.633   -0.025    6.021   0.059  -7.024
+sd_deg       0.165  1.574  1.609    3.520    0.854   9.558   0.544
+max_abs_deg  0.291  4.464  8.775   11.012    7.599  33.300   8.054
+2000
+               Sun   Moon    Mars  Mercury  Jupiter   Venus  Saturn
+mean_deg    -0.167  1.972  -4.283   -0.241    6.210  -0.411  -8.032
+sd_deg       0.169  1.598   2.927    3.580    0.882  10.669   0.611
+max_abs_deg  0.415  4.099  15.111    9.467    7.965  34.141   9.164
+2026
+               Sun   Moon    Mars  Mercury  Jupiter   Venus  Saturn
+mean_deg    -0.226  1.607  -4.314   -0.429    6.169  -0.396  -8.894
+sd_deg       0.170  1.539   1.763    3.395    0.927  10.429   0.665
+max_abs_deg  0.475  3.978  10.078   11.193    8.008  35.672  10.099

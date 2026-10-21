@@ -1,0 +1,44 @@
+[
+ {
+  "id": "CC.params",
+  "text": "Cross-text",
+  "reference": "AB vs TS",
+  "title": "Revolution numbers differ between the two traditions",
+  "formula": "AB minus TS: Moon +16, Mars -40, Mercury -28, Jupiter +44, Venus +120, Saturn -48",
+  "implemented_by": "compute.params",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Both kept as selectable parameter sets: param='AB' or 'TS'"
+ },
+ {
+  "id": "CC.epicycle",
+  "text": "Cross-text",
+  "reference": "AB Kalakriya <-> TS 2.10-2.16",
+  "title": "Sun and Moon epicycle sizes agree",
+  "formula": "AB 13;30 and 31;30 over 360 equal TS 3/80 and 7/80",
+  "implemented_by": "compute.positions",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": ""
+ },
+ {
+  "id": "CC.jya",
+  "text": "Cross-text",
+  "reference": "AB -> TS -> Madhava -> series",
+  "title": "Rsine lineage",
+  "formula": "AB table (R=3438) -> TS table (R=3437;47,29) -> Madhava table (R=3437;44,48) -> series",
+  "implemented_by": "compute.jya, compute.series",
+  "status": "implemented",
+  "pdf_pages": null,
+  "sanskrit": null,
+  "sanskrit_verified": false,
+  "gloss": "",
+  "notes": "Max error vs exact sine (arcmin): aryabhata 1.69, tantrasangraha 2.01, madhava 1.84, series 0.0"
+ }
+]

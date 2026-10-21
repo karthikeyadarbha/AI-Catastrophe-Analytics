@@ -1,0 +1,12 @@
+[project]
+name = "indic-ganita-engine"
+version = "1.0.0"
+description = "Sibling MCP server: verse-referenced rule registry and Indian-method planetary computation (Aryabhatiya, Tantrasangraha, Ganita-yukti-bhasa)"
+requires-python = ">=3.10"
+dependencies = ["mcp<2", "numpy"]
+[project.scripts]
+indic-ganita-engine = "indic_engine.server:main"
+[tool.setuptools.packages.find]
+include = ["indic_engine*"]
+[tool.setuptools.package-data]
+"indic_engine.rules" = ["data/*.json"]
