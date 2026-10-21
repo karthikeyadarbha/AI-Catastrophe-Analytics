@@ -107,5 +107,14 @@ def drk_positions(jd_ut: float, interior_variant: str = "H") -> str:
     from .compute import drk
     return json.dumps(drk.planet_positions(jd_ut, interior_variant), ensure_ascii=False, indent=1)
 
+@mcp.tool()
+def ss_positions(jd_ut: float, exact_sines: bool = False) -> str:
+    """Sūryasiddhānta mean and true longitudes (Sun, Moon, five planets), mandoccas, planet nodes and retrograde flags. exact_sines=True replaces the text's Rsine interpolation with math.sin."""
+    import json
+    from .compute import ss
+    out = ss.planet_positions(jd_ut, exact_sines)
+    out["retrograde"] = {b: ss.is_retrograde(b, jd_ut, exact_sines) for b in ("Mars", "Mercury", "Jupiter", "Venus", "Saturn")}
+    return json.dumps(out, ensure_ascii=False, indent=1)
+
 def main(): mcp.run()
 if __name__ == "__main__": main()

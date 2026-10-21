@@ -1,6 +1,6 @@
-# FREEZE – indic-ganita-engine v1.3.0
+# FREEZE – indic-ganita-engine v1.4.1
 
-**Frozen on 2026-10-21, before it is applied to Experiment 1 or Experiment 2.** v1.1.0 and v1.3.0 only add modules, and v1.2.0 only changed the Chandrahari ayanāṃśa anchor; the v1.0.0 computation (positions, Rsine, series) is unchanged. After this point, any change to a file listed in the manifest below requires a new version number and a note here. Results from the experiments must cite this version and the combined hash.
+**Frozen on 2026-10-21, before it is applied to Experiment 1 or Experiment 2.** v1.1.0, v1.3.0 and v1.4.0 only add modules, v1.4.1 only adds a source comparison (notes, one rule, one test), and v1.2.0 only changed the Chandrahari ayanāṃśa anchor; the v1.0.0 computation (positions, Rsine, series) is unchanged. After this point, any change to a file listed in the manifest below requires a new version number and a note here. Results from the experiments must cite this version and the combined hash.
 
 ## What is frozen
 - Primary configuration: `param="TS"` (Tantrasaṅgraha parameters), `scheme="madhava"` (Mādhava Rsine table, R = 3437′44″48‴).
@@ -62,9 +62,28 @@ Standard deviation of (Indic − modern) in degrees, 2000–2003, TS: Sun 0.17, 
 15. Table interpolation is second order (the text's own rule for the inverse is registered only). Node direction taken from "cakrāt śuddhaḥ", unconfirmed.
 16. Saturn mandocca 236° (Dṛgg.) differs from the 240° of the TS parameter set; both kept in their own models.
 
+## Added in v1.4.0 (source: Sūryasiddhānta, Hindi Vijñāna-bhāṣya edition, 838-page scan)
+- **`compute/ss.py`**: Siddhāntic mean planets (revolutions per mahāyuga, 1,577,917,828 civil days, planets at 0° at Kali start, Moon apogee 90° and node 180°), manda apsides and nodes from kalpa revolutions and the creation-year count, the 24-entry Rsine table with the text's linear interpolation and inverse rule, epicycle circumferences that vary with the anomaly (2.34–38), manda and śīghra equations (2.39–42), the four corrections (2.43–45) and the retrograde limits (2.52–55). Rules in `rules/data/suryasiddhanta.json` (16 rules, 13 implemented, 3 registered only). Server tool `ss_positions`.
+- **Checks that passed (tests/test_ss.py, 11 tests)**: apsides for Vikrama 1978 reproduce the book's printed values to 0.1″ (Sun 2s17°17′31.17″, Mercury 7s10°28′26.54″, Jupiter 5s21°22′36.21″); mean Jupiter 6s19°52′37″ and Mercury śīghra 2s9°29′17″ at the book's ahargaṇa 1,834,977 are exact; Rsine table sums to 3438 (17th 3084, 18th 3177, Rsin 66° = 3140′); true Sun and Jupiter reproduce 9s8°59′6″ and 6s27°53′37″ within 25″ and 13″ when the commentator's rounding shortcut is used (`exact="book"`), and within 3.3′ with the verse's literal inverse-Rsine rule; the SS mean Sun meets the tropical mean Sun in AD 516.4; retrograde flags are correct for Mars (Dec 2022), Jupiter (Oct 2022) and Saturn (Sep 2023).
+- **Result against a modern ephemeris (−500 to 2200 CE, `validation/validation_ss_2026-10.txt`)**: the SS sidereal year is 3.45 min long, so its Sun drifts −0.24°/century against Lahiri (zero near AD 1842). Relative to the SS Sun: Moon no drift (rms 1.5°), Mars −0.26°, Jupiter +0.58°, Saturn −0.89° per century, with zero errors near AD 1464, 1165 and 1357; Venus is right only near AD 800 and by 1850–2025 has a 6° rms. In 1850–2025: Moon sd 1.4°, Mars 1.5° (offset −1.2°), Mercury 2.7°, Jupiter 0.85° (offset +4.5°), Venus 6.0°, Saturn 1.5° (offset −5.1°). **TS stays the primary engine for the experiments; SS is registered as a comparison model and as the right model for texts and inscriptions of the first millennium.**
+## Interpretation choices added in v1.4.0
+17. Anomaly sign: with a = mean − apogee, true = mean − manda phala; the verse's "kendra reckoned backwards" is equivalent. Verified against the worked example (Sun and Jupiter signs).
+18. Saturn śīghra circumference at even padas is printed 36 in the Hindi translation; 39 used (standard text; the Sanskrit "go-naya" reads 9,3).
+19. The commentator's example takes small phalas as arcs equal to their Rsine; the default engine mode applies the verse's inverse-Rsine rule (differences up to 3.3′), and `exact="book"` reproduces the example.
+20. Apsides are computed from the creation-year count 1,955,880,000 + elapsed years (the book's own method), with the SS year length 365.258756 days.
+21. Ahargaṇa is counted to mean midnight at Ujjayini (continuous), not to sunrise as for TS and Dṛk; the epoch is the same (JD 588465.5).
+22. Mercury and Venus: the "mean planet" is the mean Sun and the śīghrocca the planet's own mean (as stated in the text); the same four-step order as for the other planets.
+23. Digits of the printed example were read from page images; "6s" in the printed Sun entries is read as 9s from the arithmetic (mean Sun 9s8°).
+
+## Added in v1.4.1 (source: Sanskrit Sūryasiddhānta, R. C. Pandey / Chaukhamba edition with Raṅganātha's commentary and Hindi translation, 387 pp.)
+- **Sanskrit-versus-Hindi-edition comparison**, rule `SS.concordance`, test `test_sanskrit_edition_concordance`. Numerals were decoded from the Sanskrit number-words and compared with everything in v1.4.0: all 24 Rsine values, the yuga revolutions (1.29–33), civil days, lunar days, adhimāsas, kṣaya tithis and solar months (1.37–39), apsis and node revolutions (1.41–44), the years to the end of Kṛta (1,953,720,000), the epicycles (2.34–37), the corrected-circumference rule (2.38), the phala rules (2.39–42), the four-correction order (2.43–44) and the retrograde limits (2.52–55). **No numeral of the engine changed.**
+- **One reading settled**: Saturn's even-pada śīghra epicycle is 39 in the Sanskrit and in Pandey's translation; the 36 in the Hindi-commentary edition is a misprint (interpretation choice 18 now confirmed).
+- **Kṣepaka table (v.58, apsides and nodes at the end of Kṛta)**: Sun, Mars, Mercury, Jupiter, Venus apsides equal the engine's formula exactly; the node entries are the 360° complements of the engine's physical (retrograde) positions, all within 12″. Saturn's apsis is printed 4s20°13′12″, identical to Saturn's node entry (a printing duplicate); the formula gives 7s19°35′24″, which the engine keeps.
+- Raṅganātha's commentary and Pandey's derivations were not read in full; chapters 3–14 remain uninterpreted. The registry still does not store the Devanagari verses (`sanskrit_verified` stays false).
+
 ## Manifest (SHA-256)
 ```
-b37cbc03d689925490e8e49a5a57b29fef6d2ebd831301be8bf07a44b22ebfae  indic_engine/__init__.py
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  indic_engine/__init__.py
 a50087d855e41315033e900e636253fffcbbabb9af2618578bd61ec318df6dba  indic_engine/compute/__init__.py
 1c59f169a02815fa1580646bf90947808d34f33faca545c5f8ce1da8554338e6  indic_engine/compute/ayanamsa.py
 e0c206d30cd599eee247c86017b1c97cdd1219b462af529e609ffd3d85a1fa23  indic_engine/compute/conjunction.py
@@ -76,16 +95,18 @@ ef4683dfd9256ce345baf389dfa7e84785c6d5a8424b075325177ba5516f888b  indic_engine/c
 6abed8e32eae0a7b0c1d555084a9d5251f6cee2ef1c29810f48d19b6517eff96  indic_engine/compute/params.py
 9801a526da11741623d80cf303cca35bad12db50f306f2ccf73e357aae4337a1  indic_engine/compute/positions.py
 f376404d17cbc0e314cc9b6e8f4add46e063dba6eacb681a0e2db55a112edcc7  indic_engine/compute/series.py
+3307447d3a890009420d77aa1d6a85fdb6b3788db1d7cc0d442e8c018d0ece0d  indic_engine/compute/ss.py
 821e49af9d3a06c3510babc370755c4ebd65cb5c8cd129dda5c3e921a6743265  indic_engine/compute/visibility.py
 bf8d643aaf791dd9a45b4d79375caa6dab78cc0e7a27a461b6f7612ec58c0f1e  indic_engine/rules/__init__.py
 336c1a7515b75b4745280973951173e4880f0fc2fa8a5a25f4b0ad9ceb5bf36e  indic_engine/rules/data/aryabhatiya.json
 9c0fedeafbc5ad17579a3d6ef37fc6836a7b0b54016512907b35fe8a8d09f213  indic_engine/rules/data/concordance.json
 cc6b7267a53b1328d766efc73757385c1eb36227672268e1f80b1fb02c43a0f3  indic_engine/rules/data/drgganita.json
 c5fc1a0ee7d83a1628bc5bebed0ca1545793676ac0c776ad21ccaf41a4cb356c  indic_engine/rules/data/sourcebook.json
+574d69070ac2574213a78a685a594f4fa6b44b09b166634453b77d68e40f3936  indic_engine/rules/data/suryasiddhanta.json
 0f897478aa84f86730034c92374c1b8dcf214ad3efaa03a31d52dfe34728d2f2  indic_engine/rules/data/tantrasangraha.json
 3a73514af28a28ce92f6b78199c2ba805268cfc551b4bae114e0d21214793f99  indic_engine/rules/data/yuktibhasa.json
 dc9ee49ce419d01d8d0a5c17416c1e4978bdd2a7bb0570b08b67dd094179fefe  indic_engine/rules/registry.py
-af1d423a17416264f4a15965f1f7b818c371f5a955060ef7125675644cadcb3e  indic_engine/server.py
+e8148bf04b1633f8e8e11e7faf20857daf3ed8d08e1a2e5787bad1258d1d0376  indic_engine/server.py
 ```
 
-Combined hash (indic_engine/*.py and *.json): 6108f72593767f47
+Combined hash (indic_engine/*.py and *.json): 5539597e310189b7

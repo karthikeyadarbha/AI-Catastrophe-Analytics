@@ -1,0 +1,24 @@
+SURYASIDDHANTA vs modern sky (myeph minus Lahiri), 1 sample per 29 d, -500..2200; error = SS - modern, degrees
+
+1. Zero point of the SS zodiac: year when SS mean Sun equals tropical mean Sun
+   tropical mean Sun = SS mean Sun in year 516.4 CE   (Dṛk: 522.2)
+   SS Sun error vs Lahiri crosses zero near year 1842
+
+2. Relative error against the SS Sun (frame removed): planet - Sun, degrees. Linear fit over -500..2200
+   Moon     drift +0.01 deg/century, zero at year 707, rms about the fit 1.46
+   Mars     drift -0.26 deg/century, zero at year 1464, rms about the fit 1.94
+   Jupiter  drift +0.58 deg/century, zero at year 1165, rms about the fit 1.00
+   Saturn   drift -0.89 deg/century, zero at year 1357, rms about the fit 2.61
+
+3. Mercury and Venus: rms error against the modern sky in 300-year windows (small where the sighra phase is right)
+   Mercury -500:5.6  -200:5.2  100:4.8  400:4.4  700:4.0  1000:3.6  1300:3.3  1600:2.9  1900:2.6
+   Venus -500:7.8  -200:6.0  100:4.3  400:2.5  700:0.9  1000:1.4  1300:3.1  1600:4.9  1900:6.7
+
+4. Window 1850-2025 (the experiment window): mean error and sd of (planet - Sun error)
+   Moon     mean +0.17  sd 1.40  max|err| 3.28
+   Mars     mean -1.22  sd 1.49  max|err| 10.60
+   Mercury  mean -0.03  sd 2.71  max|err| 8.29
+   Jupiter  mean +4.52  sd 0.85  max|err| 6.98
+   Venus    mean +0.01  sd 6.01  max|err| 24.50
+   Saturn   mean -5.13  sd 1.46  max|err| 8.36
+   for comparison TS sd: Moon 1.37, Mars 1.11, Mercury 2.12, Jupiter 0.42, Venus 1.25, Saturn 1.08
