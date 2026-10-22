@@ -1,0 +1,146 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Extracted Astronomical Rule Schema",
+  "description": "JSON Schema for astronomical rules extracted from classical mathematical astronomy treatises before parsing and validation",
+  "type": "object",
+  "required": ["rule_id", "text", "source_reference", "provenance"],
+  "properties": {
+    "rule_id": {
+      "type": "string",
+      "pattern": "^[A-Z]{2,3}-[0-9]{3,4}$",
+      "description": "Unique identifier for the astronomical rule (e.g., SUR-0042, DRK-0127)"
+    },
+    "text": {
+      "type": "string",
+      "minLength": 10,
+      "description": "The full text of the extracted astronomical rule in transliterated Sanskrit (IAST)"
+    },
+    "source_reference": {
+      "type": "object",
+      "required": ["treatise", "chapter", "verse"],
+      "properties": {
+        "treatise": {
+          "type": "string",
+          "description": "Name of the source classical mathematical astronomy treatise (e.g., Sūryasiddhānta, Dṛggaṇita)"
+        },
+        "chapter": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Chapter or section number in the treatise"
+        },
+        "verse": {
+          "type": "string",
+          "description": "Verse reference or line number in the ancient text"
+        }
+      }
+    },
+    "sanskrit_iast": {
+      "type": "string",
+      "description": "Sanskrit text in IAST (International Alphabet of Sanskrit Transliteration) for standardized representation"
+    },
+    "english_translation": {
+      "type": "string",
+      "description": "English translation of the astronomical rule"
+    },
+    "parameters": {
+      "type": "array",
+      "description": "Astronomical parameters mentioned in the rule with their mathematical decodings",
+      "items": {
+        "type": "object",
+        "required": ["name", "type"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Parameter name in the classical rule"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["celestial_position", "time", "angle", "number", "ratio", "other"],
+            "description": "Type of astronomical or mathematical parameter"
+          },
+          "unit": {
+            "type": "string",
+            "description": "Unit of measurement if applicable"
+          },
+          "decoding": {
+            "type": "string",
+            "description": "How to decode or interpret this parameter in modern mathematical notation"
+          }
+        }
+      }
+    },
+    "interpretation_judgments": {
+      "type": "object",
+      "description": "Interpretive notes and mathematical judgments about the rule",
+      "properties": {
+        "ambiguities": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Any ambiguous phrases or passages in the ancient text"
+        },
+        "modernization_notes": {
+          "type": "string",
+          "description": "Notes on how this rule relates to modern mathematical and astronomical methods"
+        },
+        "confidence_level": {
+          "type": "string",
+          "enum": ["high", "medium", "low"],
+          "description": "Confidence in the interpretation of the classical rule"
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source_file", "extraction_timestamp", "source_page"],
+      "properties": {
+        "source_file": {
+          "type": "string",
+          "description": "PDF filename or document identifier from which this rule was extracted"
+        },
+        "source_page": {
+          "type": "integer",
+          "description": "Page number in the source document"
+        },
+        "extraction_timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of when this rule was extracted from the classical source"
+        },
+        "extraction_method": {
+          "type": "string",
+          "enum": ["manual", "ocr_assisted", "fully_automated"],
+          "description": "How the rule was extracted from the ancient text source"
+        },
+        "ocr_confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "OCR confidence score if applicable for classical manuscript extraction"
+        }
+      }
+    },
+    "review_status": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["pending", "in_review", "approved", "rejected"],
+          "description": "Current review status of the extracted rule"
+        },
+        "reviewer": {
+          "type": "string",
+          "description": "Name of the expert reviewer validating the rule extraction"
+        },
+        "review_timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the review was completed"
+        },
+        "comments": {
+          "type": "string",
+          "description": "Any review comments or feedback from the expert assessor"
+        }
+      }
+    }
+  }
+}
