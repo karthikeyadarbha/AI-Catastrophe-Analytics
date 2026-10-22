@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bronze source artifact",
+  "description": "One raw file (scan, PDF, image, transcription) registered in the bronze layer. The text_id is supplied by the person registering the file, never inferred from the filename.",
+  "type": "object",
+  "required": [
+    "artifact_id",
+    "text_id",
+    "original_filename",
+    "sha256",
+    "bytes",
+    "media_type",
+    "registered_at",
+    "processing_status",
+    "extraction_method"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "artifact_id": {
+      "type": "string",
+      "pattern": "^RAW-[0-9a-f]{12}$",
+      "description": "Derived from the first 12 hex characters of sha256. Stable for identical bytes."
+    },
+    "text_id": {
+      "type": "string",
+      "pattern": "^TXT-[0-9]{2}$",
+      "description": "Text in manifest/source_register.json that this file is a copy of."
+    },
+    "original_filename": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Name as received. Recorded for reference only; never parsed for meaning."
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "bytes": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "media_type": {
+      "type": "string",
+      "enum": ["application/pdf", "image/png", "image/jpeg", "image/tiff", "application/zip", "text/plain", "application/octet-stream"],
+      "description": "Detected from the file's leading bytes, not from its extension."
+    },
+    "page_count": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Filled in when the file is processed. Absent until then."
+    },
+    "registered_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "processing_status": {
+      "type": "string",
+      "enum": ["registered", "ocr_pending", "ocr_done", "transcribed", "needs_review", "failed"],
+      "description": "'registered' means the bytes are fingerprinted but no text has been extracted yet."
+    },
+    "extraction_method": {
+      "type": "string",
+      "enum": ["registered_by_reference", "transcribed_extract", "ocr_assisted", "manual", "fully_automated"],
+      "description": "Shared with rule.schema.json. 'registered_by_reference' means only the file was fingerprinted."
+    }
+  }
+}

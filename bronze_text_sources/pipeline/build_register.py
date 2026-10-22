@@ -11,8 +11,11 @@ What it does
   4. Appends to audit/ingestion_audit.jsonl one entry per artifact whose hash is new or
      has changed since its last recorded entry. Re-running with no changes adds nothing.
 
-Texts without a scan in the repo are registered with ``scan_in_repo: false`` and no hash,
-because their bytes cannot be verified from here.
+Scans are never stored in git. Each text lists the raw files registered for it in the audit
+log (see register_raw_batch.py): artifact id, original filename, SHA-256, size, type and
+processing status. This is read from the audit log, not from disk, so the register is the
+same on every machine. ``scan_in_repo`` stays false because the bytes are held outside the
+repo. Use AuditLog.verify_source(path) on a machine that holds the scans to re-check them.
 
 Run from anywhere:  python bronze_text_sources/pipeline/build_register.py
 """
@@ -179,11 +182,30 @@ def build() -> dict:
     audit = AuditLog(AUDIT_PATH)
     recorded = []
 
+    # Latest registered raw artifact per file, grouped by text ID (from the audit log).
+    latest_raw = {}
+    for e in audit.list_entries():
+        art = e.get("metadata", {}).get("artifact")
+        if art:
+            latest_raw[e["source_file"]] = art
+    raw_by_text = {}
+    for art in latest_raw.values():
+        raw_by_text.setdefault(art["text_id"], []).append(art)
+
     texts = []
     for t in TEXTS:
         entry = dict(t)
+        arts = sorted(raw_by_text.get(t["id"], []), key=lambda a: a["original_filename"])
         entry["scan_in_repo"] = False
-        entry["hash_status"] = "not verifiable: no scan in repo"
+        entry["raw_artifacts"] = [
+            {k: a[k] for k in ("artifact_id", "original_filename", "sha256", "bytes",
+                               "media_type", "processing_status")}
+            for a in arts
+        ]
+        entry["hash_status"] = (
+            f"{len(arts)} scan(s) registered in the audit log; bytes are held outside the repo"
+            if arts else "not verifiable: no scan registered"
+        )
         texts.append(entry)
 
     engines = []
@@ -221,6 +243,8 @@ def build() -> dict:
         "classical_texts_identified": len(TEXTS),
         "classical_texts_unresolved": len(UNRESOLVED),
         "texts_with_scan_in_repo": sum(1 for t in texts if t["scan_in_repo"]),
+        "texts_with_registered_scan": sum(1 for t in texts if t["raw_artifacts"]),
+        "raw_artifacts_registered": sum(len(t["raw_artifacts"]) for t in texts),
         "texts_with_engine_extract": len(engines),
         "data_files_registered": sum(1 for d in data if d.get("present")),
         "data_files_missing": sum(1 for d in data if not d.get("present")),

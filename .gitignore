@@ -11,3 +11,5 @@ src/mega_eq_distribution.ipynb
 # analysis scratch folder (inputs and results are generated here)
 analysis/workdir/
 __pycache__/
+*.pdf
+*.zip
