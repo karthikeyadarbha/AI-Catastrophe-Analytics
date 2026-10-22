@@ -50,6 +50,10 @@ def enrich(df,tcol="datetime"):
     for p in ["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn"]: o[p+"_Lon"]=(A[p]-ay)%360
     for p in ["Mars","Mercury","Jupiter","Venus","Saturn"]: o[p+"_Is_Retro"]=A[p+"_retro"]
     return o
+import os as _os, sys as _sys
+SKY_ENGINE, SKY_ENGINE_VERSION = "modern", None
+if _os.environ.get("SKY_ENGINE", "modern").lower() != "modern":   # Indian-method sky, see indic_sky.py
+    _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__))); import indic_sky as _isky; _isky.install(globals(), _os.environ["SKY_ENGINE"])
 if __name__=="__main__":
     q=pd.read_csv("quakes_m65_sid.csv"); o=enrich(q)
     for p in ["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn"]:

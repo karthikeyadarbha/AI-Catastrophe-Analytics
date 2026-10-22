@@ -1,5 +1,5 @@
 import sys,numpy as np,pandas as pd
-sys.path.insert(0,"../shared"); import myeph as M; from moonlat import moon_lat
+sys.path.insert(0,"../shared"); import myeph as M; M = getattr(M, "_MODERN", M); from moonlat import moon_lat   # physical sighting: always the modern sky
 from hist import grid
 R=np.radians; D=np.degrees
 def jd_of(t):

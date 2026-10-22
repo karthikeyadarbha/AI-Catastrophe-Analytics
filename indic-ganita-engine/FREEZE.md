@@ -1,6 +1,6 @@
-# FREEZE – indic-ganita-engine v1.4.1
+# FREEZE – indic-ganita-engine v1.4.2
 
-**Frozen on 2026-10-21, before it is applied to Experiment 1 or Experiment 2.** v1.1.0, v1.3.0 and v1.4.0 only add modules, v1.4.1 only adds a source comparison (notes, one rule, one test), and v1.2.0 only changed the Chandrahari ayanāṃśa anchor; the v1.0.0 computation (positions, Rsine, series) is unchanged. After this point, any change to a file listed in the manifest below requires a new version number and a note here. Results from the experiments must cite this version and the combined hash.
+**Frozen on 2026-10-21, before it is applied to Experiment 1 or Experiment 2.** v1.1.0, v1.3.0 and v1.4.0 only add modules, v1.4.1 only adds a source comparison (notes, one rule, one test), v1.4.2 only restores a file the v1.4.1 commit emptied, and v1.2.0 only changed the Chandrahari ayanāṃśa anchor; the v1.0.0 computation (positions, Rsine, series) is unchanged. After this point, any change to a file listed in the manifest below requires a new version number and a note here. Results from the experiments must cite this version and the combined hash.
 
 ## What is frozen
 - Primary configuration: `param="TS"` (Tantrasaṅgraha parameters), `scheme="madhava"` (Mādhava Rsine table, R = 3437′44″48‴).
@@ -81,9 +81,14 @@ Standard deviation of (Indic − modern) in degrees, 2000–2003, TS: Sun 0.17, 
 - **Kṣepaka table (v.58, apsides and nodes at the end of Kṛta)**: Sun, Mars, Mercury, Jupiter, Venus apsides equal the engine's formula exactly; the node entries are the 360° complements of the engine's physical (retrograde) positions, all within 12″. Saturn's apsis is printed 4s20°13′12″, identical to Saturn's node entry (a printing duplicate); the formula gives 7s19°35′24″, which the engine keeps.
 - Raṅganātha's commentary and Pandey's derivations were not read in full; chapters 3–14 remain uninterpreted. The registry still does not store the Devanagari verses (`sanskrit_verified` stays false).
 
+## Fixed in v1.4.2 (2026-10-22; no source added, no computation changed)
+- The v1.4.0–1.4.1 commit (e39914bb) emptied `indic_engine/__init__.py`, `README.md` and `pyproject.toml`. `server.py` imports `__version__` from `__init__.py`, so the v1.4.1 MCP server failed at startup with an ImportError. Python-library use and all tests were unaffected.
+- `__init__.py` restored with `__version__ = "1.4.2"` (only manifest change); `README.md` and `pyproject.toml` restored from v1.3.0 and updated for v1.4.x (not in the manifest).
+- The other 23 manifest hashes are unchanged; 38 tests pass. Nothing was run on the experiments under v1.4.1, so no result cites it.
+
 ## Manifest (SHA-256)
 ```
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  indic_engine/__init__.py
+b11616ef5a59bd0de5c8eec8d5270e7d65d506b440c5ed90701ebec72de3bce1  indic_engine/__init__.py
 a50087d855e41315033e900e636253fffcbbabb9af2618578bd61ec318df6dba  indic_engine/compute/__init__.py
 1c59f169a02815fa1580646bf90947808d34f33faca545c5f8ce1da8554338e6  indic_engine/compute/ayanamsa.py
 e0c206d30cd599eee247c86017b1c97cdd1219b462af529e609ffd3d85a1fa23  indic_engine/compute/conjunction.py
@@ -109,4 +114,5 @@ dc9ee49ce419d01d8d0a5c17416c1e4978bdd2a7bb0570b08b67dd094179fefe  indic_engine/r
 e8148bf04b1633f8e8e11e7faf20857daf3ed8d08e1a2e5787bad1258d1d0376  indic_engine/server.py
 ```
 
-Combined hash (indic_engine/*.py and *.json): 5539597e310189b7
+Combined hash (indic_engine/*.py and *.json): 002454975b686ef4
+(SHA-256 over the concatenated hex digests above, in sorted path order, first 16 characters. v1.4.1 was 5539597e310189b7.)
