@@ -1,0 +1,522 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-22T10:11:13.577784+00:00",
+  "generated_by": "bronze_text_sources/pipeline/build_register.py",
+  "repo_commit": "a62ce8d95b4dacd123e6e725ddd96a76610437f5",
+  "schema_checked": "bronze_text_sources/schema/rule.schema.json",
+  "summary": {
+    "classical_texts_identified": 13,
+    "classical_texts_unresolved": 1,
+    "texts_with_scan_in_repo": 0,
+    "texts_with_engine_extract": 7,
+    "data_files_registered": 11,
+    "data_files_missing": 0,
+    "catalogues_named": [
+      "ISC-GEM",
+      "USGS ComCat"
+    ],
+    "engine_rules_total": 85,
+    "engine_rules_with_pdf_pages": 18,
+    "engine_rules_sanskrit_verified": 2,
+    "engine_rules_schema_conformant": 0,
+    "audit_entries_added_this_run": 0,
+    "audit_chain_valid": true
+  },
+  "texts": [
+    {
+      "id": "TXT-01",
+      "title": "Āryabhaṭīya",
+      "author": "Āryabhaṭa",
+      "kind": "classical_treatise",
+      "edition": "not recorded",
+      "language": "Sanskrit",
+      "role": "Alternate parameter set AB; Rsine differences; epicycle sizes",
+      "engine_file": "indic-ganita-engine/indic_engine/rules/data/aryabhatiya.json",
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-02",
+      "title": "Tantrasaṅgraha",
+      "author": "Nīlakaṇṭha Somayājī",
+      "kind": "classical_treatise",
+      "edition": "not recorded",
+      "language": "Sanskrit",
+      "role": "Primary parameter set TS; dhruvas; planetary algorithm; Mādhava tables",
+      "engine_file": "indic-ganita-engine/indic_engine/rules/data/tantrasangraha.json",
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-03",
+      "title": "Gaṇitayuktibhāṣā",
+      "author": "Jyeṣṭhadeva",
+      "kind": "classical_treatise",
+      "edition": "not recorded (book page 47 and PDF page 102 cited)",
+      "language": "Sanskrit",
+      "role": "Reasoning and series behind the Mādhava tables",
+      "engine_file": "indic-ganita-engine/indic_engine/rules/data/yuktibhasa.json",
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-04",
+      "title": "Dṛggaṇita",
+      "author": "Parameśvara",
+      "kind": "classical_treatise",
+      "edition": "ed. K. V. Sarma, Hoshiarpur 1963",
+      "language": "Sanskrit",
+      "role": "Kerala Dṛk system (v1.3.0); cross-check model",
+      "engine_file": "indic-ganita-engine/indic_engine/rules/data/drgganita.json",
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-05",
+      "title": "Sūryasiddhānta (Vijñāna-bhāṣya)",
+      "author": "Sūryasiddhānta; ed. Pt. Mahāvīr Prasād Śrīvāstava",
+      "kind": "classical_treatise",
+      "edition": "Hindi Vijñāna-bhāṣya edition, 838 pp. PDF",
+      "language": "Sanskrit / Hindi",
+      "role": "Siddhāntic mean and true planets, apsides, Rsine table (v1.4.0)",
+      "engine_file": "indic-ganita-engine/indic_engine/rules/data/suryasiddhanta.json",
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-06",
+      "title": "Sūryasiddhānta with Raṅganātha's commentary",
+      "author": "ed. R. C. Pandey (Chaukhamba)",
+      "kind": "classical_treatise",
+      "edition": "Sanskrit edition with Hindi translation, 387 pp.",
+      "language": "Sanskrit",
+      "role": "Numeral-by-numeral concordance with TXT-05 (rule SS.concordance, v1.4.1)",
+      "engine_file": "indic-ganita-engine/indic_engine/rules/data/concordance.json",
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-07",
+      "title": "Indian Astronomy: A Source Book",
+      "author": "Subbarayappa & Sarma",
+      "kind": "secondary_source_book",
+      "edition": "not recorded",
+      "language": "English",
+      "role": "Ayanāṃśa models, calendar, latitudes, conjunctions, visibility, occultations, inscriptions",
+      "engine_file": "indic-ganita-engine/indic_engine/rules/data/sourcebook.json",
+      "notes": "Read by OCR in v1.1.0; some items checked against page images (FREEZE.md)",
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-08",
+      "title": "Hindu Zodiac and Ancient Astronomy",
+      "author": "K. Chandra Hari",
+      "kind": "secondary_monograph",
+      "edition": "not recorded",
+      "language": "English",
+      "role": "Primary definition of the Chandrahari ayanāṃśa (v1.2.0); Siddhāntic zero point",
+      "engine_file": null,
+      "cited_via": [
+        "TXT-07 records AY.ChandraHari, AY.ChandraHari.siddhantic"
+      ],
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-09",
+      "title": "Dulakara Ayanamsha",
+      "author": "B.S.H. Indrasena",
+      "kind": "secondary_paper",
+      "edition": "2011 paper (PDF text layer)",
+      "language": "English",
+      "role": "Dulakara/Indrasena ayanāṃśa",
+      "engine_file": null,
+      "cited_via": [
+        "TXT-07 records AY.Dulakara"
+      ],
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-10",
+      "title": "Karaṇaratna (Deva) and Khaṇḍakhādyaka (Amaraja)",
+      "author": "Deva; Amaraja",
+      "kind": "classical_treatise",
+      "edition": "not recorded (cited through TXT-07 section 14.5)",
+      "language": "Sanskrit",
+      "role": "Deva/Amaraja ayanāṃśa sign convention (interpretation choice 8)",
+      "engine_file": null,
+      "cited_via": [
+        "TXT-07 records SB.14.AY.deva"
+      ],
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-11",
+      "title": "Bṛhat Saṃhitā",
+      "author": "Varāhamihira",
+      "kind": "classical_treatise",
+      "edition": "English translation (uploaded PDF) and Sanskrit scan; editions not recorded",
+      "language": "Sanskrit / English",
+      "role": "Ch. 32 earthquake mandalas; Rule-First and Data-First tests",
+      "engine_file": null,
+      "consumers": [
+        "analysis/experiment1_rule_first/03_brihat_samhita/",
+        "analysis/experiment2_data_first/stage5_treatise_bin_scan.py"
+      ],
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-12",
+      "title": "Adbhuta Sāgara",
+      "author": "Vallāla Sena",
+      "kind": "classical_treatise",
+      "edition": "ed. Murali Dhara Jha, Varanasi 1905 (chapter pp. 383-408)",
+      "language": "Sanskrit",
+      "role": "Earthquake quotations; authority lists tested in Rule-First study",
+      "engine_file": null,
+      "consumers": [
+        "analysis/experiment1_rule_first/04_adbhuta_sagara/"
+      ],
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    },
+    {
+      "id": "TXT-13",
+      "title": "Parāśara Tantra (as quoted)",
+      "author": "Parāśara (known through quotations)",
+      "kind": "classical_treatise_quoted",
+      "edition": "not recorded; quoted within TXT-12",
+      "language": "Sanskrit",
+      "role": "Deadly 15 mandala lists (Rule-First study)",
+      "engine_file": null,
+      "consumers": [
+        "analysis/experiment1_rule_first/01_deadly15/",
+        "analysis/shared/inputs/earthquakes_parashara_tantra_mandalas.csv"
+      ],
+      "scan_in_repo": false,
+      "hash_status": "not verifiable: no scan in repo"
+    }
+  ],
+  "unresolved_sources": [
+    {
+      "id": "UNR-01",
+      "title": "Cunningham (regions)",
+      "where": "analysis/README.md (listed as a rule source); reg.py",
+      "status": "No edition or source file could be located in the repo"
+    }
+  ],
+  "engine_extracts": [
+    {
+      "artifact_id": "ENG-01",
+      "path": "indic-ganita-engine/indic_engine/rules/data/aryabhatiya.json",
+      "feeds": "TXT-01",
+      "sha256": "336c1a7515b75b4745280973951173e4880f0fc2fa8a5a25f4b0ad9ceb5bf36e",
+      "records": 5,
+      "status": {
+        "implemented": 4,
+        "registered-only": 1
+      },
+      "with_pdf_pages": 1,
+      "sanskrit_verified": 0,
+      "schema_conformant": 0,
+      "rule_ids": [
+        "AB.rev",
+        "AB.epoch",
+        "AB.epicycle",
+        "AB.sighra",
+        "AB.jya"
+      ]
+    },
+    {
+      "artifact_id": "ENG-02",
+      "path": "indic-ganita-engine/indic_engine/rules/data/tantrasangraha.json",
+      "feeds": "TXT-02",
+      "sha256": "0f897478aa84f86730034c92374c1b8dcf214ad3efaa03a31d52dfe34728d2f2",
+      "records": 16,
+      "status": {
+        "implemented": 13,
+        "registered-only": 3
+      },
+      "with_pdf_pages": 1,
+      "sanskrit_verified": 0,
+      "schema_conformant": 0,
+      "rule_ids": [
+        "TS.1.9.rev",
+        "TS.1.15.dhruva",
+        "TS.1.mean",
+        "TS.1.17.mandocca",
+        "TS.2.2.interp",
+        "TS.2.1.table",
+        "TS.2.sun",
+        "TS.2.moon",
+        "TS.2.17.karna",
+        "TS.2.26.exterior",
+        "TS.2.27.interior",
+        "TS.2.24.tithi",
+        "TS.3.15.trepidation",
+        "TS.4-6.eclipse",
+        "TS.8.srngonnati",
+        "TS.AppF.model"
+      ]
+    },
+    {
+      "artifact_id": "ENG-03",
+      "path": "indic-ganita-engine/indic_engine/rules/data/yuktibhasa.json",
+      "feeds": "TXT-03",
+      "sha256": "3a73514af28a28ce92f6b78199c2ba805268cfc551b4bae114e0d21214793f99",
+      "records": 6,
+      "status": {
+        "implemented": 5,
+        "registered-only": 1
+      },
+      "with_pdf_pages": 4,
+      "sanskrit_verified": 2,
+      "schema_conformant": 0,
+      "rule_ids": [
+        "GYB.VI.6.arctan",
+        "GYB.VI.8.endcorr",
+        "GYB.VI.7.pi",
+        "GYB.VII.5.rsine",
+        "GYB.VII.sine",
+        "GYB.VIII.planetary"
+      ]
+    },
+    {
+      "artifact_id": "ENG-04",
+      "path": "indic-ganita-engine/indic_engine/rules/data/drgganita.json",
+      "feeds": "TXT-04",
+      "sha256": "cc6b7267a53b1328d766efc73757385c1eb36227672268e1f80b1fb02c43a0f3",
+      "records": 17,
+      "status": {
+        "registered-only": 5,
+        "implemented": 12
+      },
+      "with_pdf_pages": 0,
+      "sanskrit_verified": 0,
+      "schema_conformant": 0,
+      "rule_ids": [
+        "DG.meta",
+        "DG.ahargana",
+        "DG.mean",
+        "DG.dhruva",
+        "DG.apsides",
+        "DG.sighrocca",
+        "DG.manda.tables",
+        "DG.sighra.tables",
+        "DG.sun.moon",
+        "DG.4step.exterior",
+        "DG.interior",
+        "DG.node",
+        "DG.hara",
+        "DG.interp",
+        "DG.desantara",
+        "DG.grahanamandana",
+        "DG.tuned"
+      ]
+    },
+    {
+      "artifact_id": "ENG-05",
+      "path": "indic-ganita-engine/indic_engine/rules/data/suryasiddhanta.json",
+      "feeds": "TXT-05",
+      "sha256": "574d69070ac2574213a78a685a594f4fa6b44b09b166634453b77d68e40f3936",
+      "records": 16,
+      "status": {
+        "registered-only": 3,
+        "implemented": 13
+      },
+      "with_pdf_pages": 12,
+      "sanskrit_verified": 0,
+      "schema_conformant": 0,
+      "rule_ids": [
+        "SS.meta",
+        "SS.yuga",
+        "SS.mean",
+        "SS.apsides",
+        "SS.rsine",
+        "SS.epicycles",
+        "SS.manda",
+        "SS.sighra",
+        "SS.4step",
+        "SS.sun.moon",
+        "SS.vakra",
+        "SS.daily.motion",
+        "SS.example",
+        "SS.tuned",
+        "SS.concordance",
+        "SS.ch3.unread"
+      ]
+    },
+    {
+      "artifact_id": "ENG-06",
+      "path": "indic-ganita-engine/indic_engine/rules/data/concordance.json",
+      "feeds": "TXT-06",
+      "sha256": "9c0fedeafbc5ad17579a3d6ef37fc6836a7b0b54016512907b35fe8a8d09f213",
+      "records": 3,
+      "status": {
+        "implemented": 3
+      },
+      "with_pdf_pages": 0,
+      "sanskrit_verified": 0,
+      "schema_conformant": 0,
+      "rule_ids": [
+        "CC.params",
+        "CC.epicycle",
+        "CC.jya"
+      ]
+    },
+    {
+      "artifact_id": "ENG-07",
+      "path": "indic-ganita-engine/indic_engine/rules/data/sourcebook.json",
+      "feeds": "TXT-07",
+      "sha256": "c5fc1a0ee7d83a1628bc5bebed0ca1545793676ac0c776ad21ccaf41a4cb356c",
+      "records": 22,
+      "status": {
+        "implemented": 18,
+        "registered-only": 4
+      },
+      "with_pdf_pages": 0,
+      "sanskrit_verified": 0,
+      "schema_conformant": 0,
+      "rule_ids": [
+        "SB.14.AY.suryadeva",
+        "SB.14.AY.surya",
+        "SB.14.AY.deva",
+        "AY.Lahiri",
+        "AY.Raman",
+        "AY.KP",
+        "AY.ChandraHari",
+        "AY.ChandraHari.siddhantic",
+        "AY.Dulakara",
+        "AY.Tropical",
+        "SB.11.panchanga",
+        "SB.11.pata",
+        "SB.13.latitude",
+        "SB.19.conj",
+        "SB.19.yuddha",
+        "SB.18.visibility",
+        "SB.20.occ",
+        "SB.20.rohini",
+        "SB.12.stars",
+        "SB.16.38.inscriptions",
+        "SB.7.eras",
+        "SB.16.eclipse"
+      ]
+    }
+  ],
+  "data_files": [
+    {
+      "id": "DAT-01",
+      "path": "1850-1950-EQData-MAG5.csv",
+      "role": "1850-1950 M5+ file for regional tests",
+      "catalogue": "ISC-GEM (ids 'iscgem…', per preregistration_historical_test.md)",
+      "present": true,
+      "sha256": "2d9a98730b8e125c4683a2332e0cffbb68af9f7122c4c6e4429b2eec85611d7c",
+      "bytes": 1383815,
+      "rows": 7787
+    },
+    {
+      "id": "DAT-02",
+      "path": "analysis/shared/inputs/big.csv",
+      "role": "Modern worldwide set (role per file name; confirm)",
+      "catalogue": "USGS ComCat (column schema)",
+      "present": true,
+      "sha256": "76d52b2d3596d28fa12346bfb29d8c19895eb8f835766b02d0b6a8c5e3cfb5fa",
+      "bytes": 293471,
+      "rows": 1710
+    },
+    {
+      "id": "DAT-03",
+      "path": "analysis/shared/inputs/old_m65.csv",
+      "role": "Older M6.5 set (confirm)",
+      "catalogue": "ISC-GEM via USGS ComCat (ids 'iscgem…')",
+      "present": true,
+      "sha256": "14741004872cd732fdf33a3ec37ce0848a77769f69fb46b6c380b17b39b205b2",
+      "bytes": 166477,
+      "rows": 990
+    },
+    {
+      "id": "DAT-04",
+      "path": "analysis/shared/inputs/histA_declustered.csv",
+      "role": "Era A 1964-1989 M>=5.5, declustered (6,111 events per preregistration)",
+      "catalogue": "ISC-GEM (ids 'iscgem…'), declustered",
+      "present": true,
+      "sha256": "36eafba5f165642a7ec30b8362b76b76ae91dd6a9b9dbbc5aab663ba999beaa3",
+      "bytes": 350241,
+      "rows": 6111
+    },
+    {
+      "id": "DAT-05",
+      "path": "analysis/shared/inputs/histB_declustered.csv",
+      "role": "Era B 1900-1963 M>=7.0, 670 events (per preregistration)",
+      "catalogue": "ISC-GEM-based ('cent…' ids)",
+      "present": true,
+      "sha256": "e70fc7525a91414c876d0f0046230c692563a8907ee9748dbeaf088ecf60031e",
+      "bytes": 40097,
+      "rows": 670
+    },
+    {
+      "id": "DAT-06",
+      "path": "analysis/shared/inputs/quakes_m55_input.csv",
+      "role": "M5.5+ 1990-2026, declustered, 9,368 events (Experiment 2 override set)",
+      "catalogue": "USGS ComCat (ids 'usp…')",
+      "present": true,
+      "sha256": "b1844c553f568d2c229c9a5f7ec04381facfee0d602f52100b2c3fdbae3857df",
+      "bytes": 534775,
+      "rows": 9368
+    },
+    {
+      "id": "DAT-07",
+      "path": "analysis/shared/inputs/earthquakes_parashara_tantra_mandalas.csv",
+      "role": "Deadly 15 event table with mandala labels (curated)",
+      "catalogue": "curated; source of each event not recorded",
+      "present": true,
+      "sha256": "168c9d43407cfd7e9603c4a8a81291607d83064cef029cb5401dc037a791486e",
+      "bytes": 3086,
+      "rows": 15
+    },
+    {
+      "id": "DAT-08",
+      "path": "analysis/tgsai_corrected/deadly15_events.csv",
+      "role": "Deadly 15 event list",
+      "catalogue": "curated (same 15 events as DAT-07)",
+      "present": true,
+      "sha256": "f5085423e5c05f5db664ef6d9c2a327f9f0c5d62421cc983e667d468c5f0cd57",
+      "bytes": 496,
+      "rows": 15
+    },
+    {
+      "id": "DAT-09",
+      "path": "analysis/tgsai_corrected/Inputs_Mega_Quake_Topocentric_Analysis_corrected.csv",
+      "role": "TG-SAI training inputs (corrected), derived with astral ephemeris",
+      "catalogue": "derived",
+      "present": true,
+      "sha256": "ed1805acef15e36efe2e1fd5db6c5ddedc3f8e0f999b24d35201eb232965d26d",
+      "bytes": 20420,
+      "rows": 102
+    },
+    {
+      "id": "DAT-10",
+      "path": "notebooks/megaquake/Inputs_Mega_Quake_Topocentric_Analysis.csv",
+      "role": "Mega-quake topocentric inputs, derived with astral ephemeris",
+      "catalogue": "derived",
+      "present": true,
+      "sha256": "d3c816cea86f7cb5ae20904e2b3f17d684dbc257e185cf5984f9d9709afbb0f5",
+      "bytes": 18462,
+      "rows": 104
+    },
+    {
+      "id": "DAT-11",
+      "path": "notebooks/megaquake/subduction_zones.csv",
+      "role": "Subduction-zone geometry (reference)",
+      "catalogue": "not recorded",
+      "present": true,
+      "sha256": "44a94949750d56369f532304e6afc66658470046d33dd992630a37f3035476b0",
+      "bytes": 42606,
+      "rows": 1207
+    }
+  ]
+}
