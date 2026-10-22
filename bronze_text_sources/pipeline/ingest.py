@@ -1,170 +1,171 @@
 """
 Text ingestion pipeline for the bronze layer of ancient mathematical astronomy treatises.
 
-Handles OCR quality assessment, transliteration to standard notation, and validation
-of classical mathematical astronomy texts before ingestion into the bronze layer.
-Ensures quality and consistency for downstream analysis of historical astronomical methods.
+Quality gate, Unicode normalization and per-word scoring for text that has
+already been OCR'd or transcribed. Transliteration to IAST is NOT implemented
+yet (``transliterate_iast`` is a placeholder); ``ingest()`` reports this
+explicitly rather than presenting unconverted text as IAST.
 """
 
 import re
-from typing import Dict, List, Tuple, Optional
+import unicodedata
+from collections import Counter
 from dataclasses import dataclass
+from typing import Dict, List, Tuple
+
+# Letters allowed in a clean IAST or Devanagari transcription:
+# Latin-1 and Latin Extended-A/B (ā ī ū ē ō ś ñ ...), Latin Extended Additional
+# (ṭ ḍ ṇ ṣ ṛ ḷ ṃ ḥ ṅ ...), Devanagari, and combining marks.
+_LETTERS = r"A-Za-zÀ-ɏḀ-ỿऀ-ॿ"
+_PUNCT_EDGE = ".,;:!?()\"'-|।॥"
+_ALLOWED_CORE = re.compile(rf"[{_LETTERS}0-9̀-ͯ{re.escape(_PUNCT_EDGE)}]*")
+_HAS_DIGIT = re.compile(r"[0-9]")
+_HAS_LETTER = re.compile(rf"[{_LETTERS}]")
+# Citation tokens such as "vv.15-18", "p.47", "Ch.1", "1.9": a short letter prefix
+# followed by digits. OCR errors put letters after digits, which this does not match.
+_REFERENCE = re.compile(r"[A-Za-z]{1,4}\.?[0-9][0-9.\-–,]*")
 
 
 @dataclass
 class WordConfidence:
-    """Confidence score for individual words in ancient texts."""
+    """Confidence score for an individual token."""
     word: str
     confidence: float
     position: int
 
 
+def _token_issue(token: str):
+    """Return an issue label for a whitespace token, or None if it looks clean."""
+    core = token.strip(_PUNCT_EDGE)
+    if not core:
+        return None
+    if _REFERENCE.fullmatch(core):
+        return None
+    if _HAS_DIGIT.search(core) and _HAS_LETTER.search(core):
+        return "mixed_digit_letter"       # e.g. "5ā", "l0ka": typical OCR substitution
+    if not _ALLOWED_CORE.fullmatch(core):
+        return "unexpected_character"     # symbols or scripts outside the expected set
+    return None
+
+
 class TextIngestionPipeline:
     """Pipeline for ingesting classical mathematical astronomy texts into the bronze layer."""
 
+    # Set to True only once a real IAST converter (e.g. Aksharamukha) is wired in.
+    TRANSLITERATION_IMPLEMENTED = False
+
     def __init__(self):
-        """Initialize the ingestion pipeline for ancient mathematical astronomy texts."""
         pass
 
     def ocr_quality_check(self, text: str, min_confidence: float = 0.85) -> Tuple[bool, Dict]:
         """
-        Check OCR quality of extracted ancient text.
-        
-        Assesses the quality of optical character recognition on classical manuscripts
-        to ensure reliable extraction of mathematical astronomy knowledge.
-        
+        Token-level quality gate for OCR or transcribed text.
+
+        A token is flagged if it mixes digits and letters (a common OCR substitution)
+        or contains a character outside the expected IAST/Devanagari set. Pure
+        numerals (verse and page numbers) and ordinary IAST letters are not flagged.
+        ``estimated_confidence`` is the share of scored tokens that are clean. This is a
+        screening heuristic, not a calibrated OCR confidence.
+
         Args:
-            text: The extracted text from ancient sources
-            min_confidence: Minimum acceptable confidence threshold
-            
+            text: Extracted text
+            min_confidence: Minimum share of clean tokens to pass the gate
+
         Returns:
-            Tuple of (is_valid, quality_metrics)
+            Tuple of (is_valid, metrics)
         """
-        # Check for common OCR errors (o/0, l/1, etc.)
-        suspicious_patterns = {
-            r'[0O]': 'Zero/O confusion',
-            r'[1l]': 'One/L confusion',
-            r'[5S]': 'Five/S confusion',
-            r'[8B]': 'Eight/B confusion',
-        }
+        text = unicodedata.normalize("NFC", text)
+        tokens = text.split()
 
-        issues = []
-        for pattern, issue_type in suspicious_patterns.items():
-            if re.search(pattern, text):
-                issues.append(issue_type)
+        issues: Counter = Counter()
+        flagged_examples: List[str] = []
+        scored = 0
+        for tok in tokens:
+            if not tok.strip(_PUNCT_EDGE):
+                continue
+            scored += 1
+            issue = _token_issue(tok)
+            if issue:
+                issues[issue] += 1
+                if len(flagged_examples) < 10:
+                    flagged_examples.append(tok)
 
-        # Basic quality heuristics
+        clean_share = (scored - sum(issues.values())) / scored if scored else 0.0
         metrics = {
             'length': len(text),
-            'word_count': len(text.split()),
+            'word_count': len(tokens),
+            'scored_tokens': scored,
             'has_special_chars': bool(re.search(r'[^\w\s]', text)),
-            'detected_issues': issues,
-            'estimated_confidence': max(0.0, 1.0 - (len(issues) * 0.1)),
+            'detected_issues': [f"{k}: {v}" for k, v in sorted(issues.items())],
+            'flagged_examples': flagged_examples,
+            'estimated_confidence': round(clean_share, 4),
         }
 
-        is_valid = metrics['estimated_confidence'] >= min_confidence
-
+        is_valid = scored > 0 and clean_share >= min_confidence
         return is_valid, metrics
 
     def transliterate_iast(self, text: str) -> str:
         """
-        Transliterate classical Sanskrit text to IAST (International Alphabet of Sanskrit Transliteration).
-        
-        Converts ancient Sanskrit manuscripts to standard scholarly notation for consistent
-        representation of mathematical and astronomical terminology across treatises.
-        
-        Note: In production, this uses the Aksharamukha library for proper transliteration.
-        
-        Args:
-            text: Input Sanskrit text (could be Devanagari or other classical script)
-            
-        Returns:
-            IAST transliterated text
+        Transliterate Sanskrit text to IAST.
+
+        Placeholder: returns the input unchanged. Replace with Aksharamukha and set
+        ``TRANSLITERATION_IMPLEMENTED = True``.
         """
-        # Placeholder: in production, use Aksharamukha for proper transliteration
         return text
 
     def normalize_unicode(self, text: str) -> str:
-        """
-        Normalize Unicode to NFC (Canonical Decomposition, followed by Canonical Composition).
-        
-        Ensures consistent representation of diacritics and special characters in ancient texts.
-        
-        Args:
-            text: Input text
-            
-        Returns:
-            NFC-normalized text
-        """
-        import unicodedata
+        """NFC-normalize text so diacritics have one canonical encoding."""
         return unicodedata.normalize('NFC', text)
 
     def extract_word_confidence(self, text: str) -> List[WordConfidence]:
         """
-        Extract per-word confidence scores for ancient manuscript text.
-        
-        Assigns individual confidence values to each word, enabling detection of
-        problematic OCR extractions from classical mathematical astronomy texts.
-        
-        Args:
-            text: The text to analyze
-            
-        Returns:
-            List of WordConfidence objects with per-word quality metrics
+        Heuristic per-token score: 0.95 baseline, minus 0.1 for very short or very long
+        tokens and 0.2 for tokens containing non-letters (other than the IAST letters).
+        Used for review prioritisation, not for the pass/fail gate.
         """
-        words = text.split()
         confidences = []
-
-        for position, word in enumerate(words):
-            # Simple heuristic: words with special chars or unusual length get lower confidence
-            confidence = 0.95  # Default high confidence for clear extractions
-            
-            # Penalty for unusual length (very short or very long words)
+        for position, word in enumerate(text.split()):
+            confidence = 0.95
             if len(word) < 2 or len(word) > 20:
                 confidence -= 0.1
-            
-            # Penalty for special characters that might indicate OCR errors
-            if not word.isalpha() and not all(c in 'āēīōūṅñṭḍṇḷṛ' for c in word):
+            if _token_issue(word) is not None:
                 confidence -= 0.2
-
             confidences.append(WordConfidence(
                 word=word,
                 confidence=max(0.0, min(1.0, confidence)),
-                position=position
+                position=position,
             ))
-
         return confidences
 
     def ingest(self, text: str, source_reference: Dict) -> Dict:
         """
-        Run the full ingestion pipeline for ancient mathematical astronomy texts.
-        
-        Processes raw OCR output through quality assessment, normalization, and validation
-        to prepare classical texts for ingestion into the bronze layer.
-        
-        Args:
-            text: Raw extracted text from ancient manuscripts
-            source_reference: Metadata about the source (treatise, chapter, verse, etc.)
-            
-        Returns:
-            Result dictionary with processed text and quality metrics
-        """
-        # Step 1: Quality check on OCR extraction
-        is_valid_ocr, ocr_metrics = self.ocr_quality_check(text)
+        Run the ingestion checks on raw OCR or transcribed text.
 
-        # Step 2: Normalize Unicode for consistent representation
+        Args:
+            text: Raw extracted text
+            source_reference: Source metadata (treatise, chapter, verse, ...)
+
+        Returns:
+            Dict with the normalized text, IAST status, quality metrics and
+            ``pipeline_status`` ('ready_for_bronze' or 'needs_review')
+        """
+        is_valid_ocr, ocr_metrics = self.ocr_quality_check(text)
         normalized_text = self.normalize_unicode(text)
 
-        # Step 3: Transliterate to IAST standard scholarly notation
-        iast_text = self.transliterate_iast(normalized_text)
+        if self.TRANSLITERATION_IMPLEMENTED:
+            iast_text = self.transliterate_iast(normalized_text)
+            transliteration_status = 'implemented'
+        else:
+            iast_text = None
+            transliteration_status = 'not_implemented'
 
-        # Step 4: Extract per-word confidence scores for quality assessment
-        word_confidences = self.extract_word_confidence(iast_text)
+        word_confidences = self.extract_word_confidence(normalized_text)
 
         return {
             'original_text': text,
             'normalized_text': normalized_text,
             'iast_text': iast_text,
+            'transliteration_status': transliteration_status,
             'source_reference': source_reference,
             'ocr_metrics': ocr_metrics,
             'word_confidences': [
