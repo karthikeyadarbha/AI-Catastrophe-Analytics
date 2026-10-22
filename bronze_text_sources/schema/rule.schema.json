@@ -108,7 +108,7 @@
         },
         "extraction_method": {
           "type": "string",
-          "enum": ["manual", "ocr_assisted", "fully_automated"],
+          "enum": ["manual", "ocr_assisted", "fully_automated", "registered_by_reference", "transcribed_extract"],
           "description": "How the rule was extracted from the ancient text source"
         },
         "ocr_confidence": {

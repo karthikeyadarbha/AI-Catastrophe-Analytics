@@ -1,13 +1,15 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T10:11:13.577784+00:00",
+  "generated_at": "2026-10-22T11:53:53.553470+00:00",
   "generated_by": "bronze_text_sources/pipeline/build_register.py",
-  "repo_commit": "a62ce8d95b4dacd123e6e725ddd96a76610437f5",
+  "repo_commit": "59ef13bea615c3d511d6bfc88b992e2e06ba452f",
   "schema_checked": "bronze_text_sources/schema/rule.schema.json",
   "summary": {
     "classical_texts_identified": 13,
     "classical_texts_unresolved": 1,
     "texts_with_scan_in_repo": 0,
+    "texts_with_registered_scan": 12,
+    "raw_artifacts_registered": 16,
     "texts_with_engine_extract": 7,
     "data_files_registered": 11,
     "data_files_missing": 0,
@@ -33,7 +35,17 @@
       "role": "Alternate parameter set AB; Rsine differences; epicycle sizes",
       "engine_file": "indic-ganita-engine/indic_engine/rules/data/aryabhatiya.json",
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-d66fffea79a5",
+          "original_filename": "Aryabhatiya v3 1976.pdf",
+          "sha256": "d66fffea79a54dbf478be8dadc0ff5e225451f6a11310434b308aaa6b646edec",
+          "bytes": 8437014,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-02",
@@ -45,7 +57,17 @@
       "role": "Primary parameter set TS; dhruvas; planetary algorithm; Mādhava tables",
       "engine_file": "indic-ganita-engine/indic_engine/rules/data/tantrasangraha.json",
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-d5badcf64840",
+          "original_filename": "Tantrasangraha  - Ramasubramanian_Sriram (2011).pdf",
+          "sha256": "d5badcf64840dda6eb3e9cd304c89171ab252425b0babc2872eadcc26127d719",
+          "bytes": 5559313,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-03",
@@ -57,7 +79,17 @@
       "role": "Reasoning and series behind the Mādhava tables",
       "engine_file": "indic-ganita-engine/indic_engine/rules/data/yuktibhasa.json",
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-69083d8cf080",
+          "original_filename": "Ganita Yukti Bhasa of Jyesthadeva Sarma K.V..pdf",
+          "sha256": "69083d8cf080ad0239e9fe6e220cc01987e69a95ad99df4bde4894f4fe5307eb",
+          "bytes": 12317722,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-04",
@@ -69,7 +101,17 @@
       "role": "Kerala Dṛk system (v1.3.0); cross-check model",
       "engine_file": "indic-ganita-engine/indic_engine/rules/data/drgganita.json",
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-61402655eeea",
+          "original_filename": "496115-Drgganita.pdf",
+          "sha256": "61402655eeea4eee25258ad535c3b720ee37b27ed7d6a2c6c4b7284957e82872",
+          "bytes": 3915281,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-05",
@@ -81,7 +123,17 @@
       "role": "Siddhāntic mean and true planets, apsides, Rsine table (v1.4.0)",
       "engine_file": "indic-ganita-engine/indic_engine/rules/data/suryasiddhanta.json",
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-bc77cfa0a09d",
+          "original_filename": "Surya-siddhanta.pdf",
+          "sha256": "bc77cfa0a09d602482be5582a466ddbf6506c40c188cad36da3ea05e6645040a",
+          "bytes": 28180262,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-06",
@@ -93,7 +145,17 @@
       "role": "Numeral-by-numeral concordance with TXT-05 (rule SS.concordance, v1.4.1)",
       "engine_file": "indic-ganita-engine/indic_engine/rules/data/concordance.json",
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-10e04f16e305",
+          "original_filename": "सूर्यसिद्धांत Surya Siddhanta RC Panday.pdf",
+          "sha256": "10e04f16e3053ca0c332e38f62f848db4c62d09348576a49bf0a7e94a4d4a363",
+          "bytes": 56453064,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-07",
@@ -106,7 +168,17 @@
       "engine_file": "indic-ganita-engine/indic_engine/rules/data/sourcebook.json",
       "notes": "Read by OCR in v1.1.0; some items checked against page images (FREEZE.md)",
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-7ad87cf8d518",
+          "original_filename": "Indian Astronomy A Source Book Subbarayappa B.V. Sarma K.V..pdf",
+          "sha256": "7ad87cf8d5187c383ff739dc23b972bd752db414b7cbb83d5f9ec9533e265c55",
+          "bytes": 37912945,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-08",
@@ -121,7 +193,17 @@
         "TXT-07 records AY.ChandraHari, AY.ChandraHari.siddhantic"
       ],
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-c4c76b297248",
+          "original_filename": "Hindu Zodiac and Ancient Astronomy Chandra Hari K..pdf",
+          "sha256": "c4c76b297248248518b8860eb80786081467aea568157da96481cee01d6629d8",
+          "bytes": 28699531,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-09",
@@ -136,7 +218,17 @@
         "TXT-07 records AY.Dulakara"
       ],
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-b46d2b830103",
+          "original_filename": "kupdf.net_dulakaraayanamsa.pdf",
+          "sha256": "b46d2b830103087f1279f17a633a9f562647b50bcb850d3b48019ea00c6641c2",
+          "bytes": 415865,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-10",
@@ -151,7 +243,8 @@
         "TXT-07 records SB.14.AY.deva"
       ],
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [],
+      "hash_status": "not verifiable: no scan registered"
     },
     {
       "id": "TXT-11",
@@ -167,7 +260,25 @@
         "analysis/experiment2_data_first/stage5_treatise_bin_scan.py"
       ],
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-9e0e8b4dd7d6",
+          "original_filename": "BrihatSamhita-English.pdf",
+          "sha256": "9e0e8b4dd7d611f22b29ed65b7ed635d806d831407b27695d8128eb804983e27",
+          "bytes": 42734641,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        },
+        {
+          "artifact_id": "RAW-6f40ccc72650",
+          "original_filename": "बृहत्संहिता Brihat Samhita -2.pdf",
+          "sha256": "6f40ccc726505955ad6011ff55495d449b780020fb93db957a231138ff147a6f",
+          "bytes": 87726468,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "2 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-12",
@@ -182,7 +293,41 @@
         "analysis/experiment1_rule_first/04_adbhuta_sagara/"
       ],
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-d00b06f14866",
+          "original_filename": "Adbhuta Sagara of Vallala Sena Deva 1905 Varanasi - Pt. Murali Dhara Jha.pdf",
+          "sha256": "d00b06f148666cc5444898b89ba59a0902ec97ff1ab21b51ffa55e1fab974673",
+          "bytes": 638075025,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        },
+        {
+          "artifact_id": "RAW-52cf16851429",
+          "original_filename": "Adbhuta Sagara of Vallala Sena Deva 1905 Varanasi - Pt. Murali Dhara Jha_extracted_399pages.pdf",
+          "sha256": "52cf1685142966f43f0c9f9df8732aa1964c83cca025f9d5032e5870f74b154b",
+          "bytes": 312079785,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        },
+        {
+          "artifact_id": "RAW-e30d7fd07ea5",
+          "original_filename": "Adbhuta Sagara of Vallala Sena Deva 1905 Varanasi - Pt. Murali Dhara Jha_extracted_401pages.pdf",
+          "sha256": "e30d7fd07ea5616b05e73e18e87ca8eec35317c2eab02172da7cdc9eeee24f1b",
+          "bytes": 322005406,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        },
+        {
+          "artifact_id": "RAW-0c9d18a29938",
+          "original_filename": "Adbhuta Sagara of Vallala Sena Deva 1905 Varanasi - Pt. Murali Dhara Jha_split_pages 400-800.zip",
+          "sha256": "0c9d18a29938d4bec9c30cbd78369cd5cb274e674488e5bb9fd3e89d42a41ad6",
+          "bytes": 560040947,
+          "media_type": "application/zip",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "4 scan(s) registered in the audit log; bytes are held outside the repo"
     },
     {
       "id": "TXT-13",
@@ -198,7 +343,17 @@
         "analysis/shared/inputs/earthquakes_parashara_tantra_mandalas.csv"
       ],
       "scan_in_repo": false,
-      "hash_status": "not verifiable: no scan in repo"
+      "raw_artifacts": [
+        {
+          "artifact_id": "RAW-ec0e919541c0",
+          "original_filename": "Parashara Tantra With Reconstructed Text, Trans And Notes By R N Iyenger - Jain University Press, Kanakapura.pdf",
+          "sha256": "ec0e919541c003779d61536a5744381689271e0f91a4b6f85cc1209606ede2bf",
+          "bytes": 173477959,
+          "media_type": "application/pdf",
+          "processing_status": "registered"
+        }
+      ],
+      "hash_status": "1 scan(s) registered in the audit log; bytes are held outside the repo"
     }
   ],
   "unresolved_sources": [
