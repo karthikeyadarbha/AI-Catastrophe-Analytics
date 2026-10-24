@@ -1,5 +1,0 @@
-254 छायाप्रकरणम्‌ Gnomonic shadow
-1114. =tanasece. (3.344)
-
-It is straightforward to see that (3.344) is the ratio of (3.342) and (3.343) and hence
-(3.339) can be obtained by using the above relation also.

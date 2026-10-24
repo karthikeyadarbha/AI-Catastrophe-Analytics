@@ -13,3 +13,6 @@ analysis/workdir/
 __pycache__/
 *.pdf
 *.zip
+bronze_text_sources/.DS_Store
+.DS_Store
+bronze_text_sources/extracted/
