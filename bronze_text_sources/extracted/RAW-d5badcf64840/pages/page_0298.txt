@@ -1,0 +1,47 @@
+3.45 Determination of the madhyalagna                                                      251
+
+                                     = αT + (λ2 − f (λ2 )).                           (3.327)
+
+The process is carried out until λn−1 ≈ λn = λ .
+
+
+Justification of the procedure
+
+From (3.320), we note that α is essentially a function of the longitude λ , since δ
+itself is function of λ (see (3.37)). Hence, the R.A. of the meridian ecliptic point αT
+may be expressed as
+                                       αT = f (λ ).                             (3.328)
+In the first approximation, λ = λ1 = αT . In the next approximation, let λ = λ2 =
+λ1 + δ α1 = αT + δ α1 . Hence
+
+                        αT = f (αT + δ α1 ) = f (αT ) + δ α1 × f ′ ,                  (3.329)
+
+where f ′ = ddαfT . Therefore
+
+                                             αT − f (αT )
+                                    δ α1 =                .                           (3.330)
+                                                 f′
+
+But f ′ = d df (ααTT ) ≈ 1, as f (αT ) ≈ αT . This is all right as δ α1 is the first-order cor-
+rection and it is natural that f ′ is taken to the zeroth order.
+   Hence δ α1 = αT − f (αT ), which leads to
+
+                    λ2 ≈ αT + (λ1 − f (λ1 )) ≈ αm + (αT − f (αT )).                   (3.331)
+
+This coincides with the expression in (3.324). In the next approximation, let λ =
+λ3 = λ2 + δ α2 . Hence
+
+                                  αT = f (λ3 )
+                                     = f (λ2 + δ α2 )
+                                     = f (λ2 ) + δ α2 × f ′ .                         (3.332)
+
+Therefore
+                                             [αT − f (λ2 )]
+                                   δ α2 =                   .                         (3.333)
+                                                  f′
+If we assume again that f ′ = 1, then
+
+                                    δ α2 = αT − f (λ2 )                               (3.334)
+                            and       λ3 = λ2 + (αT − f (λ2 ))
+                             or       λ3 = αT + (λ2 − f (λ2 )),                       (3.335)
+

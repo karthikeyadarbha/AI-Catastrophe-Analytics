@@ -1,0 +1,66 @@
+2.19 Correcting the Sun using the iterated hypotenuse                                                           107
+
+be found in one step without resorting to the tedious iterative process described in
+the previous section for its computation.
+   The formula for the viparı̄ta-karn.a in (2.136) can also be understood from the
+geometrical construction in Fig. 2.12c. As the triangles OP0 P and OT Q are similar,
+                                                                               OT   OP0
+                                                                                  =
+                                                                               OQ   OP
+                                                                                    R2
+                                                                 or            OT =    ,                     (2.139)
+                                                                                    K
+as OQ = OP0 = R. Hence the viparyaya-karn. a Rv = OT . Also,
+
+                                                          QT̂ S = U ÔP0 = θ0 − θm.                          (2.140)
+
+Hence, QS = r0 sin(θ0 − θm ) and ST = r0 cos(θ0 − θm ). Now
+
+                                    OT = OS − ST
+                                         p
+                                       = OQ2 − SQ2 − ST
+                                         q
+                                       = R2 − r02 sin2 (θ0 − θm ) − r0 cos(θ0 − θm),                         (2.141)
+
+which is the same as (2.136).
+
+
+  .
+2 19 A;a;va;Zea;Sa;k+:NeRa;na A;k
+                                      å
+                                 R +:~.Pu+.f;a;k+.=+Na;m,a
+
+
+2.19 Correcting the Sun using the iterated hypotenuse
+
+                   È                                         å
+      ;a:a:$ya;a. îå
+                  *+;eÁ a d;ea;gRua;NaH   k+:NRa;Ba; H    .~.Pu +.f;Bua:ja;a;gua;NaH    Á
+
+                            x +:tMa .~va;ea;Ma na;a;. Ma va;a yua;a;+:taH     å
+      ta:;d
+          Äâ ;nuaH   .sMa;~k                                                   .~.Pu+.f;m,a   Á Á 45   ÁÁ
+
+      trijyāghno dorgun   . ah. karn. abhaktah. sphut.abhujāgun . ah. |
+      taddhanuh  . sam. skr.tam  . svoccam. nı̄cam. vā yuktitah . sphut.am || 45 ||
+      The true dorjyā is [equal to] the dorjyā multiplied by the trijyā and divided by the karn
+                                                                                                 . a.
+      The arc of this appropriately applied to the ucca or nı̄ca gives the true position [of the
+      planet].
+
+   This can be explained from Fig. 2.14a. Let φ = PÔU be the difference (θ − θm )
+between the manda-sphut.a and the ucca. Now
+
+                                                                     PN = P0 N0 ,
+                                                   or            K sin φ = R sin(θ0 − θm ).                 (2.142a)
+
+Hence
+                                                                         R
+                                                R sin φ = R sin(θ0 − θm ) ,
+                                                                        K           
+                                                                                   R
+                                              or      φ = (R sin ) R sin(θ0 − θm )
+                                                                −1
+                                                                                       .                    (2.142b)
+                                                                                   K
+

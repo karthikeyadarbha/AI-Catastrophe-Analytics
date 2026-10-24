@@ -1,0 +1,125 @@
+13. 12. 2
+
+(Then calculate the sighrakendraphala). Multiply the
+radius by the sighrakendraphala and divide (the product)
+by the (planet’s) sighrakarna; then reduce that to arc.
+Apply half of that arc to the longitude obtained above,
+reversely, (i.e., add when the sighrakendra is in the half
+orbit beginning with the Sign Aries and subtract when
+the fighrakendra is in the half orbit beginning with
+(Libra). (41)
+
+Therefrom calculate (the arc corresponding to) the
+manda-(kendra) phala and apply the whole of that to the
+mean longitude of the planet. Thus are obtained the
+true-mean longitudes of Mars, Saturn and Jupiter. (42)
+
+The true-mean longitude corrected for the arc derived
+from the sighrakendraphala, (literally, the arc correspond-
+ing to the result derived from the longitude of the
+Sighrocea minus the true-mean longitude of the planet)
+is to be known as the true longitude. The method (to
+be used) for the remaining planets (i-e., Mercury and
+Venus) is now being told. (43)
+
+The longitude of the (planet’s) mandocca (i.e., apogee)
+reversely increased or decreased by half the arc derived
+from the sighrakendraphala determines the true-mean
+longitude (of the planet). And that (true-mean longi-
+tude) corrected for the arc derived from the sighra-
+(kendraphala) is known as the true longitude. (44)
+
+The wise (astronomer) should apply the eccentric
+theory here (i.e., in the case of the planets Mars, etc.)
+also. (Under this theory the mandocca and sighrocca
+operations are as follows :)
+
+To the longitude of the mandocca (‘apogee’), apply
+(the spastabhuja due to the mandakendra, as a positive
+correction) in the manner prescribed above (in stanza
+22). From the longitude of the Sighrocca subtract the
+spasta-bhuja (due to the Ssighrakendra) (as follows):
+
+(When the sighrakendra is) in the first and second
+quadrants, subtract from the longitude of the Sighrocca
+the spasta-bhuja itself and that subtracted from half a
+circle (i.e., 180°) respectively; (when the Sighrakendra
+is) in the remaining quadrants (i.e., third and fourth),
+subtract that (spasfa-bhuja) as increased by half a circle
+and that (spasta-bhuja) subtracted from a circle, respec-
+tively. (45-46)
+
+Mandakarna and Sighrakarna
+
+Multiply the radius by the (planet’s) corrected
+epicycle and then divide (the product) by 80; then
+subtract the quotient from or add that to the R sine of
+the corresponding kofi (due to the kendra) in accordance
+with the quadrant (of the kendra) : and then calculate the
+(planet’s) karna as before. (47)
+
+Add half the difference between the (mean) planet
+corrected by the mandocca operation and the mean planet
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 148
+
+to or subtract that from the mean planet according as the
+(mean) planet as corrected for the mandocca operation
+is greater or less (than the mean planet). (The planet
+thus obtained is called the once-corrected planet.) (48)
+
+Then correct it by the sighrocca operation. (The
+planet thus obtained is called the twice-corrected planet).
+Then find the difference between the two planets thus
+obtained (i.e., the once-corrected and twice-corrected
+planets) ; divide that by two; and apply it to the once-
+corrected planet, as before. (49)
+
+Whatever is thus obtained should again be corrected
+by the mandocca operation. Next calculate the difference
+between the twice-corrected planet, as corrected by the
+mandocca operation, and that (twice-corrected planet).
+Apply whatever be the difference between the twice-
+corrected planet as corrected by the mandocca operation
+and the twice-corrected planet to the mean longitude
+of the planet, as before. That (i.e., the resulting longi-
+tude) corrected by the fSighrocca operation is the true
+longitude of the planet. (50-51)
+
+Thus has been stated the method for finding (the true
+longitudes of) Mars, Saturn, and Jupiter under the
+eccentric theory. Now is described the procedure to be
+adopted in the case of the remaining planets (viz.
+Mercury and Venus). (52)
+
+Mercury and Venus
+
+(First of all obtain the mean planet as corrected by the
+fighrocca. operation). Then add half the difference
+between the mean planet corrected by the sighrocca
+operation and the mean planet to or subtract that from
+the planet’s mandocca, according as the mean planet
+corrected by the Sighrocca operation is less or greater
+(than the mean planet). Thus is obtained the true
+mandocca. Then find out, by the method under the
+eccentric theory,! the correction due to the true mandocca
+for Mercury as well as for Venus. The mean longitudes
+of Mercury and Venus each corrected for that and
+thereafter for the correction due to the sighrocca are
+known as true longitudes of the planets.? (53-54)
+
+Further instructions relating to mandakarna and Sighrakarna
+When the R sine of the greatest correction (antyaphala)
+is to be subtracted from the R sine of the kofi (due to the
+kendra), but subtraction is not possible, then subtract
+reversely (i.e., the latter from the former) 3 Determine
+the mandakarna by the method of successive approxima-
+tions (as in the case of the Sun or Moon) and the Sighra-
+
+1 The method is to find the difference between (i) the mean planet
+corrected by the mandocca operation and (ii) the mean planet.
+
+2 For the explanation and rationale of the several matters involved,
+see MBh: KSS, pp. 136-45.
+
+3 Reference is to the rule given in stanza 47.

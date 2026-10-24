@@ -1,0 +1,66 @@
+30                                               ma;Dya;ma;pra;k+.=+Na;m,a                                                    Mean longitudes of planets
+
+            stated the parameter values in a separate section called saṅkhyā-bhāga, distinguishing
+            it from the rest.
+
+   Besides these issues which are of immediate relevance in understanding the pro-
+cedures described, certain other topics such as the theory of the rotation of the
+Earth,42 the distance moved by the planets in their orbits, etc., are also discussed.
+According to the general principle stated in most Indian texts, all the planets move
+equal distances in equal intervals of time, or, equivalently, the linear velocity of all
+the planets is the same. This is reiterated in Yukti-dı̄pikā.
+
+
+  .
+1 11 A;h;gRa;Na;a;na;ya;na;m,a
+
+1.11 Finding the number of days elapsed since an epoch
+
+               È
+      d;a;d;Za. îå Á
+      õ                                            ãÉEa:a;a;a;d;Æa;Ba;gRa;tEaH
+               *+;a;n,a k+:le+=+b.d;a;n,a ma;a;sEa;(                                          Á
+
+      .sMa;yua;+:a;n,a :pxa;Ta;ga;a;h;tya;a;pya;a;Da;ma;a;sEa;~ta;ta;ea &+.tEaH                  Á Á 23       ÁÁ
+
+      .sa;Ea:=+ma;a;sEa;yRua;ga;ea;E +:~tEaH   A;a;Da;ma;a;sEa;yRua;ta;a;n,a ga;tEaH             Á
+
+                 ãÉa ;a:Ma;Za;ta;a h;tva;a ;a;ta;Ta;a;yRua;+:a ga;ta;aH
+      ma;a;sa;Ma;(                                                                  :pxa;Ta;k,           Á Á 24          ÁÁ
+
+      ;a;ta;a;Ta;[a;yEa;a;nRa;h;tya;a;ta;ea yua;ga;ea;+:a;ta;a;Ta;Æa;Ba;&R +.ta;a;n,a    Á
+
+      A;va;ma;a;VC+.ea;Da;yea;. Ce+.SaH          .sa;a;va;na;ea dùÅ;au;ga;NaH   k+:le H               Á Á 25        ÁÁ
+
+      .sa;a;Æa;BaH    [a;a;pa;tea Zea;Sa;a;t,a Zua;kÒ +:a;a;dH      .~ya;a;a;+na;a;a;Da;paH             Á
+
+      dvādaśaghnān kalerabdān māsaiścaitrādibhirgataih. |
+      sam. yuktān pr . thagāhatyāpyadhimāsaistato hr       . taih. || 23 ||
+      sauramāsairyugoktaistaih. adhimāsairyutān gataih. |
+      māsām. śca trim. śatā hatvā tithı̄ryuktvā gatāh . pr.thak || 24 ||
+      tithiks.ayairnihatyāto yugoktatithibhirhr       . tān |
+      avamāñchodhayecches.ah. sāvano dyugan          . ah. kaleh. || 25 ||
+      saptabhih  . ks.apite śes.āt śukrādih. syāddinādhipah. |
+
+      The number of years elapsed since the beginning of the Kaliyuga multiplied by twelve and
+      added to the caitrādi lunar months elapsed in the present year [is stored separately and]
+      is multiplied by adhimāsas and divided by the number of solar months in a Mahāyuga.
+      [This gives the adhimāsas elapsed.] This is added to the number of solar months elapsed,
+      multiplied by 30 and the resultant is added to the number of tithis elapsed [in the current
+      lunar month] and stored separately (A′ ).
+      This (A′ ) is multiplied by the number of ks.ayatithis, and divided by the total number of
+      tithis in a Mahāyuga, and this quantity, referred to as the avama, has to be subtracted
+42 After giving the number of sidereal days in a Mahāyuga, Śaṅkara   Vāriyar states that
+this number is exactly the same as the number of eastward revolutions made by the Earth in a
+Mahāyuga (Yukti-dı̄pikā, Chapter 1, verse 73):
+                                           çÉ                                                                          ñÍ
+      A;a;[a;RaH                           +;a;nea:a;a:(õ;ya;e;Sua;BUa;ma;yaH Á +.[a;pa;yRa;ya;tua;yMa .. a :pra;a: íéÁ
+                      Ka;Kea;Sua;sa;a;a;a;îå                                                                          *+;u;KMa Bra;ma;NMa Bua;vaH Á Á
+
+
+      The number of sidereal days is equal to 1582237500. The number of eastward revolutions
+      of the Earth is same as the revolutions made by the stars [westwards].
+
+This idea of the rotation of the Earth (eastwards) has been given by Śaṅkara Vāriyar as perhaps
+a tribute to Āryabhat.a, who proposed the idea for the first time in the Indian tradition.
+

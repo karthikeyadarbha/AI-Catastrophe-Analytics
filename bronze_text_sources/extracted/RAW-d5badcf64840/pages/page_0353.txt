@@ -1,0 +1,54 @@
+306                              .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                       Solar eclipse
+
+                                                                     vertical passing
+                                                             Z      through the Sun
+
+
+
+
+                                                                       ξ
+                              K
+                           (pole of the                                    S        A
+                             ecliptic)
+
+                                                                               S
+
+                                                              ic
+                N                                           ipt
+                                                         ecl
+
+Fig. 5.1 Parallaxes in longitude and latitude.
+
+
+
+where, P is the horizontal parallax and z = ZS is the zenith distance of the Sun. KA
+is the secondary to the ecliptic passing through S. The lambana and nati are the
+components of the parallax along and perpendicular to the ecliptic. They are given
+by
+
+                                              lambana = S′ A = SS′ sin ξ                     (5.1b)
+                         and                      nati = SA = SS′ cos ξ ,                    (5.1c)
+
+where ξ is the angle between the secondary KS to the ecliptic and the vertical ZS
+passing through S.
+   In Fig. 5.2a, P is the north celestial pole and K0 and K1 represent the positions of
+the north pole of the ecliptic at different instants of time. When the ecliptic pole is
+at K0 , the secondary to the ecliptic passing through Z, that is ZV0 SQNP, is the same
+as the prime meridian. W being the pole of this vertical circle, it coincides with the
+autumnal equinox Γ ′ . The point V0 at the intersection of the ecliptic and the prime
+meridian is the dr.kks.epa-lagna or vitribhalagna (nonagesimal), which is the point
+on the visible half of the ecliptic at 90◦ from the orient ecliptic point. As mentioned
+earlier, K1 is the pole of the ecliptic at a later instant when the ecliptic intersects the
+horizon at B. Consider a secondary to the ecliptic passing through K1 and Z. This
+intersects the ecliptic at V1 and it can be easily seen that V1 is the dr.kks.epa-lagna at
+that instant.2
+
+
+
+
+2 Since the point B is at the intersection of the ecliptic and the horizon, K B = 90◦ and also ZB =
+                                                                             1
+90◦ . Since the two points K1 and Z are at 90◦ from B, B is the pole of the great circle passing
+through K1 and Z. Then, by definition, all the points in this circle must be at 90◦ from B, and hence
+BV1 = 90◦ . Thus V1 is the dr.kks.epa-lagna.
+

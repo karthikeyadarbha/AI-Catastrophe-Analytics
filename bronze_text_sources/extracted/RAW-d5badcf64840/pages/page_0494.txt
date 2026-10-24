@@ -1,0 +1,37 @@
+Appendix B
+Spherical trigonometry
+
+
+
+
+For an observer on the surface of the Earth, the sky appears to be the surface of
+a large sphere, with the celestial objects situated on it. For solving problems in
+positional astronomy, we need to know the properties of triangles drawn on spherical
+surfaces. This is the subject-matter of spherical trigonometry.
+
+
+
+B.1 Great and small circles
+
+A circle drawn on the surface of a sphere whose radius is equal to the radius of
+the sphere—or, equivalently, whose centre coincides with the centre of the sphere—
+is called a great circle. A great circle can also be conceived of as the intersection
+of a sphere with a plane passing through its centre. For instance, if the Earth is
+considered as a sphere, the equator on its surface is a great circle. All the meridian
+circles passing through the north and the south poles are also great circles.
+   If we consider any two points on the surface of a sphere that are not diametrically
+opposite, there is only one great circle that passes through them. If, however, the
+points happen to be diametrically opposite, then an infinite number of great circles
+can be drawn passing through them—just like the meridian or longitude circles on
+the surface of the Earth.
+   A small circle on the surface of a sphere is a circle whose centre does not coincide
+with the centre of the sphere. For instance, the Tropic of Cancer and Tropic of
+Capricorn, which are parallel to the equator, are small circles. In fact, all latitudinal
+circles are small circles, as their radii are smaller than the equator; their centres lie
+along the axis of the Earth and do not coincide with the centre of the Earth.
+
+
+
+
+                                                                                     447
+

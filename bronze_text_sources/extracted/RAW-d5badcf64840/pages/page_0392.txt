@@ -1,0 +1,48 @@
+5.13 Transformation to dr
+                        . ggola                                                       345
+
+where we have used (5.111). Similarly the parallax of the Sun (Fig. 5.19(b)) is given
+by
+
+                              z′s − zs = ps ≈ sin ps                              (5.114)
+                                              sin zs × Re
+                                            =             ,                       (5.115)
+                                                  OS
+and the solar parallax in latitude ns is given by
+                                          Re
+                                   ns =      × sin zv .                           (5.116)
+                                          OS
+The net parallax in latitude is
+
+                                    nn = (nm ∼ ns ).                              (5.117)
+
+The effective deflection from the ecliptic (ne ), which has to be considered for finding
+the half-duration of the eclipse or the duration of its totality etc. is obtained by
+finding the sum of or the difference between this and the true latitude of the Moon
+βt , as calculated earlier. This is the same as the effective deflection from the ecliptic
+discussed in Section 5.5; that is,
+
+                                     ne = βt ± nn,                                (5.118)
+
+where the choice of sign is ‘+’ if βt and nn have the same direction and ‘−’ other-
+wise. This may be understood with the help of Fig. 5.20. Here S and M represent the
+geocentric positions of the Sun and the Moon respectively. nm = MM ′ and ns = SS′
+are the natis of the Moon and the Sun. S′ M ′ is the effective deflection from the
+ecliptic to be calculated. In Fig. 5.20(a),
+
+                                       SM ′ = SM + MM ′
+                                            = SS′ + S′M + MM ′
+                                            = SS′ + S′M ′ .
+                      Therefore       S′ M ′ = SM ′ − SS′
+                                             = SM + (MM ′ − SS′)
+                                            = βt + nn .                           (5.119)
+
+ The situation in which the two have opposite directions is shown in Fig. 5.20(b). In
+this figure,
+
+                                       S′ M = S′ S + SM ′ + MM ′
+                                            = SS′ + SM
+                                             = S′ M ′ + MM ′ .
+                      Therefore       S′ M ′ = S′ M − MM ′
+                                            = SM + (SS′ − MM′ )
+

@@ -1,0 +1,123 @@
+7. 13. ४
+
+months and 2 days, respectively. The result is the
+Vikrama १२६८. (2). (SRS)
+7. 13. 2. अथ स्वशाकोपरि सन्नमासनज्ञानोपायः--
+शकः: खाश्रपञ्चेन्दु'हीनोऽकं'-निष्नो
+मधोर्मासयुक्तो ह्यध- स्त्यश्वि युक्त: |
+द्विनिध्नः स्व-खव्योमनन्‍्दां शहीन:
+"शरा ङ्ख-रवाप्ताधिमासैरयुगृध्वंः ।। ३ ।।
+'पतड्भा प्तशेषैमहर्मादिमासो
+‘TARTS TRAY लब्धेषु सन्नः ।। ४ ।।
+
+अस्योदाहरणम्‌-
+
+शाके 1565 ‘area’ (1500) हीने जातम्‌ 65. ‘ara’ fred
+(12) जातम्‌ 780. चैत्रशुक्लादेवेतंमानमासः 5 शुक्लादि श्रावणः |
+तेन युक्ते जातम्‌ 785. अधः स्थाप्य ‘cafea’ (23) युक्ते जातम्‌
+808. fefret जातम्‌ 1616. ततः स्व-खनव्योमनन्दांशेन' (900) हीनं
+जातम्‌ 1615. "शरा ङ्खै' (65) -भक्तं लब्धाधिमासः 24. अधिमासैर्युते
+जातम्‌ ऊर्ध्व॑म्‌ 809. द्वादशभक्ते शेषे मुदर्मादिमासः | लब्धाडु: (67)
+मध्ये "रसाष्टाडकं' (986) युक्ते जातो वर्तमानसन्न: 1053.
+
+Malajit Vedangaraya, Parastprakasa, 1. 3-4
+
+Conversion of a Saka date to Hijri date है
+
+Now the method of calculating the Hijri year (sanna)
+and the month from a given date in the Saka era:
+
+Reduce the Saka (year) by 1500, multiply it by 12
+and add the months from Caitra. (The result is the
+number of solar months after Saka 1500).
+
+Take this number separately, add 23 and multiply
+by 2. This, when reduced by its 900th part and
+divided by 65, gives the intercalary months. ` (3)
+
+Add these intercalary months to the above (number
+ofsolar months). Divide the sum by 12. The remain-
+der is (the number of the months as counted from
+Muharram. The quotient increased by 986 gives the
+Hijri year. (4)
+
+Its illustration: The Saka year 1565, reduced by 1500,
+becomes 65. This, multiplied by 12, becomes 780.
+The current month Sravana beginning with the bright
+fortnight is the fifth month from Caitra beginning with
+the bright fortnight. Adding this (i.e. 5), we get 785
+(i.e. solar months after Saka 1500).
+
++ The Hijri era commenced on V.S. 679 (expired) Sravana gukla
+2 (i.e., Friday, 16 July 622 A.D.), and the years are lunar, inter-
+calation being prohibited by the Quran. Therefore, in order to
+convert a Vikrama date into Hijri one, Pheru first transforms the
+solar years in the Vikrama era into lunar years by adding the inter-
+calary months from the beginning of the Vikrama era. From this
+sum he subtracts the difference between the commencement of the
+two eras (expressed in lunar years) to obtain the Hijri date. The
+reverse process yields the Vikrama date corresponding to a given
+Hijri date.
+
+In the second operation 679 years 4 months and 2 days should be
+added to get the correct result.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 60
+
+Take this number separately and add 23 to it. It
+becomes 808. When multiplied by 2, it becomes 1616.
+When its 900th part is subtracted from it, it becomes
+1615. Dividing it by 65, we get 24 intercalary months.
+The above number (i.e. 785), increased by the inter-
+calary months, gives 809 (i.e. lunar months after Saka
+1500).
+
+When divided by 12, the remainder is (the number
+of the Islamic) month as counted from Muharram (1.6.
+Jamada’1 awwal, the fifth month). The quotient
+67, increased by 986, becomes the current Hijri year
+1053. (SRS)
+
+7. 13. 3. अथ सन्नोपरि हिन्दुक-शाकमास-ज्ञानोपायः--
+
+सन^स्तकंवस्वङ्कु'हीनो"ऽकं निध्नो
+महर्मादिमासान्वितोऽधस्विदसैः' ।। ४ ॥
+युतो ने निघ्नः स्व-'खाभ्राङ्कु'-भागै-
+्युतो.ऽद्रयङ्क'-लब्धाधिमासैविहीनः ।
+‘TATA AAT मधोर्मास इष्टः
+"खखाक्षेन्दु युक्तो च लब्धे तु शाकः ।। ५ ॥
+
+अस्योवाहूरणम्‌
+वतंमानसन्नः (1053) (तकं वस्व ङ्कु" (986) हीनो जातः 67. अकं"
+(12). निघ्नो जातः 804. मुहम॑दादिवतैमानमासः 5 जमादिलव्वलः |
+तेन युक्ते जातम्‌ 809. अधस्त्रिदस्रैः" (23) युते जातं 832. द्विनिध्ने
+जातम्‌ 1664. ततः स्व-खाभ्राङ्कु' (900) भागैर्युते जातम्‌ 1665.
+अद्रच द्खै' (67) भक्ते अधिमासः 24. अधिमासोपरि हीने जातम्‌ 785.
+द्वादशभक्ते लब्धम्‌ 65, शेषम्‌ 5. तेन चैत्रादेवेतंमानः पञ्चमः शुक्लादिः
+श्रावणो मासः | लब्धमध्ये 1500 एतदयुक्ते जातो वर्तमान शाकः 1565.
+(Malajit Vedangaraya, Pdarasiprakasa, 1. 4-5)
+
+Conversion of a Hijri date to Saka date
+
+Now the method of calculating the Saka year and
+month of the Hindus from the Hijri date:
+
+Reduce the Hijri year by 986, multiply it by 12 and
+add the months from Muharram. (The result is the
+number of lunar months after A.H. 986.)
+
+Take this number separately, add 23 and multiply
+by 2. This, when increased by its 900th part and
+divided by 67, gives the intercalary months.
+
+Subtract the intercalary months (from the lunar
+months obtained above) and divide by 12. The re-
+mainder is the (number of the desired month as counted
+from Caitra. The quotient increased by 1500 gives the
+Saka year. (4-5)
+
+Its illustration: The current Hijri year 1053, reduced
+by 986, becomes 67. When multiplied by 12, it becomes
+804. The current month Jamada’] awwal is the fifth
+from Muharram. Adding this (i.e. 5th month), we
+get 809 (i.e. lunar months after A.H. 986).

@@ -1,0 +1,117 @@
+227 16. ECLIPSES
+
+lambana in terms of 0026, etc. This time should be
+added to or subtracted from the instant of conjunction,
+according as the Sun is less or greater than the vitribha-
+lagna. This process should be repeated (till the time
+is fixed). (1-2)
+
+The jya of the degrees, etc., in respect of the Sun or
+difference of the kranti and the viksepa of the vitribha-
+lagna and the latitude of the place, multiplied by 13
+and divided by 40, gives the avanatt.
+
+Find the viksepa of the Moon from its longitude at
+the instant of conjunction. The sum or difference of
+the avanati and the viksepa, according as they are in the
+-same or different directions, gives the sphufaviksepa of
+the Moon. This should be used to calculate, as in the
+case of the lunar eclipse, the half duration in ghatikas
+of the solar eclipse or of the total obscuration. (3-4)
+
+As before, the lambana should be calculated by repeated
+process from the instant of apparent conjunction of
+the Sun and Moon, decreased or increased by the
+duration of the first or second half of the eclipse, re-
+spectively, till it is fixed. When the lambanas for the
+beginning and middle of the eclipse, that is the sparsa-
+lambana and the madhyalambana, are both subtractive,
+and the former is greater than the latter, and when
+both are additive, and the former is less than the latter,
+then their difference, when added to the duration of
+the first half of the eclipse, gives its corrected duration.
+When. the sparfalambana and the madhyalambana are
+both subtractive, and the former is less than the latter,
+and when both are additive, and the former is greater
+than the latter, then their difference, when subtracted
+from the duration of the first half of the eclipse, gives
+its corrected duration. Again, when the sparsalambana
+and the madhyalambana are of different denominations,
+then their sum, when added. to the duration of the first
+half of the eclipse, gives its corrected duration. In the
+same manner, the correct duration of the first half of
+the total eclipse is calculated. Similarly, one can find
+the correct duration of the second half of the eclipse
+or of the total obscurations. (5-6).! (BC)
+
+--भास्कर:ः १
+16. 27. 12. लम्बकाभिहता fasar परमक्रान्तिसंहता ।
+
+लब्धं स्वदेशसम्भूतो व्यवच्छेदः प्रकीतितः ।! १॥
+
+लड्कोदयानुपाताप्तानवगम्य रवेरसून्‌ ।
+तिथिमध्यान्तरासुभ्यो हित्वा शोध्यं गतं ततः ।। २ ।।
+
+शेषेऽपि यावतां सन्ति व्युत्कमात्‌ तावतस्त्यजेत्‌ |
+भागा लिप्ताश्च पूर्वाह्णे मध्यलग्नमुदाहूतम्‌ ॥। रे ॥।
+
+1 For formulae involved and the rationale, see KX:BC, 1.123-28.
+
+16. 27. Ib
+
+अपराहणे चयः कार्यो गन्तव्यादेविवस्वतः ।
+पातहीनात्ततः कल्प्यो विक्षेपः सौम्यदक्षिणः ॥। ४॥।
+(Bhaskara I, LBh., 5. 1-4)
+
+—Bhiskara I
+Specialities
+
+Multiply the radius by the R sine of the colatitude and
+divide by the R sine of the (Sun’s) greatest declination:
+the result is called the local divisor. (1)
+
+Having calculated the asus (of the right ascension)
+of the traversed portion of the Sun’s Sign, by proportion
+with the right ascensions of the Sun’s Sign, and (then)
+having subtracted them from the asus between the
+times of geocentric conjunction of the Sun and the
+Moon and midday, subtract the traversed portion of
+the Sun’s Sign from the Sun’s longitude. From the
+remainder, also subtract in the reverse. order, as many
+Signs as have their right ascensions included (in the
+remaining asus) (as also)) the degrees and minutes (of
+the fraction) of a Sign, if any. The result (thus obtained)
+is known as the (tropical) longitude of the meridian
+ecliptic point in the forenoon.
+
+(When the geocentric conjunction of the Sun and
+the Moon occurs) in the afternoon, addition should be
+made of the untraversed portion of the Sun’s Sign,
+etc. (2-49)
+
+From that (tropical longitude of the meridian ecliptic
+point) diminished by the longitude of the Moon’s
+ascending node, calculate the celestial latitude north
+or south, (as the case of the Moon). (4b). (KSS)
+
+FRAT:
+
+16.27. 19. मध्यलम्नापमक्षेपपलज्याधनुषां युतिः ।
+तुल्यदिक्त्वे विदिक्कानां विश्लेषश्शेषदिग्वशात्‌ ।। ५ ।।
+मध्यजीवा तया क्षण्णा प्राग्विलग्नभुजां हरेत्‌ ।
+व्यवच्छेदेन यल्लब्धं वर्गीकृत्य विशोधयेत्‌ ।। ६ ।।
+मध्यज्यावगेतः शेषो वर्गो दृकक्षेपसंभवः |
+
+दग्गतिज्या ॥॒ ।
+
+तत्कालशडकूवर्गेण युक्त्वा तं प्रविशोधयेत्‌ ।\ ७ ॥।
+
+अमनस्‌ । पि
+
+| विष्कम्भाधंकृतेरमूलं 'रूपरन्ध्रनिशाकरे” ।
+हृत्वा लब्धस्य भूयोऽशो विज्ञेयो योऽधेपञ्चमः । = ।।
+लम्बनाख्यो भवेत्कालो नाडिकाद्यो खेग्रेहे 1
+पर्वणः शोध्यते प्राहणे दीयते मध्यतोऽपरे ।। & ॥। ¦
+एवं कृतेन भूयोऽपि पर्वणा कर्म कल्प्यते ।
+कालस्य लम्बनाख्यस्य निश्चलत्वं दिदृक्षुणा ॥ १० ॥
+(Bhaskara I, LBh., 5. 5-10)

@@ -1,0 +1,40 @@
+Preface
+
+
+
+
+Tantrasaṅgraha composed in 1500 CE by the Kerala astronomer Nı̄lakan.t.ha So-
+mayājı̄, has long been recognized as an important Indian text in astronomy. It is a
+comprehensive text which discusses all aspects of mathematical astronomy such as
+the computation of the longitudes and latitudes of planets, various diurnal problems,
+the determination of time, eclipses, the visibility of planets etc. There are two crit-
+ical editions of the Sanskrit text, by S. K. Pillai in 1958 and K. V. Sarma in 1977,
+which between them include the commentaries Laghu-vivr.ti in prose for the entire
+text, and Yukti-dı̄pikā in verses for the first four chapters, both of which are com-
+posed by Śaṅkara Vāriyar. The need has long been felt for an English translation
+of the work, with detailed explanatory notes in modern notation, so that the work
+is accessible to a larger audience. It is with this objective that we began a project
+on Tantrasaṅgraha, funded by the Indian National Science Academy (INSA), in
+2000.
+   Meanwhile, along with M. D. Srinivas (Centre for Policy Studies, Chennai),
+we were involved in preparing detailed explanatory notes for Gan.ita-yukti-bhās.a
+(GYB) of Jyes.t.hadeva, edited and translated by K. V. Sarma, and published in 2008
+by the Hindustan Book Agency and reprinted in 2009 by Springer. Though the work
+on GYB caused delay in the publication of the present work, it was very rewarding
+as GYB gives detailed explanations of most of the algorithms in Tantrasaṅgraha,
+and provides valuable insights on many topics covered in that work.
+   Scholars in the area of the history of astronomy in general, and Indian astronomy
+in particular, form the natural readership for this work. However, keeping the larger
+readership—anyone wanting to know the methods of Indian astronomy—in mind,
+we have attempted to make it as self-contained as possible, so that any motivated
+person with a sound background in mathematics at the final school (+2, as it is
+termed in India) level and interested in spherical astronomy will find it useful. We
+have also included a glossary of frequently occurring Sanskrit terms and several
+appendices that should serve to clarify many concepts relevant to the topics in the
+main text.
+   The modification of the traditional Indian planetary model by Nı̄lakan.t.ha in
+Tantrasaṅgraha is what attracted us to the work initially. But this topic is dealt
+
+
+                                                                                     ix
+

@@ -1,0 +1,67 @@
+262                                                 . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                       Lunar eclipse
+
+                                                                     trijyā2
+                                      aviśis..ta-manda-karn.a =                   .                              (4.8)
+                                                                 viparı̄ta-karn. a
+
+Using the expression for the viparı̄takarn. a (inverse hypotenuse) given earlier
+(Chapter 2, verse 44) we have
+
+                                                             R2
+                                             K=q                               ,                                  (4.9)
+                                                R2 − r02 sin2 θmk − r0 cos θmk
+
+where θmk is the manda-kendra.13 If rm and rs represent the mean radii of the
+orbits of the Moon and the Sun (kaks.yāvyāsārdha), then their actual distances of
+separation d1m and d1s from the centre of the bhagola (celestial sphere) in yojanas
+are given by
+                             rm × K                     rs × K
+                       d1m =              and     d1s =        .              (4.10)
+                                R                          R
+The suffix ‘1’ employed in the above expressions indicates that these values corre-
+spond to what are known as the ‘first’ sphut.a-yojana-karn.as, which have to be
+distinguished from the ‘second’ sphut.a-yojana-karn.as defined in the following
+section. In fact, d1m and d1s represent the distances of the Moon and the Sun in
+their eccentric orbits, from which the ‘second’ sphut.a-yojana-karn.as are obtained.
+
+
+  .
+4 6 .=+va;a;nd
+              õ ;eaH          ;a;d
+                                              å
+                                 õ ;ta;a;ya;~.Pu+.f;ya;ea:ja;na;k+:NRaH
+
+4.6 Second approximation to the radii of the orbits of the Sun
+    and the Moon in yojanas
+
+                                                                   å
+      o+.a;ea;na;Za;a;Za;k+:ea;a;f:$ya;a;d;lM :pa;va;Ra;nta:jMa .~.Pu+.f;m,a          Á
+
+        å
+      .~.Pu +.f;ya;ea:ja;na;k+:NeRa .~vMa .ja;hùÅ:a;a;t,a k+:k+.a;Ra;a;d:jMa ta;taH       Á Á 12     ÁÁ
+
+      .sa BUa;}ya;nta:=+k+:NRaH       .~ya;a;t,a .tea;na ;a;ba;}ba;k+:l+.Ma na;yea;t,a       Á
+
+        å
+      .~.Pu +.f;ya;ea:ja;na;k+:NeRa .~vea ma;a;sa;a;ntea Za;a;Za;va;dÒ+veaH        Á Á 13        ÁÁ
+
+      v.ya;~tMa :pa;[a;a;nta:jMa k+:a;ya .=+a;va;BUa;}ya;nta:=+a;a;yea        Á
+
+      ucconaśaśikot.ijyādalam  . parvāntajam . sphut.am |
+      sphut.ayojanakarn   . e svam  . jahyāt karkyādijam
+                                                         . tatah. || 12 ||
+      sa bhūmyantarakarn     . ah. syāt tena bimbakalām. nayet |
+      sphut.ayojanakarn   . e sve māsānte śaśivadraveh. || 13 ||
+      vyastam. paks.āntajam   . kāryam  . ravibhūmyantarāptaye |
+      Half of the kot.ijyā of the difference of the longitude of the Moon and its apogee, calcu-
+      lated at the moment of opposition, has to be added to or subtracted from the value of the
+      (first) sphut.a-yojana-karn  . a depending upon whether the manda-kendra is Mr.gādi or
+      Karkyādi. This is the actual distance of separation between the Earth and the Moon. From
+      this the diameter of the Moon’s disc must be obtained.
+
+
+
+
+13 θ
+       mk is the same as θ0 − θm used in Sections 2.17 and 2.18 of Chapter 2.
+

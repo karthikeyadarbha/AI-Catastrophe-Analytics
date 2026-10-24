@@ -1,0 +1,125 @@
+249 | 17.
+
+and divided by 90, gives the illuminated portion (in the
+light half). When the above difference is diminished
+by 180° and the remainder is multiplied by the radius
+of the Moon and divided by 90, the result is the dark
+portion in the dark half. (15)
+
+Or, multiply the R versed sine of the difference (in
+degrees) in the longitudes of the Sun and the Moon by
+the Moon’s radius and divide by the radius. The result
+is the breadth of the illuminated portion of the Moon.
+This may be converted into atgulas as before.) (14). (BC)
+
+-- भास्करः १
+17. 8. 3. अन्तरांशोत्क्रमां जीवां स्फुटेन्ुव्यासताडिताम्‌ |
+षण्णगाष्टरसैहूत्वा सितमानं पदाधिके ।। ६ ॥
+
+क्रमज्यामधिकोत्पन्नां त्रिज्यया योज्य तत्‌ सितम्‌ ।
+आनयेदसितेऽप्येवमुत्करमक्रमतोऽसितम्‌ । ७ ।।
+(Bhaskara 1, LBh., 6. 6-7)
+
+-—-Bhaskara I
+(In the light half of the month) the R versed-sine of
+
+the difference (between the longitudes of the Moon and
+the Sun) multiplied by the true diameter of the Moon
+and divided by 6876 gives the measure of the illuminated
+part (of the Moon). When the difference exceeds a
+quadrant, one should add the radius to the R sine of the
+excess and from that (find) the measure of the illumi-
+nated part. In the dark half of the month, one should
+obtain, in the same way, the unilluminated part (of the
+Moon) with the help of the R versed sine (of the differ-
+ence between the longitudes of the Moon and the Sun
+diminished by 6 Signs) and from the R sine (of the
+excess of that difference over a quadrant). (6-7) (KSS)
+--भास्करः २
+17. 8. 4. मासान्तपादे प्रथमे5थवेन्दो:
+
+शु द्खोन्नतिर्यदिवसेऽवगम्या |
+
+तदोदयेऽस्ते निशि वा प्रसाध्यः
+शब्कुविधो: स्वोदितनाडिकाद्यैः ।। १ ।।
+
+निशावशेषैरसुभिगेतैर्वा
+यथाक्रमं गोलविपयेयेण ।
+
+रवेरध: शडकूरथाक्षभाघ्नो
+नरोऽ'कंहुच्छडकरुतलं यथाशम्‌ ।। २ ।।
+
+सौम्यं त्वधोमुखनरस्य तलं प्रदिष्टं
+स्वाग्रास्वशड्कूतलयोः समभिन्नदिक्त्वे |
+
+योगोऽन्तरं भवति दोरिनचन्द्रदोष्णो-
+स्तुल्याशयोविवरमन्यदिशोस्तु योगः ।! ३ 1
+
+स्पष्टो भुजो भवति चन्द्रभुजाश इन्दोः
+शुद्धे तु रविभुजाद्विपरीतदिक्कः । ॥
+
+1 For elucidation, see, SiDhVr: BC, 11. 166-73,
+
+PHASES OF THE MOON
+
+17. 8.4
+
+योऽघो नरो दिनकृतः स विधोरुदग्र-
+शड्क्वन्वितो मम मता खलु सेव कोटिः ।। ४ ॥
+
+दोःकोिवर्गेक्यपदं श्रुतिः स्याद्‌
+
+भुजो र॑ंसघ्न:' श्रवणेन भक्तः ।
+प्रजायते दिम्बलनं हिमांशोः
+
+शुद्धोत्रती तत्‌ स्फुटबाहूदिक्कम्‌ ।। ५ ॥।
+
+चन्द्रस्य योजनमयश्रवणेन निध्नो
+TH GT इनश्रवणेन भक्तः ।
+तत्कार्मुकेण सहितः खलु शुक्लपक्षे
+कृष्णेऽमुना विरहितः शशभृद्विधेयः ।॥। ६ ।।
+(Bhaskara II, SiSi, 1.9. 1-6)
+
+—Bhaskara II
+
+Either in the last quarter of a lunation, or in the first
+quarter, on the day when the elevation of the cusps of
+the crescent Moon is to be determined, then either at
+the moment of moonrise or moonset or (for the matter
+of that, during any part of the night) the R:sine of the
+altitude of the Moon is to be computed by noting the
+time from the moment of moonrise. (1)
+
+The R sine of the altitude of the Sun is to be computed,
+assuming the rising Sun to be in the opposite hemisphere,
+south or north (i.e. if it be originally in the northern,
+assume it to be in the south) (and using the formula
+given in verse 54 of Triprasnddhydya, given the time
+measured in asus that has elapsed after sunset). (2)
+
+The sankutala of the inverse altitude or the latitude
+below the horizon, is north (in contradistinction to
+what it is above the horizon). The sum or difference
+of the agré and fankutala according as they are of the
+same direction or of opposite directions, is the bhkuja.
+The sum or difference of the bhujas of the Sun and Moon,
+according as they are of opposite or the same directions,
+is what is called the spasta-bhuja whose direction is to be
+construed as that of the Moon. If the bhuja of the
+Moon falls short of that of the Sun, then the direction
+of the spasta-bhuja is that opposite to that of the Moon.
+(3-4a)
+
+I deem that the koti should be taken as the sum of the
+Sankus of the Sun and the Moon, the one being below the
+horizon and the other above, respectively. (4b)
+
+The hypotenuse or karna is the square root df the sum
+of the squares of the bhuja and koft. The bkuja multi-
+plied by 6 and divided by the karna gives what is known
+as the dik-valana of the Moon. The direction of the
+valana has the same direction as the spasta-bhuja defined
+before. (5)
+
+The R sine of the elongation of the Moon is to be
+multiplied by the radius vector of the Moon measured

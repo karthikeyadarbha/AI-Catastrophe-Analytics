@@ -1,0 +1,76 @@
+3.27 Ks.itijyā from the samaman
+                               .d. ala-śaṅku                                                                                          199
+
+               ñÍ
+  .
+3 27 .sa;ma;Za;öÅ
+               *:+.eaH                 ;Æa;[a;a;ta:$ya;a
+
+
+3.27 Ks.itijyā from the samaman
+                               .d. ala-śaṅku
+                 È                    ñÍ
+      A;[a:$ya;a. îå
+                 *+;EÁ a .sa;ma;Ea Za;*:
+                                      öÅU ;a:a:$ya;a;l+.}ba;k+:Ba;a;Æa:ja;ta;Ea          Á
+
+
+      k+:a;ntya;k+:Ra;g{ea ta;ya;eaH
+      Ò                                 kx +:tya;eaH    Bea;d;mUa;lM ;Æa;[a;tea;gRua;NaH       Á Á 59           ÁÁ
+
+      aks.ajyāghnau samau śaṅkū trijyālambakabhājitau |
+      krāntyarkāgre tayoh
+                          . kr.tyoh. bhedamūlam. ks.itergun
+                                                           . ah. || 59 ||
+      The product of the aks.ajyā and samaman     .d. ala-śaṅku [kept at two different places] di-
+      vided by the trijyā and the lambaka are the krānti and the arkāgrā respectively. The
+      square root of the difference of their squares is the ks.itijyā.
+
+
+
+                                                                                   Z
+
+                                                       P
+
+                                                              H
+
+
+
+
+                                                                                                                         r
+                                                                                                                 a     to
+                                                                                                              qu
+                                                                                                           le
+                                                                                                        tia
+                              L                                                Y                  les                            S
+                                               horizon                                          ce
+
+                                                               X                       W
+                                                                                                6o
+                                                                                                  ’cl
+                                                                     V                                   oc
+                                                                                                            k    cir
+                                                                                                                     cle
+
+                                                                                                                             Q
+
+
+
+Fig. 3.25 Determination of the ks.itijyā from the samaman
+                                                         . d.ala-śaṅku.
+
+
+    In Fig. 3.25, X and Y represent the Sun when it is on the horizon, and on the
+6 o’clock circle respectively. The Rsine of the arc length XY along the diurnal circle
+is the ks.itijyā or kujyā (earth-sine). In other words, the ks.itijyā is the Rsine of
+ascensional difference reduced to the diurnal circle. The arc WV = W P̂X is the cara
+or the ascensional difference. Hence
+                                                                           R cos δ × R sinWV
+                                                       ks.itijyā =                          .                                       (3.153)
+                                                                                    R
+The expressions for the krānti and the arkāgrā as given in the above verse are:
+
+                                                                      aks.ajyā × samaman. .dala-śaṅku
+                                                 krānti =
+                                                                                    trijyā
+

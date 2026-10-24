@@ -1,0 +1,48 @@
+Introduction                                                                    xxxiii
+
+The Kerala school of astronomy and mathematics
+
+Kerala has had a long, continuous and vigorous tradition of astronomy and mathe-
+matics from very early times. Āryabhat.ı̄ya (c. 499 CE) of Āryabhat.a, which sets
+the tone for all further work on mathematical astronomy in India, appears to have
+become popular in Kerala soon after its composition. The astronomical parameters
+in Āryabhat.ı̄ya were revised by a group of astronomers who had gathered at the
+celebrated centre of learning at Tirunāvāy in northern Kerala during 683–684 CE.
+The revised system called Parahita-gan.ita was enunciated by Haridatta in his Gra-
+hacāra-nibandhana.
+    Laghubhāskarı̄ya and Mahābhāskarı̄ya of Bhāskara I (c. 630), which ex-
+pounded the Āryabhat.an school in detail, were also popular in Kerala. Govin-
+dasvāmin (c. 800) wrote an elaborate commentary on Mahābhāskarı̄ya and his stu-
+dent Śaṅkaranārāyan.a (c. 850) wrote one on Laghubhāskarı̄ya. Udayadivākara
+(11th century), who also probably hailed from Kerala, wrote a detailed commentary,
+Sundarı̄ on Laghubhāskarı̄ya, which contains the method for solving quadratic in-
+determinate equations (varga-prakr.ti). This method is ascribed to Jayadeva (10–
+11th century) and is the same as the famous Cakravāla algorithm, expounded in
+detail by Bhāskara II in his Bı̄jagan.ita (c. 1150).
+    The Kerala tradition enters a new phase with Mādhava of Saṅgamagrāma
+(c. 1340–1425). His known works like Ven.vāroha, Sphut.acandrāpti and
+Agan.itagrahacāra may not be major works conceptually, but all the later as-
+tronomers from Kerala invariably attribute to him the path-breaking results on infi-
+nite series for the inverse tangent, sine and cosine functions, plus many innovations
+in astronomical calculations.
+    Parameśvara of Vat.aśśeri (c. 1360–1455), a student of Mādhava, was a pro-
+lific writer, who authored about 30 works. Emphasizing the need for revising the
+planetary parameters through observations, he thoroughly revised the Parahita sys-
+tem and introduced the Dr.ggan.ita system. Nı̄lakan.t.ha in his Jyotirmı̄mām. sā and
+Āryabhat.ı̄ya-bhās.ya mentions that Parameśvara observed eclipses for 55 years
+continuously and revised these parameters so that the observations and calcula-
+tions tally with each other. Apart from Dr.ggan.ita, the other important works
+of Parameśvara are Goladı̄pikā, Bhat.adı̄pikā (a commentary on Āryabhat.ı̄ya),
+Siddhāntadı̄pikā (a super-commentary on Govindasvāmin’s Mahābhāskarı̄ya-
+bhās.ya), Grahan.aman.d.ana on eclipses and Mahābhāskarı̄ya-bhās. ya, his own
+commentary on Mahābhāskarı̄ya of Bhāskara I. Parameśvara also happens to be
+one of the few astronomers to discuss in detail the geometrical model of plan-
+etary motion implied by the calculational procedure in Indian astronomy in his
+Siddhāntadı̄pikā, Bhat.adı̄pikā and Goladı̄pikā.
+    Nı̄lakan.t.ha Somayājı̄ (c. 1444–1545), of whom a brief biographical sketch is
+provided in the next section, was a disciple of Dāmodara, who was the son and
+disciple of Parameśvara. Suffice it to say here that the innovations in the plan-
+etary model and spherical astronomical calculations made by Nı̄lakan.t.ha in his
+Tantrasaṅgraha and other works were considered as major advances by the later
+astronomers of Kerala.
+

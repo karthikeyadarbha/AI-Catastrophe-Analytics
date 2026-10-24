@@ -1,0 +1,66 @@
+7.6 Visibility or otherwise of the planets                                                                                                                399
+
+   IR+.q:a;Za;nya;a:=+aH   :pra;a;k, A;~tMa ya;a; / /
+                                                  a;nta   ; :pa;(ãÉa;a;du;d;ya;a;nta
+                                                                                  //// .. a Á va;a;kÒ +:Na;Ea :℄a;Zua;kÒ +:Ea (A;a;pa) O;;va;m,a Á .=+veaH
+
+   Za;a;Gra;ga;a A;nya;Ta;a Á
+
+
+   The translation of the verse given above is also in the light of the above under-
+standing. This is at variance with the commentary given by Śaṅkara Vāriyar. It
+appears that the terms udaya and astamaya used in the above verses are not to be
+understood in the usual sense of the rising and setting of the planets at the observer’s
+horizon. They are actually used to refer to the visibility and the non-visibility of the
+planets when their directions are close to that of the Sun.
+
+
+
+
+                                                                              orbit of Jupiter
+                                                                              around the Sun
+
+                                                                                                                      (Jupiter at
+                                                                                                                         udaya)
+                                                                                                                            J2
+
+                                                                         S2                                      E
+
+                                                                           S0                    direction of
+                                                 E                                               motion of                       J
+                                                                                                                                 0
+                                                                                                 the planet
+                                                                                                                W
+                                                                        S1
+
+                                                                                                                            J1
+                                                                                                                      (Jupiter at
+                                          orbit of Sun                                                                astamaya )
+                                          around the Earth
+
+
+
+                                                                          Γ
+
+
+
+Fig. 7.5 Rising and setting of an exterior planet.
+
+
+    In Fig. 7.5, let J1 and J2 be the positions of the Jupiter when it becomes invisible
+(owing to the brilliance of the Sun) and once again becomes visible, respectively.
+Let S1 and S2 be the corresponding positions of the Sun. When the Sun is at S1 the
+planet Jupiter is at J1 and just becomes invisible. Here it must be noticed that the
+direction of Jupiter is to the east compared with that of the Sun. In other words,
+Jupiter sets when it is to the east of the Sun.
+    Similarly the rising (becoming visible again) of Jupiter happens when it is to the
+west of the Sun. This is indicated by the position of Jupiter at J2 which is to the west
+of the Sun at S2 . The above picture is also true for inner planets when they are in
+retrograde motion (see Fig. 7.6). When the Sun is at S1 , Venus is at V1 , just setting,
+and it is to the east of the Sun as seen from the Earth. Similarly, when the Sun is at
+S2 , Venus is at V2 . It is just rising and lies to the west of the Sun as mentioned in the
+verse: vakrin.au jñaśukrau (api) evam       ..
+    On the other hand, when the inner planets are executing direct motion, as shown
+in Fig. 7.7, they set in the west and rise in the east. The orbit of the Moon is also
+shown in the figure. Here M1 and V1 are the positions of the Moon and Venus when
+

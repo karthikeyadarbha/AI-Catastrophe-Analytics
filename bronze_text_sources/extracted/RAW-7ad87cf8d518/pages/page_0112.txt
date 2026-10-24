@@ -1,0 +1,120 @@
+7. 19. 1
+
+मल्यादिना विना ज्यानयनम्‌
+
+7. 19. 1. मख्यादिरहितं कर्म वक्ष्यते तत्समासतः |
+चक्रार्धांशकसमूहाद्विशोध्या ये भुजांशकाः ।। १७ ॥
+तच्छेषगुणिता द्विष्ठः शोध्याः 'खाभ्रेषुखाञ्धि'तः।
+चतुर्थांशेन शेषस्य द्वष्ठमन्त्यफलं हतम्‌ ।। १८ ।।
+
+बाहुकोट्योः फलं कृत्स्नं क्रमोत्क्रमगुणस्य वा ।
+लभ्यते चन्द्रतीक्ष्णांश्वोस्ता राणां वापि तत्त्वतः ।। १६ I
+(Bhaskara I, MBh., 7.17-19)
+
+Direct computation of R sines
+
+(Now) I briefly state the rule (for finding the bhujaphala
+and the kotiphala, etc.) without making use of the R sine-
+differences, 225, etc. Subtract the degrees of the bhuja
+(or Kofi) from the degrees of half a circle (i.e. 180 degrees).
+Then multiply the remainder by the degrees of the bhuja
+(or kofi) and put down the result at two places. At one
+place subtract the result from 40,500. By one-fourth of
+the remainder (thus obtained) divide the result at the
+other place as multiplied by the antyaphala (i.e. the
+epicyclic radius). Thus is obtained the entire baihuphala
+(or kotiphala) for the Sun, Moon or the star-planets. So
+are also obtained the direct and inverse ए sines.!
+(17-19). (KSS)
+
+भुजकोट्यंशोनगुणा भार्धाशास्तच्वतुर्थभागोने: ।
+'पञ्चद्वीन्दुखचन्द्रविभाजिता व्यासदलगुणिता Ut
+
+7. 19. 2.
+
+तज्ज्ये परमफलज्यासंगुणितास्तत्फले विना ज्याभिः ।
+इष्टोच्चनीचवृत्तव्यासाध॑ परमफलजीवा ।। २४ ॥
+(Brahmagupta, BrSpSi., 14.23-24)
+
+Multiply the degrees of the bhuja or koti by the degrees
+of half a circle diminished by the same. (The product
+so obtained) be divided by 10125 lessened. by the fourth
+part of that same product. The whole multiplied by
+the semi-diameter gives the sine.” (24). (RCG)
+
+7. 19. 3. चक्रार्धाशा भुजांशैविरहितनिहतास्तद्धिहीनैविभक्ताः
+'खब्योमेष्व भ्रवेदे: 'सलिल'-निहताः पिण्डराशिः प्रदिष्टः ।
+
+1 In current mathematical symbols the rule implied can be put as
+
+Rsinh=R $(180—9) [3{40500—4( 180—#)}
+_ 49 (180-9) _ ¢ (180 — ¢ )
+
+sin ¢ 75500 — $(180— ¢ )
+where @ isin degrees. For the rationale of the process see MBh:KSS,
+pp. 208-10. For the rationale of this method and its equivalents
+by later astronomers, given below, see R.C. Gupta, ‘Bhaskara I’s
+approximation to sine’, [FHS 2 (1 967) 121-36.
+
+2 The rule works out to:
+pang = 3 080 80
+10125 -- | ¢ (180 —$)
+
+ie.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 72
+
+षड़्भांशघ्ता भुजांशा निजकृति-रहितास्तत्तुरीयांशदीने-
+भक्ताः स्यात्‌ पिण्डराशिविशिखनयनभूव्योमशीतांशुभिर्वा ।।
+(Vategvara, VSi, Spasta., 4.2)
+
+Multiply the degrees of halfa circle less the degrees of
+bhuja (by the degrees of bhuja). Divide (the product so
+obtained) by 40500 less that product. Multiplied by
+four is obtained the required sine. Or the कषद in
+degrees be multiplied by 180 degrees and (the result)
+be lessened by its own square. A fourth part of the
+quantity (so obtained) be subtracted from 10125, and
+by this (new) result the first quantity be divided. The
+sine is obtained! (2). (RCG)
+
+7. 19. 4 दो.कोटिभागरदहिताभिहताः खनाग-
+चन्द्रा'स्तदीय-चरणोन-शराकंदिग्‌भिः' ।
+ते व्यास-खण्ड-गुणिता विहताः फले तु
+ज्याभिविनैव भवतो भुजकोटि-जीवे ।। १७ ।।
+(Sripati, Si Se., 3.17)
+
+The degrees of dok or kof{t are multiplied by 180 less
+degrees of dok or koft. Semi-diameter times the product
+(so obtained) divided by 10125 less fourth part of that
+product becomes the bhuja or kotiphala.2 (17). (२0७)
+7. 19. 5. चापोननिघ्नपरिधिः प्रथमाह्वयः स्यात्‌
+
+पञ्चाहतः परिधिवगेचतुथंभागः |
+आद्योनितेन खल्‌ तेन भजेच्चतुष्नै-
+
+व्यासाहतं प्रथममाप्तमिह ज्यका स्यात्‌ ।।
+
+(Bhaskara II, Lildvati, Ksetra., 48)
+
+Circumference less (a given) arc multiplied by that
+arc is prathama. Multiply the square of the circumference
+by five and take its fourth part. By the quantity so
+obtained, but lessened by prathama, divide the prathama
+
+multiplied by four times the diameter. The result will
+
+1 The two formulae obtained are:
+. ¢ (180—)  4_ —@) x 4
+sin % = —
+40500 — ¢ (180 — 9)
+and
+. 180 — 0?
+sin ¢ = ¢ ¢
+. 10125 -- | (¢ . 180 — $?)
+2 The rule works out to:
+RY (180—9) _
+10125 —3 7) (180 - - ¢)
+This form is exactly the same as that of Brahmagupta.
+
+R sin ¢ =

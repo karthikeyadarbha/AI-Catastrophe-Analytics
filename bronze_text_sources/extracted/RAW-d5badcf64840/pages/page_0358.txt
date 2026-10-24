@@ -1,0 +1,55 @@
+5.2 Finding the dr
+                 . kks.epa and the dr
+                                    . ggati                                        311
+                                 q
+                                     madhyajyā2 − (madhyajyā × udayajyā)2
+    dr.kks.epajyā = trijyā ×       q                                       .   (5.4a)
+                                       trijyā2 − (madhyajyā × udayajyā)2
+
+The dr.kks.epajyā is also simply called the dr.kks.epa or dr.gjyā. Using the notation
+ZML = zml , and ZV = zv , the above equation reduces to:
+                                  q
+                                    sin2 zml − (sin zml sin x)2
+                         sin zv =    p                          ,                (5.4b)
+                                       1 − (sinzml sin x)2
+
+where sin x is known from (5.3).
+
+
+Proof:
+
+The above result for the sine of the zenith distance of the vitribhalagna can be
+derived using spherical trigonometrical formulae. In Fig. 5.3, consider the spherical
+triangle ZV ML . Using the sine formula we have
+                                  sinV ML     sin ZML
+                                           =            ,                        (5.5a)
+                                 sinV ẐML   sin ZV̂ ML
+
+where V ẐML = x and ZV̂ ML = 90, as KZV is a secondary to the ecliptic. Further,
+using the notation ZML = zml , the above equation reduces to
+
+                                  sinV ML = sin zml sin x.                       (5.5b)
+
+Applying the analogue to the cosine formula,
+
+                       sin a cosB = cos b sinC − sin b cos c cos A,               (5.6)
+
+with a = ZML , b = V ML , c = ZV, B = x and A = 90, we find
+
+                             sin ZML cosx = cosV ML sin ZV.                       (5.7)
+
+Rewriting the above equation and using (5.5b) in it, we have
+                                   sin zml cos x
+                          sin zv =
+                                     cosV ML
+                                           p
+                                   sin zml 1 − sin2 x
+                                 = p
+                                        1 − sin2 V ML
+                                   q
+                                      sin2 zml − (sin zml sin x)2
+                                 =     p                          ,               (5.8)
+                                          1 − (sinzml sin x)2
+
+which is the same as (5.4). The quantity dr.ggati is stated to be
+

@@ -1,0 +1,52 @@
+Tantric Astronomy
+
+“A _modul of 30 days in a lunar calendar would rapidly accumulate_an intolerable error.
+Hence “30” must represent a mean lunar month, whatever its length may be in ordinary
+days. This fact leads to an important new concept. We introduce schematic months of
+constant length (hence called “mean lunar months”), which we divide into 30 parts, also of
+equal length. We call such a part (with a Sanskrit term) “tithi” ...”
+
+Vedanga Jyotisa belongs to the antiquity of 2423 BC as against the Babylonian records of
+3” or 4" century BC and hence the concept of tithi had its origin in ancient India. The two
+important characteristics of Babylonian astronomy as noted by O. Neugebauer viz., the
+use of arithmetical methods and the synodic arcs (elongation from sun) in fact formed the
+basis of the pre-siddhantic Indian astronomy also as is evident from the
+Parcasiddhantika. The arithmetical solstice pattern that we see in the Uruk scheme of
+Babylon and the 19-year cycle are derived from the arithmetical methods of Vedafhga
+Jyotisa as interpreted by P.V.Holay.
+
+As is evident from the above quoted opinion of Dikshit ‘tith? is an odd unit difficult to
+conceive and measure in the normal course. How could such a unit evolve in the pre-
+historic antiquity of Rgveda? O.Neugebauer has speculated on the origin of the practice
+as follows:
+
+“It remains to be noted that the concept of “tithi” as unit of time is by no means restricted
+to the computation of solstices. It will be encountered again in the planetary theory and in
+the lunar theory itself. The same units play an important role in Indian astronomy to the
+present day... The practical advantage of introducing such a unit is evident from its use
+discussed so far. Since calendaric lunar months are either 29 or 30 days long a tithi will
+be nearly the same as an ordinary day. Hence if we ignore fractions and call the integer
+parts of the tithis simply “days” within a lunar month we will always keep near to the
+corresponding calendar dates, but avoid the determination for each month of its actual
+length. In other words the tithis help to eliminate the painful consequences of a strictly
+lunar calendar”.
+
+1) the light of Neugebauer’s earlier words that a modul of 30 days in a lunar calendar
+would rapidly accumulate an intolerable error the above abstract speculation — ‘if we
+ignore fractions and call the integer parts of tithis simply days’ - appears
+incomprehensible. How can anybody assess the integer parts of tifhis, when tithi itself is a
+unit difficult to measure? Measurement of the duration of a tithi can only add more pains
+to a lunar calendar rather than eliminating the pains? Any day count (or even night count
+as suggested by Dikshit), as noted by Neugebauer, shall result in an intolerable error and
+there was no practical method to visualize a lunation of 29.531 days in terms of 30 units.
+Astronomy had its origin in observations and hence the unit of tithi most likely had an
+observational origin rather than a conceptual or theoretical development as suggested by ,
+O. Neugebauer.
+
+Observational or Phenomenal Origin of Tithi
+We see in both Vedafga Jyotisa as well as Babylonian astronomy the use of fithis. or
+
+elongation of moon relative to sun in charting the solstice dates. Such a practice point
+towards the possibility that at some epoch in the past the soistices probably had an
+
+123

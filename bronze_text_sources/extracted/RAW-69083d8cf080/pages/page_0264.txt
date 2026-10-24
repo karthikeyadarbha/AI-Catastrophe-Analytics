@@ -1,0 +1,70 @@
+210
+
+ओज:, (पदम्‌) 1.8.1;
+शा.13
+
+कक्ष्या, शा.1, 2
+कक्ष्याप्रतिमण्डलम्‌, शा.3
+कक्ष्यामण्डलम्‌, शा.1,7
+कक्ष्यावृत्तम्‌, णा.4.
+कपालः, (c.w.)
+
+करणम्‌, (c.w.)
+
+कर्किः, 1४.3
+
+कर्क्यादि:, 1५.3
+
+कर्णः, V1.2; शा.३
+
+कण्वित्तम्‌, शा.7, 8
+
+कर्णवृत्तज्या, शा.7
+
+कला, (अंशः, लिप्ता),शा.1
+
+कलागतिः, (d.w.)
+
+कलार्धञ्या, (d.w.)
+
+APPENDICES
+
+1. First and third quadrants of a circle;
+2. Odd.
+
+Orbit.
+
+Eccentric.
+
+Mean orbit; Deferent; Concentric.
+Orbital circle of a planet.
+Hemisphere.
+
+Half-tithi period.
+
+Sign Kataka, Cancer.
+
+Commencing from the sign Karki or Cancer,
+
+the fourth zodiaed constellation.
+
+1. The diagonal of a quadrilateral;
+2. Hypotenuse of a right angled triangle;
+
+3. Radius vector.
+Hypotenuse circle.
+
+Rsine in hypotenuse circle.
+
+of the circumference of a circle.
+
+1 1
+` 21600
+
+2. Minute of arc.
+
+Daily motion of planets in minutes.
+
+The four Rsine differences in terms of
+
+minutes.

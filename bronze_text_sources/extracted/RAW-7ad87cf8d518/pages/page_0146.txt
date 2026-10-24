@@ -1,0 +1,121 @@
+11. 6:3
+दिनाधिपानयनम्‌
+11. 6.8. अहगंणोऽब्दाधिपशुदधिनाडिका-
+
+युतो यथा स्वं स्वरभक्तशेषकम्‌ |
+भवेत्‌ सितादिदिनपस्तदह्िजाः
+
+सहस्र रश्मेरुदये नभश्चराः ॥ ३२ Il
+ः * (Lalla, SiDhkVr., 1. 32)
+Lords of the days
+
+To the ahargana should be added the days and hours
+(ghatikas) of the suddkt. The sum, which is the ahargana
+from the beginning of Cattra, should be divided by 7.
+The remainder counted from this day gives the lord of
+the day. The longitudes of the planets, etc. calculated
+from the ahargana will be for the sunrise on the current
+
+day. (32). (BC)
+
+वर्षाधिपानयनम्‌
+11. 6. 4. गताः समा नन्दकृतेन्दुताडिता
+“रसाद्रिबाणा 'पहूता दिनादिकम्‌ ।
+फलं युतास्तेन समाः समाधिपो
+नगाःप्तशेषा भृगुनन्दनाद्‌ भवेत्‌ ।। २७ ।।
+(Lalla, SiDhVr., 1. 27)
+
+Lord of the year
+
+The number ofsolar years elapsed (since the beginning
+of the Kaliyuga) multiplied by 149 and divided by
+576, gives the result in days etc. Add this to the
+number of solar years and divide the sum by 7. The
+remainder counted from Friday gives the Lord of the
+year.t (27). (BC)
+
+WEA
+11. 7. 1. गतमयनादुत्तरतो यूनां गन्तव्यमपि च याम्यस्य ।
+| feed 'शशिरस'भक्तं दादशसहितं दिवसमानम्‌ ।। ५ ।।
+(Varaha, PS, 12.5)
+Duration of day
+
+“Take the days elapsed in the Uttarayana, (२.९. the
+northward course of the Sun), and the days to go in
+the Daksinayana, (7.e., the southward course). Multi-
+ply by two, divide by 61, and add 12. The duration
+of the ‘day time, (in muhiirtas), is obtained.? (5). (TSK)
+
+स्वदेशोदयः
+11. 8. 1. रविचरदलमुदक्‌ क्षेप्यमथो दक्षिणे व्यस्तम्‌ ।। ४२ ।।
+
+(Deva, KR, 1. 42)
+
+Local time
+
+To find the time at the local place, add the (Sun’s)
+ascensional difference to the time at the local equatorial
+place, provided the Sun is in the northern hemisphere;
+and subtract the same, when the Sun is in the southern
+
+1 For notes, see SiDAVr.: BC, 11. 18-19.
+2 For elucidation, see PS : TSK, 12.5.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK = | 102
+
+(It is:assumed that the local place is in
+
+(420). (KSS)
+
+hemisphere.
+the northern hemisphere).!
+तिथिस्वरूपम्‌
+11. 9. 1. चन्द्रार्कान्‍्तरचक्रे तिथयस्तिशद्‌ यतस्ततो राशिः ।
+सार्धतिथिद्दययुक्तस्तत्न हि नाड्य: शतं सपञ्चाशत्‌ ।\५।।
+(Sankaravarman : Sadratnamala, 2.5)
+Lunar day
+Since in the difference circle of the Moon and the
+Sun (containing 12 Sigus) there are 30 lunar days, a Sign
+would contain 24 lunar days, the nddis therein being
+
+(24x 60=) 150. (5). (KVS)
+तिथ्यानयनम्‌
+11. 10. 1. स्फुटाकनिः शशी छेद्यो लिप्ताभिः खद्विभूधरंः' ।
+
+तिथयस्तत् लभ्यन्ते शेषं षष्ट्या समाहतम्‌ ।। ३१ ॥
+
+छिन्याद्‌ भुक्तिविशेषंण घटीविधटिकासवः |
+तिथेश्शेषो मतो वापि निर्दिष्टो भास्करोदयात्‌ ।। ३२॥।
+(Bhaskara I, MBh., 4. 31-32)
+
+Calculation of the lunar day
+Divide the trué longitude of the Moon as diminished
+by that of the Sun by 720 minutes (of arc): the quotient
+(obtained) denotes the number of tithis (elapsed).
+Multiply the remainder by 60 and divide (the product)
+by the difference between the (true) daily motions of
+the Sun and the Moon: then are obtained the ghatis,
+vighatis, an'd asus (elapsed of the current tithi). (The
+time in ghatis, vighatis, etc. of) the current éttht to elapse
+or elapsed is measured from sunrise. (31-32). (KSS)
+रविचनदरस्फुटं विना तिथ्यानयनम्‌
+11. 11. 1. शशिवत्सरताडिते गणेऽल्लां युगभूवासरभाजिते समादि ।
+अधिकान्दगुणे तथैव विद्यादुभयो रन्तरमकं वषेपूवेम्‌ ।। १॥।
+रविवषेगणेन नास्ति कृत्यं
+परिशेषीकृतराशितोऽय मासौ ।
+शृति'सम्मितवासरान्‌ दिनेभ्यः
+प्ररिशोध्यैव ततो भुजादि कायैम्‌ ।। २ ॥
+रविसंहूतमकंकाललब्धं
+विपरीतं तु धनणंमिन्दरहेषु |
+शशिकेन्द्रजमप्यथाशु चैवं
+शशिवत्तच्छशिवासरेषु FIA ।। ३ ॥
+परिनिष्ठितिनाडिका व्यतीताः
+शशिनो या दिवसस्य षष्टिनिध्नाः |
+स्फुटभोगविशेषसूरयंभागे-
+भेजितास्ताः स्फटनाडिकास्तदाप्ताः ।। ४ ॥।
+(Bhaskara I, MBh., 8. 1-4)
+
+1 The time at the local equatorial place is obtained by applying
+the longitude correction to the time at Lanka. This correction is
+additive, if the local place is to the east of the prime meridian, and
+subtractive if the local place is to the west of the prime meridian.

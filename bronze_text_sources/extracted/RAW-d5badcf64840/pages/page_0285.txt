@@ -1,0 +1,72 @@
+238                                                      C+.a;ya;a;pra;k+.=+Na;m,a                                            Gnomonic shadow
+
+   A;sa;va;ea .=+a;a;Za;Zea;Sa;~ya ga;ta;a;sua;Bya;~tya:jea;a ta;a;n,a                       Á Á 96                ÁÁ
+
+   o+a:=+ea:a:=;=+a;Za;a;na;Ma :pra;a;Na;aH                    ãÉa Zea;Sa;taH
+                                                      Za;ea;Dya;a;(                      Á
+
+                                                              ãÉa ta;a;va;taH
+   :pUa:=+a;ya;tva;a .=+vea .=+a;a;ZMa ;Æa;[a;pea;dÒ+a;Za;Ma;(                         Á Á 97            ÁÁ
+
+   ;a;va;Zua:;d
+              Äâ ;a ya;a;va;ta;Ma :pra;a;Na;aH   , Zea;Sa;a; / /a;~:M
+                                                                  a;Za;
+                                                                        ç Åu +Na;a;t,a :pua;naH       Á
+
+
+   ta;d
+      U ;DvRa:=+a;a;Za;ma;a;na;a;a;a;n,a Ba;a;ga;a;n,a ;Æa;[a;va;a .=+va;Ea ta;Ta;a                     Á Á 98         ÁÁ
+           È                                       å
+   :Sa;a;. îå Á
+           *+;a;a :pua;naH      Zea;Sa;a;t,a ta;n}.a;a;na;a;a;k+:l+.a A;a;pa                    Á
+                     çÉ                           Éç           ñ
+   O;;vMa :pra;a;gl+.îå
+                     +;a;ma;a;nea;ya;m,a A;~ta;l+.îå
+                                                  +;aM tua :Sa:ÂÅå
+                                                               *.+:yua;k,                    Á Á 99            ÁÁ
+
+   v.ya;tya;yea;na;a;ya;nMa k+:a;ya mea;Sa;a;a;d;tva;pra;Æa;sa:;d
+                                                                Äâ ;yea             Á
+
+   sam  . skr
+            . tāyanabhānūttharāśigantavyaliptikāh. ||95 ||
+   tadrāśisvodayaprān  . ahatā rāśikalā hr . tāh. |
+   asavo rāśiśes.asya gatāsubhyastyajecca tān ||96 ||
+   uttarottararāśı̄nām. prān . āh. śodhyāśca śes.atah. |
+   pūrayitvā rave rāśim . ks.ipedrāśı̄m. śca tāvatah   . ||97 ||
+   viśuddhā yāvatām . prān. āh
+                                   . śes.āstrim. śadgun  . āt punah. |
+   tadūrdhvarāśimānāptān bhāgān ks.iptvā ravau tathā ||98 ||
+   .sas..tighnācca punah. śes.āt tanmānāptakalā api |
+    evam  . prāglagnamāneyam astalagnam          . tu .sad.bhayuk ||99 ||
+    vyatyayenāyanam    . kāryam  . mes.āditvaprasiddhaye |
+   From the longitude of the Sun corrected for ayana, the number of minutes to be elapsed
+   in that rāśi [are calculated]. That is multiplied by the duration of the rising of that rāśi
+   and is divided by the number of minutes in a rāśi. These are prān   . as corresponding to the
+   remaining rāśi and they have to be subtracted from the prān  . as elapsed [since the sunrise].
+   From the remainder, the durations of the risings of the rāśis that follow have to be sub-
+   tracted. Having added (pūrayitvā) the degrees remaining in that rāśi to the Sun, [the de-
+   grees corresponding to] that number of rāśis, whose rising times were subtracted, are to be
+   added. The remaining prān    . as are multiplied by 30 and divided by the duration of rising of
+   that rāśi. The result obtained is once again added to the Sun.
+   The remainder when multiplied by 60 gives the result in minutes. Thus the prāglagna,
+   the orient ecliptic point, should be obtained. The astalagna, the setting ecliptic point, is
+   obtained by adding six signs to that. To know the longitude of the ecliptic points from the
+   Mes.ādi, the ayana correction has to be applied reversely.
+
+These verses give the procedure for finding the prāglagna, which is also referred
+to simply as the lagna at times. The term lagna (orient ecliptic point) means ‘coin-
+ciding’ or ‘associated’ with. In this context it refers to the longitude of the point of
+the ecliptic that is coinciding with the horizon at any point time during the day. The
+point on the eastern part of the horizon is called the prāglagna and the point on the
+western part is called the astalagna.
+    The procedure given here may be understood with the help of Fig. 3.33. Here S
+represents the Sun in the eastern part of the hemisphere, Γ the vernal equinox and
+R1 , R2 etc. the ending points of the first rāśi, second rāśi and so on. h refers to the
+time elapsed after sunrise and H the hour angle of the Sun.
+    Let λs be the sāyana longitude of the Sun. Suppose the Sun is in the i-th rāśi
+(in Fig. 3.33, it is in the first rāśi), whose rising time at the observer’s location is
+given by Ti . If θRi is the angle remaining to be covered by the Sun in that rāśi (in
+minutes), then the time required for that segment of the rāśi to come above the
+horizon is given by
+

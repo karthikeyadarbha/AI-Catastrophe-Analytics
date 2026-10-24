@@ -1,0 +1,71 @@
+6.6 The criterion for the non-occurrence of vyatı̄pāta                                                    371
+
+that suits the present context. From this, the origins of the quadrants for the Sun
+and the Moon are taken to be the (ascending) points of intersection of their own
+orbits with the equator. They are referred to as gola-sandhis. In the case of the Sun
+it is the same as the vernal equinox, marked as Γ . The gola-sandhi of the Moon is
+marked by the point Q (see Fig. 6.4). This point moves at a much faster rate than Γ .
+It completes a cycle in about 18.6 years which amounts to about 20◦ per year.
+
+                                    Quadrant Declination       Ayana         Nature of
+                                   Sun Moon Sun Moon       Sun      Moon Vyatı̄pāta
+                                     I   I    ↑     ↑     uttara uttara         —
+                                     I   II   ↑     ↓     uttara daks.in .a    lāt.a
+                                     I  III   ↑     ↑     uttara daks.in .a     —
+                                     I  IV    ↑     ↓     uttara uttara vaidhr      . ta
+                                     II   I   ↓     ↑    daks.in
+                                                               . a uttara      lāt.a
+                                     II  II   ↓     ↓    daks.in
+                                                               . a daks.in
+                                                                         .a     —
+                                     II III   ↓     ↑    daks.in
+                                                               . a daks.in
+                                                                         . a vaidhr . ta
+                                     II IV    ↓     ↓    daks.in
+                                                               . a uttara       —
+                                    III  I    ↑     ↑    daks.in
+                                                               . a uttara       —
+                                    III  II   ↑     ↓    daks.in
+                                                               . a daks.in
+                                                                         . a vaidhr . ta
+                                    III III   ↑     ↑    daks.in
+                                                               . a daks.in
+                                                                         .a     —
+                                    III IV    ↑     ↓    daks.in
+                                                               . a uttara      lāt.a
+                                   IV    I    ↓     ↑     uttara uttara vaidhr      . ta
+                                   IV II      ↓     ↓     uttara daks.in .a     —
+                                   IV III     ↓     ↑     uttara daks.in .a    lāt.a
+                                   IV IV      ↓     ↓     uttara uttara         —
+Table 6.1 The different possible cases for the occurrence of vyatı̄pāta.
+
+
+
+
+  .
+6 6 v.ya;ta;a;pa;a;ta;a;Ba;a;va;a;na;ya;maH
+
+
+6.6 The criterion for the non-occurrence of vyatı̄pāta
+
+      A;keR +:nd
+               õ ;eaH   :pa:=+ma;kÒ +:a;ntya;eaH   A;pa;a ;a:a:$ya;a;h;ta;a;nya;ya;a       Á Á 13   ÁÁ
+
+      Ba;+:a ta;ta;ea Y;a;Da;ke ba;a;h;Ea ma;h;a;kÒ +:a;ntea;nRa tua;ya;ta;a      Á
+
+      ta;a;a;pMa Ba:a;ya;a;. C+.ea;DyMa ta;d;a;Q.a;ea;na;a;ya;na;a;nta;ya;eaH   Á Á 14    ÁÁ
+
+      A;nta:=+a;lM ga;tea ta; / / / / /
+                             a;sma;n,    a kÒ +:a;ntya;eaH     .sa;a;}yMa na .ja;a;ya;tea    Á
+
+      arkendvoh. paramakrāntyoh. alpā trijyāhatānyayā || 13 ||
+      bhaktā tato ′dhike bāhau mahākrānterna tulyatā |
+      taccāpam . bhatrayācchodhyam   . tadād.hyonāyanāntayoh. || 14 ||
+      antarālam . gate tasmin krāntyoh. sāmyam    . na jāyate |
+      The lesser of the the maximum declinations of the Sun and the Moon is multiplied by the
+      trijyā and divided by the other. If the Rsine of the greater is larger than the result, then
+      there will be no equality.
+      The arc of that has to be subtracted from 90◦ . The result has to be added and subtracted
+      from the ayanāntas. If ‘that’ lies in between, then the equality of the declinations does not
+      take place.
+

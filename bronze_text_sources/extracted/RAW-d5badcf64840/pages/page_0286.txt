@@ -1,0 +1,60 @@
+3.40 Obtaining the orient ecliptic point                                                                    239
+
+                                                          Z
+
+
+
+
+                                                              tR                  H
+                                                               1
+                                                                                              P
+
+                                                                                      h
+                               Γ
+                                           S
+
+                                                     R1
+                                        equ
+              S                            ato
+                                            r                      R2                                N
+                             horizon
+                                                                                          ecliptic
+                                                 E                 diu
+                                                                      rna
+                                                                         lc
+                                                                            irc
+                                                                               le
+
+Fig. 3.33 Determination of the prāglagna (orient ecliptic point): approximate method.
+
+
+                                          θRi × Ti
+                                           tRi =   .                                                     (3.287)
+                                          30 × 60
+Subtracting this time tRi from the time elapsed since sunrise h, we have
+
+                                               h′ = h − tRi .                                            (3.288)
+
+From h′ the times required for the subsequent rāśis to rise, Ti+1 , Ti+2 , etc. are sub-
+tracted till the remainder r stays positive. That is,
+
+                       r = h′ − Ti+1 − Ti+2 . . . − T j−1                         (r + ve).              (3.289)
+
+Suppose we are in the j-th rāśi whose rising time is Tj . Then, the portion of R j that
+would have come above the horizon in the remaining time r is given by
+                                        r × 30
+                               θE j =                         (in degrees).                              (3.290)
+                                          Tj
+
+Now, the longitude of the prāglagna (L) is
+
+                            L = λs + θRi + 30 + 30 + . . .+ θE j .                                       (3.291)
+
+By definition the astalagna is
+
+                              astalagna = prāglagna + 180◦.                                             (3.292)
+
+This is because the horizon divides the ecliptic exactly into two parts. For the same
+reason, this may also be obtained by subtracting 180 degrees. The lagnas obtained
+by the above procedure are sāyana-lagnas. To obtain the nirayan.a ones, one needs
+

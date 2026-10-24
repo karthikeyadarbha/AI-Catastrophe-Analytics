@@ -1,0 +1,58 @@
+Introduction                                                                                                                                 xxxvii
+
+   Nı̄lakan.t.ha quotes the following passage from a Mı̄mām
+                                                           . sā text which expresses
+his ideas regarding the maintenance and furtherance of astronomical tradition, and
+the role of observations and logical inference in it.
+
+   ga;a;Na;ta;ea;a;a;ta;~ya   . a;ndÒ+a;deH    :de;Za;a;va;Zea;Sa;a;nva;ya;~ya     :pra;tya;[ea;Na       , ta;ta;ea ;a;na;a;(ãÉa;ta;a;nva;ya;~ya
+                                                                                                       .sMa;va;a;dH
+                             ñÍ
+   :pa:=+~ya ga;a;Na;ta;a;l+.çÅ
+                             *:+.ea;pa;de;ZaH    , ta;ta;~ta;~ya;a;a;ea;pa;de;Za;a;va;ga;ta;a;nva;ya;~ya A;nua;ma;a;nMa .sMa;va;a;dH , :pa:=+smEa
+                                   å
+   . a;ea;pa;de;ZaH   I+.a;ta .sa;}.pra;d;a;ya;a;a;va;. Ce+.d;a;t,a :pra;a;ma;a;Nya;m,a Á
+
+   The correlation of the computed Moon etc., with actual observation at a particular place, the
+   revision of computation on the basis of such correlation, logical inference therefrom being
+   transmitted as tradition, it being again correlated [with observation and again revised] and
+   transmitted further down to others—this is how tradition is continued without interruption,
+   and hence its [continued] authoritativeness.
+
+
+
+
+Summary of Tantrasaṅgraha
+
+Tantrasaṅgraha, the magnum opus of Nı̄lakan. .tha, is composed in eight chapters
+or prakaran.as consisting of 432 verses.10 The division of the chapters is along the
+same lines as in any other typical text in Indian astronomy such as Sūryasiddhānta
+or Siddhāntaśiroman. i. The development of the subject is not only systematic, often
+beginning with the basics, but also quite comprehensive. All the procedures needed
+for the computation of quantities of physical interest, such as the longitudes and
+latitudes of planets, various diurnal problems, the determination of time, eclipses,
+the visibility of planets etc., are thoroughly discussed. However, explanations are
+not provided, save on some occasions, as the work belongs to the Tantra class of
+texts11 which are intended to be mainly algorithmic in nature. Explanations are to be
+found in the two commentaries on the text, namely Laghu-vivr.ti and Yukti-dı̄pikā,
+and also in Yuktibhās.ā composed by Jyes..thadeva.
+    It is in Tantrasaṅgraha that Nı̄lakan.t.ha explicitly formulates his revision of the
+traditional planetary model. Some of the procedures adopted by the earlier texts for
+calculating quantities of astronomical interest like the latitude of a place, lagnaetc.
+are improvised or made exact. Brevity, clarity, exactness and comprehensiveness are
+hallmarks of this work. In what follows, we provide a brief chapter-wise summary
+of the text.
+
+
+
+
+10 Most of the verses are in anustubh metre, which has 8 syllables per quarter (pāda).
+                                                    ..
+11 Based on the epoch chosen for calculations (beginning of a kalpa, a yuga or an appropri-
+
+ate recent date), the Indian astronomical texts are broadly classified into three types: Siddhānta,
+Tantra and Karan    . a. While Siddhāntas provide theoretical explanations besides presenting al-
+gorithms, Tantras are mainly algorithmic with explicit formulae but do not explain the procedures.
+Karan . as often dispense with even the formulae, substituting them with abbreviated procedures
+and tables to be used in computations.
+

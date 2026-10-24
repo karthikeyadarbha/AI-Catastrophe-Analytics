@@ -1,0 +1,50 @@
+4.10 Moon’s latitude and true daily motion                                                       269
+
+   pātonendorbhujājı̄vā vyomatārāhatā hr    . tā || 17 ||
+   trijyayā saumyayāmyendoh. ks.iptih      . sā ca sphut.ā gatih. |
+   bhagolacandrakarn     . aghne bhūcandrāntarayojanaih. || 18 ||
+   hr.te sphut.e iha grāhye ks.iptibhuktı̄ sthiterdale |
+   The Rsine of the longitude of the node subtracted from the Moon is multiplied by 270 and
+   divided by the trijyā. This gives the latitude of the Moon lying to the north or south [of the
+   ecliptic]. This and the true daily motion, multiplied by the bhagola-candra-karn       . a, and
+   divided by the actual distance of separation between the Earth and the Moon in yojanas
+   (d2m ), are the true values of the latitude and the daily motion at the middle of the eclipse,
+   which are to be considered [for computational purposes].
+
+   The formula given for the latitude β of the Moon is,
+
+                                        270 × R sin(λm − λn )
+                                 β=                           ,                               (4.30)
+                                                  R
+where λm and λn are the longitudes of the Moon and its node respectively. R is the
+trijyā, whose value is taken to be 3438 minutes. 270 is the inclination of the Moon’s
+orbit in minutes.
+   It is mentioned here that the values of the latitude and the true daily motion
+obtained at the middle of the eclipse must be corrected to get more accurate values,
+which are to be used for the computations of half durations etc. If β ′ and λ̇m′ are the
+corrected values of the latitude and true daily motion, then they are given by
+
+                                   d1m                                    d1m
+                        β′ = β ×              and        λ̇m′ = λ̇m ×         .               (4.31)
+                                   d2m                                    d2m
+In the above relation d1m represents the prathama-sphut.a-karn.a or bhagola-candra-
+karn.a, which is the distance of the Moon from the centre of the bhagola, and d2m
+the dvitı̄ya-sphut.a-karn.a or the bhūgola-candra-karn.a, which is the distance of
+the Moon from the centre of the Earth.
+
+
+
+
+                                                                                          Μ
+                                                     d 2m
+                                       β                 β
+                                                                  d 1m                    Α
+                    E                    O
+                                                                          it
+                                                                  ’s   orb         ptic
+                                                             Moon              ecli
+                                                 N
+
+
+Fig. 4.5 Correction to the latitude and daily motion of the Moon.
+

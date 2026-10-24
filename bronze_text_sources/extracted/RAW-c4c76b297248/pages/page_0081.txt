@@ -1,0 +1,48 @@
+Siddhantic Astronomy
+
+Dr.Thibaut, despite his scholarship in the Greek & Babylonian sciences, could not
+decipher the Siddhantic cryptogram of column (1). Is this not a sufficient evidence for the
+originality of the Hindu methods?
+
+(b) Computation based On the Synodic Periods
+
+Even though the Siddhantas depict the mean motions of the Planets in terms of the
+integral number of sidereal revolutions in a Kalpa or Mahayuga, Pancasiddhantika,
+chapter XVIII suggests the use of synodic observations and periods in the formulation of
+the treatises. The process of derivation of the mean elements can be visualized as:
+
+Siddhantic length of the solar year = 365.25875 days [Y]
+Synodic period in savanadays = 5
+Sin units of Sauradina = 360.5/८ = ॐ
+
+Now, the annual synodic variation of longitude or planetary motion relative to sun (#/5 or
+360/S°) expressed in degrees automatically represents the integral number of synodic
+revolutions in a smaller Yuga of 360 years. That is:
+
+(v/s)° =Integral number of Synodic revolutions in 360 years (150)
+(¥/S)’ = 1121500 and (¥/S)” = {11296000
+
+As corollaries the synodic variation or elongation of planets corresponding to the solar arc
+1° expressed in degrees constituted the Integral number of synodic revolutions of a solar
+year. If the above is expressed in seconds of arc it represents the ‘n’ over 3600 years.
+Similarly (¥/S)” in one solar minute = Ngo years and (¥/S)” over one solar second = 11 year.
+
+Alternatively,
+
+(v/sy° 360 & N = 360 —n, Where N is the integral number of sidereal revolutions of the
+planet in 360 solar years. [10*(Y/S)° = 03600 and N = 3600 - nj. It is apparent therefore
+that the conversion of divine year into solar years is only a mythological adaptation of the
+process of derivation of the integral number of synodic revolutions.
+
+If we take the epoch of Aryabhata viz., 3600 years of Kaliyuga as an example, it can be
+seen that the synodic variation of Planets over a degree longitude of Sun or Sauradina
+represented the synodic revolutions of 3600 years numerically, when expressed in
+seconds of arc. Tc determine the integral number of revolutions over a Mahayuga of
+4320000 years Siddhantic astronomy required only the planetary elongation over 1200
+degrees of solar movement. It must be noted that this is the maximum limit of
+observational period, which can be reduced to 120 degrees of solar arc by involving the
+multiplication factor of 10. Or by using the annual synodic variation (Y/S)” (expressed in
+seconds) n & N could be obtained for 1296000 years - a period three times the basic unit
+of Kaliyuga.
+
+57

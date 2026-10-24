@@ -1,0 +1,51 @@
+Hindu Zodiac and Ancient Astronomy
+
+The surplus of 3.3 minutes in the Siddhantic year makes the computation nearly
+anomaiistic rather than sidereal, and the surplus accumulates to about 8.3 days in
+computation over 3600 years. As such in Siddhantic astronomy we have got an
+“anomalous” Zodiac due to some unknown historical reasons. Obviously the fixed initial
+point must have undergone modification in the above anomalous situation. Further we
+have no idea as to the physical rationale with which the Zodiac must have been initially
+conceived and hence no way to ascertain the veracity of either the Siddhantic zodiac or
+the Citrapaksa zodiac. According to a well-known scholar: "as any point can be assumed
+to be the reference point on a circle, selection of the initial point depends on the practice
+followed, and there is no mathematical compulsion about it..." i.e. the initial point of the
+zodiac is a matter of arbitrary choice — if so also we have no way to adjudge a particular
+choice as true. But in reality the situation is different — whether arbitrary or not the
+SuUryasiddhanta can have only one fixed zodiac implicit in it and the same can be
+deciphered by analyzing the relationship of its solar year with the configuration of the
+vernal equinox and the mean Sun.
+
+The mean-Equinox since the beginning of Kaliyuga, as per Stryasiddhanta can be
+expressed as:
+
+e Ahargana (N' equinox) = N. Y + 60 - N (४-४) = 60 + NY' -> (A), Where ४ is the
+modern tropica! year = 365.242371 days (500AD)
+
+° Mean tropical-Sun (N" Kali year) = 360° - 60° + N (४-४)
+= 300° + N (४-४) -> (8)
+
+Both these equations can be shown to be true by computation. At the expiry of 3623 Kali
+years (1323332.5days), N (Y-Yt) = 60 days and hence the mean Sun of Kali year 3623
+(elapsed) coincided with the vernal equinox of K3e23 or AD522.
+
+e Mean Sidereal Sun
+
+To understand the relation that governs the sidereal mean longitude of Siryasiddhanta,
+we must know the ayanamSa of the great epoch of Hindu astronomy viz., the beginning of
+Kaliyuga - midnight of 17/18 February 3102 BC. If we extrapolate back the different
+conceptions prevailing on ayanam$a to 3102 BC, it can be found that the vernal equinox
+will be falling on either side of the Rohini mid-point (46 40). For example: N.C. Lahiri
+Secretary of the Calendar Reform Committee gives the ayanamsa of 3102 BC as 46° 35’
+while B.V.Raman’s value turns out to be nearly 48 . The correct value may be deciphered
+on the basis of the following grounds
+
+Divisions of the Ecliptic into Rasis & Naksatras
+
+Calendar Reform Committee has frankly admitted their ignorance on this vital aspect of
+Hindu zodiac. A division of the ecliptic into 30° each and 13°20' each means a division of
+360° into 108 parts of 03°20’ each i.e. the 108 navamSas or the naksatra-padas
+
+360° = 30 x 12= 13° 20 x 27 = 03° 20' x 108
+
+88

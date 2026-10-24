@@ -1,0 +1,49 @@
+D.2 Problem two: the śaṅku and apakrama                                           475
+
+   Hence
+                                            sin φ
+                                     sin PC =     .                          (D.29)
+                                           cos α
+2. Now H is the angle between the north-south circle and the nata-vr.tta. Therefore,
+
+                             sin β = sin(SC) = sin H sin PC.                     (D.30)
+
+   Using (D.29) in the above equation, we get
+                                      sin H sin φ
+                              sin β =
+                                         cos α
+                                           sin φ sin H
+                                    = q                    ,                     (D.31)
+                                         1 − cos2 φ sin2 H
+
+   using (D.28). This result will be used later.
+   Again, in Fig. D.4, AE = a is is..tāgrā. The angle between the nata-sama-vr.tta
+and the digvr.tta on the horizon is given by CA = γ . It may be noted that this is also
+equal to the angle between the nata-dr.kks.epa-vr.tta and the vyasta-dr.kks.epa-vr.tta.
+Since B is the pole of the digvr.tta, clearly γ = 90 − β − a. Therefore
+
+                          sin γ = sin(90 − β − a)
+                               = cos(β + a)
+                               = (cos β cos a − sin β sin a).                    (D.32)
+
+When āśāgrā a is to the north of east, γ = 90 − β + a and sin γ = cos β cos a +
+sin β sin a. Thus sin γ is determined in terms of known quantities, since sin a is given
+and sin β is known from (D.31).
+   Now, let GB = x and GL be the perpendicular arc from G to vidig-vr.tta. Then
+sin DG, which is the same as sin ZY , is given by
+
+                                  sin α = sin z sin x.                           (D.33)
+
+Also
+                                 sin GL = sin x cos z,                           (D.34)
+as z and 90 − z are the angles between the tiryagvr.tta and the horizon, and the
+tiryagvr.tta and the vidig-vr.tta, respectively. But the angle between ZG and ZL is γ
+and ZG = 90◦ + α . (For GY = 90◦ , G being the pole of nata-vr.tta.) Therefore
+
+                              sin GL = sin(90 + α ) sin γ
+                                     = sin γ cos α .                             (D.35)
+
+Equating the two expressions for sin GL, we get
+
+                               sin x cos z = sin γ cos α .                       (D.36)
+

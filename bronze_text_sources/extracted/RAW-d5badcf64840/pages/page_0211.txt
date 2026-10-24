@@ -1,0 +1,78 @@
+164                                                      C+.a;ya;a;pra;k+.=+Na;m,a                                                                Gnomonic shadow
+
+   .
+3 12 Ò
+     k+:ma;. C+.a;ya;a;na;ya;nea                       .sMa;~k+:a:=H
+
+
+3.12 Correction to be implemented in the direct process of
+     finding the shadow
+
+       C+.a;ya;a;ya;a;~:ya;ga;na;a;ga;a;Ma
+                                             36 ;a;l+.a;a;v.ya;a;sa;a;DRa;ta;~tya:jea;t,a        Á Á 19       ÁÁ
+                      ñÍ
+       ;a;Za;e;na Za;öÅ*:
+                       u +.ma;a;h;tya ;a:a:$ya;a;Ma tya:$ya;ta;a;Æa;ma;h Á
+
+       C+.a;ya;a;ya;a;ZC+.a;ya;ya;aY;h;tya ;a:a:$ya;a;Ma Zea;Sa;ta;ea Y;a;pa .. a
+                                                                                           37      Á Á 20           ÁÁ
+                       ñÍ                              ñÍ
+       ;Æa;[a;pea;. C+.öÅ
+                       *:+.Ea .sua;sUa;[ma;ea Y;yMa Za;öÅ
+                                                       *:     ãÉa ma;h;ta;a :pra;Ba;a Á
+                                                          u +.(
+                                             ñÍ                   ñÍ
+       C+.a;ya;Ma õ
+                  d;a;d;Za;Æa;Ba;hR;tva;a Za;öÅu*:+.Ba;e +:;Za;öÅ*:
+                                                                      u +.Ba;a   Á Á 21      ÁÁ
+
+
+       chāyāyāstryaganāgāptam   . liptāvyāsārdhatastyajet ||19 ||
+       śis..tena śaṅkumāhatya trijyāptam . tyajyatāmiha |
+       chāyāyāśchāyayā ′hatya trijyāptam            ′
+                                                . śes.ato pi ca ||20 ||
+       ks.ipecchaṅkau susūks.mo ′yam   . śaṅkuśca mahatı̄ prabhā |
+       chāyām . dvādaśabhirhatvā śaṅkubhaktes..taśaṅkubhā ||21 ||
+       The result obtained by dividing the shadow by 873 is to be subtracted from the semi-
+       diameter [of the Sun] expressed in minutes. Multiplying the śaṅku by the remainder (say
+       ∆ θ ) and dividing by the trijyā, the result should be subtracted from the [mahā]chāyā.
+       The same (∆ θ ) multiplied by [mahā]chāyā and divided by the trijyā should be applied
+       positively to the [mahā]śaṅku. These are far more accurate [values] of [mahā]-śaṅku and
+       mahācchāya. By multiplying the [mahā]chāyā by 12 and dividing by [mahā]śaṅku, the
+       shadow of the is..taśaṅku (the usual 12 aṅgula) is obtained.
+
+   What are referred to repeatedly in the above verses as the chāyā and the śaṅku are
+actually the mahācchāyā (great ‘shadow’) and the mahāśaṅku (great ‘gnomon’)—
+to be precisely defined a little later in this section. Finding the prabhā,38 which in
+the present context means shadow = R sin z, essentially means finding the zenith
+distance of the Sun. The effect due to the solar parallax and the finite diameter of
+the Sun cannot be neglected in an accurate measurement of the zenith distance. The
+procedure to obtain the theoretical value of the zenith distance (with reference to
+the centre of the Earth) was described in the previous section. A correction has to
+be applied to obtain the observed value from the theoretical value. If z′ and z are the
+observed and the theoretical zenith distances of the Sun, then the relation between
+the two given in the text may be expressed as:
+36 The reading in the published text edited by K. V. Sarma is ya;ñÍ
+                                                                  *:+.na;a;ga;a;a;m,a Á The number repre-               çÅ
+sented by this word is 863. Sarma has also given ya;ga;na;a;ga;a;a;m,a as another reading in the footnote,
+which corresponds to the number 873. The footnote reading seems to be the correct one as it agrees
+closely with the actual computed value of 872. This is confirmed from the commentary Laghu-
+vivr.ti, where it is stated: O;;va;ma;a;na;a;ta;a;ya;aH C+.a;ya;a;ya;aH ya;ga;na;a;gEa;a;vRa;Ba:$ya l+.b.Da;m,a :P+.lM . . . Á
+37 The phrase śesato ′pi ca can perhaps be integrated with the rest of the verse as follows:
+                   .
+                                                                                                                               ñÍ
+;a;l+.a;a;v.ya;a;sa;a;DRa;taH    tya;+:a ya;t,a :P+.lM l+.b.DMa ta;t,a .~Ta;l+.d
+                                                                                 õ ;yea ;a;va;nya;sea;t,a Á O;;k+.a ma;h;a;Za;öÅu*:+.na;a ;a;na;h;tya
+
+
+;a:a:$ya;ya;a     ;a;va;Ba:$ya      l+.b.Da;m,a     :P+.lM    ma;h;a;. C+.a;ya;a;ta;ea    ;a;va;Za;ea;Da;yea;t,a Á      Zea;Sa;ta;ea Y;a;pa      , A;Ta;Ra;t,a A;nya:a
+                                                                                                                                               .. a
+
+                     ...
+;a;va;nya;~ta;a;t,a :P+.l+.a;t,a
+38 Though the word prabhā actually means rays, it has been used in verse 21 as a synonym
+
+for chāyā, shadow. Occasionally, in Sanskrit literature, one finds ‘kāran
+                                                                           . avācakaśabda’ (here,
+prabhā), being used in the place of kāryavācakaśabda (here chāyā).
+

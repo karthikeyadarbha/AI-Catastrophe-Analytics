@@ -1,0 +1,68 @@
+4.12 The condition for the occurrence of a total eclipse                                                                           271
+
+                                                                 .
+                                                                 M
+
+                                     no
+                                        f                        .
+                                ctio tion                                                                             M’
+                            dire n’s mo
+                                                                 X
+                                                                  .                                                   .
+                               o                                                                                  M   .
+                            Mo                                   M’
+                                                                                                                      .
+                                                                                                                      X
+                                   ecliptic                      .                           ecliptic                 .
+                                                                 A                                                    A
+
+                                        (a)                                                                                (b)
+
+
+                                                                       M’           .M
+                                                                                     ..
+                                                                                    X
+
+                                                                                    .                  ecliptic
+                                                                                    A
+                                                      so  rbit
+                                                  on’
+                                             Mo
+                                                                                                      (c)
+Fig. 4.6 The Earth’s shadow and the Moon when there is (a) no lunar eclipse, (b) a total lunar
+eclipse and (c) a partial lunar eclipse.
+
+
+
+  .
+4 12 :pUa;NRa;g{a;h;Na;a;na;ya;maH
+
+4.12 The condition for the occurrence of a total eclipse
+
+      . a;ndÒ+a;ba;}ba;ea;na;BUa;. C+.a;ya;a ;a;ba;}ba;a;Da;Ra;d;a;Da;k+:a ya;a;d   Á Á 20       ÁÁ
+
+      .sa;vRa;g{a;a;sa;ea na . Ea;va .~ya;a;t,a h;a;na;a . ea;d
+                                                               , g{a;~ya;tea Y; 
+                                                                               a;Ka;l+.m,a   Á
+
+      candrabimbonabhūcchāyā bimbārdhādadhikā yadi || 20 ||
+      sarvagrāso na caiva syāt hı̄nā ced grasyate ′khilam |
+      (If the latitude) [at parvānta] is greater than half the angular diameter of the shadow di-
+      minished by the Moon’s disc, then total eclipse will not occur. If it is less, then the Moon
+      will be eclipsed totally.
+
+    The condition on the latitude of the Moon for the occurrence of a total lunar
+eclipse may be explained with the help of Fig. 4.6(b). Here, AM′ and MX represent
+the angular semi-diameters of the shadow and the Moon respectively. If the latitude
+is less than or equal to the difference between the respective semi-diameters of the
+shadow and the Moon then the eclipse will be total. That is, if
+
+                                                             AX ≤ (AM′ − MX )                                                    (4.36)
+
+at the instant of opposition then it will be a total lunar eclipse. Obviously, if
+
+                                              (AM′ − MX ) < AX < (AM′ + MX)                                                      (4.37)
+
+then there will be a partial eclipse. This situation is depicted in Fig. 4.6(c). The
+different cases discussed are summarized in Table 4.1.
+

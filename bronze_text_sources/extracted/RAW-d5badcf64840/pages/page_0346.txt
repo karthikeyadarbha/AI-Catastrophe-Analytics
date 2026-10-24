@@ -1,0 +1,54 @@
+4.21 Deflection due to latitude and that due to declination                                    299
+
+                                                Z                   φ
+
+
+                               H
+                   P            θ
+                                                                        M
+                                    ξ
+                                           X         µ
+                                                                               M’
+                    K
+                                                         ecliptic        ato
+                                                                            r
+                        secondary to the
+                        prime vertical                                  equ
+
+
+       N                                                      Γ                          S
+
+                                                                               horizon
+                          prime vertical         W
+
+
+Fig. 4.18 Determination of the aks.avalana and the āyanavalana. The ecliptic and its secondary
+through the centre of the chāyā (shadow) are denoted by solid lines, whereas the equator and the
+meridian passing through the Moon are denoted by dashed lines.
+
+
+
+is ignored. The arc NP = φ is the latitude of the observer and N P̂M = 180 − H,
+where H is the hour angle of the Moon. PM = 90 − δ and KM = 90.
+    Consider a secondary to the prime vertical passing through the north point and the
+Moon. X is the point of intersection of this secondary with the prime vertical. The
+aks.avalana, which is the angle between the diurnal circle and the prime vertical, is
+also the angle between the secondaries to the prime vertical and the equator, which
+is denoted by ξ in the figure. Considering the spherical triangle NPM and applying
+the sine formula, we have
+
+                            sin ξ   sin(180 − H) sin PN̂M
+                                  =             =         .                                  (4.98)
+                           sin NP      sin NM     sin PM
+In the above equation, NP = φ , PM = 90 − δ and NM = 90 + µ , where µ is a part
+of the arc lying along the secondary to the prime vertical drawn from N to M. Since
+N is the pole of the vertical circle ZXW , PN̂M = ZX = z is the zenith distance of X.
+Hence the above equation becomes
+
+                                        sin φ sin H   sin φ sin z
+                              sin ξ =               =             .                          (4.99)
+                                           cos µ        cos δ
+
+This differs from the expression given in the text (4.96) by a factor of cos µ in the
+denominator.
+

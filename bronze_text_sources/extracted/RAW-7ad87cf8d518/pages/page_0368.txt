@@ -1,0 +1,134 @@
+INDIAN ASTRONOMY—A SOURCE-BOOK
+
+Cakra (1) Circle. (2) twelve Signs or 360°
+
+Cakralipta The number of minutes of arc in a circle, 1.6.
+21600
+
+Cakrardha Half of a circle, i.e., 180°
+
+Candrocca Moon’s apogee
+
+Cara Ascensional difference. It is defined by the arc of
+the celestial equator lying between the six o’clock
+circle and the hour circle of a heavenly body at
+rising
+
+Carajivdrdha The R sine of the ascensional difference
+
+Caradala Ascensional difference
+
+Caraprana Same as Cardsu
+
+Cardsu The asus of ascensional difference
+
+Cala-kendra (Sighra-kendra) See Kendra
+
+Gala-kendra-phala Sighraphala
+
+Calocca Sighrocca
+
+Candramésa Lunar month
+
+Capajyardha (jya) R sine
+
+Capa-bhaga An element of arc of elementary arc (i.e.,
+one of the twentyfour equal divisions of a quadrant,
+
+(the R sine differences for which have been tabulated
+by Aryabhata 1)
+
+Capita Converted into (or reduced to) the corresponding
+arc
+
+Caitra The name of the first month of the year
+
+Chaya (1) Shadow. (2) The R sine of the zenith distance
+
+Fina Twenty-four
+
+Fivd R sine
+
+Fivabhukti True daily motion derived with the help of the
+table of R sine differences
+
+Jaka Sign Libra
+
+joa R sine (Radius x sine). The R sine differences
+corresponding to the twentyfour equal divisions of a
+
+quadrant
+
+Fyardha (224) R sine
+
+Tama(s) Section of Earth’s shadow cone at the Moon’s
+distance
+
+Tamomiirti The Moon’s ascending node
+
+Tamoviskambha Diameter of Shadow, i.e. diameter of the
+Earth’s shadow cone at Moon’s distance
+
+326
+
+Taéragraha Star planets, i.e. the planets Mars, Mercury,
+Jupiter, Venus and Saturn
+
+Tithi Lunar day
+
+Tula Sign Libra
+
+Trijya Radius or 3438’, Literally the R sine of three
+Signs
+
+Tribhuja Triangle
+
+Daksindyana Sun’s southward motion from summer
+solstice to winter solstice
+
+Darsana-samskéra (usually called Drkkarma). Visibility
+corrections. There are three visibility corrections:
+1. Aksa-drkkarma which is the measure of the arc of
+the ecliptic lying between the hour circle and the
+circle of position of the planet concerned, 2. Ayana-
+arkkarma which is measured by the arc of the ecliptic
+lying between the cirle of celestial longitude and the
+hour circle of planet concerned and 3. a correction
+of 48’ to be subtracted from the Moon’s longitude or
+added to it according as the Moon is in the eastern
+or western hemispheres (see above 17.5.8). These
+corrections having been applied to the true longitude
+of a planet, we obtain the longitude of that point
+of the ecliptic which rises on the local horizon
+simultaneously with the actual planet.
+
+Dasra Two
+
+Dinagana Same as Ahargana
+Dindntodayalagna The rising point of the ecliptic at sunset
+Drkkarma See Darsanasamskara
+
+Drkksepa Ecliptic zenith distance or its Rsine. Thus,
+the drkksepa is the zenith distance of that point of a
+planet’s orbit which is at the shortest distance from
+the zenith. This term is sometimes also used for the
+R sine of that zenith distance.
+
+Drkksepajya The R sine of the drkksepa. See Drkksepa
+
+Drkksepamandala Vertical circle through the central
+ecliptic point
+
+Drggati Arc of the ecliptic between the Sun or Moon
+and the central ecliptic point or its R sine
+
+Drggatijya R sine of drggati
+Drggola Visible celestial sphere
+Drkchayad Parallax
+
+Dramandala Vertical circle
+
+Desantara The longitude of a place. It is either the
+
+distance of the place from the prime meridian or the
+। difference between the local and standard times.

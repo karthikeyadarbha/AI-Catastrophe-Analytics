@@ -1,0 +1,73 @@
+3.24 Gatais.yaprān
+                  . a from samaman
+                                 .d. ala-śaṅku                                                                                       195
+
+The terms vis.uvadrekhā and samarekhā refer to the equinoctial line (UV ) and the
+east–west line (EW ) in Fig. 3.8 respectively. The condition that the midday shadow
+should lie between these two lines implies that 0 < δ < φ , whose significance is
+explained in Section 3.18. As the zenith distance at noon is (φ − δ ), the chāyākarn. a
+K at midday is given by
+                                            12
+                                  K=               .                            (3.139)
+                                       cos(φ − δ )
+It has already been noted that the equinoctial midday shadow, the vis.uvacchāyā, is
+12 tan φ . Also, the arkāgrā or agrajı̄vā in aṅgulas on any day is
+
+                                                                                             sin δ
+                                                               arkāgrā = K                       .                                (3.140)
+                                                                                             cos φ
+
+Using (3.139) in the above equation, we have
+
+                                                                                 12      sin δ
+                                                     arkāgrā =                               .                                    (3.141)
+                                                                             cos(φ − δ ) cos φ
+
+The karn.a (in aṅgulas) when the Sun is on the prime vertical is stated to be
+
+                                                                                                              vis.uvacchāyā
+                           samaman.d.ala-karn.a = chāyākarn.a ×
+                                                                                                                  agrajı̄vā
+                                                                                   12                             12 tan φ
+                                                                         =                                   ×              
+                                                                               cos(φ − δ )                           12 sin δ
+                                                                                                                 cos(φ −δ ) cos φ
+                                                                                    sin φ
+                                                                         = 12             .                                         (3.142)
+                                                                                    sin δ
+                                              12
+As the samaman.d.ala-karn.a (in aṅgulas) is cosz 0
+                                                    , the above relation is equivalent
+to
+                                          sin δ
+                                 cos z0 =       ,                             (3.143)
+                                          sin φ
+which was obtained earlier (3.130).
+
+
+               ñÍ
+  .
+3 24 .sa;ma;Za;ö
+               *:uÅ +.na;a ga;tEa;Sya;pra;a;Na;aH
+
+
+3.24 The duration elapsed and yet to elapse from the
+     samaman  .d. ala-śaṅku
+                          ñÍ                È
+      .sa;ma;ma;Nq+.l+.Za;öÅ
+                          *: H      l+.}ba. îå Á
+                                           *+H       ;a:a:$ya;ya;a &+.taH        Á Á 55       ÁÁ
+                             u
+           å
+      o+.n}.a;Nq+.l+.a;t,a
+                           54 dùÅ;a;vxa:a:$ya;a
+                                  u                , ;a:a:$ya;a. ÈîåÁ*+;a dùÅ;au:$ya;ya;a &+.ta;a   Á
+
+
+      ta;a;a;pMa . a:=+. a;a;pa;a;Q.Ma ga;tEa;Sya;a;sa;va O;;va ;a;h      Á Á 56      ÁÁ
+
+
+
+
+54 The reading in both the printed editions is: o+.n}å.a;Nq+.l+.a                                        Á
+

@@ -1,0 +1,57 @@
+3.15 Motion of equinoxes                                                                       173
+
+     of years44 in kalās. It has been mentioned in siddhāntas that the motion of the Dhanus
+     and Makara (Sagittarius and Capricorn) is up to 27◦ . This can be verified using the shadow
+     techniques.
+
+    In Fig. 3.14, the celestial equator, the ecliptic and their poles (P and K respec-
+tively) are shown. Here V is the vernal equinox and A is the autumnal equinox. M
+is the Mes.ādi, which is the beginning point of the rāśi division. This point is fixed
+with respect to the stars. The equinoxes V and A are in motion with respect to the
+stars, and hence with reference to M also.
+    According to Tantrasaṅgraha, this motion can be westward or eastward. This is
+known as the ‘trepidation of the equinoxes’, where the equinoxes execute an oscil-
+latory motion with respect to Mes.ādi (the first point of Aries) M. If S represents the
+Sun, the longitude measured with M as the reference point is the ‘nirayan.a longi-
+tude’, lt = MS. This is what is calculated by following the procedure given in the
+texts. The longitude with V as the reference point is the ‘sāyana (tropical) longi-
+tude,’ ls = V S. In the figure below, we have shown V to the west of M, and hence
+ls = lt + ∆ , where ∆ = V M is the motion of the equinoxes. According to the text,
+it is possible that V would be east of M at some time. Then ls = lt − ∆ , where ∆ is
+the eastward motion of the equinoxes. It is stated that the motion of the equinoxes is
+54′′ per year. It will move westwards to the maximum extent of 27◦ . This will take
+place in 27× 3600
+                54 = 1800 years, which is 5 divine years as a divine year is made up
+of 360 solar years. Then it will move eastwards by 27◦ in 1800 years. Hence the
+period of oscillations or trepidation of the equinoxes is 3600 years.
+
+                                                 P
+
+                                   K
+
+
+
+
+                                                                                      U
+
+                                               A, Γ                              S
+
+                                                                               d i)
+                                                                       es.ā
+                                                                     (M
+                                                         ∆       M
+                                                             ε         equator
+                                                  V, Γ
+                     D
+                                       ptic
+                                  ecli
+
+
+
+
+Fig. 3.14 The equinoctial and the solsticial points (ayanāntas).
+
+44
+  The number of years is taken to be 60 (a 60-year cycle). Hence the motion of the ayana in this
+period will be 54 minutes (kalās).
+

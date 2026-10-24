@@ -1,0 +1,62 @@
+354                                                .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a             Solar eclipse
+
+                      â âõ ;a;h;BRUa;ta;ea Ba;a;ga;ea dx;Zya;ea Y;k
+   . a;ndÒ+a;ba;}ba;a;d                                           R +:ma;Nq+.le   Á Á 63   ÁÁ
+
+   ta;d;nta;gRa;ta;Ba;a;ga;~tua g{a;~ta;~tea;na;a;Æa;sa;taH     .sa;d;a     Á
+
+   sparśe madhye ca moks.e cāpyanyatres..te ′pi vā pr.thak || 57 ||
+   valanadvayamānı̄ya prāgvat tadyogabhedajāt |
+   gun . ādekāṅkabhūbhaktam . valanam. syāt sphut.antviha || 58 ||
+   vr
+    . ttam . dhr.timitāsyena karkat.enālikhet ks.itau |
+   diśau pūrvāpare vyastam              ′
+                                . lekhane phalake yadi || 59 ||
+   valanam   . pūrvavannı̄tvā raveh. panthāśca taddvayāt |
+   naterdiśi vidhostasmāt sphut.anatyantare ′parah. || 60 ||
+   kāryastadvr               ′
+                  . ttamadhye tha ravibimbam   . sphut.am   . likhet |
+   mātvā tatkendragaikāgrabimbāntaraśalākayā || 61 ||
+   bindum   . kr.tvā vidhormārge tadbimbam   . tatra sam    . likhet |
+   sparśe pratyaṅmukhı̄m  . moks.e śalākām. prāṅmukhı̄m     . nayet ||62 ||
+   evameves..takāle ′pi prāk paścād grāsamadhyatah      . |
+   candrabimbādbahirbhūto bhāgo dr           ′
+                                         . śyo rkaman  . d.ale || 63 ||
+   tadantargatabhāgastu grastastenāsitah      . sadā |
+   After determining the two valanas separately at the [time of] the first contact, the middle
+   and the moks.a, or at any desired instant, their sum or difference has to be found as described
+   earlier.12 The Rsine of this divided by 191 is the true valana here [in the case of a solar
+   eclipse]. A circle with a radius equal to 18 units should be drawn on the Earth [a flat surface].
+   The east and west directions have be marked in the opposite sense when the sketch is made
+   on a plank. The [direction of the] valana has to be obtained as earlier [by making marks
+   on the circumference of the circle on either side of the east-west line etc., as described for
+   a lunar eclipse]. Then the path traced by the Sun has to be drawn in the direction of the
+   parallax in latitude. At a distance of sphut.a-nati from that (path of the Sun), another path
+   for the Moon has to be drawn.
+   Then, at the centre of that circle, the disc of the Sun may be drawn clearly. Then, with a
+   piece of thin pointed stick (the śalākā) whose measure is equal to the distance of separation
+   between the two discs, mark a point in the path of the Moon. Then draw the Moon’s disc
+   there. The śalākā has to be pointed towards the west during the beginning of the eclipse
+   (the first contact) and towards the east during the end of the eclipse (the last contact). The
+   same is true of any instant which is prior to or later than the instant of the mid-eclipse. The
+   portion [of the Sun] which lies outside the Moon’s disc is visible. The portion which lies
+   inside is the portion eclipsed, and hence is always dark.
+
+    As in the previous chapter on lunar eclipse, consider the angle between the eclip-
+tic and vertical through the Sun/Moon. Suppose the sum or difference of the two
+valanas is ψ . Then R sin ψ is the valana in a circle of radius equal to the trijyā (R).
+Then the valana corresponding to a circle of radius 18 is
+                                                                      R sin ψ
+                                          sphut.a-valana = 18 sin ψ =         ,                     (5.149)
+                                                                       191
+as the value of R is taken to be 3438 = 191 × 18. Here the value of the radius of the
+circle has been chosen to be 18 only for the sake of convenience. In the last quarter
+of verse 58, it is mentioned:
+                          å
+   va;l+.nMa .~ya;a;t,a .~.Pu+.f; / / / / /
+                                 a;ntva;h    ÁÁ
+
+   This will be the true valana here (iha).
+
+12 Chapter 4, verses 44, 45.
+

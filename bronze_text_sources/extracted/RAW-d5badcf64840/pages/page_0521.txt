@@ -1,0 +1,48 @@
+474                        Solution of the ten problems: a couple of examples from Yuktibhās.ā
+
+    Consider the great circle (tiryag-vr.tta) through B and G. We show that BG is
+perpendicular to both the natavr.tta and the digvr.tta. The tiryagvr.tta and the is..ta-
+digvr.tta intersect at F. Y is the point of intersection of the nata-dr.kks.epa-vr.tta
+and the nata-vr.tta. Let ZY = α . R sin ZY = R sin α is the svadeśa-nata-jyā. Y D =
+90 − α , R sin(Y D) = R cos α is the svadeśa-nata-kot.i.
+    Since B is at 90◦ from Z and A, it is the pole of the is..ta-digvr.tta. Therefore
+BF = BX = 90◦ . Similarly, C is the pole of the nata-dr.kks.epa-vr.tta, since CD =
+CZ = 90◦. Therefore G is at 90◦ from C. G, being on the celestial equator, is at 90◦
+from P. Therefore G is the pole of the nata-vr.tta. Hence BG passes through the
+poles of nata-vr.tta and digvr.tta. Thus, BG is the perpendicular to both the nata-
+vr.tta and the is..ta-digvr.tta.
+    Now X is the pole of the tiryagvr.tta, as it is at 90◦ from B and G.1 Therefore
+XF = 90◦ . But XA = 90 − z. Hence, AF = z, where z is the maximum separation
+between the horizon and the tiryagvr.tta (as BA = BF = 90◦ ). Therefore, z = DB̂G.
+The tiryagvr.tta meets the is..ta-digvr.tta also at F ′ . Then,
+
+                              180◦ = FF ′ = ZF ′ + ZF
+                                          = ZF ′ + ZA + AF
+                                              = ZF ′ + 90 + z.
+
+Therefore, ZF ′ = 90−z or F ′ F ′′ = z. This is the elevation of the tiryagvr.tta from the
+horizon on the is..ta-digvr.tta. As this maximum separation occurs at 90◦ , BF ′ = 90◦ .
+It is clear from the figure that the angle between the tiryagvr.tta and the vidig-vr.tta
+is 90 − z.
+    Now C is the pole of ZD. Therefore CY = 90◦ , and the angle at Y is 90◦ . Since
+the angle between ZP and Y P is H and ZP = 90 − φ , the sine of the zenith distance
+of the point Y , denoted by α , is
+
+                                  sin α = sin(90 − φ ) sin H
+                                        = cos φ sin H.                                  (D.27)
+
+Therefore                                 q
+                                cos α =       1 − cos2 φ sin2 H.                        (D.28)
+Let CS = β be the distance between the north–south circle and the nata-vr.tta at the
+horizon. It is easy to see that NC′ = ED = β , where C′ is the point on the horizon
+diametrically opposite to C.
+Note:
+
+1. C being the pole of ZDG, DY = 90 − α is the angle between the nata-vr.tta and
+   the horizon. Therefore
+
+                            sin φ = sin PN = sin(90 − α ) sin(PC).
+
+1 The point X is at 90◦ from G, since G is the pole of the nata-vrtta.
+                                                                .
+

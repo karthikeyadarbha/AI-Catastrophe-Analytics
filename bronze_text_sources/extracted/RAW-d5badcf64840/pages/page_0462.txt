@@ -1,0 +1,51 @@
+8.5 Distance between the solar and lunar discs                                  415
+
+                                             Us = R(1 − cos ηs )
+                                and      Um = R(1 − cos ηm ).                (8.43)
+
+With them the following quantities are defined:
+                                       q
+                                 hs = Us2 − x2s ,
+                                       q
+                                hm = Um2 − x2m .                             (8.44)
+
+Their difference is taken to be the second rāśi:
+
+                                         r 2 = hm − hs .                     (8.45)
+
+Substituting the appropriate expressions for the utkramajyās and the natı̄s.uphalas
+((8.43) and (8.34)), we get
+
+                                          θ
+                                r2 = R cos (cos ηm − cos ηs ).               (8.46)
+                                          2
+Again from Fig. 8.3,
+                            q
+                  S′′ B =    (SS′′ )2 − SB2
+                            r
+                                                   θ
+                       = (R(1 − cos ηs ))2 − (R sin (1 − cos ηs ))2
+                                                   2
+                        q
+                       = Us2 − x2s
+                       = hs .                                                (8.47)
+
+Similarly, M ′′ A = hm . Thus
+
+                                  r2 = M ′′ A − S′′B = M ′′C.                (8.48)
+
+Clearly,
+                                        q
+                                M ′′ S′′ =
+                                         (S′′C)2 + (CM ′′ )2
+                                        q
+                                       = (AB)2 + (CM ′′ )2
+                                        q
+                                       = r12 + r22 .                         (8.49)
+
+As in the previous case, the third rāśi is taken to be
+
+                                  r3 = M ′ M ′′ ± S′S′′ = M ′ T.             (8.50)
+
+The separation between the discs M ′ S′ is defined to be
+

@@ -1,0 +1,51 @@
+F The traditional Indian planetary model and its revision by Nı̄lakan. t.ha                       489
+
+are inclined to the ecliptic) around the śı̄ghrocca, which in turn goes around the
+Earth.
+    While discussing the geometrical picture of planetary motion, Āryabhat.ı̄ya-
+bhās.ya, as well as Golasāra and Siddhānta-darpan. a, consider the orbit of each of
+the planets individually and they are not put together in a single cosmological model
+of the planetary system. There is however an interesting passage in Āryabhat.ı̄ya-
+bhās.ya, where Nı̄lakan. .tha explains that the Earth is not circumscribed by the orbit
+of the interior planets, Mercury and Venus; and that the mean period of motion in
+longitude of these planets around the Earth is the same as that of the Sun, precisely
+because they are being carried around the Earth by the Sun. In fact, Nı̄lakan.t.ha
+seems to be the first savant in the history of astronomy to clearly deduce from his
+computational scheme—and not from any speculative or cosmological argument—
+that the interior planets go around the Sun and that the period of their motion around
+the Sun is also the period of their latitudinal motion.
+    In a remarkable short tract called Grahasphut.ānayane viks.epavāsanā, which
+seems to have been written after Āryabhat.ı̄ya-bhās. ya as it cites extensively from
+it, Nı̄lakan.t.ha succinctly describes his cosmological model, which is that the five
+planets, Mercury, Venus, Mars, Jupiter and Saturn, go around the mean Sun in ec-
+centric orbits (inclined to the ecliptic), while the mean Sun itself goes around the
+Earth.7 Following this, Nı̄lakan.t.ha also states that the dimensions of śı̄ghra epicy-
+cles are specified by measuring the orbit of the mean Sun around the Earth in terms
+of the planetary orbit in the case of the exterior planets, and they are specified by
+measuring the planetary orbit (which is smaller) in terms of the orbit of the mean
+Sun in the case of the interior planets. This remarkable relation8 follows clearly
+from the identification of the śighrocca of all the planets with physical mean Sun, a
+fact also stated by Nı̄lakan.t.ha in his Āryabhat.ı̄ya-bhās. ya.
+    Towards the very end of the last chapter of Tantrasaṅgraha, Nı̄lakan.t.ha briefly
+considers the issue of planetary distances. Unlike the longitudes and latitudes of
+planets, the planetary distances were not amenable to observations in ancient astron-
+omy and their discussion was invariably based upon some speculative hypothesis. In
+traditional Indian planetary theory, at least from the time of Āryabhat.a, the mean
+planetary distances were obtained based on the hypothesis that all the planets go
+around the Earth with the same linear velocity—i.e. they all cover the same physi-
+cal distance in any given period of time. In Tantrasaṅgraha, Nı̄lakan.t.ha proposes
+an alternative prescription for planetary distances which seems to be based on the
+principle that all the planets go around the śighrocca with the same linear veloc-
+ity. He also briefly hints at this alternative hypothesis in his Āryabhat.ı̄ya-bhās.ya.
+However, among the available works of Nı̄lakan.t.ha, there is no discussion of plan-
+
+7 This cosmological model is the same as the one proposed by Tycho Brahe, albeit on entirely
+
+different considerations, towards the end of sixteenth century.
+8 The śı̄ghra epicycle is essentially the same as the epicycle associated with the so-called ‘solar
+
+anomaly’ in the Greco-European tradition of astronomy, and the above relation is the same as
+the one proposed by Nicholas Copernicus (perhaps around the same time as Nı̄lakan.t.ha) by
+identifying this epicycle as the orbit of the Earth around the Sun in the case of the exterior planets
+and as the orbit of the planet itself in the case of the interior planets.
+

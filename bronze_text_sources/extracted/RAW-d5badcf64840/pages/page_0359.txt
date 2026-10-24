@@ -1,0 +1,63 @@
+312                                                       .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a              Solar eclipse
+                                                                          q
+                                                   dr.ggati =                 trijyā2 − dr. kks.epa2
+                                                                          q
+                                                                     =        R2 − (R sin zv )2
+                                                                     = R cos zv .                              (5.9)
+
+It may be mentioned here that the dr.kks.epa was found in order to calculate the
+dr.ggati, which appears in the expression for the parallax in longitude, as will be
+shown in the following section.
+
+
+  .
+5 3 l+.}ba;nMa :pa;va;Ra;nta;a;na;ya;nea                                     ãÉa
+                                                             ta;tsMa;~k+:a:=+(
+
+
+5.3 Parallax in longitude and its application for finding the
+    instant of conjunction
+
+      O;;k+.$ya;a;va;gRa;ta;ZCe+.dH         l+.b.DMa dx;gga;a;ta:ja;a;va;ya;a       Á
+                                                               Éç
+                                                   , [ea;pa;l+.îå
+      Ce+.d;a;a;a;nta:=+ba;a;hu:$ya;a Ba;a;nua;dx;k           +;a;ya;eaH        ÁÁ 8         ÁÁ
+
+
+      l+.}ba;nMa na;a;a;q+.k+:a;a;dH         .~ya;a;t,a .~va;NRa;mUa;na;a;a;Da;k
+                                                                               e .=+va;Ea          Á
+
+      :pa;va;Ra;ntea mua;hu:=+pyea;vMa :pa;va;Ra;nta;ma;a;va;Zea;Sa;yea;t,a   ÁÁ 9       ÁÁ
+
+
+      ekajyāvargataśchedah   . labdham. dr.ggatijı̄vayā |
+      chedāptāntarabāhujyā bhānudr  . kks.epalagnayoh. || 8 ||
+      lambanam   . nād.ikādih
+                              . syāt svarn. amūnādhike ravau |
+      parvānte muhurapyevam      . parvāntamaviśes.ayet || 9 ||
+      The quantity obtained by dividing the square of Rsine of one [rāśi] by the Rsine of the
+      dr.ggati is called the cheda. The Rsine of the difference between the [longitudes of] the
+      Sun and the dr.kks.epalagna divided by thecheda is the parallax in longitude in nād.ikās
+      etc. Depending on whether [the longitude of] the Sun is greater or smaller [than that of the
+      vitribhalagna] the result must be added to or subtracted from the instant of conjunction.
+      By repeating the above procedure, the instant of opposition has to be obtained iteratively.
+
+      An intermediate quantity called the cheda is defined by
+
+                                                                       (R sin 30)2       R
+                                                   cheda =                         =           .             (5.10)
+                                                                        dr.ggati     4 × coszv
+
+The expression for the parallax in longitude (∆ λ ) in nād.ikās is given by
+
+                                                                      R| sin(λs − λv )|
+                                                     lambana =                          ,
+                                                                           cheda
+                                       or                       ∆ λ = 4 × coszv × | sin(λs − λv )|.          (5.11)
+
+In the following we arrive at the expression for the parallax in longitude using spher-
+ical trigonometrical formulae. In Fig. 5.4, S represents the Sun and S′ its deflected
+position due to parallax, which is along the vertical circle ZS. ξ is the angle between
+the secondary to the ecliptic and the vertical circle passing through the Sun. V is the
+vitribhalagna, S′ A is the parallax in longitude or the lambana, and SA is the parallax
+

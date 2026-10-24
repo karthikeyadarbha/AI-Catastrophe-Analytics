@@ -1,0 +1,62 @@
+D.1 Problem one: to derive the śaṅku and nata                                                                         469
+
+                                                                  Z                           igvr.tta
+                                                                              viparı̄ta-d
+                                                a
+                                      90−x
+                          P                                                                               δ
+
+                                               C                      x                                       U
+                                      F
+           φ                                                                          X
+                           x                                                                      δ
+                                                                          D
+                                                                                          ρ   x       G
+
+                                      C’           E
+                                                               di                             Y
+                                                                 urna
+                                           a                         lc
+            N              i                                           irc                                        S
+                                                                          le
+                    a                                                 W                                    on
+                               B                                                              A       horiz
+                        (pole of           90−a                                a
+                                                                   tor
+                  is..ta-digvr.tta)
+                                                               qua
+                                                        l.   e
+                                                    ce                               v.rt
+                                                                                         ta
+                                                     g                             d ig
+                                                  ya                           i.s.ta
+                                               tir                                    -
+                                                            a
+                                                         rtt
+                                                       -v .
+
+
+Fig. D.2 The important circles and their secondaries considered in the ‘ten problems’.
+
+
+
+                                      R sin x cos i = R sin a cos φ .                                                 (D.5)
+
+Now PN = φ is the perpendicular arc from P on the tiryagvr.tta, on the horizon,
+which is inclined to it at angle i. Therefore,
+
+                                           R sin x sin i = R sin φ .                                                  (D.6)
+
+From (D.5) and (D.6), we get
+                                        q
+                               R sin x = R2 sin2 a cos2 φ + R2 sin2 φ ,                                               (D.7)
+
+which is what has been stated. This is the maximum separation between the is..ta-
+digvr.tta and the celestial equator, as the angle between them is x.
+   Now the arc BC on the tiryagvr.tta and the arc BC′ on the horizon are both 90◦ .
+Hence arc CC′ = i, the angle between the two vr.ttas. Then CZ = 90 − i, and as C is
+at 90◦ from Y , the intersection between the celestial equator and the is..ta-digvr.tta,
+ZY = i. Hence the ascent of the tiryagvr.tta from the horizon on the digvr.tta = i is
+the same as the descent of the equator from the zenith on the digvr.tta. Let the arc
+XY = ρ . XG is the perpendicular arc from X on the digvr.tta on the celestial equator.
+

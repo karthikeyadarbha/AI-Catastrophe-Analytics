@@ -1,0 +1,121 @@
+291 22. RATIONALE: OF ASTRONOMY
+
+अविशेषश्रुतिष्नौ तौ त्िज्याभक्तौ स्फुटौ मतौ ।
+स्वकक्ष्यामध्यभूमध्याद्‌ यतः स्वान्त्यफलान्तरे ।\ ३ ।॥ `
+
+रविशशिभूव्यासाः ।
+"पडक्त्यन्धिसागरा' भानोर्व्यासस्‌, तिथ्यग्नयो'विधोः |
+खेषुखेका' क्षितेः, सर्वे स्वगोलान्तस्थयोजनः ।। ४ ॥।
+
+स्फुटयोजनकर्णाप्तो व्यासस्‌ त्रिज्याहतो निजः |
+लिप्ताव्यासो रवीन्दरोः स्यात्‌, तिज्या हि स्यात्‌ कलाश्रुति: 1
+
+सर्वेष्वपि च वृत्तेषु व्यासाधंस्य तु लिप्तिकाः ।
+चिज्यासंख्यास्‌, ततस्त्रिज्या सवेवृत्तकलाश्रुतिः ।। ६ ॥
+(Para,, Grahana-nyaya., 2-6)
+
+Rationale of the computation of eclipses
+Distances of the Sun and the Moon
+
+The (mean) distance in yojanas of the Sun from the
+centre of the Earth is 4,59,585. Of the Moon, (it is)
+34,377. (2)
+
+These two multiplied (respectively) by the (respective)
+hypotenuses derived by repeated approximation (1.6.
+the radius vector of the respective orbits) and divided by
+Trijya (viz., 3438) are known to be the true distances (of
+the Sun and the Moon) (at the particular time of
+calculation), for they must be (at some position)
+between the centre of their orbits, viz., the Earth, and
+their maximum value. (3)
+
+Diameters of the Sun, the Moon and the Earth
+
+The diameter of the Sun is 4410, that of the Moon 31 5
+and that ofthe Earth 1050, all in (absolute) yojanas with in
+their own spheres. (4)
+
+The respective diameters of the Sun and the Moon
+divided by the true distances in yojanas and multiplied
+by the Trijya is the diameter of the Sun and the Moon
+in minutes of arc: for, the Trijya (viz., 3438), the (unit)
+hypotenuse, 18 in minutes. (5)
+
+In all circles the minutes contained in the radius
+
+is equal to their number in the Trijya, viz., 3438; and
+hence Trijya is the hypotenuse in minutes for all
+
+circles. (6) (KVS)
+भूच्छाया
+22. 7. 2. भानोर्व्यासदलं दीपोन्नति: शडाकू ्नतिर्भुवः |
+
+शडकदीपान्तराले भू: स्य द्रवेर्योजनश्रुतिः । ७ ॥
+शडकरुदीपान्तराले भू: शब्कुष्ना, शझकुदीपयो: |
+भेदेनाप्ता हि तच्छाया, छायादैर्ध्य क्षितेश्च तत्‌ । ८ ॥
+मूले भूमिसमव्यासा साग्रे गोपच्छसम्मिता ।
+यतोऽकंरश्मिः पतति क्रमेणाधः समन्ततः । & ५
+विधोर्योजनकर्णोनं छायादैध्यं समाहतम्‌ | ।
+भृव्यासेनोद्धृतं च्छायादै्घ्येण, स्यान्निशाङृतः ।। १० ॥।
+
+22.7. 3
+
+स्थाने छायामितिस्‌ तिज्यानिहता सा भवेद्‌ हृता +
+विधोर्योजनकर्णेन तमोव्यासंः कलात्मकः ॥ ११ ॥
+
+छायादैरष्यान्तरे CAAT छायाव्यासो हि भूसमः ।
+[इन्दोः स्थाने तमोव्यासः] कियानितीन्दुवत्‌ कलाः ॥1१२॥
+Para., Grahana-nydya., 7-12)
+The Earth’s Shadow
+The radius of the Sun is (equivalent to) the height of
+the lamp, that of the Earth to the height of the gnomon,
+and the (true) distance of the Sun in yojanas to the
+
+horizontal distance between the gnomon and the
+lamp. (7)
+
+The horizontal distance between the gnomon and the
+lamp multiplied by the gnomon, and divided by the
+difference (in the heights) between the gnomon and the
+lamp is the shadow (of the gnomon) ; this represents the
+length of the Earth’s Shadow. (8)
+
+At the base, the Shadow has the diameter of the Earth
+and at the tip it is (tapering) like the cow’s tail, fer the
+Sun’s rays fall (on the Earth) equally on al sides. (9)
+
+The length of the Shadow decreased by the (true)
+distance in yojanas of the Moon (from the Earth) multi-
+plied by the diameter of the Earth and divided by the
+length of the Shadow will be the measure of (the diameter
+of) the Shadow at the Moon’s position. (10-112)
+
+That multiplied by Trijya and divided by the (true)
+distance in yojanas of the Moon will be the diameter
+of the Shadow in minutes. (11 b-d)
+
+(If) the diameter of the Shadow at a distance equal to
+the length of Shadow from its tip is equal to (the dia-
+meter of) the Earth, what will be its diameter at the
+Moon’s position: thus is calculated the diameter of the
+Shadow. Its (measure in) minutes is derived even as
+the Moon’s. (12). (KVS)
+
+\
+
+ग्रहणे रविशशिनोः स्थितिः
+22. 7. 3. एकद्क्सूबगौ यावच्चन्द्रार्कों ग्रहणं रवेः |
+तावन्‌, निशाकृतो यावत्‌ तावत्‌ स्यात्‌ तमसि स्थितिः ॥।
+स्थितिरिन्दो|[स्तमो] मध्ये पर्वान्ति स्यात्‌ शशीनयोः ।
+युतिः पर्वान्ततः प्राग्वा पश्चाद्वा लम्बनाद्‌ भवेत्‌ ॥ १४ ॥
+(Para., Grahana-nydya:, 1 3-14)
+Duration of the eclipses है
+The Sun’s eclipse lasts as long as the Moon and the
+Sun continue to be in the same eye-line (when viewed
+from the Earth). Similarly, for the Moon, (the eclipse
+lasts) as long as it remains in the Shadow (of the
+Earth). (13)
+
+At full moon, the Moon will be at the middle (of its
+passage through) the Shadow. - The conjunction of

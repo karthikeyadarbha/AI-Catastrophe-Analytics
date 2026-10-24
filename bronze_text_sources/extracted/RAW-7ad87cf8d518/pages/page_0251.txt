@@ -1,0 +1,122 @@
+207 16. . ECLIPSES .
+
+centre of the earth, then multiplied by 1050 and divided
+by itself, gives, as result, the diameter of the earth’s
+shadow in yojanas (in the Moon’s orbit). (7)
+
+Angular diameter of the Sun etc.
+
+The diameters of the Sun, the Moon.and the shadow,
+(each expressed in yojanas), and multiplied by the radius
+and divided, respectively, by the Sun’s distance from the
+earth, the Moon’s distance and the Moon’s distance, (in
+yojanas), give the respective angular diameters in
+minutes, whence the arcs corresponding to the quotients
+as R sines are found. The results can also be treated
+approximately as diameters (without finding the
+arcs). (8)
+
+Or, the true motion of the Moon multiplied by 11 and
+divided 97 272 gives its angular diameter in minutes.
+That of the Sun is obtained by multiplying its true
+motion by 11 and dividing by 20. The difference
+between 8 times the true motion of the Moon and 25
+times that of the Sun, divided by 60, gives the angular
+diameter of the shadow (in minutes). (9)
+
+The eclipser and the eclipsed
+
+The shadow ‘is the Moon’s obscuring body and the
+Moon is the Sun’s obscuring body. There are total
+and partial eclipses of the obscured body caused by the
+obscuring body. (The eclipse) is named after the
+(eclipsed portion of the) obscured body.1 (10) (BC)
+
+Latitude of the Moon
+
+When the Moon is equal to the Sun in respect of
+minutes etc., subtract from its longitude, the longitude
+ofits ascending node. Find the R sine of the remaining
+arc, multiply it by 15 and divide by 191. The result is
+the latitude of the Moon, and its direction is according
+to the hemisphere in which the Moon happens to be
+diminished by its node. (11)
+
+Obscured portion at mid-eclipse
+
+When this latitude is subtracted from the sum of the
+semi-diameters of the obscuring and the obscured
+bodies, the remainder is the portion obscured (at the
+time of mid-eclipse). When the portion is greater than
+the obscured body, the latter is said to be completely
+obscured. (12)
+
+Or, subtract half the difference of the diameters of the
+obscuring and the obscured bodies from the latitude of
+the Moon. The remainder is the portion not obscured.
+If there is no remainder, the obscured body is completely
+obscured. (13)
+
+1 For rationales and demonstrations, see Si.Dh.Vpv BG. 11.112-13.
+
+16. 10. 1
+
+Half-duration of the eclipse
+
+Take the sum or difference in the semi-diameters of
+the obscuring and the obscured bodies. Square if and
+subtract from it the square of the Moon’s latitude.
+Find the square root of the remainder. Multiply it by
+60 and divide by the difference of the true motions in
+minutes of the two bodies. The results are, respectively,
+the approximate half durations of the eclipse and the
+total eclipse in ghatikds.
+
+When these times are severally multiplied by the true
+motions of the Sun, Moon and its node and each product
+divided by 60, the results are, respectively, the motions
+of the Sun, Moon and its node during these times.
+(14-15)
+
+The Sun’s and Moon’s motions in minutes should,
+respectively, be subtracted from their longitudes and
+the node’s motion added to its longitude, if the first
+half of duration of the eclipse or of the total eclipse is
+required; the reverse process is to be followed if the
+second, half is required. ह
+
+From these longitudes, again calculate the half
+duration of the eclipse and of the total eclipse. Repeat
+the process till the times are fixed. (16)
+
+When the first half of the duration of an eclipse is
+subtracted from the time of the full moon, the remainder
+gives the time when the eclipse began. When the
+second half of the duration of an eclipse is added to the
+time of the full moon, the sum gives the time when the
+eclipse ends. So the wise say.
+
+The sum of the first and second half of the duration
+of the eclipse is its total duration. The sum of the first
+and second half of the duration of the total eclipse is the
+duration of the complete disappearance of the Moon. (17)
+
+The end of the full moon is the time of mid-eclipse.
+That time, diminished by the first half of the duration
+of the total eclipse, gives the time when the Moon is
+completely obscured. Again, that time added to the
+second half of the duration of the total eclipse, gives the
+time when the Moon begins to reappear. So say those
+who know. (18)
+
+Obscured portion at any time.
+
+When the given time (during an eclipse) is subtracted
+from the first or second half of the duration of an eclipse,
+and the remainder is multiplied by the difference in
+minutes of the motions (of the obscuring and the obs-
+cured bodies) and divided by 60, the result is called bhuyja
+or base. The latitude of the Moon at that time is
+called Kofi or perpendicular. The square root of the
+sum of the squares of the base and the perpendicular is
+the hypotenuse at that time. (19)

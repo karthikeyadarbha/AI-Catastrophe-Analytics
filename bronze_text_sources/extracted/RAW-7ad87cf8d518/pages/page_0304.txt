@@ -1,0 +1,112 @@
+18.5. 5
+भगोः षड्‌ ' वक्रिणो राज्य विदः कालांशका मताः ।`
+मान घ्ना यदि पूर्वस्यां ग्रहाक्रान्तघटीहूताः ।। ५ ॥
+यदि पश्चाद्‌ ग्रहाक्रास्तसप्तमस्य धघटीहूताः ।
+क्षेत्रभागा रवेः शोध्या: प्राग्योज्याः पष्चिमे रवौ ।। ६ ॥
+संस्कृताकंग्रहौ तुल्यौ उदयास्तमयौ तदा |
+समागमवदत्रापि तत्कालज्ञानमिष्यते ।\ ७ ॥
+(VK, 5. 1-7)
+—Vakyakarana
+
+For Mars, direct Mercury, Jupiter, direct Venus, and
+Saturn, the approximate dates of heliacal setting and
+rising are 60, 16, 15, 30 and 15 days respectively, before
+and after the days of the ends of cycles. For retrograde
+Mercury and Venus they are 50 and 287, respectively.
+(1-22).
+
+Mars, Jupiter and Saturn, and retrograde Mercury
+and Venus, when having longitudes greater than the
+Sun set in the west, and when having longitudes less than
+the Sun rise in the east. Mercury and Venus, in direct
+motion, set in the east when, less than the Sun, and rise
+in the west when greater. (2b-4a)
+
+The kalgthfa-s are: For Mars 17°, for Mercury 13°,
+for Jupiter 11°, for Venus 8°, for Saturn 15°, for retro-
+grade Mercury 12°, and for retrograde Venus 6°. (4b-5a)
+
+If the rising or setting pertains to the east, multiply
+the kalamfa-s by 5 and divide by the rafimdna, in nadis,
+of the rasi in which the body is situated. If the rising
+or setting pertains to the west, divide by the rasimdna
+in nadis of the 7th rafi from that in which the body is
+situated. Kyetratifas are obtained. (4b-5a)
+
+In the case of the east, the ksetrémfa-s are to be
+deducted from the Sun, and in the case of the west,
+added. When this corrected Sun and the body are
+equal, 1.6. in conjunction, then is the time of the heliacal
+setting or rising. Here too, the time is to be found
+as that of conjunction. (6b-7). _(TSK-KVS)
+
+--भास्करः २
+18. 5. 6. प्राग्दुग्ग्रह: स्यादुदयाल्यलग्त-
+मस्ताख्यकं पश्चिमदृग्ग्रहः सः |
+भ्राग्दुम्प्रहोऽल्पोऽत्र यदीष्टलग्नाद्‌
+मतो गमिष्यत्युदयं बहुश्चेत्‌ ।। १ ।।
+
+ऊनोऽधिकः पश्चिमद्‌ग्ग्रहश्चे-
+, दस्तं गतो यास्यति चेति वेद्यम्‌ ।
+तदन्तरोत्था घटिका ग्तेष्या-
+स्तच्वालितः स्यात्‌ स निजोदयेऽस्ते ।। २ ।।
+
+1For worked out examples see, VK: TSK-KVS, p. 285.
+
+INDIAN ASTRONOMY—A .SOURCE-BOOK  _ 260
+
+तल्लग्नयोरन्तरतोऽसकृद्याः .
+कालात्मिकास्ता घटिका: स्युराक्ष्यः।
+
+अभीष्टकालचुचरोदयान्त-
+यंद्रेष्टकालद्ुचरास्तमध्ये ।। ३ Uh
+
+निरुक्तौ ग्रहस्येति नित्योदयास्ता-
+विनासन्नभावेन यौ तौ च वक्ष्ये ।
+रवेरूनभुक्तिग्रह्‌ः प्रागुदेति
+प्रतीच्यामसावस्तमेत्यन्यथान्यः ।। ४ ।
+ज्ञशुक्रावृज्‌ प्रत्यगुद्गम्य वक्रां
+गति प्राप्य तत्रैव यातः प्रतिष्ठाम्‌ |
+ततः प्राक्‌ समुद्गम्य THAT
+समासाद्य ततैव चास्तं त्रजेताम्‌ ।। ५ ॥
+"दसरेन्दवः' शेलभुवश्च' शक्रा!
+‘eat: चन्द्रा” तिथयः" क्रमेण |
+चन्द्रादितः काललवा निरक्ता
+ज्ञशुक्रयोवेक्रायोद्विहीना: ॥ ६ ॥
+
+यत्रोदयो वास्तमयोऽवगम्य-
+स्तदिग्भवो दुक्डचरो रविश्च ।
+अस्तोदयासन्नदिने कदाचित्‌
+साध्यस्तु पश्चात्‌ तरणिः सषड्भः ।। ७ ॥
+। (Bhaskara II, Si$i., 1.8. 1-7)
+—Bhaskara I
+
+The udayalagna of a planet is termed Prak-drk-graha
+and the astalagna is termed the Pascima-drk-graha. If the
+Prak-drk-graha happens to be less than the current lagna
+the planet had already risen. Ifit be greater, the planet
+is still to rise. Similarly, if the Pascima-drk-graha is less
+than the curernt lagna, the planet had already set;
+otherwise is yet to set. (1-22)
+
+Find the time that has elapsed after the planet’s rise.
+From this time, obtain the arc that would have been
+traversed in between the moments. Subtracting this
+arc from the planet’s position at the moment, the planet’s
+position at rising would be obtained approximately.
+From this approximate time again, compute the arc
+that would have been traversed by the planet during
+that time. Subtracting this arc, which is nearer the
+truth from the planet’s present position, we obtain a
+more approximate position of the rising planet. Again
+computing the Prak-drk-graha from this position, calculate
+the time from this Prak-drk-graha and the lagna of the
+moment. Repeating the process we will obtain the
+actual sidereal time in between the given time and the
+actual rising time of the planet. (2b-3)
+
+Heliacal rising and setting of planets
+
+The times of rising and setting of a planet have been
+dealt with. Now I shall tell the procedure to be adopted
+in computing the times of heliacal rising and setting of

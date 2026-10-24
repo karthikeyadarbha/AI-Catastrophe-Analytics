@@ -1,0 +1,62 @@
+2.3 Computation of the tabular Rsines                                                                                                                                        59
+
+                                                                          ≈ 223′ 52′′ − 1′ 55′′
+                                                                          = 221′ 57′′ .                                                                            (2.23)
+
+Thus the third pin. .dajyā becomes
+
+                                                              J3 = J2 + ∆ 3
+                                                                    = 448′42′′ + 221′57′′
+                                                                    = 670′39′′ ,                                                                                   (2.24)
+
+and so on. In general, the ith khan.d.ajyā is given by
+                                                                                            Ji−1
+                                                                   ∆i = ∆i−1 −                     ,                                                               (2.25)
+                                                                                            233 12
+
+and the ith pin.d.ajyā by
+                                                                           Ji = Ji−1 + ∆ i .                                                                       (2.26)
+The iterative relation (2.25) follows from the easily verifiable relation for ∆ i+1 given
+by
+
+                             ∆i+1 = R sin(i + 1)α − R sin iα
+                                  = R [sin iα − sin(i − 1)α − 2 sin iα (1 − cos α )],
+                                  = ∆ i − 2(1 − cos α )R sin iα ,                                                                                                  (2.27)
+
+and the above approximation (2.22) for 2(1 − cos α ). In fact, a recursion relation
+amounting to the above is stated a few verses later. The above iterative procedure is
+described in Laghu-vivr.ti as follows:
+
+   ta;ta;ea   ;a;va;a;l+.a;a;d;Za;k
+                                   e +:na           ;a;va:=+a;h;ta;a;t,a
+                                                               ta:va;nea:a;a;t,a       A;a;dùÅ;a:$ya;a;DRa;tua;ya;a;t,a,                     õ;a;Æa;BaH
+                                                                                                                            .sa;a;DRa;de;va;a;a:(
+
+   ;a;va;Ba:$ya ya;a;+:a;a;a;d;P+.lM l+.Bya;tea     , ta;d;a;dùÅ;a;a;dõ;ta;a;ya;ya;eaH Ka;Nq+$ya;ya;ea:=+nta:=M .~ya;a;t,a Á ta;d;a;dùÅ;a:$ya;a-
+                                            õ ;ta;a;ya;Ka;Nq+$ya;a .~ya;a;t,a Á ta;ta;~ta;dùÅ;au;+:a :pra;Ta;ma;Ka;Nq+$ya;a ;a;d
+   Ka;Nq+.ta;ea ;a;va;Za;ea;Dya ;a;Za;M ;a;d                                                                                                  õ ;ta;a;ya-
+
+   ;a;pa;Nq+$ya;a .~ya;a;t,a Á         ta;ta;ea    ;a;d
+                                                      õ ;ta;a;ya;a;pa;Nq+$ya;a;taH     :pUa;vRa;h;a:=e+NEa;va   ;a;va;Ba;M   :P+.lM   ;a;d
+                                                                                                                                           õ ;ta;a;ya;txa;ta;a;ya;ya;eaH
+
+   Ka;Nq+$ya;ya;ea:=+nta:=M .~ya;a;t,a Á ta;taH                :pua;naH    ;a;d
+                                                                              õ ;ta;a;ya;Ka;Nq+$ya;a;taH        ;a;va;Za;ea;Dya ;a;Za;M txa;ta;a;ya;Ka;Nq+$ya;a
+
+   .~ya;a;t,a Á ta;~ya;aH ;a;d                              ãÉa ya;ea;gaH txa;ta;a;ya;a;pa;Nq+$ya;a .~ya;a;t,a Á A;Ta ta;ta;ea;pyua;+:pra;k+:a
+                             õ ;ta;a;ya;a;pa;Nq+$ya;a;ya;a;(                                                                                                           -
+   :=e+Na . a;tua;Ta;Ra;dùÅ;a;aH   gua;Na;aH      kÒ +:mea;Na .sa;a;Dya;aH Á
+
+   Then, whatever is obtained in minutes etc. (liptādi) as the result when 225 diminished
+   by 10 seconds, which is equal to the first Rsine, is divided by 233.5, will be the differ-
+   ence between the first and second khan     . .dajyās. This [result] when subtracted from the first
+   khan  . ajyā will be the second khan
+        .d                                 . d.ajyā. The first khan  .d . ajyā added to this will then
+   be the second pin . .dajyā. Then the result obtained by dividing the second pin       . .dajyā by the
+   above-mentioned divisor will be the difference between the second and third khan             . d.ajyās.
+   Again when this [result] is subtracted from the second khan        . .dajyā, [the quantity obtained]
+   will be the third khan  . d.ajyā. The sum of this and the second pin       . d.ajyā will be the third
+     . .dajyā. From there on, the fourth Rsine etc. have to be obtained by the method stated
+   pin
+   above.
+

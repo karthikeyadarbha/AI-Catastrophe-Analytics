@@ -1,0 +1,110 @@
+307 22. RATIONALE OF ASTRONOMY
+
+divided by 225, 80, and the hypotenuse gives the second
+correction of fighragatiphala. (12)
+
+When it is applied to the once-corrected motion, (i)
+positively, (ii) negatively, (iii) negatively, and (iv)
+positively, according as the sighrakendra is in the first,
+second or third or fourth pada (see next verse), the
+result is the true motion.
+
+When the result is negative, the motion is said to be
+
+retrograde. (13)
+
+The first pada extends from 0° to 90° plus 45°, 31°, 20°,
+50° and 6° for Mars, Mercury, Jupiter, Venus and
+Saturn, respectively. The third pada extends from 180°
+to 270° minus 45°, 31°, 20°, 50° and 6°, respectively,
+for these planetes. This definition of pada should be
+kept in view while appliying the sighragatiphala positively
+or negatively to the motion. (14)
+
+Diagrammatic rationale
+
+The verses of Lalla quoted above give formulae for
+mandagatiphala and Ssighragatiphalas or two corrections
+to the mean daily motion of a planet to find its true
+motion on any day.
+
+For the formula for mandagatiphala see above Section
+
+22.14.1, pp. 303-4.
+
+Now, the second formula. According to Lalla, R
+sine sighraphala of a planet on any day.
+
+dokphalax R
+` karna (sighra hypotenuse)
+
+R sin fighra anomaly
+on that day
+
+80 x sighra hypotenuse
+
+x correct sighragunaka xR.
+
+Again, R sine sighraphala for the next day
+
+R sine sighra anomaly
+on, the next day
+80 x sighra hypotenuse
+
+>< correct sighragunaka >< R
+
+So sighragatiphala or sighra correction to motion
+
+R correct sighragunaka ,
+= > difference of
+
+चि hypotenuse * 80
+the two R sines, approximately.
+
+R correct sighragunaka bhogyakhanda
+= hypotenuse * 80 x । 225
+motion of sighra anomaly in minutes.
+
+Now, motion of sighra anomaly= motion of sfghrocca of
+the planet minus motion of the planet corrected by the
+mandagatiphala, found in the first part of the rule.
+
+22. 16. 1
+
+As regards application, according to the text, the
+first correction or mandagatipala should. be applied
+positively or negatively, as the case may be, to the mean
+motion. The result is called mandasphutagati. Then to
+this corrected motion, the second correction, sighragati-
+phala, should be applied positively or negatively, as the
+case may be. The result is the true motion. The
+Sighrakendras have been defined in verse 3. 14.
+
+While commenting on these verses Mallikarjuna has
+stated that the application of correction to motion should
+follow the same pattern as that of a planet.
+
+Alternate method for true motion
+
+Lalla gives another method to find the true motion
+of planets. . Here, the first correction follows from
+the proportion,
+
+mandakarna or manda hypotenuse: mean motion, :: R :?.
+
+The result is the motion of the planet corrected once.
+It is called mandasphutagati. The mandakarna is found as
+in verse 3. 17.
+
+From this corrected motion the second correction or
+Sighragatiphala is calculated in the following manner:
+
+1
+|
+
+Let O be the centre of a circle. Mark off arc AB
+equal to the fighraphala of any planet, and arc BC as
+sighrakendragati or motion of fighra anomaly. Let BD=
+225’. Draw BE, CF, DG perpendiculars to AO from
+
+1 SDkVr: BC 1. 49, 11. 55-56.

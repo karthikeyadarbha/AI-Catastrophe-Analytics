@@ -1,0 +1,70 @@
+346                                                             .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                                                 Solar eclipse
+
+                                            Z                                                                                          Z
+
+
+                                                                                                                                           M
+                                                                 S
+                                                                                                                                            M’
+                                                                 S’                                                                         S
+                                                                   M                                                                        S’
+                                                                   M’                                     ecliptic
+                                         i         t                                                                               t
+                                 ’s orb                                                                                        rbi
+                           Moon                                                                                           so
+                                       c                                                                      on’
+                                    ti                                                                      Mo
+                                lip
+                             ec
+                                                                            (a)                                                                  (b)
+
+Fig. 5.20 The effective deflection from the ecliptic in a solar eclipse.
+
+
+
+                                                                                               = SM − (MM ′ − SS′)
+                                                                                               = βt − nn .                                             (5.120)
+
+
+  .
+5 14 ma;Dya;k+:a;l+.a;na;NRa;yaH
+
+
+5.14 Determination of the middle of the eclipse
+                                         Éç
+                             , [ea;pa;l+.îå
+      ta;tk+:a;l+. a;ndÒ+dx ;k           +;a;a;nta:=+Bua:ja;a;gua;Na;a;t,a                 Á
+
+      A;kR +:va;d, dx ;gga;a;taH          .sa;a;Dya;a BUa;v.ya;a;sa;a;DRa;h;tea ta;ya;eaH           Á Á 50      ÁÁ
+
+                                ëÅ
+      dx;gga;ta;a .~va;~va;dx ;ëÁ
+                                *:+:NRa;ya;ea:ja;nEa;a;vRa;&+.tea k+:l+.aH             Á
+                              Éç
+                  , [ea;pa;l+.îå
+      ;Da;nMa dx ;k           +;a;a;t,a :pra;a;k, .sUa;yeRa;nd
+                                                             õ ;eaH        +.Na;ma;nya;Ta;a         Á Á 51          ÁÁ
+
+      O;;vMa kx +:ta;a;kR +:Za;a;ta;Ma:(õ;a;eaH       .sa;a;}yea .~ya;a;t,a .sa;a;a;kx +:;ta;a     Á
+
+      tatkālacandradr    . kks.epalagnāntarabhujāgun . āt |
+      arkavad dr    . ggatih. sādhyā bhūvyāsārdhahate tayoh    . || 50 ||
+      dr.ggatı̄ svasvadr.kkarn     . ayojanairvihr.te kalāh. |
+      dhanam  . dr.kks.epalagnāt prāk sūryendvoh. .rn     . amanyathā || 51 ||
+      evam. kr . tārkaśı̄tām
+                              . śvoh. sāmye syāt sannikr..s.tatā |
+      As in the case of Sun, the dr.ggati of the Moon has to be obtained from the product of
+      the kot.i of the dr.kks.epa with the Rsine of the difference between its longitude and the
+      longitude of the dr.kks.epa. Their dr.ggati must be multiplied by the radius of the Earth and
+      divided by their own dr.kkarn . a in yojanas. The results [which are nothing but lambana]
+      in minutes must be added to the longitudes of the Sun and the Moon if they lie to the east
+      of the dr.kks.epa-lagna and subtracted otherwise [if they lie to the west of the dr.kks.epa-
+      lagna]. Only when the [longitudes of the] Sun and the Moon thus obtained are equal will
+      they be in close proximity.
+
+   What is described here is the procedure for determining the instant at which the
+longitudes of the Sun and the Moon are equal to each other as seen by an observer on
+the surface of the Earth. That is the instant of conjunction for the observer. Though
+an iterative method was described earlier for determining the instant of conjunction
+(verse 9), there the focus was on determining the parallax in longitude and it was
+

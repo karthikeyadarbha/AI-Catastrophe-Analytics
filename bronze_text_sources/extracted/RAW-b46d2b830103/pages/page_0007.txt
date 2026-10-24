@@ -1,0 +1,42 @@
+Research Article
+
+
+
+
+                                        Fig 6: Refraction of light by atmosphere
+
+
+At 39° north of equator in Rhodes the average atmospheric temperature in March at present is 13.6°C. For these
+values the refractive index at sea level is 33.37 ' (3). When calculating the ascending degree or Lagna point for
+astrological purposes the refraction is not considered. Further it is unlikely that Hipparchus was able to observe
+both east and west horizons at the same time. He must have observed the setting of Spica in West but calculated
+the rising degree in East. Therefore at the time when beginning of Aries rises in East we cannot expect one to
+see the 0° of Libra to descend at the Zenith. It will be 33.37 ' arc minutes beyond the horizon. Therefore what
+Hipparchus saw on the western horizon when Spica was setting was actually NOT 0° Libra BUT 29° 26.23 '
+Virgo. Therefore it can be concluded that during the time of Hipparchus the star Spica was at
+29°26'13.8"Virgo.
+
+
+Results
+Since this is an observation made in relation to the actual stars in night sky this can be considered as sidereal
+longitude of Aries and Spica. The zero ayanamsha year is defined as the time of coincidence of zero points of
+ both tropical and sidereal zodiacs. That is both sidereal and tropical longitudes will be the same and the
+ayanamsha on that day will be zero. Since the starting point of sidereal zodiac is not known precisely, and the
+purpose of this study is to find out the starting point of sidereal zodiac, we cannot rely on any available sidereal
+longitudes of star Spica. Rather we must depend on the tropical longitudes devised by modern astronomers with
+a high degree of precision. At the time of zero ayanamsha year the sidereal longitude must be as same as
+tropical longitude. Since the starting point of tropical longitude is the vernal equinox, the exact time of
+coincidence will be on the day of vernal equinox of a given year.
+
+To calculate the tropical longitude of star Spica I used ZET 9.1 software and the proper motion of star Spica
+was disregarded. Vernal equinox was calculated using the same software. I found that on the day of vernal
+equinox of AD 244, i.e. March 20, 244 AD at 18.46.54 hours GMT, the tropical longitude of Spica was 29°
+26'22". This is almost as same as sidereal longitude of Spica at the time of Hipparchus i.e. at 29°26 '13.8"
+Virgo.
+
+You can notice that there is a discrepancy of just 12 " arc seconds between the tropical longitude of Spica in AD
+244 and the sidereal longitude of Spica that was observed by Hipparchus. Since the evidence of Hipparchus
+comes from an observation made more than 2000 years ago, and if this were a rough approximation, it is also
+
+                                                                                                                  7
+

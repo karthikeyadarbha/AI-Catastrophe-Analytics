@@ -1,0 +1,124 @@
+14. 5.5
+
+which) should be added to the longitude of a planet
+provided the (midday) shadow of the gnomon at the
+time of (the Sun’s next position at the mnirayana) tulddi
+is greater than the (midday) shadow of the gnomon at the
+time of (the Sun’s previous position at the ntrayana)
+mesadi, and subtracted in the contrary case. In the case
+of the Moon’s ascending nodes, it is to be applied con-
+trarily. This correction should be applied in all cal-
+culations pertaining to the Triprasna, (Three Problems).
+The astronomer who is proficient in trigonometry
+(lit. ‘the science of arc’), should calculate the ayana-
+calana, or when the Sun is six Signs distant from the
+nirayana mesddi or tulddi or at any desired time, by the
+application of his own intellect. (24d-27). (KSS)
+
+14. 5. 5. कल्यब्दे श्ञानतुङ्खो'नः करकां'शोनितो हूतः ।
+
+‘sear aaa देवां'शाच्छोध्या “विप्रा धिका यदि i
+
+तत्संयुक्ताद्‌ ग्रहात्‌ क्रान्तिच्छायापातचरा: स्फुटाः ।
+(VK, 3. 1-22)
+
+Deduct 3600 from the Kali years gone, deduct from
+it the 121th part of itself and divide by 60. The total
+precession is obtained in degrees etc. Ifthe precession
+so determined is more than 24°, deduct it from 48° to
+get (right) the precession.t (1)
+
+In computing the cara (declinational ascensional dif-
+ference, i.e. difference between day time and 30 nédis)
+the declination, the shadow, the mahapata ctc., the
+Sun, the Moon and planets should be taken as true
+after adding the precession tothem. (2a). (TSK-KVS)
+
+14. 5. 6. विषुवतकरान्तिवलययोः सम्पातः क्रान्तिपातः स्यात्‌ ।
+तद्भगणाः सौरोक्ता व्यस्ता अयुतत्रयं कल्पे ।। १७ ॥
+
+अयनचलनं यदुक्तं HSAs: स एवायम्‌ |
+तत्पक्षे तद्भगणाः कल्पे गोद्कुर्तुनन्दगोचन्द्राः' ।। १८ ॥
+(Bhaskara II, SiSi., 2.5. 17-18)
+
+The point of intersection of the celestial equator and
+and the ecliptic is known as the Kranti-pata (vernal
+equinox). As per the Sérydsiddhanta, its revolutions are
+3,00,000 retrograde during a Kalpa. The ayanacalana
+described by Mufijala refers to the same, but the number
+of revolutions according to Mufijala is 1,99,669 during
+a Kalpa.? (17-18). (AS)
+
+1 The instruction to deduct from 48° is based on the oscillation
+theory propounded by most ancient Indian astronomers, and so
+is inaccurate.
+
+2 Calculated from this data, the yearly rate of motion of the
+equinoxes according to Muiijala (year of writing A.D. 932) comes
+to 59.86५. During A.D. 932, the yearly rate of precession was
+50.041” (cf. Ball who says that the yearly rate of precesson was
+50.2453==.0002225 ४, where £ is the number ofyearsfrom A.D. 1850).
+According to the Indian practice, adding the excess of the tropical
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 180
+
+इष्टकाले अबनांशानयनम्‌
+14. 5. 7. गजाश्वनेव्र'रहिताः शकाब्दाः
+‘AT AAA अयनांशकाः स्युः ।
+प्रत्यन्दजातायनजा गतिस्तु,
+रूपाक्ष तुल्या विकलाः प्रदिष्टाः th २ ॥)
+(Jagannatha, SiSam., pp. 6-7) ,
+
+Precession at desired time
+
+The Saka years reduced by 278 and divided by 70
+would give the total precession in degrees at any time.
+The rate of precession per annum is 51 seconds.
+
+(2). (KVS)
+
+अयनचलनवेधप्रकारः
+
+14. 6. 1. अयनचलनस्य मानज्ञानाय विलिख्यतेऽथ चोपायः |
+छायाप्रसाधितो य: सूरयस्तत्कालगणितसिद्धश्च ।। ८५ ॥
+
+योऽकंस्तयोस्तु विवरं तत्काले प्रोच्यतेऽयनचलनमिति ।
+भवति च यस्मिन्‌ काले याम्योदग्गतिनिवत्तिरकंस्य ।। ८९
+
+अयनान्तस्य च तत्कालेऽकंस्य च विवरमयनचलनं स्यात्‌ |
+TSH कृत्वात्युन्नतमचलस्तम्भादिक प्रभां तस्य । ८७ ॥
+
+faa गमनकाले चागमकाले च गणितविद्‌ भानोः ।
+अकस्य गमनकाले यस्मिन्‌ काले त्वभीष्टबिन्दुगतम्‌ ।।
+
+छायाग्रमागमेऽपि च तद्विन्दुगतं यदा प्रभाग्रं स्यात्‌ |
+तत्कालद्वयभवयोः स्फुटभान्वोर्योगदलसमोऽकंः स्यात्‌ ॥
+
+यस्मिन्‌ काले तस्मिन्‌ काले हि गतिनिवृत्तिरकंस्य |
+ऋणमथवा धनमिति च प्रकल्प्यते तद्धि गणितयुक्तिविदा ॥
+(Paramegvara, GD, 4. 85-90)
+
+Measuring precession with instruments
+
+Now a method for knowing the amount of the pre-
+cession, of the equinoxes is given below. (85a)
+
+The difference (in the longitude) of the Sun as deter-
+mined, by the shadow and as derived for that moment by
+calculation (from astronomical texts) is said to be the
+precession of the equinoxes at the time.
+
+Or find the moment when the Sun is free from south-
+ward or northward motion. The difference between
+the Sun at that time and the solstice (i.e., the end of
+the ayana, according to astronomical texts) will be (the
+amount of ) the precession of the equinoxes. (85b-87a)
+
+The astronomer (ganita-vid) should take as the gnomon
+a very high pillar or the like, and observe its noon-
+
+year, viz. 9.76” to the rate of precession, Mufijala construed that
+the rate of precession was 59.86”, whereas the correct rate at that
+time, adding the said excess, was 59.8” per year. What a correct
+estimate has Mufijala made! It might also be noted that Mufijala
+postulated secular precession and not liberation.

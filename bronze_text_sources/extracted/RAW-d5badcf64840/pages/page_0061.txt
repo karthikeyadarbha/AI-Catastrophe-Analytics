@@ -1,0 +1,58 @@
+14                                          ma;Dya;ma;pra;k+.=+Na;m,a                               Mean longitudes of planets
+
+   The Amānta system is more popular in south India, whereas the Pūrn.imānta
+system is so in the north. For instance, places like Tamil Nadu, Andhra Pradesh, Kar-
+nataka etc. follow the Amānta system and places in the North like Uttar Pradesh,
+Bihar, Rajasthan etc. follow the Pūrn.imānta system. As a result, the commence-
+ment of the lunar year also differs by about 15 days. The commencement of the
+lunar year, yugādi (as it is popularly called in the south), is celebrated a fortnight
+earlier in the north.
+
+
+  .
+1 5 .sa;Ea:=+ma;a;na;m,a
+
+
+1.5 Solar reckoning of time
+
+                                                        ãÉa;k
+      .sa;Ea:=+a;b.d;ea Ba;a;~k+.=+~yEa;va .$ya;ea;a;ta;(    Ò +:pa;a:=+Bra;maH    ÁÁ 6       ÁÁ
+
+      ma;a;sa;~tua .=+a;a;Za;Ba;ea;gaH    .~ya;a;t,a A;ya;nea .. a;a;a;pa ta;
+                                                                             ç Å +ta;a    Á
+
+      saurābdo bhāskarasyaiva jyotiścakraparibhramah   . || 6 ||
+      māsastu rāśibhogah. syāt ayane cāpi tadgatı̄ |
+      The [time required for one] complete revolution of the Sun around the ecliptic is a solar
+      year. The period for which it (the Sun) dwells in a rāśi is a solar month. The two ayanās
+      are nothing but its motion [towards the north and south].
+
+   In the above verse, the word jyotiścakra refers to the apparent path traced by the
+Sun in the celestial sphere, as seen from the Earth. This is the same as the ‘ecliptic’
+in modern spherical astronomy. The time taken by the Sun to go around the ecliptic
+once, thereby covering 360◦ (cakra), is defined as a saurābda, a solar year. What
+is referred to here is the sidereal year,26 which corresponds to the time interval
+between two successive transits of the Sun across the same star along the ecliptic.
+   The ecliptic is actually inclined to the celestial equator, as shown in Fig. 1.4.
+                                                                    ◦
+The angle of inclination, denoted by ε , is currently around 23 12 and is called as
+the obliquity of the ecliptic. However, in the Indian tradition, most of the texts on
+astronomy including Tantrasaṅgraha take the angle of inclination to be 24◦ .
+
+
+Rāśi division of the ecliptic and solar month
+
+The ecliptic is divided into twelve equal parts, each corresponding to 30◦ , called
+rāśis. The rāśis Mes.a (Aries), Vr..sabha (Taurus), Mithuna (Gemini) etc. as indi-
+cated in Fig. 1.4a are known as sāyana-rāśis whereas the ones depicted in Fig. 1.4b
+are known as nirayan.a-rāśis. In Indian astronomy, the beginning point of the
+‘Mes.a-rāśi’ known as ‘Mes.ādi’ (first point of Aries) is a fixed point on the eclip-
+tic, which is 180◦ away from the location of the star ‘Spica’. This point is different
+from the vernal equinox27 (the beginning point of the sāyana-mes.a) because the
+26 This is different from the tropical year, which is marked by the successive transits of the Sun
+
+across the vernal equinox.
+27
+   It can be shown by computing backwards that the vernal equinox and Mes.ādi were coincident
+around fifteen centuries ago.
+

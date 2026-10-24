@@ -1,0 +1,122 @@
+247 17. PHASES OF THE MOON
+
+In the case of the Moon, however, if it is not eclipsed
+by the rays of the Sun, it may be visible even shortly
+after sunrise or a little before sunset in contradistinction
+to a planet which could not be seen at all during day
+time (except perhaps Venus). When a planet is visible,
+its gnomonic shadow could be computed. (10)
+
+Time after rise
+
+If it be required to find the gnomonic shadow of the
+planet, then the current lagna and the udayalagna of the
+planet at the moment are to be computed. The time in
+between the two lagnas, which. will be in sdvana measure
+pertaining to the planet gives the time that has elapsed
+after the rise of the planet. (11)
+
+The sdvana measure alone is to be employed while
+finding the gnomonic shadow (i.e. while the zenith
+distance of the planet is to be computed), because the
+arc of the diurnal circle of the planet indicates only
+sdvana measure. Suppose the udayalagna falls short of
+the current Jagna; then the bhigyakala, i.e. the remaining
+rising time of the rasi in which the planet is situated
+added to the elapsed time of the rdsi of the current lagna
+together with the sum of the rising times of the rasis
+in between, gives the difference of the udayalagna of the
+planet and the curient lagna. (12)
+
+Declination
+
+The franti of the planet or the declination of the foot
+of the latitude of the planet added to the latitude
+rectified called sphutasara, gives what is called spasta-
+kranti of the planet. Its R sine is called spasta-krantipa.
+From this, R sin §, R cos § etc. are to be computed (as
+mentioned in Triprasnadhikdra in the context of findiag
+the zenith-distance of the Sun).
+
+From the time that has elapsed after the rise of the
+planet called the unnata, the shadow is to be computed
+as in the case of the Sun’s shadow. Having thus com-
+puted. the shadow or what is the same, the zenith distance
+of the Moon or that of the stars, the instrument called
+Nalaka could be pointed to the spot where that celestial
+body is situated. (13)
+
+The Mahaganku of the Moon or planets (R cos Z)
+reduced by one fifteenth of the respective daily
+motion gives the visible satku when the radius is taken
+to be 3438. If the radius is taken as 120, 1/430th of
+the daily motion is to be subtracted. Ifthe Mahasanku
+is less then 1/15th (or 1/430th) of the daily motion, then
+the Moon is not visible. This applies to the other
+planets as well, but as this is a neglible matter, the
+
+1 This does not mean that the gnomon casts a shadow of the
+planet; it only means that it zenith distance could be computed
+according to the methods describedin Triprasnddhikara of SiSi etc.
+
+17. 8. 1
+
+earlier teachers did not instruct on its तेटालक्रांगरबपंणा
+
+(14-15). (AS)
+
+चरन्रभ्द्धोन्नतिगणनम्‌
+--आर्येभटीयाधेरक्रिकपक्ष:
+17. 8. 1. 'गुणखाद्रि-शराग्निशरा:'
+पक्षनखाः' शोधिताः शशिक्रान्त्या: ।
+चरखण्डकानि तद्त्‌ क्रमतो-
+त्क्रमातृ पिण्डिताश्चान्द्रम्‌ ॥ १ ॥
+
+अकंशशिक्रान्तिकलान्तरेक्यजीवा समान्यगोलकयोः |
+चन्दरच्छायाकर्णेन सगुणा लम्बकविभक्ता । २ ॥
+
+सदुशेयुतान्यथोना विषुवच्छायाडगुलैर्भृजो याम्ये |
+यत्रेन्दुर्दाद्शका कोटिस्तद्रगंयुतिपदं कर्ण: ।। ३ ॥।
+
+अकंचन्द्रयोरन्तरांशकास्तिथिविभाजिताः शुक्लम्‌ |
+कर्णेन चन्द्रबिम्बे द्वादशकं सूयेवच्छाया tt ४ i
+(Brahmagupta, AK, 1.7.1-4)
+
+Computation of Moon’s cusps
+—Aryabhata’s Midnight system
+
+Subtract 703’, 535’ and 202’ (as many times as
+possible) from the sphutakranti of the Moon, first in the
+order as the are stated and then in the reverse order.
+(These minutes are the tabular differences of the krantis
+of the last points of Mesa, Vrsa and Mithuna). Calcu-
+late from the remainder the caradala of the Moon using
+the caradalas of the rasis at the observer’s station and the
+above numbers. Adding the result to the caradalas
+passed over, the Moon’s caradala is obtained. (1)
+
+Multiply the jya of the difference or sum of the krantis
+of the Sun and the Moon, according as they are in the
+same or opposite directions, by the hypotenuse (of the
+right-angled triangle, whose other sides are the gnomon
+and its shadow caused by the Moon), and divide by the
+कद of the colatitude of the place. Add to or subtract
+from the result the number of efgulas in the palabha,
+in the same or different directions respectively. Thus
+is obtained the bhuja, which is the base, and is to the south
+of the Moon’s place. The perpendicular is 12 angulas.
+The hypotenuse is the square root of the sum of the
+squares of the base and the perpendicular. (2-3)
+
+The differences in degrees between the longitudes of
+the Sun and Moon, divided by 15, gives in terms of
+angulas, etc., the illuminated portion of the Moon along
+the hypotenuse calculated above.
+
+The obscured part in the disc of the Moon, which is
+of 12 digits, may be found as in the case of the Sun.”
+(4). (BC)
+
+1 For comments and rationale, see SiSi: AS, ए. 466-70.
+ॐ For a demonstration of the formulae and proofs, see KK:BC,
+1. 132-34.

@@ -1,0 +1,133 @@
+163 ` 13. PLANETS
+
+गहाणां वक्रगति-ऋजुगतिविनानि
+“पञ्चतेवः", ‘Haan’, बाहुशिखा', द्वीषवो', द्विगुणचन्द्रा: ।
+वक्रदिनान्युर्वीजान्निरंशदिनशोधितान्युजूनि स्युः 11 १० Ul
+गहाणां निरंशदिनानि
+खाष्टनगा', “सरुद्रा, नवनवरामा' परयोधिधीपवना: ।
+‘agar’ कमशो भौमादीनां निरंशनिशा: ॥| ११ ।।
+
+ग्रहाणां gated पश्चिमास्ते वा शोध्रकेन््रांशाः
+धीयमलै',-स्त्रिखपक्षे ~,
+"विश्वै',-स्तिमतीन्दुभि,'-नेगशणाङ्कः' ।
+
+ry
+
+eer: प्रागपरायां
+
+च्युतैभचक्रादिमेऽदृश्याः |! १२ ॥
+बुधशुक्रयो: पर्चिमास्ते शी घ्रकेन्द्रांशाः
+विपरीतदिशोरेवं ज्ञसितौ ताने,जिनै,श्चलेभगिः ।
+एष्यातीतकलाभ्यः स्वकनद्रभुक्त्या दिनानि स्युः ।। १३ ॥।
+ (Vatesvara, VSi., 2. 4. 6-13)
+
+हि
+
+—VateSvarasiddhanta
+
+When the true longitude of the planet is less than the
+mean longitude of the planet, add one-half of the differ-
+ence between the true and mean longitudes of the planet,
+to the longitude of the planet’s sighrocca as diminished by
+the true longitude of the planet; and when the true
+longitude of the planet is greater (than the mean
+longitude of the planet), subtract the same (one-half of
+the difference between the true and mean longitudes of
+the planet) from the longitude of the planet’s sighrocca
+as diminished by the true longitude of the planet). (The
+result is the planet’s corrected Sighrakendra). (6)
+
+Eight types of planetary motion
+
+In the (successive) Signs of this corrected Sighrakendra,
+the planet is ‘very fast’ (in the first Sign) ; ‘fast’ (in the
+second Sign) and ‘natural or mean’ (in the third Sign) ;
+in the two halves of the next (i.e., fourth) Sign, it is
+‘slow’ in the first half and ‘very slow’ in the other half;
+in the next (i.e., fifth) Sign it is ‘retrograde’; and in the
+next (i.e., sixth) Sign, it is ‘very retrograde’. (7)
+
+In the (six) Signs obtained by subtracting the
+corrected. sighrakendra from a circle (i.e., 360°), the planet
+is said to have the same motion. But when the corrected
+Sighrakendra is subtracted from a circle, the ^ (very)
+slow’ motion is designated as ‘ re-retrograde or direct ’
+motion. (8)
+
+Sighra anomalies for retrograde and direct
+motions
+Mars becomes retrograde when its Sighrakendra is 163° ;
+Mercury, when its sighrakendra is 145°; Jupiter, when its
+Sighrakendra is 126° ; Venus, when its Sighrakendra is 165°;
+and Satum, when its Sighrakendra is 113°.
+
+13. 25. 1
+
+They become direct when ‘their sighrakendras become
+360°-—163°; 360°—145°; 360°—126°; 360°—165°; and
+360°—113° (i., 197°, 215°, 234°, 195° and 247°),
+respectively. (9)
+
+Periods of retrograde and direct motion
+
+The civil days (of duration) of retrograde motion for
+the planets, beginning with Mars, are 65, 21, 112, 52
+and 132, (respectively).
+
+These, subtracted from the days of their synodic
+periods, are the days (of duration) of their direct
+motion. (10)
+
+Synodic periods of planets
+
+780, 116, 399, 584, and 378 are, in days, the synodic
+periods of the planets, Mars eta., in their respective
+order. (11)
+
+Sighra anomalies of planets
+
+(The planets, Mars etc.) rise (heliacally) in the east
+when their sighrakendras amount to 28, 203, 13, 183 and
+17 degrees, respectively; they set heliacally in the west
+when their sighrakendras amount to 360—28; 360—203;
+360—13; 360—183; and 360—17 degrees (i.e., 332, 157,
+347, 177 and 343 degrees) respectively. (12)
+
+Sighra anomalies of Mercury and Venus
+
+In the same way, Mercury and Venus rise in the
+opposite direction (i.e., in the west) when their sighra-
+kendras are 49 and 24 degrees respectively.
+
+The (number of) days to elapse or elapsed are obtained
+from the minutes to elapse or elapsed with the help of the
+motion of the sighrakendra of the planet. (13). (KSS)
+
+ग्रहयोजनगतिः
+--आयं भटः
+13. 25. 1. षष्ट्या सूर्याब्दानां प्रपूरयन्त ग्रहा भपरिणाहम्‌ ।
+दिव्येन नभ.परिधि समं भ्रमन्तः स्वकक्ष्यासु ।। १२।।
+
+मण्डलमल्पमधस्तात्‌ कालेनाल्पेन पूरयति चन्द्रः ।
+उपरिष्टात्‌ सर्वेषां महच्च महता शनैश्चारी ।। १३ |
+(Aryabhata I, ABh., 3.12-13)
+
+Linear motion in yojanas: Aryabhata I
+
+The planets moving with equal linear velocity in their
+own. orbits complete (a distance equal to) the circum-
+ference of the sphere of the asterisms in a period of 60
+solar years, and (a distance equal to) the circumference
+of the sphere of sky in a yuga. (12)
+
+1 That is, a planet moves through a. distance of 17,32,60,008
+yojanas in 60 solar years and a distance of 1,24,74,72,05,76,000
+yojanas in 43,20,000 solar years. Since there are 1,57,79,17,500
+days in 43,20,000 solar years, it follows that the mean daily motion
+ofa planet, according to Aryabhata, is
+
+1,24, 74, 72,059, 76,000
+
+1,57,79,17,500
+or 7905.8 yojanas approx.
+

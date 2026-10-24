@@ -1,0 +1,61 @@
+F.1 The traditional Indian planetary model: Manda-sam
+                                                    . skāra                                                                        491
+
+be followed by a discussion on the śı̄ghra-sam
+                                              . skāra for the exterior and the interior
+planets respectively.
+
+                                                                        U                                    pratiman. .dala
+                                      (true planet)
+                                             P
+
+
+
+
+                                                                                   (north−south line)
+                                                           daks.in.ottara-rekhā
+                                        X                                                                                      Γ
+                                        Q
+
+                                             P0                                                                                Γ
+                         manda-
+                    nı̄cocca-vr.tta
+                                                            O’
+
+
+                                      pūrvāpara-rekhā
+                                      (east−west line)                                O
+
+
+
+
+                                                                                                        kaks.yāman. .dala
+
+Fig. F.1 The epicyclic and eccentric models of planetary motion.
+
+
+
+
+F.1.1 Epicyclic and eccentric models
+
+As mentioned earlier, the manda-sam    . skāra essentially accounts for the eccentricity
+of the planetary orbit. This may be explained with the help of Fig. F.1. Here, O is
+the centre of the kaks.yāman. .dala10 on which the mean planet P0 is assumed to be
+moving with mean uniform velocity. OΓ is the reference line usually chosen to be
+the direction of Mes.ādi. The kaks.yā-man. .dala is taken to be of radius R, known as
+the trijyā.11 The longitude of the mean planet P0 moving on this circle is given by
+
+                                 Γ ÔP0 = madhyama-graha = θ0 .                                                                    (F.1)
+
+The longitude of the manda-sphut.a-graha P given by Γ ÔP is to be obtained from
+θ0 , and this can be obtained by either by an eccentric or epicyclic model.
+
+10 The centre of the kaksyāmandala is generally referred to as the bhagola-madhya (centre of
+                         .        ..
+the celestial sphere), and it coincides with the centre of the Earth in the case of the Sun and the
+Moon, when the ‘second correction’ which corresponds to the ‘evection term’ is ignored.
+11 The value of the trijyā is chosen such that one minute of arc in the circle corresponds to unit
+
+length. This implies that 2π R = 21600 or R ≈ 3437.74, which is taken to be 3438 in most of the
+Indian texts.
+

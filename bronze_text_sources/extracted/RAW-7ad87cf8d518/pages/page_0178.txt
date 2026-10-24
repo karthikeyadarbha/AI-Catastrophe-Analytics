@@ -1,0 +1,113 @@
+13. 7. 11
+कर्क्यादौ ग्रोज्य्य चक्रार्धात्तलादो भाधसंयुतात्‌ ।
+मगादौ प्रोञ्ध्य भगणात्‌ मध्याह्वाकंस्फूटो भवेत्‌ ।।
+| | (5ध.9., 3. 12b-19)
+‘rue Sun—Siryasiddhanta
+
+In like manner, the equatorial shadow which is cast
+at midday at one’s place of observation upon the north
+and south line of the dial—that is the equinoctial
+shadow (visuvatprabha) of that place. (12b-13a)
+
+The Radius, multiplied, respectively, by gnomon and
+shadow, and divided by the equinoctial hypotenuse
+gives the sines of co-latitude (lamba) and of latitude
+(aksa); the corresponding arcs are co-latitude arid
+latitude, always south. (13b-14a)
+
+The midday shadow is the base (bhuja) ; if radius be
+multiplied by that and the product divided by the
+corresponding hypotenuse, the result, converted to arc,
+is the Sun’s zenith-distance (nata), in minutes; this, when
+the base is south, is north, and when the base is north,
+is south. (14b-15)
+
+Of the Sun’s zenith-distance and its declination, in
+minutes, take the sum, when their direction is different,
+and the difference, when it is the same; the result is the
+latitude, in minutes. From this find the sine of latitude ;
+subtract its square from the square of radius, and the
+square-root of the remainder is the sine of co-latitude.
+(15-16a)
+
+The sine of latitude, multiplied by twelve, and divided
+by the sine of co-latitude, gives the equinoctial shadow
+(16b) :
+
+The difference of the latitude of the place of
+observation and the Sun’s meridian zenith-distance in
+degrees, (natabhagas), if their direction be the same, or
+their sum if their direction be different, is the Sun’s
+declination. (17)
+
+If the sine of this latter be multiplied by radius and
+divided by the sine of greatest declination, the result,
+converted to arc will be the Sun’s longitude, if it is in
+the quadrant commencing with Aries. (18)
+
+If in that commencing with Cancer, subtract from a
+half-circle; if in that commencing with Libra, add a
+half-circle; if in that commencing with Capricorn,
+subtract from a circle; the result, in each case, is the
+true (sphufa) longitude of the Sun at midday.’ (19)
+(E. Burgess)
+
+3 For elucidation, see 5a.Si: Burgess, pp. 121-24.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 134
+
+रविचन्दरस्फुटः- ग्रहलाधवम्‌
+भुजाकोटचानयनम्‌
+13. 7. 12. दोस्त्रिभोनं fasted विशेष्यं रसै-
+श्चक्रतोऽङ्काधिकं स्याद्‌ भुजोनं fray |
+कोटिरेकंककं fafad: स्यात्‌ पदं
+सूर्यमन्दोच्च मष्टादयों इशा भवेत्‌ ।। १ ॥
+रविचनदरस्फुटः
+मन्दोच्चं ग्रहवर्जितं निगदितं केन्द्रं तदाख्यं बुधैः
+केन्द्रे स्यात्‌ स्वमृणं फलं क्रियतुलादेऽथो विधेयं रवेः ।
+केन्द्रं तद्भुजभागखेचरलवोनध्ना “TST ET पृथक्‌
+तद्‌ गोंशोनन गेषुभि :' परिहूतास्तेंऽशादिकं स्यात्‌ फलम्‌।।
+चरद्रमन्दफलानयनम्‌
+विधोः कन्द्रदोर्भागषष्ठोननिष्नाः
+‘aut: पृथक्‌ त'त्रखां'शोनितेश्च ।
+‘caret हतास्ते TAT फलं स्याद्‌
+रवीन्दू स्फुटौ संस्कृतौ स्तश्च ताभ्याम्‌ ॥ ३ ॥
+रविचन्द्रयोः गतिफलानयनम्‌
+केन्द्रस्य कोटिलव खाश्वि लवोननिष्ना
+‘ear’ रवे स्त्रिकुहता: शशिनो द्विनिध्ना: ।
+स्वाङ्ग शकंन सहिताश्च गतौ धनर्ण
+HT कुली रमृगषट्कगते स्फटा सा ॥ ४ i
+(Ganega, Gh. 2.1-4)
+True Sun and Moon—Grahalaghava
+
+- Bhuja and Koti. Uf the mean position of a planet is
+less than 3 rdsis (90°), then that itself its bhuja; if it
+is more than 90°, then take the difference between
+it and 180°; if it is greater the 180°, subtract 180
+from it; if greater than 270° subtract from 360° (i.e.,
+12 raSis, cakra).
+
+The difference between 90° and bhuja is the koti. The
+position of Suri’s apogee is 78 degrees (2 rasts, 18
+degrees). (1) +
+
+True positions of Sun and Moon. From the mandocca
+subtract the position of the planet. The result gives
+mandakendra. The mandaphala is to be added if the Sun
+is in the six rasis from Mesa; this is to be subtracted if it
+is in the'six rasis from Tula.
+
+Mandaphala. Convert the Sun’s position into कष्ठ
+in degrees. Divide it by 9 and add 20 degrees to the
+quotient. Multiply this by the quotient. Keep this
+separate, (say x). Find 57°—x/9=y. Convert xand y into
+seconds and find x/y. That in degrees, minutes and
+seconds gives the mandaphala. (2)
+
+Mandaphala of Moon.
+into bhuja in degrees.
+quotient from 30°.
+
+Convert the position of Moon
+Divide by 6 and subtract the
+Multiply the balance by the

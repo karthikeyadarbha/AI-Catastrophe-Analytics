@@ -1,0 +1,87 @@
+76                                                    å
+                                                    .~.Pu+.f;pra;k+.=+Na;m,a                                                                   True longitudes of planets
+                                                                                                                                          
+                                                                                     3
+                                                     ∆ θ = sin−1                       | sin(θ0 − θm )| .                                                        (2.74)
+                                                                                    80
+        3
+Here 80    represents the ratio of the radii of the epicycle and the manda-karn.a-
+vr.tta, or ‘manda-hypotenuse circle’, whose significance is explained in Appendix
+F. When the manda-kendra is within the six signs beginning with Mes.a, that is,
+0 ≤ (θ0 − θm ) ≤ 180◦ , it is stated that the manda correction has to be applied neg-
+atively. On the other hand, when it is within the six signs beginning with Tulā, that
+is 180◦ ≤ (θ0 − θm ) ≤ 360◦ , the correction is to be applied positively. Thus, the true
+longitude of the Sun is given by
+                                                           
+                                             3
+                         θ = θ0 − sin  −1
+                                               sin(θ0 − θm) .                     (2.75)
+                                            80
+
+
+  .
+2 11 .. a:=+pra;a;Na;aH
+
+
+2.11 Prān
+         . ās of the ascensional difference
+
+            x +:ta;a;ya;na;Ba;a;ga;a;deH
+      .sMa;~k                                    d;ea:$ya;Ra k+:a;ya;Ra .=+vea;~ta;taH               Á
+
+      . a;tua;a;va;Za;a;ta;Ba;a;ga:$ya;a;h;ta;a;ya;a; / /
+                                                     a;~:a:$ya;ya;a &+.taH               Á Á 23                       ÁÁ
+
+                                                                å
+      A;pa;k
+           Ò +:ma;gua;Na;ea Y;kR +:~ya ta;a;tk+:a;a;l+.k I+.h .~.Pu+.fH                                  Á
+
+               á                           Å
+      ta;a:â +;a:$ya;a;k              ìÉe;+Sa;a;t,a mUa;lM dùÅ;au:$ya;a;Ta k+:ea;a;f;k+:a
+                          x +:a;ta;a;va:(                                                                        Á Á 24          ÁÁ
+
+                                                      å
+      d;ea:$ya;Ra;pa;k
+                     Ò +:ma;k           ãÉa Bea;d;a;n}.Ua;l+.ma;Ta;a;a;pa va;a
+                             x +:tya;ea;(                                                      Á
+
+      A;ntya;dùÅ;au:$ya;a;h;ta;a d;ea:$ya;Ra ;a:a:$ya;a;Ba;e +:;k+:ea;a;f;k+:a                                 Á Á 25              ÁÁ
+
+                   È
+      ;a:a:$ya;a. î
+                  *+å Áe ;;dùÅu;a:ja;a;va;a;a;a . a;a;a;pa;ta;a;k
+                                                                   R +:Bua:ja;a;sa;vaH     Á
+
+      d;eaH pra;a;Na;a;l+.a;a;k+:a;Bea;d;ma;a;va;na;M tua :pa;a;l+.yea;t,a             Á Á 26                   ÁÁ
+
+      ;a;va;Sua;va;;
+                   ÂåÅ +a;h;ta;a kÒ +:a; / / 
+                                        a;ntaH     .sUa;ya;Ra;a;a ;Æa;[a;a;ta;ma;Ea;a;vRa;k+:a              Á
+                   Èå
+      ;a:a:$ya;a. î
+                  *+                                                    ãÉa:=+a;sa;vaH
+                     Áe ;;dùÅu;a:ja;a;va;a;a;a . a;a;a;pa;ta;a .~yua;(                          Á Á 27                   ÁÁ
+
+
+      sam . skr
+              . tāyanabhāgādeh. dorjyā kāryā ravestatah   . |
+      caturvim  . śatibhāgajyāhatāyāstrijyayā hr.tah. || 23 ||
+      apakramagun          ′
+                       . o rkasya tātkālika iha sphut.ah. |
+      tattrijyākr.tiviśles.āt mūlam . dyujyātha kot.ikā || 24 ||
+      dorjyāpakramakr       . tyośca bhedānmūlamathāpi vā |
+      antyadyujyāhatā dorjyā trijyābhaktes..takot.ikā || 25 ||
+      trijyāghnes..tadyujı̄vāptā cāpitārkabhujāsavah  . |
+      doh.prān . aliptikābhedamavinas..tam   . tu pālayet || 26 ||
+      vis.uvadbhāhatā krāntih. sūryāptā ks.itimaurvikā |
+      trijyāghnes..tadyujı̄vāptā cāpitā syuścarāsavah . || 27 ||
+      The Rsine of the longitude of the Sun (dorjyā) corrected for the precession of the equinox
+                                                                                       ◦
+      (the sam. skr.tāyana) has to be determined. This, when multiplied by R sin 24 and divided
+      by the trijyā, gives the Rsine of the true declination of the Sun (the apakramajyā) at that
+      instant of time. The square root of the difference of the squares of that and the trijyā is the
+      dyujyā.
+      Then the kot.ikā is obtained by finding the square root of the difference between the squares
+      of the dorjyā and the apakramajyā. The kot.ikā is also given by the product of the
+      antyadyujyā (R cos 24) and the dorjyā divided by the trijyā. This (the kot.ikā) is mul-
+

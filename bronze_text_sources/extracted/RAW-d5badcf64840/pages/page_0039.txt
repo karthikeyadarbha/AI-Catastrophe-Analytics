@@ -1,0 +1,47 @@
+xxxviii                                                                                Introduction
+
+Madhyamādhikāra (Computation of mean positions)
+
+The work begins with an invocation to Lord Vis.n.u: he vis. .no nihitam      . . . . This is
+also the Kali chronogram of the date of commencement of the work, which turns
+out to be 1680548, and corresponds to Mı̄na 26, 4600 gatakali (elapsed Kali years)
+according to the Indian calendar, which corresponds to March 22, 1500 CE accord-
+ing to the Gregorian calendar. Then, various time units, like the sāvana-dina (mean
+civil day), the nāks.atra-dina (sidereal day), lunar month, solar month, yuga etc.,
+are defined. Smaller units of time, such as the tithi (the time period during which
+the elongation of the Moon from the Sun increases by 12 degrees), the nād.ı̄ (one-
+sixtieth of a day), the prān.a (21600 prān.as constitute a day) etc. are also defined.
+    The adhimāsa (intercalary month) and its nature are then explained. The
+ks.ayamāsa and its incorporation in the calendar are also discussed. The number
+of revolutions of the Sun, Moon and the five planets (Mercury, Venus, Mars, Jupiter
+and Saturn) in a large period called a Mahāyuga, consisting of 4320000 years, are
+given. Also the number of revolutions made by the apsides of these planets and
+their nodes in a Mahāyuga are listed. Here it is noteworthy that while specifying
+the number of revolutions of the inner planets, the word svaparyayāh. is used, sig-
+nifying the fact that the revolution number given refers to their own revolutions and
+not of their śı̄ghrocca as specified in the earlier texts. The significance of this depar-
+ture has profound implications with respect to the computation of the longitudes of
+the inner planets, which is explained in the next section.
+    After stating the yugasāvanadinas, the number of days in a Mahāyuga, the pro-
+cedure for finding the Ahargan.a, the number of days elapsed since a given epoch,
+is explained. Ahargan.a is the antecedent of the modern Julian day. The mean lon-
+gitude of a planet at sunrise on any given day can be calculated given the Ahargan.a
+and the revolution number of the planet. This is actually valid for the mean sunrise at
+Laṅkā, a fictitious place on the Earth’s equator, whose longitude is the same as that
+of Ujjayinı̄. The correction to the mean longitudes due to the difference in longitude
+(terrestrial) between the given place and Laṅkā is the Deśāntara-sam   . skāra.
+    In some of the earlier Indian texts like Āryabhat.ı̄ya, the mean longitudes of
+all the planets were taken to be zero at the beginning of the Kaliyuga, which is
+of course a rough approximation. Noticing this fact, most of the later texts give
+corrections which are called Dhruvas.12 Nı̄lakan.t.ha also specifies the values of the
+Dhruvas for the planets and their ‘apsides’ (mandoccas) at the beginning of the
+Kaliyuga. The latter are essential for the calculation of the true longitudes or the
+sphut.a-graha.
+
+
+
+
+12
+  Dhruvas are the initial positions of the planets at the beginning of an epoch. Hence, their values
+will vary with a change in the epoch. Even for the same epoch, Dhruvas differ from text to text.
+

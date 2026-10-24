@@ -1,0 +1,49 @@
+6.4 Declination of the Moon by another method                                                   363
+
+   doh.phala and the kot.iphala]. Of them, the kot.iphala is multiplied by the Rcosine of
+   the maximum declination of the Sun and divided by the trijyā. The result is added to or
+   subtracted from the nābhyucchraya depending upon whether the [sāyana] longitude of
+   the node lies within six rāśis beginning with Mr.ga or Karkat.aka. The square root of the
+   sum of the squares of that and the doh.phala is the maximum declination of the Moon.
+   The doh.phala multiplied by the trijyā and divided by that [i.e. the quantity obtained above]
+   is defined as the ayanacalana [of the Moon]. This has to be added to or subtracted from
+   the sāyana longitude of the Moon depending upon whether the node lies within six rāśis
+   beginning with Libra (Jūka) or with Aries (Kriyā). The Rsine of that is multiplied by
+   the maximum declination and divided by the trijyā. The result is the refined (sphut.ā)
+   instantaneous [value of the] Rsine of the declination of the Moon.
+
+   An expression for the declination (δm ) of the Moon which is similar to (6.3) is
+presented in the above verses. We may write such an expression as
+
+                                      sin δm = sin I sin η ,                                 (6.13)
+
+where η = (λm − A); λm and A refer to the longitude and ayanacalana of the Moon.
+I represents the maximum declination of the Moon which keeps varying and de-
+pends upon the position of the Moon’s ascending node along the ecliptic. It is also
+the inclination of the Moon’s orbit with the equator. For instance, when the ascend-
+ing node N1 coincides with the vernal equinox, then the inclination of the Moon’s
+orbit is
+                                 I = δmax = ε + i,                            (6.14)
+which is the same as the maximum declination attained by the Moon. On the other
+hand, when the ascending node coincides with the autumnal equinox then the incli-
+nation of the Moon’s orbit is
+
+                                       I = δmin = ε − i.                                     (6.15)
+
+Generally the value of the obliquity of the ecliptic, ε is taken to be 24◦ and the
+inclination of the Moon’s orbit with the ecliptic, i, to be 4.5◦ .
+   From (6.13) it may be noted that the expression for the Moon’s declination in-
+volves obtaining expressions for two intermediate quantities, namely
+1. the maximum declination of the Moon in its orbit, which is called the parā-
+   krānti, denoted by I, and
+2. the right ascension of the point of intersection of the Moon’s orbit and the equa-
+   tor. This is called the ayanacalana and is denoted by A.
+The desired true declination of the Moon, denoted by δm , is expressed in terms of
+these quantities.
+
+
+Expression for the parā-krānti and ayanacalana
+
+The expression for the parā-krānti, in turn requires the defining of a few interme-
+diate quantities. A term called the nābhyucchraya (x) is defined as
+

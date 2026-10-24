@@ -1,0 +1,121 @@
+16. 10.1
+
+In the same way, when the first or second half of a
+total eclipse is multiplied by the difference of the true
+motions (of the obscuring and the obscured bodies, and
+the product is divided by 60, the result is the base).
+The latitude of the Moon at these times is the perpendi-
+cular. (The square root of the sum of the squares of
+the base and the perpendicular is the hypotenuse at the
+beginning of the total eclipse (if the first half is taken),
+and is the hypotenuse for the end of the total eclipse (if
+the second half is taken).
+
+(In both cases), when the hypotenuse is subtracted
+from the sum of the semi-diameters of the two bodies,
+the remainder is the obscured portion. (20)
+
+Time from the obscured portion
+
+Subtract the given obscured portion from the sum of
+the semi-diameters of the two bodies. Square the re-
+mainder. Subtract from it the square of the Moon’s
+latitude (at the time of mid-eclipse). Find the square
+root of the remainder. Multiply it by 60 and divide
+by the difference of the true motions of the two bodies.
+Subtract the result from the fitst half of the duration of
+the eclipse, if the observed portion is between the begin-
+ning of the eclipse and the mid-eclipse. But if it is
+between the mid-eclipse and the end, subtract the
+quotient from the second half of the duration of the
+eclipse. The result is approximately the time when the
+given portion is obscured.
+
+Find the Moon’s latitude at this time and repeat the
+process till the time is fixed. (This then is the correct
+time.) (22)
+
+Valana: Deflection due to latitude and declination
+
+Multiply the equinoctial midday shadow by the R
+versed. sine or the utkramajyd of the hour-angle at the
+beginning of the eclipse, etc. and divide by the hypo-
+tenuse of the equinoctial shadow. Remember that the
+arc corresponding to this quotient as the R sine, ( which
+is called aksavalana), is to be taken as north or south
+according as the obscured body is in the eastern or
+western hemisphere. (23) - .
+
+In a lunar eclipse, the Moon, (the obscured body), is
+said to be in the eastern hemisphere from midday till
+midnight. From midnight till midday it is said to be
+in the western hemisphere. In a solar eclipse, (for the
+Sun, which is the obscured body), the contrary is the
+case. (24)
+
+Increase the number of degrees in the longitude of
+the obscured body by 3 Signs and then find ‘its R. versed
+sine or utkramajyd. Hence find, as before, the R sine of
+the declination. The corresponding arc (dyanavalana):
+has the same denomination as that of the Moon increased
+
+INDIAN ASTRONOMY—A SOURCE-BOOK . 208
+
+by 3 signs. . The latitude of the Moon has the same
+denomination as that of the Moon diminished by its
+node. (25)
+
+The dksavalana, the dyanavalana and the Moon’s
+latitude, all in minutes, should be added together if they
+are of the same denomination but their difference must
+be taken when of different denominations. Then find
+the R sine of the sum or difference, as the case may be.
+The result is the R sine of the valana or variation of the
+eastward direction of the ecliptic from the eastward
+direction of the disc of the obscured body. (26)
+
+Divide the R sine of the valana and 3438, the radius,
+by 110, to convert them into agulas. When the altitude
+in time (unnatakdla) on any day at any given time, is
+divided by half the duration of the day and 2} added
+to the result, the sum is the number of minutes equivalent
+to one angula. (27)
+
+Conversion of angular deflection to linear deflection
+
+The sum of the radii of the obscuring and the obscured
+bodies, the latitude of the Moon, the obscured portion,
+the hypotenuse, the base and the perpendicular,
+(expressed, in minutes) should be divided by the number
+
+of minutes in one afigula.1 (28). (BC) ॥
+“भास्कर: २
+
+प्रहणसंभवः
+
+16. 11. la. कलेगंताब्दा 'रविभिविनिष्ता-
+
+श्चैतरादिमासेः सहिताः पुथक्स्थाः |
+दविघ्नाः स्वनागाङ्कुगजां'शहीनाः
+, Tag aT: THAT TAT: स्यु: ।। १॥।
+
+मासाः पृथक्‌ ते द्विगणास्त्िपूणं-
+बाणा धिका Sar SAT ATA: |
+` च्रिभिविभक्ताः फलमंशपूर्व
+मासौषतुल्यैश्च Wedd स्यात्‌ ।। २ ।।
+
+सपातसूर्योऽस्य भुजांशका यदा
+
+HART: स्याद्‌ ग्रहणस्य संभवः ।
+गृहाधैयुक्तस्य सपातभास्वतो
+
+भुजांशकान्‌ गोलदिशोऽवगम्य च ।। है ॥।
+
+ज्ञेयोऽर्को रबिसंक्रमाद्‌ गतदिनैदेशन्तनाडीनता- `
+aida गृहादिनोनसहितः प्राक्पश्चिमेऽस्यापमः |
+अक्षैः खलु संस्कृतो “रस'लवेनास्याथ ते संस्कृताः
+पाताढधाकंभुजांशका यदि गो ना स्युस्तदाकंग्रहः।।
+रूपं" "वियत्‌" 'पूर्णकृतान्‌'! सपादान्‌
+क्षिप्त्वा सपाते प्रतिमासमके ।
+
+५ For the rationale and exposition, see SiDhVy,: BG, 1. 113-28.

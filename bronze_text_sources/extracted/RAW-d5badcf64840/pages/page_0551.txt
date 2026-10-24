@@ -1,0 +1,57 @@
+504                       The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                            . t.ha
+
+                                                                                P
+                                                                            t
+                                                                   ry   orbi
+                                                         pla  neta                  β
+
+                           ecliptic           N      i
+
+                                                         θ −θ
+                                                          h      0
+
+
+
+
+Fig. F.5 Heliocentric latitude of a planet.
+
+
+
+longitude of the node, then it can be shown that
+
+                                      sin β = sin i sin(θh − θn ).                            (F.23)
+
+For small i we have
+                                         β = i sin(θh − θn ).                                 (F.24)
+This is essentially the rule for calculating the latitude of a planet, as given in In-
+dian texts, at least from the time of Āryabhat.a.16 For the exterior planets, it was
+stipulated that
+                                      θh = θms ,                                (F.25)
+the manda-sphut.a-graha, which, as we saw earlier, coincides with the heliocentric
+longitude of the exterior planet. The same rule applied for interior planets would not
+have worked, because in the traditional Indian planetary model the manda-corrected
+mean longitude for the interior planet has nothing to do with its true heliocentric lon-
+gitude. However, most of the Indian texts on astronomy stipulated that the latitude
+in the case of the interior planets is to be calculated from (F.24) with
+
+                                  θh = θs + manda correction,                                 (F.26)
+
+the manda-corrected longitude of the śı̄ghrocca. Since the longitude of the śı̄ghrocca
+for an interior planet, as we explained above, is equal to the mean heliocentric lon-
+gitude of the planet, (F.26) leads to the correct relation that, even for an interior
+planet, θh in (F.24) becomes identical with the true heliocentric longitude. Thus we
+see that the earlier Indian astronomical texts did provide a fairly accurate theory
+for the planetary latitudes. But they had to live with two entirely different rules for
+calculating latitudes: one for the exterior planets given by (F.25), where the manda-
+sphut.a-graha appears; and an entirely different one for the interior planets given
+by (F.26), which involves the śı̄ghrocca of the planet, with the manda correction
+included.
+   This peculiarity of the rule for calculating the latitude of an interior planet
+was noticed repeatedly by various Indian astronomers, at least from the time of
+
+16 Equation (F.24) actually gives the heliocentric latitude and needs to be multiplied by the ratio of
+
+the geocentric and heliocentric distances of the planet to get the geocentric latitude. This feature
+was implicit in the traditional planetary models.
+

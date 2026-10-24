@@ -1,0 +1,146 @@
+61 ` 7.
+
+Write this number separately and add 23 to it. It
+becomes 832. Multiply it by 2. It becomes 1664. By
+adding its 900th part, it becomes 1665. This, divided
+by 67, gives 24 intercalary months. Subtract the
+intercalary months from the above number (i.e. the
+lunar months). It becomes 785 (i.e. solar months after
+A.H. 986).
+
+Divide it by 12. The quotient is 65 and the remainder
+5, Therefore, the month is Sravana beginning with the
+bright fortnight, which is the fifth month as counted from
+Caitra beginning with the bright fortnight. The
+quotient increased by 1500 gives the present Saka 1565.
+(The date corresponds to A.D. 1 643.)
+
+(The above two rules are basically the same as given
+by Pheri. But instead of computing intercalary
+months for the whole period in the Saka era or Hijriera,
+Vedangaraya adopts Saka 1500=A.H. 986 as the gauge
+year (smce these two years commence at the same time,
+and makes calculations for the remaining period.) (SRS)
+देष्येमानम्‌
+7. 14. 1. जालान्तरगे भानौ यदणुतरं दशेनं रजो याति ।
+
+तद्‌ विन्द्यात्‌ परमाणुं प्रथमं तद्धि प्रमाणानाम्‌ ।। १ ।।
+
+परमाणुरजो बालाम्रलिक्षयुकं यवोऽडगुलं चेति |
+अष्टगुणानि यथोत्तरमडगुलमेकं भवति संख्या ।। २ ।।
+(VM, Br. Sam., 58.1-2)
+Linear measures
+
+The smallest particle of dust that comes to sight,
+when the Sun passes through the interstice of a window,
+is to be understood as an atom. This is the smallest
+unit of all measurements. (1)
+
+An atom, a dust particle, a tip of the hair, a nit, a
+louse, a barley corn and a digit are in order eight times
+bigger than the preceding measure. One digit becoms
+an integer. (2). (M.R. Bhat)
+
+7. 14. 2. रवेगुंहान्त:स्थितरश्मितो ये
+प्रकाशमायान्त्यणवोऽष्टभिस्तंः |
+कचाग्रमष्टौ खलु तानि लिक्षा
+ताभिश्च युकाऽष्टभिरेवमुक्ता ।। १ ॥
+यवोऽष्टयूकोऽङ्गुलमष्टभिस्तै-
+रथाङ्गुलद्रादशभिवितस्तिः ।
+वितस्तियुम्मेन करः TAT
+चतुभिरेका नुसहस्रमुक्तः ।। २ ॥।
+
+1 The result may be tabulated as follows :
+
+8 atoms
+8 dust particles
+
+1 dust particle.
+1 tip of bair.
+
+॥ il
+
+8 tips of hair = 1 nit.
+
+“ 8 nits == | louse.
+8 lice = 1 barley grain.
+8 barley grains = 1 digit.
+
+~क
+
+MEASURES OF TIME ETC.
+
+7. 15. 1
+
+क्रोशस्तु तैयोजनमष्टसंख्यै-
+स्तैव्योमिवृत्तं कथर्यान्त सन्तः ।
+“बव्योमपूर्ण्तुनगेषुखाल्षि-
+ग्रहाब्धिभूभृत्सुखपक्षचन्द्रे: ।। ३ ।।
+(Vatedvara, VSi., 1.7.1-3)
+
+Eight anus or minute particles (of dust)seen in a beam
+of sunlight (entering through an aperture) in the interior
+of a house, make one kacdgra (or balagra) ; eight of them
+make one liksd; and eight of them are said to make one
+उवद. Hight yikds make one yava; eight of them make
+one atigula (finger-breadth or digit); twelve angulas
+make one vitasti; two vitastis make one kara (hand or
+cubit) ; four karas make one ny (nara, man *s height). 1000
+nr are said to make one krosa; 8 of them make one yojana;
+and 1,24,74,72,05,76,000 of them, say the learned,
+make (the circumference of the circle of the sky.
+
+(1-3). (KSS)
+देष्येमानस्‌
+7. [4. 3.. योजनाष्टसहखांशो दण्डस्तच्चरणः कर: |
+त.ज्जिनां'शोऽडगुलं तस्य षष्ट्यंशो व्यङ्गुलं स्मृतम्‌ ॥।
+(Sankara Varman, Sadratnamdla, 2.11)
+
+Linear measures
+
+1 yojana = 8000 dandas
+
+1 danda = 4 hastas
+
+1 hasta = 24 angulas
+
+1 atgula = 60 20211145
+घनमानम्‌
+7. 15. 1. क्रमाच्चतुर्गुणं मानं कुडुबः प्रस्थ आढकः |
+
+द्रोणो aa: खोरिकेति घनहस्तमितावधिः ।। १० ॥
+(Sankara Varman, Sadratnamala, 2.10)
+
+Volume measures
+
+4 kudubas = 1 prastha
+
+4 prasthas = 1 addhaka
+
+4 ddhakas = 1 drona
+
+4 dronas = 1 vaha
+
+4 vahas = 1 khariké=one cubic hasta
+
+1 Linear measures
+
+8 anus = 1 kacdgra
+
+8 kacdgras = 1 liksa
+
+8 liksas = 1 ऊद
+
+8 + == 1 yava
+
+8 yavas = 1 angula (digit)
+12 angulas = 1 vitasti
+
+2 vitastis = 1 kara (cubit)
+4 karas = l ar
+
+1000 ny = 1 kroga
+
+8 krogas = 1 yojana
+
+1,24,74,72,05,76,000 yojanas 1 circle of sky

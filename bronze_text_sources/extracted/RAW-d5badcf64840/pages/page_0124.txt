@@ -1,0 +1,58 @@
+2.11 Prān
+         . ās of the ascensional difference                                                          77
+
+   tiplied by the trijyā and divided by the dyujyā. The arc of this is the right ascension of the
+   Sun (the arkabhujāsava). The difference between the longitude and the right ascension in
+   minutes is to be preserved such that it is not lost.
+   The equinoctial midday shadow (the vis.uvadbhā) multiplied by the Rsine of the declination
+   (krānti) and divided by 12 is the ks.itimaurvikā. This is to be multiplied by the trijyā and
+   divided by the desired dyujyā. The arc of that gives the ascensional difference in prān   . as
+   (the carāsava).
+
+   While most of the quantities related to the diurnal motion of the Sun are discussed
+in the third chapter, some of those that are related to the determination of the true
+longitude of the Sun at true or actual sunrise for a given location are described here.
+Before explaining the above verses, it would be convenient to list the quantities
+defined here as follows:
+
+         Quantity                       Its physical significance                   Notation
+        apakramajyā                the Rsine of declination of the Sun              R sin δ
+        dyujyā                     the radius of the diurnal circle of the Sun      R cos δ
+        arkabhujāsava              the right ascension of the Sun                      α
+        carāsus                    the ascensional difference                         ∆α
+
+
+
+
+                                                      Z            diurnal path when
+                                         P                          the Sun is in the
+                                                                  northern hemisphere
+
+                       φ                     Ht
+                                    ∆α
+                                                          (Sun)
+                                                            S
+                                                                  δ
+                                                              λ
+                N                                                 B         on
+                                    St                        α       horiz
+                                                      W   Γ
+
+                        equator                   ε
+                                    F
+
+                                        c
+                                  ipti
+                              ecl
+
+
+
+Fig. 2.7 Determination of the declination and right ascension of the Sun on any particular day.
+
+
+    In Indian astronomy texts, it is the nirayan.a longitude or the longitude measured
+from a fixed star which is calculated. Ayanām    . śa, which is the amount of preces-
+sion, has to be added to the nirayan.a longitude to obtain the sāyana or tropical
+longitude λ . In Fig. 2.7, the celestial sphere is depicted for an observer at latitude
+φ , on a day when the Sun’s declination is δ . Let λ and α be the Sun’s (tropical)
+

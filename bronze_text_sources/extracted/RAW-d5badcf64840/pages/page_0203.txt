@@ -1,0 +1,50 @@
+156                             C+.a;ya;a;pra;k+.=+Na;m,a                                Gnomonic shadow
+
+the Sun is found from the ahargan.a. Once the longitude is known, its declination
+can be found using the relation
+
+                                          sin δ = sin ε sin λ ,                                   (3.38)
+
+where ε refers to the obliquity of the ecliptic. Substituting (3.38) in (3.37b) we have
+
+                                                            cos ε sin λ
+                                         sin α =                        .                         (3.39)
+                                                              cos δ
+
+
+Duration of risings of rāśis at the equator
+
+Let δ1 , δ2 and δ3 be the declinations of the Sun, when λ = 30◦ , 60◦ and 90◦ re-
+spectively. The corresponding right ascensions α1 , α2 and α3 can be obtained using
+(3.39). This expression, which gives the right ascension in angular measure, may
+be conveniently expressed in other measures too. The relation between the different
+measures is given by
+
+                   90◦ = 6 hours = 15 ghat.ikās = 5400 prān.as.                                 (3.40)
+
+Since the right ascensions are known at the end of each of the first three rāśis, the
+durations of rising for the first three rāśis, T1 , T2 and T3 , for an observer on the
+equator, are obtained using the relations
+
+                    T1 = α1 ;            T2 = α2 − α1 ;                 T3 = α3 − α2 .            (3.41)
+
+The symmetry of the problem clearly suggests that it would be enough to compute
+the rising time of the first three rāśis to know the rising time of other rāśis too. Thus
+the rising times of other sets of three rāśis have necessarily to be equal to those of
+the first set in either the direct order or in reversed order. If T4 , T5 and T6 represent
+the rising times of the second set of three rāśis, then they are given by,
+
+                          T4 = T3 ;                T5 = T2 ;            T6 = T1 .                 (3.42)
+
+The relation between the rising times of the second set of 6 rāśis and those of the
+first set is given by
+                         T6+i = Ti ;     (i = 1, 2, . . . , 6).                (3.43)
+
+
+Duration of risings of rāśis at one’s own place
+
+The rising times of rāśis at one’s own place (ti ), having non-zero latitude, differ
+from the rising times at the equator (Ti ). The former can be obtained from the latter
+using the relation
+                            ti = Ti − ∆ βi     (i = 1, 2, 3),                  (3.44)
+

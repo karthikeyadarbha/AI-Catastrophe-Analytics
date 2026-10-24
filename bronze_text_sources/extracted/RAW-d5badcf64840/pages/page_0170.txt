@@ -1,0 +1,54 @@
+2.26 The correction for Mars, Jupiter and Saturn                                              123
+
+                             śı̄ghra-kendradorjyā = R sin(θms − θs )                   (2.180)
+                                                      rs
+               sı̄ghrabhujāphala, rs sin(θms − θs ) = R sin(θms − θs ),                 (2.181)
+                                                      R
+where śı̄ghra-kendradorjyā is the Rsine of the śı̄ghra-anomaly (anomaly of con-
+junction). In the śı̄ghra-sam
+                             . skāra, the value of rs is given in the text. Unlike in the
+calculation of the manda-sphut.a, where the manda-karn.a K does not appear, here
+the śı̄ghra-karn.a does appear in the computation of the śı̄ghra-sphut.a.
+   The values of rRs for Mars, Jupiter and Saturn are given in the above verses as
+follows:
+                             rs            53 − 2| sin(θms − θs )|
+                                 (Mars) =                           ,                    (2.182)
+                              R                      80
+                           rs              16 − | sin(θms − θs )|
+                               (Jupiter) =                        ,                      (2.183)
+                           R                         80
+                           rs              9 − |sin(θms − θs )|
+                               (Saturn) =                       .                        (2.184)
+                           R                        80
+
+
+
+                            Planet Range of ratio rRs Average value
+                                                        (modern)
+                             Mars    0.637–0.662          0.656
+                            Jupiter 0.187–0.200           0.192
+                            Saturn 0.100–0.115            0.105
+Table 2.3 The range of variation in the ratio of the Earth–Sun to the planet–Sun distances for the
+exterior planets.
+
+
+   The range of variation of rRs as obtained from the above equations along with the
+average value of the ratio of the Earth–Sun and planet–Sun distances as per modern
+astronomy are listed in Table 2.3. In Fig. 2.15,
+                             Earth–mean Sun distance  rs
+                                                     = ,                                 (2.185)
+                             planet–mean Sun distance K
+
+where K varies depending upon the manda-sphut.a-graha or the true heliocentric
+longitude. Taking the mean value of K to be R, the ratio would be rRs , which still
+depends upon (θms − θs ). Even then, rRs is always close to the average value of the
+ratio of the Earth–Sun and planet–Sun distances for each planet according to modern
+astronomy.
+    Āryabhat.ı̄ya-bhās. ya and Yuktibhās.ā discuss the geometrical picture in detail.
+However they do not mention that rRs is the ratio of the physical Earth–Sun to
+planet–Sun distances. There is an important later work of Nı̄lakan.t.ha, namely
+Grahasphut.ānayane viks.epavāsanā, which indeed mentions this explicitly. This
+is discussed in detail in Appendix F.
+    The procedure for obtaining the śı̄ghra-sphut.a of these three planets, given in the
+above verses, is not a straightforward, two step process of (i) obtaining the manda-
+

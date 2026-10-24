@@ -1,0 +1,72 @@
+112                                              å
+                                               .~.Pu+.f;pra;k+.=+Na;m,a                                                  True longitudes of planets
+
+   ya;a;dx;Za;ea ;a;na;ya;ma;~ta:a v.ya;~ta;k+:NRa;a:a:ja;a;va;ya;eaH                     ÁÁ
+
+   ta;a;dx;Za;ea ;a;na;ya;ma;ea :vea;dùÅ;aH   ;a:a:ja;a;va;a;ma;nd;k+:NRa;ya;eaH                     Á
+
+   k+:NRa;~:Ea:=+a;a;Za;ke +:na;a;taH    v.ya;~ta;k+:Na;Ra;a;d
+                                                              õ ;Da;a;ya;tea       ÁÁ
+                     å
+   ma;Dya;ma;a;t,a .~.Pu+.f;sMa;Æa;sa;a:;d
+                                         Äâ H      d;eaH P+.l+.a;dùÅ;a;a;d :ke +:va;l+.a;t,a                    Á
+
+                            å                                 È
+   ma;Dya;Æa;sa;a:;d
+                   Äâ H   .~.Pu +.f;a;t,a ta;sma;a;t,a k+:NRa. îå Á
+                                                              *+;a;t,a ;a:a:$ya;ya;a &+.ta;a;t,a                   ÁÁ
+
+          å
+   A;Ta .~.Pu +.f;ea;a;a;nta:=+d;ea;gRua;NMa (rua;a;ta;h;tMa h:=e+t,a          Á
+
+   ;a:a:$ya;ya;a l+.b.Da;. a;a;pea;na x
+                                       k+:tea .~va;ea;ea .~va;ma;Dya;maH                                  ÁÁ
+
+   ta;de;va . a;a;a;pa;tMa .~va;ea;ea . a;k
+                                           Ò +:a;Da .tea;na va;Æa:jRa;ta;m,a             Á
+
+                                                                                                       22
+   . a;k
+       Ò +:a;DRa;yua;M . a;kÒ +:a;a tya;M :pa;d;va;Za;a;t,a ;Æa;[a;pea;t,a                     ÁÁ
+
+   In the karn . avr.tta the jyā of the difference between the longitude of the true planet and
+   its mandocca corresponds to the dorjyā in its own measure. The distance of separation
+   between the point of intersection (N in the Fig. 2.14b) of the jyā with the uccasūtra (the
+   apsis line) and the centre of the karn     . avr.tta (O) corresponds to the kot.ijyā (ON). The
+   sum or difference of the antyaphala (OO′ ) with this kot.ijyā, as the case may be, gives
+   the distance of separation between the centre of the pratiman          . d.ala and the foot of the
+   dorjyā (N). The square root of the sum of the squares of this (O′ N) and the dorjyā (PN)
+   gives the distance between the centre of pratiman        . d.ala and the planet. This is the radius
+   of the pratiman   . dala in the measure of the karn   . avr.tta. The radius of the prativr.tta with
+   respect to its own measure is the trijyā. This (trijyā) will be the vyasta-karn       . a (inverse-
+   hypotenuse) in the measure of the karn     . avr.tta. When the vyasta-karn    . a is set equal to the
+   trijyā, then the actual karn  . a will be smaller or larger than that. Thus by the rule of three
+   the true manda-karn    . a is obtained.
+   The dorjyā obtained by subtracting the mandocca from the true Sun is multiplied by the
+   manda-karn    . a and divided by the trijyā. Or the trijyā multiplied by the dorjyā is divided
+   by vyasta-karn   . a. The arc of this is applied positively or negatively to the mandocca to
+   get the mean Sun. It is to be understood that whatever is the relation between the vyasta-
+   karn. a and the trijyā, the same relation is valid between the trijyā and the manda-karn    . a.
+   This is the reason why the manda-karn      . a is obtained from the vyasta-karn   . a by the rule
+   of three.
+   As the true position of the planet is obtained from the mean position just by finding the
+   doh.phala, the mean position is obtained from the true position by multiplying [the dorjyā]
+   by the manda-karn   . a and dividing by the trijyā. Then the dorjyā obtained by subtracting
+   the mandocca from the true Sun is multiplied by the manda-karn          . a and divided by the
+   trijyā. The arc applied to the mandocca of the Sun will give the position of the mean
+   Sun. Depending upon the quadrant, the same arc has to be applied to the mandocca after
+   subtracting it from 180◦ , or adding 180◦ to it or subtracting it from 360◦ .
+
+   The procedure stated here is a slight variant of the one described earlier. Here,
+PN, ON and OO′ are the dorjyā, the kot.ijyā and the antyaphala respectively in
+the measure of the karn.avr.tta and are equal to R sin(θ − θm ), R cos(θ − θm ) and r0
+in the same measure. In this measure, the radius of the pratiman.d.ala, O′ P, is the
+vyasta-karn.a or viparita-karn.a, Rv , given in (2.136). Then the manda-karn.a, K,
+in the measure of the pratiman.d.ala (when the radius is R, as usual) is determined
+from
+                                      K     R
+                                         = ,                                   (2.153)
+                                      R    Rv
+and madhyama − ucca is obtained as earlier.
+22 {TS 1977}, pp. 165–6.
+

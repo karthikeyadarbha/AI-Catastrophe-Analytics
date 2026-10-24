@@ -1,0 +1,46 @@
+324                           .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                Solar eclipse
+
+Here we are using the symbols Si and Si′ to denote the time-instants of the first con-
+tact, the middle and the last contact, and the corresponding ones corrected by the
+parallax in longitude. Hence, S1 S2 corresponds to the true time difference between
+the positions of the Sun at S1 and S2 , and not the arc S1 S2 along the ecliptic. Sim-
+ilarly Si Si′ stands for the parallax in longitude li , which is actually the difference
+in lambanas between the Moon and the Sun (lmi − lsi ) in nād.ikās and not the arc
+Si Si′ . Let ∆ t1′ and ∆ t2′ be the first and second half-durations including the effect of
+parallax. We now proceed to discuss the different cases that can arise.
+
+Case (i): The first contact, the middle and the last contact in the eastern hemisphere
+  The first and second half-durations are given by
+
+                              ∆ t1′ = S1′ S2′
+                                    = S1′ S2 − S2′ S2
+                                    = S1′ S1 + S1 S2 − S2′ S2
+                                    = S1 S2 + (S1′ S1 − S2′ S2 )
+                                    = ∆ t1 + (l1 − l2 ).                            (5.45)
+
+Similarly,
+
+                              ∆ t2′ = S2′ S3′
+                                    = S2′ S3 − S3′ S3
+                                    = S2′ S2 + S2 S3 − S3′ S3
+                                    = S2 S3 + (S2′ S2 − S3′ S3 )
+                                    = ∆ t2 + (l2 − l3 ).                            (5.46)
+
+The above equations (5.45) and (5.46) are valid if the first contact, the middle and
+the last contact take place in the eastern hemisphere as shown in Fig. 5.10.
+
+Case (ii): The first contact, the middle and the last contact in the western hemisphere
+   This is depicted in Fig. 5.11. The expressions for the half-durations in this case
+are similar to the previous case and are given by
+
+                              ∆ t1′ = S2′ S1′
+                                    = S2′ S1 − S1′ S1
+                                    = S2′ S2 + S2 S1 − S1′ S1
+                                    = S2 S1 + (S2′ S2 − S1′ S1 )
+                                    = ∆ t1 + (l2 − l1 ).                            (5.47)
+
+Similarly,
+
+                              ∆ t2′ = S3′ S2′
+                                    = S3′ S2 − S2′ S2
+

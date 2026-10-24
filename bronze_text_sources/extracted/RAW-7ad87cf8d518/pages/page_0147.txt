@@ -1,0 +1,121 @@
+103 - `, "11... CALENDAR.
+
+True lunar day without Sun and Moon
+
+Multiply the akargana by the number of lunar years?
+(in 2 yuga) and. divide by the number of civil days? (in a
+yuga). Then are obtained the mean lunar years, etc.
+(corresponding to the ahargana). Also multiply the
+ahargana by the number of intercalary lunar years® (in
+a yuga) and divide by the number of civil days (in a
+juga). (Thus are obtained the mean intercalary years,
+etc., corresponding to the ahargana). The difference
+between the two denotes the mean solar years, etc. (i.e.,
+years, months, days, and ghafis) (corresponding to the
+ahargana). (1)
+
+The solar years are not required; (so they are to be
+omitted). From the remaining quantity (in months,
+days, and ghatis) subtract two months and eighteen days.
+Then (treating the months, days, etc., of the remainder
+thus obtained as the Signs, degrees, etc. of the Sun’s
+mean anomaly) calculate the (Sun’s) equation of the
+centre. (2)
+
+Divide the (corresponding) solar time by 12 and apply.
+that to the (mean) lunar days (and ghafis) (obtained
+from the ahargana) contrararily (i.e., add when the Sun’s
+equation of the centre is subtractive, and subtract when
+the Sun’s equation of the centre is additive). Also apply
+one-twelfth of the time corresponding to the Moon’s
+equation of the centre* to the resulting lunar days (and
+ghatis) in the same way as it is applied to the Moon’s
+longitude. (3) |
+
+(The lunar days thus obtained are the true lunar days
+which have elapsed at sunrise since the beginning of the
+current month). The ghatis obtained above denote the
+elapsed portion of the current lunar day in terms of
+ghatis. Multiply those ghatis by 60 and divide by one-
+twelfth of the difference between the true daily motions
+of the Sun and Moon, in degrees: the quotient denotes
+the true time in ghatis (which has elapsed at sunrise since
+the beginning of the current lunar day).5 (4). (KSS)
+
+दशेकालः
+
+11. 12. 1. गततिथिधटिकाच्ने सूरयंशीतांशुभुक्ती
+गगनरस'विभक्ते शोधयेत्‌ तत्‌कलाभ्यः ।
+
+धनमपि च विदध्याद्‌ भोग्यनाडीभिरेवं
+
+समगृहलवलिप्तालिप्तिकौ तौ भवेताम्‌ ।। २६ ।।
+
+1 1.6..44, 52, 778.
+
+31,6., 1,097, 79, 17, 500.
+
+3 1.6.; 1,932, 778. , , ,
+
+4To obtain the Moon’s equation of the centre, the mean longitude
+of the Moon may be obtained as follows: Multiply the mean lunar
+days, etc., (corresponding to the ahargapa) by 12, convert the result-
+ting days etc. into months, etc., and add to them the mean solar
+months, etc., (corresponding to the ahargana); treat the months, etc.
+thus obtained as the Signs, etc. of the mean longitude of the Moon.
+
+४ For exposition and-rationale, see MBA: KSS, pp. 214-17,
+
+11.°12,'2
+
+मासान्ते रविशशिनौ समौ भवेतां
+पक्षान्ते लवकलिकाविलिप्तिकाभिः ।
+अन्यस्यामपि च तिथौ तदावसाने
+तुल्यौ स्तः खलु कलिकाविलिषप्तिक्राभिः ।। २७ ॥।
+(Lalla, SiDhVr., 2. 26-27)
+
+New and Fall Moon
+
+The true motions of the Sun and Moon should be
+multiplied by the ghafikas passed since the end of the
+fifteenth द and divided by 60. One should subtract
+
+. the results (in minutes) from the respective minutes (in
+
+their true longitudes). The longitudes then have the
+same Signs, degrees, minutes and seconds, if the fifteenth
+titht is Amdvdsya@ (new moon) and the same degrees.
+minutes and seconds, if it is Parnima (full moon).
+
+(The results obtained in the same manner from the)
+ghatikas to elapse till the fifteenth tihi, should be added.
+
+(The same procedure should be followed for any
+other dithi). At the end of every other क्र, the
+Sun and Moon are equal in respect of minutes and
+seconds. (26-27). (BC)
+
+पवंराशिः
+
+11. 12. 2. निरेकं द्रादशाभ्यस्तं द्विगुणं गतसंयुतम्‌ ।
+षष्ट्या षष्ट्या युतं द्वाभ्यां पर्वेणां राशिरुच्यते 1 १३ ॥
+स्युः पादोऽ त्रिपाद्या या व्रिद्रयेकेऽद्घः कृता स्थितिम्‌ |
+साम्येनेन्दोः स्त्वणोऽन्ये तु TAHT: पञ्च सम्मताः ।।१४।।
+भांशाः स्युरष्टकाः कार्याः पक्षद्रादशकोद्धवाः |
+एकादशगुणश्चोनः शुक्लेऽधं चैन्दवा यदि ॥ १५ ॥
+नवकंरुद्गतोंऽशः LAST: सप्तगुणो भवेत्‌ । . . `
+आवापस्त्वयुजे््धं स्यात्‌ पौलस्त्येऽस्तं गते परम्‌ ।। १६ ।
+जावादयंशैः समं विद्यात्‌ gate पवसूत्तरे ।
+भाऽऽदानं स्याच्चतुदंश्यां दुभागेभ्योऽधिके सति ॥ १७ ॥
+जौद्रागःखेष्वेहीरोषाचिन्‌मूषण्यःसूमाधाणः।
+रे मृ धा EAT पो ऽजः HEMT हज्ये ष्ठा इत्युक्षा लिङ्क: ।।
+कार्या भांशाष्टकस्थाने कला एकान्नविशतिः | |
+ऊनस्थाने व्रिसप्ततिमुद्रपेदूनसंभवे ॥ १६ ॥।
+तिथिमेकादशाभ्यस्तां पर्वभांशसमन्विताम्‌ |
+विभज्य भसमूहेन तिथिनक्षत्रमादिशेत्‌ ।। २० ॥।
+या: पर्वभा5:दानकलास्तासु सप्तगुणां तिथिम्‌ ।
+युक्त्या तासां विजानीयात्‌ तिथिभाऽऽ्दानिकाः कला: ॥।
+अतीतपरवैभागेभ्यः शोधयेद्‌ द्विगुणां तिथिम्‌ ।
+तेषु मण्डलभागेषु तिथिनिष्टांगतो रविः ।। २२॥ , .
+एकादशभिरभ्यस्य पर्वाणि नवभिस्तिथिम्‌ । .
+युगलब्धं सपव स्याद्‌ व्तमांनाकंभं क्रमात्‌ 4} २५.॥

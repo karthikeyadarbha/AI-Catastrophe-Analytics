@@ -1,0 +1,75 @@
+192                                                   C+.a;ya;a;pra;k+.=+Na;m,a                                Gnomonic shadow
+
+         ñÍ
+      Za;öÅ
+         *:+.Ea ;a:a:$ya;a;sa;mea .sa;Ea;}ya;kÒ +:a; / / 
+                                                     a;ntaH      A;[a;sa;ma;a ya;a;d                  Á
+                ñÍ                                                                               52
+      .sa;ma;Za;öÅ*:+.Ea ta;ta;ea nyUa;nea ta;tk
+                                                Ò +:a; / / 
+                                                      a;nta;ma;a;pa .. a;a;na;yea;t,a       ÁÁ
+
+      As the northern declination [of the Sun] gradually increases and becomes equal to the lati-
+      tude the Sun crosses the prime vertical right above the observer.
+      The measure of smallness of the samaman      . .dala-śaṅku depends upon the measure of the
+      declination. When the declination is equal to the latitude, then the samaman         . d.ala-śaṅku
+      becomes equal to the trijyā. This is because the Sun crosses [the prime vertical] right
+      above the observer at midday. From this [information], let the samaman           . d.ala-śaṅku be
+      ascertained [by the rule of three] when the declination is less than the latitude. When the
+      saumyakrānti is equal to the aks.a, then the [samaman      . d.ala] śaṅku is the trijyā. When
+      the samaśaṅku is less than that (the trijyā), the corresponding krānti may be obtained.
+
+The underlying mathematical equation, based on which the different cases have been
+described in the above verses, is given by the rule of three, and may be expressed as
+
+                                                                                        R sin δ
+                                                               R cosz0 =                        R.                     (3.133)
+                                                                                        R sin φ
+
+
+               ñÍ
+  .
+3 21 .sa;ma;Za;ö
+               *:Å +.na;a A;k
+                u
+                                 å
+                            R +:~.Pu+.fH
+
+
+3.21 True longitude of the Sun from the samaśaṅku
+
+                 È                                            ñÍ
+      A;[a:$ya;a. îå Á
+                 *+H        :pa:=+k
+                                  Ò +:a;ntya;a &+.taH      Za;öÅ*:
+                                                                  u H   .sa d;ea;gRua;NaH         Á
+
+
+      ta;a;a;pa;mea;va Ba;a;nuaH    .~ya;a;t,a . a;k
+                                                    Ò +:a;Da va;a ta;dU;a;na;ta;m,a              Á Á 52   ÁÁ
+
+      aks.ajyāghnah. parakrāntyā hr
+                                     . tah. śaṅkuh. sa dorgun. ah. |
+      taccāpameva bhānuh. syāt cakrārdham    . vā tadūnitam || 52 ||
+      The [sama]śaṅku [as defined in the previous verse] multiplied by Rsine of the latitude and
+      divided by the Rsine of the maximum declination gives the dorjyā. The corresponding arc
+      or that reduced from 180 degrees is the [longitude of] the Sun.
+
+Here the term dorjyā refers to the Rsine of the longitude of the Sun. It is given by
+
+                                                                        śaṅku × aks.ajyā
+                                                              dorjyā =
+                                                                            parakrānti
+                                                                        R cosz0 × R sin φ
+                                                or            R sin λ =                     ,                          (3.134)
+                                                                              R sin ε
+where λ is the sāyana (tropical) longitude of the Sun, z0 its zenith distance when it
+is on the prime vertical and ε the maximum declination, which is taken to be 24◦ .
+As R sin δ = R sin λ sin ε , the above relation is equivalent to R sin δ = R cos z0 sin φ ,
+which is the same as (3.130) derived earlier.
+   In (3.134) when R sin λ is known, the corresponding arc is not determined
+uniquely as sin(180◦ − λ ) = sin λ . This fact is expressed thus in Yukti-dı̄pikā.
+
+
+52 {TS 1977}, pp. 214–5.
+

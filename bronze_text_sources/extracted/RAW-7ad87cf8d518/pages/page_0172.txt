@@ -1,0 +1,113 @@
+13. 6.6
+
+revolutions of any (planet).and divide by the civil days
+(in a kalpa. The result is) the position of that planet
+in revolutions. (25)
+
+Multiply the akargana by 13 and divide by 903. The
+result in degrees, (when) subtracted from the ahargana,
+(gives the position of) the Sun (in degrees)!.
+
+For every 23,457 days (of the ahargana) subtract a
+minute from and for every 97,258 years (elapsed) add a
+second to (the position obtained above) 2. (26). (SRS)
+
+भास्करः २
+13. 6. 6. कोटचाहरतैयं द वभैरवाप्तं
+न्यूनाइशेषे विद्ते कलाद्यम्‌ |
+at स्याद्धनाध्यं तरणे विधोस्तात्‌
+"विभू हतं स्वे षुगृणां 'शयुक्‌ स्वम्‌ ।। ६ ।।
+चैदादियातास्तिथयः पृथक्स्था
+“विश्वै हेता: सूर्यविधू लवायौ ।
+तौ चाधिशेषाच्छशिमासलब्ध्या
+हीनौ युतौ स्वस्वधनाह्वयाभ्याम्‌ ।। ७ ।॥।
+(Bhaskara 11, SiSi., 1.1.3.6-7)
+—Bhiaskara II
+Computation of the positions of the Sun and the Moon
+from the adhimdsa-sesa and avama-Sesa. The avama-sesa
+divided by 27,11,00,00,000 is termed an additive con-
+stant in minutes of arc to the Sun’s position; the same
+avama-sesa multiplied by 13 and divided by 35 is termed
+such an additive constant to the position of the Moon. (6)
+Construe that the Sun’s position is given by as many
+degrees as there are elapsed ¢ithis after the beginning of
+Caitra and that the Moon’s position is given by thirteen
+times the same. Let these positions of the Sun and the
+Moon be diminished by a number of degrees equal to
+what is obtained by dividing the adhimdsa-Sesa by the
+number of lunations in a kalpa. Then add the respec-
+tive additive constants to the positions of the Sun and
+the Moon so obtained. The results will be the positions
+of the Mean Sun and the Mean Moon.? (7). (AS)
+
+---करणरत्नम्‌
+
+18. 6. 7. are 'गुणयम"रहिते द्विष्ठे त्यक्त्वाउवमानि तान्युपरि ।
+अधरे त्रिगुणं त्यक्त्वा नष्टं हित्वा च नष्टशेषं च ।। & ॥।
+'नवनन्दरसै'लंब्धं दत्वोपरि खरसगुण"विशुद्धेऽशाः |
+रविमध्यममुदयगतं म _्गलमिरयःस्तदुच्चांशाः ।। १० Ul
+अवमदिवसस्य शेषं स्वशशरयमां'शान्वितं कला योज्याः |
+भानौ ara द्वादशगुणतिथर्यौऽशास्तु चन्द्र: स्यात्‌ ।।११।।
+
+(Deva, KR, 1.9-11)
+
+1 For the rationale, see Maha. : SRS, ७५.11, p. 12
+2 For the rationale, see Maha. : SRS. pt. II. pp. 13-14.
+8 For the rationale, see SiSi : AS, pp. 34-37.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 128
+
+—Karanaratna
+
+Subtract 23 from the Ahargana and set down the
+remainder in two places (one below the other). From
+the upper number subtract the avama days (elapsed since
+the epoch). From the lower number subtract 9, the
+avama days as also the avamasesa, then divide by 699, and
+then add the quotient obtained to the upper number.
+(If it is greater than 360), subtract 360 from it. The
+resulting quantity is the mean longitude of the Sun at
+sunrise (at Lanka), in terms of degrees.
+
+The longitude of the Sun’s apogee is 78°.1 (9-10)
+
+To the Sun’s mean longitude add degrees equal to 12
+times the complete tithis (elapsed) and minutes equal
+to avamasesa plus avamasgesa divided by 25. Thus is
+obtained the mean longitude of the Moon.” (11). (KSS)
+
+रविचन्रस्फुटः
+--वासिष्ठसिदढन्तः
+13. 7. 1. कतगुणममृतु'युतमेक- ।
+ रतुमनु'हतं षरड्यमन्दुभितविभजेत्‌ |
+शशि-ख-ख-ख-यम-क#त-
+स्वर-नव-नव-वसु-षट्क-विषयोनैः ।। १ ॥।
+ह (Varaha, PS, 2.1)
+
+True Sun and Moon
+True Sun—VAsisthasiddhanta
+
+Multiply the Days from Epoch by 4 and add 6.
+Divide this by 1461 and take the remainder. Take
+from this, successively, the quantity 126 reduced by 1,
+0, 0, 0, 2, 4, 7, 9, 6, 5 (ie., the twelve quantities 125,
+126, 126, 126, 124, 122, 119, 117, 117, 118, 120, 121).
+(The Sun’s rdgis, Mesa etc. are successively got.) (1)
+
+चनद्रस्फुटः--वासिष्ठः
+
+18. 7. 2. 'रसगुणनवेन्दु"ुक्ते 'शशिगुणखगुणो द्धृते घना TTT ।
+शेषे नवभिर्गुणिते गतयो 5ष्टजिनै:' पदं शेषम्‌ ।। २ ॥
+घनषोडशहतशेषं प्रोज्छ्याथस्तिगुणितं चतुभेक्तम्‌ |
+भादिकला द्विगुणधनाः शशिमुनिनवयमा श्च राश्याद्या: ॥।
+“विषयधृतयो' गतिघ्ना गतिकाष्ठांशोनिता: कला: प्रोक्ताः |
+'वेदार्काः' पदसंख्या werd धनमृणं परतः ।। ४ ॥
+गत्यर्धे भगणार्ध देयं लिप्ताचतुष्कसंयुक्तम्‌ । .
+शेषपंदसमाश्चांशा: तत्र धनर्णात्‌ फलं देयम्‌ ।। ५ ॥
+व्येकपदमिन्द्रिय ed ‘Haran aad वियुक्तं च ।
+'मनुवेदयमे भय: पदगुणे त़िषष्टबोद्धृते लिप्ताः ।। ६ ॥
+
+(Varaha, PS, 2. 2-6)
+
+1 For rationale, see KR: KSS, pp. 6-8.
+2 For rationale see KR: KSS, p. 8.

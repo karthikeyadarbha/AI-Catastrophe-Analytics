@@ -1,0 +1,77 @@
+6.3 Speciality in the determination of the Moon’s declination                                                                        359
+
+  .
+6 2 A;k
+      eR +:nd
+            õ ;eaH                kÒ +:a;ntya;a;na;ya;na;m,a
+
+
+6.2 Finding the declination of the Sun and the Moon
+
+            x +:ta;a;ya;na;sUa;yeRa;nd
+      .sMa;~k                        õ ;eaH     kÒ +:a; / / 
+                                                       a;nta:$yea :pUa;vRa;va;a;yea;t,a   ÁÁ 2         ÁÁ
+
+      sam. skr
+             . tāyanasūryendvoh. krāntijye pūrvavannayet || 2 ||
+      From the ayana-corrected longitudes (sāyana longitudes) of the Sun and the Moon, let
+      the Rsines of their declinations be determined as earlier.
+
+   In Fig. 6.2a, Γ is the vernal equinox, S the Sun, M the Moon and N1 its ascending
+node. The meridian passing through the Sun meets the equator at G. If λs is the
+longitude of the Sun at S, then its declination is given by
+
+                                                                R sin δs = R sin ε sin λs .                                         (6.3)
+
+The secondary to the ecliptic passing through the Moon intersects the ecliptic at I.
+If λm and δ ′ are the longitude and declination of this point, then considering the
+triangle Γ IJ and applying the sine formula we obtain
+
+                                                               R sin δ ′ = R sin ε sin λm .                                         (6.4)
+
+It is the LHS of (6.3) and (6.4) that are referred to as Rsines of the declination
+(krānti-jyā) of the Sun and the Moon in the above verse. Though (6.4) does not
+give the actual declination of the Moon, which will be derived in the subsequent
+sections, it can be taken as a reasonable approximation when the latitude of the
+Moon is small. In fact, as we will see in the next section, the derivation of the actual
+expression for the Moon involves the declination of the point I given in (6.4) and
+that’s precisely the reason for Nı̄lakan.t.ha’s statement that it may be determined as
+earlier.
+
+
+  .
+6 3         .. a;ndÒ+~ya I+.;k
+                              Ò +:a;ntya;a;na;ya;nea                     ;a;va;Zea;SaH
+
+6.3 Speciality in the determination of the desired declination of
+    the Moon
+
+      :pa;a;ta;ea;nea;nd;ea;BRua:ja;a .ja;a;va;a :pa:=+ma;[ea;pa;ta;a;a;q+.ta;a    Á
+
+      ;a:a:$ya;a;Ba;+:a ;a;va;Da;eaH        [ea;paH   ta;tk+:ea;a;f;ma;a;pa .. a;a;na;yea;t,a         ÁÁ 3               ÁÁ
+
+      :pa:=+ma;a;pa;k
+                    Ò +:ma;k+:ea;fa;a ;a;va;[ea;pa:$ya;Ma ;a;na;h;tya ta;tk+:ea;fa;a                       Á
+
+      I+.;k
+           Ò +:a; / /
+                 a;ntMa . a;ea;Bea ;a:a:$ya;a;ea ya;ea;ga;a;va:=+h;ya;ea;gyea .~taH                ÁÁ 4       ÁÁ
+                                                                                                        å
+      .sa;a;d;Za;eaH   .sMa;yua;a;ta:=+na;ya;eaH    ;a;va;yua;a;ta;a;vRa;a;d;Za;ea:=+pa;k
+                                                                                        Ò +:maH       .~.pa;H                  Á
+
+        å
+                   Ò +:ma;k+:ea;a;f;dùÅRu;a:$ya;a ;a;va;[ea;pa;ma;Nq+.le va;sa;ta;a;m,a
+      .~.pa;;a;pa;k                                                                                   ÁÁ 5           ÁÁ
+
+                        å
+      I+.tyua;+:a:a .~.Pu+.f;a Ò
+                                 k+:a; / / 
+                                      a;ntaH            gxa;hùÅ:a;ta;Ma ga;ea;l+.a;va:a;mEaH     Á
+
+      pātonendorbhujā jivā paramaks.epatād.itā |
+      trijyābhaktā vidhoh. ks.epah. tatkot.imapi cānayet || 3 ||
+      paramāpakramakot.yā viks.epajyām   . nihatya tatkot.yā |
+      is..takrāntim
+                   . cobhe trijyāpte yogavirahayogye stah. || 4 ||
+

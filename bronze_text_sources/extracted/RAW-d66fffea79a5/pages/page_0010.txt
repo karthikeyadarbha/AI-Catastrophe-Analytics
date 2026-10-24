@@ -1,0 +1,37 @@
+ARYABHATIYA ^
+
+Page
+वर्भस्वरूपम (Square) "^" देय
+घनस्वरूपम्‌ (Cube) "“" ३५
+वरग॑मूलम्‌ (Square root) aa ३६
+घनमूलम्‌ (Cube root) me ३७
+त्िभुजक्षेत्रफलम्‌ (Area of a Triangle) ^ ३९
+घनत्रिभुजक्षेत्रफलम्‌ (Volume of a Right pyramid) vt ४१
+वृत्तक्षेत्रफलम्‌ (Area of a Circle) a ४२
+धनगोलफलम्‌ (Volume of a Sphere) * ४२
+विषमचतुरश्रादेः क्षेत्रफलम्‌ (Areas of Trapezium etc.) “° ४३
+सर्वेक्षेत्रफलम्‌ (Area of any Plane figure) *** ४५
+व्यासार्धतुल्यज्या (Chord of one-sixth of a circle) vs ४६
+वत्तपरिधि-व्यासप्रमाणस्‌ (Circumference-Diameter ratio) *"* ४६
+ज्यापरिकल्पना (Geometrical derivation of Rsines) aad ४७
+खण्ड्याः (Rsine differences) ote Yo
+वृत्तादिपरिकत्पना (Geometrical construction of Circle etc.) “*** ५२
+इष्टवुत्तविष्कम्भ. (Diameter of any desired Circle) -*" ५२
+शङकुच्छाये (Gnomon and Shadow) "*“ ५२
+कोदिभुजी (Base and height in gnomon and shadow
+
+problems) ree ५४
+कर्ण: (Hypotenuse-sides relation) *** ५५
+ज्यार्धा: (Square on half-chord) ss ५६
+शरानयनम्‌ (Arrows of intercepted arcs in intersecting
+
+circles) vee ५७
+भेदी (A. ?. Series) | vee rt
+गच्छानयनम्‌ (Number of terms in an A, P. series) *** ६०
+सड्ू लितस डूलितघनम्‌ (Sum of the sum of an AP. series) = *** ६१
+वर्गघनयोः सङ्भूलितम्‌ (Sum of squares and cubes of an
+
+A. P. series) ve ६१
+
+राशिद्यस्य संवर्ग उपायान्तरम्‌ (Product of two numbers by an
+alternate method) vt ६२

@@ -1,0 +1,52 @@
+xlii                                                                                   Introduction
+
+   All the diurnal problems involving the Sun depend upon the tropical longitude
+of the Sun, referred to as the sāyana,13 whereas the true longitude considered
+in the earlier chapter refers to the nirayan.a longitude.14 The difference between
+them is due to the precession of the equinoxes, termed the ayanacalana (motion of
+the equinoxes). The author appears to believe in the oscillation of the equinox Γ ,
+whereas according to modern astronomy Γ moves continuously westwards at the
+rate of approximately 50.2′ per year.
+
+
+           . a (Lunar eclipse)
+Candragrahan
+
+A lunar eclipse occurs when the longitude of the Moon is 180◦ away from the Sun,
+and the Moon happens to be close to one of its nodes. As usual, the exact instant
+of conjunction is determined by an iterative process, starting from the longitudes of
+the Sun and the Moon and their rates of motion at sunrise. It is interesting to note
+that several corrections for improving the accuracy of the results over the earlier
+treatments of the problem are suggested by Nı̄lakan.t.ha in this chapter.
+    The mean distance of the Moon from the Earth is given as 34380 yojanas.15
+The mean Earth–Sun distance is taken to be 459620 yojanas, based on the as-
+sumption that the linear velocities of the Sun and the Moon are the same.16 The
+actual distances of the Sun and the Moon at any time are to be found by taking
+the eccentricities of the orbits into account. A further correction is specified which
+amounts to taking into account the ‘evection’ term, in the case of the Moon. It may
+be recalled that the evection term for the Moon makes its first appearance in In-
+dia in Laghumānasa of Mañjulācārya. There is a similar correction suggested for
+the Sun. The resultant distance which is called the dvitı̄ya-sphut. a-yojana-karn.a is
+used in all the relevant calculations.
+    The angular diameters of the Moon, the Sun and the Earth’s shadow, and the
+length of the Earth’s shadow are all calculated as in the earlier texts. The linear
+diameters of the Sun and the Moon are given as 4410 and 315 yojanas. Then the
+criteria for partial and total eclipses are clearly enunciated. The first and second
+half-durations of the eclipse are computed iteratively. It is interesting to note that
+the instant of maximum obscuration is taken to be different from the instant of op-
+position. An expression for this time difference is also given, perhaps for the first
+time.
+    A feature that is noteworthy throughout the text is Nı̄lakan.t.ha’s concern for
+detail. When the sparśa or the first contact is very close to the sunrise, it may not
+
+13 The longitude determined with the vernal equinox Γ , as the zero-point of the ecliptic.
+14 The longitude determined with respect to a fixed reference star—usually the beginning point of
+
+Aśvinı̄—as the zero-point of the ecliptic.
+15 A yojana is a unit of distance employed in Indian astronomy.
+16 It may be mentioned here that the linear velocities of all the planets, (not only the Sun and
+
+the Moon) are taken to be the same in Indian astronomy as a first approximation. This fact, though
+implicit in the procedures given in Tantrasaṅgraha, is explicitly mentioned at the very beginning
+of Yuktibhās.ā.
+

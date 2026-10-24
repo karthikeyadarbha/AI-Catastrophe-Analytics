@@ -1,0 +1,58 @@
+308                               .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                                 Solar eclipse
+
+B. Then obviously KZ = 90◦ . Since ZB is also 90◦ , the point B is the pole of the
+circle passing through K and Z. At this instant, Z itself is the vitribhalagna and ZB,
+which is a quarter of the ecliptic, is also a vertical to the horizon.
+
+
+                                                            Z            drksepa−vrtta
+                                                                     (secondary to the ecliptic)
+
+
+                                           X                         Y
+                         K0
+
+
+
+                                                                      eclip
+                                                        E                tic
+                  P                      A
+
+                                                                                   L
+                  N                                                                            S
+
+                                                                W    B
+                          K
+
+
+                          diurnal path of the          ato r
+                          pole of the eclitptic     equ
+
+
+
+
+                                                            Q
+
+Fig. 5.2b Condition for the absence of parallax in latitude.
+
+
+    Now, if an object lies on the ecliptic which also happens to be a vertical, then—
+since the effect of parallax is only to deflect the object along the ecliptic further
+down towards the horizon—there will be a change only in the longitude of the object
+and not in the latitude. Hence the parallax in latitude will be zero if the object lies
+along the ecliptic when it is a vertical circle. Even when it (the ecliptic) is a vertical
+circle, the parallax in latitude need not be zero when the object does not lie on it, but
+is on a ks.epakot.i-vr.tta. When the object is at the zenith, parallax in longitude and
+latitude are both zero. Taking all these into consideration, the condition for parallax
+in latitude to be zero is: the celestial object must be along the ecliptic, which should
+also be a vertical circle.
+
+
+Condition for the absence of both lambana and nati
+
+We saw that the parallax in longitude would be zero when the object is situated
+on the dr.kks.epa-vr.tta. Later it was shown that the parallax in latitude will be zero
+when the object lies along the ecliptic and the ecliptic is a vertical circle. These two
+conditions will be simultaneously satisfied only at two points, namely the zenith (Z)
+and the nadir (Q). Since we are interested only in the visible part of the hemisphere,
+

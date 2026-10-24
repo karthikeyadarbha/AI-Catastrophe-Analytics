@@ -1,0 +1,118 @@
+208                                                       C+.a;ya;a;pra;k+.=+Na;m,a                                                                              Gnomonic shadow
+
+                                                                                               sin z cos a
+                                                                      sin H =                              ,                                                                       (3.184)
+                                                                                                 cos δ
+which is the same as (3.182).
+
+
+o+.d;a;h:=+Na;m,a              (An example)
+
+In Laghu-vivr.ti, an example of the above procedure for finding z and H from δ , a
+and φ is discussed. First, the values of δ , a and φ are stated in the form of a verse.
+                                                                                                           åò
+      k+:a; / / 
+      Ò    a;ntaH                   õ;a;Æa;ma;ta;a ;a;d;ga;g{a;a ya;a;}ya;a Ba;vea;d, BUa;gua;Na;vea;d;d;~:a;aH
+                            õùÅ;a;a:(
+                       Za:=+d                                                                                                             Á
+                                                                                 ñÍ
+      ma;h;a;Da:=+a;}Ba;ea;a;Da:=+sEa;Æa;mRa;ta;ea Y;[aH         ta:a;a;Zua Za;ö
+                                                                                 *:Åu M va;d ta;a;tMa .. a              ÁÁ
+
+
+      The krānti is 225′ , the digagrā which is to the south is 2431′ (and) the aks.a is 647′ . Now
+      tell me quickly what are the śaṅku and the nata.
+
+   In the above verse, the values given of the krānti, digagrā and aks.a given are
+those of the Rsines of the quantities. That is,
+
+                                R sin δ = 225′                           R sin a = 2431′                                       R sin φ = 647′.
+
+The procedure to be adopted in determining the śaṅku and the nata from the above
+values is described. The numerical values obtained in the intermediate stages of
+the calculation are also explicitly given. In the following we give the passage from
+Laghu-vivr.ti:
+      ta:a ta;a;va;t,a ma;h;a;Da:=+a;}Ba;ea;a;Da:=+sa;pra;Æa;ma;ta;~ya A;[a;~ya k+:ea;a;f:$ya;a:+.pa;ea l+.}ba;k H                                            ;a:a:$ya;a;vxa:a;ga;taH
+                                           ñÍ
+                                   îå +:sa;*
+      .sa;a;pa;vRa;ta;gua;Na;va;a;       É +;aH Á     A;a;Za;a;g{a;a       .. a      ya;a;}ya;a        A;Dya;DRa:=+a;a;Za:$ya;a
+                                                                                                                                                                    å       ñÍ
+                                                                                                                                                BUa;gua;Na;vea;d;d;~ ò:a;sa;*
+                                                                                                                                                                            É +;a;a Á
+                                                                                                                                                                                      58
+                                           Ë  ù                                                                                                                             Ë  ù
+                                                Á                                                                                                                                Á
+
+      ta;a;ma;a;Za;a;g{a;Ma    l+.}ba;ke +:na     ;a;na;h;tya        ;a:a:$ya;ya;a            ;a;va;Ba:$ya       l+.b.Da;a       ta;tk+:ea;a;f;vxa:a;ga;ta;a            k+:ea;a;f:$ya;a
+                                     ñÍ
+                    îå +:d;~å ò:a;sa;*
+      va;~va;;va;a;                ÉËù
+                                       +;a;a Á         A;[a:$ya;a            .. a            ta;;
+                                                                                                ÂåÅu ;ja;a      ta;ta;~ta;ya;ea;vRa;gRa;ya;ea;ga;mUa;l+.tua;ya;~ta;tk+:Na;eRa
+                                         Á
+                              å       ñÍ
+      :vea;d;a:(õ;a;yua;ga;d;~ ò:a;sa;*ÉËù
+                                         +;aH Á        A;ya;mea;va             h;a:=+k+:tvea;na                     ãÉa;a;d
+                                                                                                                :pa;(     u ;pa;a;d;a;ya;tea Á               ta;ta;~ta;~yEa;k+:~yEa;va
+                                           Á
+
+      h;a:=+k+:sMa;a::℄a;ta;~ya          k+:NRa;~ya     va;gRa;taH    :pxa;Ta;k,           k+:a; ////
+                                                                                           Ò    a;nta;va;ga    A;[a;va;ga          .. a       ;a;va;Za;ea;Dya     ;a;Za;;mUa;l+.tua;yea
+
+      k+:a;ntya;[a;k+:ea;fa;Ea
+      Ò                                      k+:mea;Na
+                                             Ò                 .~ya;a;ta;a;m,a Á               ta:a;a;[a;k+:ea;a;f;~ta;a;va;t,a                :pUa;va;Ra;na;a;ta;a;[a;k+:ea;a;f:$yEa;va
+                                                                                                      ñÍ
+                    îå +:d;~å ò:a;tua;ya;a Á
+      va;~va;;va;a;                             kÒ +:a; / / 
+                                                         a;nta;k+:ea;a;f;~tua
+                                                                                                                    å
+                                                                                                      *:+.yua;ga;d;~ ò:a;tua;ya;a Á
+                                                                                             :vea;d;a;çÅ                                      A;Ta           kÒ +:a;ntya;[a;ya;ea;Ga;Ra;ta;ea
+                                           ñÍ                                                                                  ñÍ
+      ba;a;Na;a;a;dÒ+BUa;ta;Za:=+ma;nua;sa;*ÉËù                                   ãÉa d;nta;a;Bra;k
+                                              +;aH Á ta;t,a k+:ea;fa;ea;Ga;Ra;ta;(                x +:ta;a;;va;sua;BUa;ta;sa;*ÉËù
+                                                                                                                                  +;a I+.ta;a;ya;tpa;yRa;ntMa
+                                                Á                                                                                   Á
+
+      k+:mRa         ya;a;}ya;sa;Ea;}ya;ya;ea:+:Ba;ya;ea:=+a;Za;a;g{a;ya;eaH        .sa;ma;a;na;mea;va Á                     A;taH pa:=M           ya;a;}ya;a;ya;a;ma;a;Za;a;g{a;a;ya;Ma
+                                       Å
+                                    ìÉe;+SaH Á
+      ta;ya;ea;Ga;Ra;ta;ya;ea;a;vRa:(          .sa;Ea;}ya;a;Za;a;g{a;a  :pua;na;ya;Ra;}ya;ga;ea;Le    na                .sa;}Ba;va;a;ta Á              ta;ya;ea;ya;Ra;}ya;a;Za;a;g{a;a;ya;Ma
+                                                                                         ñÍ
+      ta;ya;ea;Ga;Ra;ta;ya;ea:=+nta:=M    .sa;ea;Sua;vea;d;a;;gua;Na;a;a;dÒ+Za:=+sa;*ÉËù+;aH Á ta;sma;a;t,a ;a:a:$ya;ya;a ;a;na;h;ta;a;t,a h;a:=+k+:~ya
+                                                                                            Á
+                                                                     ñÍ               åò              Éç     ñÍ                                         Å
+      :pUa;va;eRa;a;d;ta;~ya     va;geRa;Na;a;va;a;a      I+.;Za;öÅ*:                              îå     ÉËù                                     ìÉe;+Sa;mUa;lM
+                                                                       u +.gRua;Na;d;~:a;ya;ma;L+:a;a;+;a;sa;* +;aH Á
+                                                                                                                 Á
+                                                                                                                      ta;t,a ;a:a:$ya;a;va;gRa;a;va:(
+
+
+      ta;tk+:ea;a;f:+.pea;;. C+.a;ya;a
+                                                                      ñÍ
+                                                                      É +;a;a
+                                                  :Sa;NNa;va:+:dÒ+sa;*
+                                                                      Ë  ù
+                                                                           Á
+                                                                                      ,        ta;Ma     :pua;na:=+a;Za;a;g{a;a;k+:ea;fa;a;Dya;DRa:=+a;a;Za:$ya;a;tua;ya;ya;a
+                                                                                                                                            ñÍ
+      ;a;na;h;tya        dùÅu;a:$ya;ya;a     ;a;va;Ba:jea;t,a Á      ta:a          l+.b.Da;a          na;ta:$ya;a                          ÉËù
+                                                                                                                        va;sua;vea;d;a;;sa;* +;a;a               .~ya;a;t,a Á    ta;~ya;a
+                                                                                                                                                Á
+
+                       ãÉa;a;pMa
+      na;ta:$ya;a;ya;a;(               na;ta;a;sa;va    I+.a;ta Á    A:a           .. a     na;ta;a;sUa;n,a   ;a;d;na;a;Da;Ra;a;d
+                                                                                                                                 õ ;Za;ea;Dya              ;a;Za;;a;sua;Bya;ea   .ja;a;va;Ma
+
+
+
+
+58 The reading found in the printed edition {TS 1958} is: ‘A;a;Za;a;g{a;a                                                                           .. a     ya;a;}ya;a;dùÅ;a;DRa:=+a;a;Za:$ya;a Á
+                    å       ñÍ
+BUa;gua;Na;vea;d;d;~ ò:a;sa;*
+                            É +;a;a
+                            Ë  ù
+                                 Á
+                                      ’ Á We have presented a corrected version above.
+

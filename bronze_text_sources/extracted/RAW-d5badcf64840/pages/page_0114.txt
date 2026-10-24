@@ -1,0 +1,65 @@
+2.5 Obtaining the desired Rsines and Rcosines                                                                                                                                        67
+                                                                               
+                                                                         Rδ θ 2
+                                                      = kot.ijyā iα 1 −          + (dorjyā iα )δ θ .                                                                      (2.44)
+                                                                           2
+
+    In Laghu-vivr.ti the procedure for finding the dorjyā and kot.ijyā of any arc length
+is explained clearly as follows:
+   ta;ta;~tea;na    h;a:=+k
+                          e +:Na       Bua:ja;a:$ya;Ma        k+:ea;a;f:$ya;Ma       va;a    O;;k+:Ma     k+:tRua;Æa;ma;;Ma   :pra;Ta;ma;taH      ;a;va;Ba:$ya           l+.b.DMa
+
+   k+:l+.a;a;d;kM :P+.lM A;nya;~ya;Ma             , Bua:ja;a;ya;aH .sa;a;Dya;tvea k+:ea;a;f:$ya;a;ya;Ma ta;~ya;aH .sa;a;Dya;tvea Bua:ja;a:$ya;a;ya;Ma
+   . a   .sa;a;Dyea;ta:=;$ya;a;ya;Ma     ta;tsa;}ba; / / 
+                                                    a;nDa;na;ea           ;Da;nua;SaH       +:na;a;a;Da;k+:tva;va;Za;a;t,a       +.NMa     ;Da;nMa     va;a    ku +:ya;Ra;t,a Á
+
+   A;TEa;vMa     kx +:ta;Ma   ta;Ma    ;a;d
+                                          õ ;gua;a;Na;ta;Ma    kx +:tva;a      :pUa;va;eRa;e +:nEa;va   h;a:=+ke +:Na     ;a;va;Ba:$ya      l+.b.DMa       ya;t,a        :P+.lM
+
+   ta;tpua;na:=+nya;~ya;Ma      .sa;a;Dya:$ya;a;ya;a;mea;va         tMa     ;Da;nua;SaH       +:na;a;a;Da;k+:va;Za;a;dx ;NMa      ;Da;nMa      va;a   ku +:ya;Ra;t,a Á     O;;vMa
+
+   x                                                 å                        x +:tea .~å.P
+   k+:ta;a Bua:ja;a:$ya;a k+:ea;a;f:$ya;a . a :pa:=+~.pa:=+l+.b.Da;P+.l+.sMa;~k            u +.fe Ba;va;taH Á
+
+   By that divisor divide the dorjyā or kot.ijyā, whichever is desired to be found, and this may
+   be added to or subtracted from the other one. That is, if the dorjyā is desired to be found,
+   it may be applied to the kot.ijyā and if the kot.ijyā is to be found it may be applied to the
+   dorjyā, the application being positive or negative depending upon whether the arc Rδ θ is
+   added to or subtracted from [iα ].
+   Then this quantity may be multiplied by two and divided by the same divisor. The result has
+   to be applied to the desired jyā [i.e.,] if the kot.ijyā is to be found it has to be applied to the
+   kot.ijyā, and if the dorjyā is to be found it has to be applied to the dorjyā, the application
+   being positive or negative depending upon whether the arc Rδ θ is added to or subtracted
+   from [iα ]. The dorjyā and kot.ijyā thus applied to each other give the correct jyā of the
+   desired arc.
+  If the arc length iα ± Rδ θ corresponds to an angle φ ± δ θ (in radians), then
+equations (2.41) to (2.44) are equivalent to the following relations:
+                                                    
+                                                δθ2
+               R sin(φ + δ θ ) = R sin φ 1 −           + (R cos φ )δ θ ,  (2.45)
+                                                  2
+                                                    
+                                                δθ2
+               R sin(φ − δ θ ) = R sin φ 1 −           − (R cos φ )δ θ ,  (2.46)
+                                                  2
+                                                    
+                                                δθ2
+               R cos(φ + δ θ ) = R cos φ 1 −           − (R sin φ )δ θ ,  (2.47)
+                                                  2
+                                                    
+                                                δθ2
+               R cos(φ − δ θ ) = R cos φ 1 −           + (R sin φ )δ θ .  (2.48)
+                                                  2
+
+It is obvious that (2.45) to (2.48) are approximations of the standard trigonometric
+relations
+
+                                  R sin(φ + δ θ ) = R(sin φ cos δ θ + cos φ sin δ θ ),                                                                                      (2.49)
+                                 R sin(φ − δ θ ) = R(sin φ cos δ θ − cos φ sin δ θ ),                                                                                       (2.50)
+                                 R cos(φ + δ θ ) = R(cos φ cos δ θ − sin φ sin δ θ ),                                                                                       (2.51)
+                 R cos(φ − δ θ ) = R(cos φ cos δ θ + sin φ sin δ θ ),        (2.52)
+                                            2
+                                               
+when the approximations, cos δ θ = 1 − δ 2θ and sin δ θ = δ θ , for small δ θ are
+used. These also happen to be the first two terms in the Taylor series expansion of
+

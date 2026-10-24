@@ -1,0 +1,51 @@
+1.10 Number of civil days in a Mahāyuga etc.                                                      27
+
+   adhimāsāh. khanetrāgnirāmanandes.ubhūmayah. || 20 ||
+   ayutaghnābdhivasvekaśarā māsā raveh. smr.tāh
+                                                    . |
+   khavyomenduyamās..tābhratattvatulyāstithiks.ayāh. || 21 ||
+   khakhas.an.n. avagonandanetraśūnyarasendavah. |
+   tithayah., cāndramāsāh
+                           . syuh. sūryendubhagan. āntaram || 22 ||
+   The number of civil days in a Mahāyuga is 1577917500; and the number of sidereal days
+   (ārks.āh
+            . ) is [equal to] this number increased by the number of revolutions of the Sun. The
+   number of adhimāsas is 1593320.
+   The number of solar months is stated to be the product of 5148 and ayuta (10000). The
+   number of ks.ayatithis (unreckoned tithis) is 25082100. The number of [actual] lunar
+   tithis is 1602999600; the number of lunar months will be equal to the difference in the
+   number of revolutions of the Sun and the Moon.
+
+The number of civil days in a Mahāyuga is the number of sunrises that take place
+in it. Similarly the number of sidereal days is equal to the number of star-rises that
+take place in a Mahāyuga. Since the stars do not have any eastward motion, and the
+Sun completes one full revolution eastwards once in a sidereal year, the number of
+sidereal days in a sidereal solar year will be greater than the number of civil days by
+one unit. Hence, in a Mahāyuga, the total number of sidereal days will be exceeding
+the total number of civil days by exactly the number of solar years or the revolutions
+of the Sun. That is,
+    Sidereal days = Civil days + No. of Sun’s revolutions
+                   = 1577917500 + 4320000
+                   = 1582237500.
+    On the other hand, if we know the number of sidereal days in a Mahāyuga then
+the number civil days (sāvana-dinas) may be obtained by subtracting the number
+of revolutions of the Sun from the former:
+
+                Civil days = Sidereal days − No. of Sun’s revolutions.                       (1.1)
+
+   As there are 12 solar months in a solar year, the number of solar months in a
+Mahāyuga is 51480000. The number of lunar months is the number of conjuctions
+of the Sun and the Moon. Hence, it is equal to the difference in the number of
+revolutions of the Sun and the Moon, which is 53433320. As there are 30 tithis in a
+lunar month, the number of lunar tithis is 30 times this number, which is 160299960.
+As an intercalary month or adhimāsa is introduced to match the solar and lunar
+calendars, the number of adhimāsas is the difference between the number of lunar
+and solar months and is 1593320.
+   As there are 30 tithis in a lunar month whose duration is less than 30 civil days,
+the average duration of a tithi is less than a civil day. Because of this, a certain
+number of tithis, known as ‘ks.ayatithis’, or ‘avamadinas’, are to be dropped from
+the calendar in order to have a concurrence between the number of civil days and
+the number of reckoned tithis in a yuga. In fact, the number of ks.ayatithis in a
+Mahāyuga is 25082100, which is exactly the difference in number between the
+tithis and the civil days (see Table 1.6).
+

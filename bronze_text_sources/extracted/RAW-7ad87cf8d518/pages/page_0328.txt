@@ -1,0 +1,130 @@
+21. 3. 1
+
+शैला वशिष्टकलियात fry प्रणिष्नं
+
+संयोज्य हीनदिवसेषु 'नगा वशेषः: ।। २५ ॥।
+एकयुक्तदिवसेषु वर्षप: कीतितः सितखगादि तद्विदा ।
+हीनराव्रगतयुक्तवासराद्‌ विदवृन्द'विहूतास्तदावमाः ।।
+वर्षेषु ^रन्ध्रक़ृतचन्द्र'समाहतेषु
+
+षट्सप्तपञ्यविहूतेषु दिनादिलाभः |
+ते योजिना दशहतासु समासु संञा
+
+सम्प्राप्नुवन्ति रविजा इति निश्चयो मे ।। २७ 1
+
+रविजदिवसयोज्याश्चावमा येऽ लब्धाः
+सततमधिकमासान्‌ शोधयेत्‌ खाग्नि 'निघ्नान्‌ |
+भवति यदवशिष्टं शोधनीयं समायां
+
+यदि तदधिकशुद्धं क्षेप्यमेवोपदिष्टम्‌ 1। २८ tt
+(Bhaskara I, MBh., 1. 21-28)
+
+Simplified astronomical procedures
+
+After a careful study of the ocean of the Asmakiya-
+Jastra (i.e. the system of Agmakiya or Aryabhata), I
+reveal, by means of simplified rules, the planetary pro-
+cedures, the secrets therein, (hitherto) unnoticed by
+other followers of the Agmakiya. (21)
+
+Mean lunar days between Caitra and solar year
+
+Having ascertained the number of years (elapsed
+since the beginning of Kaliyuga), multiply them by 11
+and by 389/6000, (separately). Add the two results
+and divide the sum (thus obtained) by 30. The quo-
+tient denotes (the mean intercalary) months, and the
+remainder (the mean intercalary) days. (22)
+
+Mean lunar days at mean solar year since prev. omitted lunar day
+
+Multiply (the number of years elapsed since the
+beginning of Kaliyuga) by 29 as divided by 36, (i.e. by
+29/36). Again multiply the same (number of years) by
+43 and divide by 72,000. The sum of the two quotients
+gives the (residual mean omitted lunar) days. (Multiply
+the remainder of the first division by 2000, increase
+the product by the remainder of the second division,
+and then) divide (the sum) by 1125; then are obtained
+(the mean lunar) days (which have elapsed at the be-
+ginning of the mean solar year since the occurrence
+of a mean omitted lunar day).? (28)
+Mean lunar days at a Mean Caitra since a mean omitted lunar
+
+day
+
+From (the mean lunar days elapsed at the beginning
+
+of the mean solar year since the occurrence of a mean
+
+1 The mean intercalary days obtained from this rule are equal to
+the number of mean lunar days lying between the beginning of
+mean Caitra and the beginning of the mean solar year.
+
+The number of mean intercalary days in a mean solar year is
+qual to 11 x 389/6000. Hence the above rule.
+
+2 The number of mean omitted lunar days in a mean solar year
+is. 5-+29/36-+43/72,000; and the number of mean lunar days
+between two successive mean omitted lunar days is approximately
+64. Hence the above rule.
+
+INDIAN ASTRONOMY-—A SOURCE-BOOK . 284
+
+omitted lunar day), subtract the mean intercalary days
+(obtained in stanza 22 above) : the remainder (obtained)
+is the time (in terms of mean lunar days) elapsed (at the
+commencement of mean Caitra) since the fall ofa (mean)
+omitted lunar day. In case the subtraction is not
+possible, add 64 (to the minuend) and then from the
+sum perform the subtraction. (24)
+
+Lord of the year _
+
+Divide the sum of the months (viz. the solar months
+obtained by multiplying the years elapsed since the
+beginning of Kaliyuga by 12) and the (corresponding
+complete mean) intercalary months (obtained in stanza
+22 above) by 7; multiply the remainder by 30. Now, we
+may say what is to be subtracted from this: Divide
+the number of years elapsed since the beginning. of
+Kaliyuga by 7 and multiply the remainder (of the
+division) by 5, add this product to the number of (resi-
+dual mean) omitted lunar days (obtained in stanza 23)
+and divide the sum by 7: the remainder (of this division
+is the quantity of the sum to be subtracted). (Divide the
+difference of this quantity and the one obtained. pre-
+viously by 7). The remainder increased by one, counted
+from Friday gives the Lord of the year (1.८. the planet
+presiding over the first day of Caitra). So has been
+stated by the learned. (25-269)1
+
+Mean omitted lunar days
+
+Increase the number of (lunar) days (elapsed since
+the beginning of Caitra) by the number of (mean lunar)
+days elapsed (at the beginning of Caitra) since the fall
+of a mean omitted lunar day, and divide that (sum)
+by 64: the quotient gives the number of (mean) omitted
+lunar days (which have occurred, since the mean omit-
+ted lunar day occuring before the beginning of Caitra).
+
+(26c-d)
+
+Mean lunar days between mean Caitra and mean solar year
+
+Multiply the number of years (elapsed since the
+beginning of Kaliyuga) by 149 and then divide by
+576: the quotient is in terms of days. Add these days
+to ten times the number of years (elapsed): thus are
+obtained the so-called ravija days. To the ravya days
+add the (residual mean) omitted lunar days obtained
+above (verses 23 above). From the sum subtract the
+(complete mean) intercalary months (obtained in stanza
+22) as multiplied by 30. Whatever is obtained as the
+remainder is the ‘subtractive’ for the (current) year.
+When the ‘subtractive’ is greater, then the difference is
+prescribed as the ‘ additive’.2 (27-28)
+
+1 For elucidation, see MBh:KSS, 9. 19.
+४ For the rationale, see MBA:KSS, pp. 20-21.

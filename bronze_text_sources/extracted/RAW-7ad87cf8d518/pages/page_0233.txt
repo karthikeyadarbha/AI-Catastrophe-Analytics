@@ -1,0 +1,117 @@
+189 15. GNOMONIG SHADOW
+
+अग्राया अक्षः
+तेन हृता खाकंष्नी क्रान्तिज्या लम्बकोऽस्य यच्चापम्‌ |
+तेन नवतिविहीना यच्छेषं तेऽक्षभागाः स्युः ।। ४० Ut
+
+इष्टकालच्छाया ।
+
+तत्कालचरविनाडी द्विदशांशं द्विष्ठमजतुलादेषु |
+षडघ्नीभ्यो नाडीभ्यो जह्यात्‌ संयोजयेच्चापि ।। ४१ ॥
+
+तज्ज्या स्थितज्याया संयुता विसंयोजिताऽजतुलाद्येषु ।
+अविशोधने च जीवा षड्घ्नीनामेव कतव्या ।। ४२ ।।
+
+एवं कृत्वा हन्यात्‌ द्युव्यासेनावलम्बकध्नेन ।
+छिन्यात्‌ “खखाष्टवस्वश्वभिः' फलं शहकुलिप्ताख्यम्‌' ।।
+
+तत्कृतिविनाकृतानां खखवेदसमुद्रशीतरश्मीनाम्‌ |
+पदमकंघ्नं शड्क्वडगुलाऽऽख्यलिप्तोदधृतं छाया ।।४४।।
+(Varadha, PS, 4. 38-44)
+
+Practical work on shadow diagrams
+
+On a circle with the east-west line drawn, and the
+directions marked, (according to PS 4. 19), the time
+when the gnomonic shadow perfectly coincides with the
+east-west line, is the time of the Sun crossing the prime
+vertical. (38)
+
+Agra
+
+Multiply the Sun’s declination by the radius and
+divide by the sine of co-latitude, and find the sine (of
+the amplitude of the rising or setting point, called agrd).
+At a point distant by this amount from the west-east
+line, according to the declination north or south, the
+Sun rises or sets. (39)
+
+Latitude from agra
+
+Multiply the sine declination by 120 and divide by the
+sine of amplitude. The sine of co-latitude is obtained.
+Find its arc in degrees. Deduct the degrees from 90.
+The remainder is the degrees of latitude. (40)
+
+Shadow at desired time
+
+To find the gnomonic shadow caused by the Sun at
+any time: Take the cara in vinddis and divide by 20.
+Degrees of half-cara are obtained. Place the degrees
+in two places. Convert the time from sunrise in
+nadis, into degrees by multiplying by 6. From these
+degrees, deduct or add the half-care degrees, according
+as the Sun is in the six Signs beginning with Mesa, or
+in the six Signs beginning with Tula, respectively. (41)
+
+Find the sine of the resulting degrees and add to or
+subtract this from the sine of the half-cara kept apart in
+the second place, according as the Sun is in the 6 Signs
+Mesa etc., or in the six Signs Tula etc. The result is a
+sine. If the half-cara degrees cannot be deducted from
+the time converted into degrees, then simply find
+
+15. 21. 2
+
+the sine of the degrees of sine, and take it for further
+work. (42)
+
+Multiply this sine by the sine of co-latitude and the
+day-diameter, and divide by 28,800. The result is
+sine altitude ofthe Sun. (43)
+
+Square this and deduct from 14,400. Take its square
+root, multiply this by twelve, and divide by sine altitude.
+The result is the Jength of the shadow of the twelve
+
+digit gnomon.! (44). (TSK)
+विषुवच्छायासाधनविधयः
+15. 21. 2. कार्य स्थण्डिलमथवा वृत्तं जलसिद्धमस्तकं विपुलम्‌ |
+
+भगणांशाडकितपरिधि स्वस्कन्धसमुच्छितं च सिद्धाशम्‌ ।।
+
+तस्यापरभागस्थो दिग्योगन्यस्तदष्टिरुद्यन्तम्‌ ।
+पश्यति यत्र खराश्‌ तद्‌ भागज्या रवेरग्रा ।। १३॥
+
+अग्रा द्वादशगुणिता क्रान्तिज्याभाजिता पलश्रवण: ।
+श्रुतिशड्क्वन्तरगुणितात्तद्योगान्मूलमक्षाभा ।। १४॥
+क्रान्तिज्याग्राकृत्योविशेषमूलं द्युमण्डले FIAT |
+द्रादशगुणिता कूज्या क्रान्तिज्याहूत्‌ पलाभा वा ।। १५॥।
+सूर्याभिमुखी यष्टिर्धार्या तद्त्‌ चिभज्यया तुल्या |
+
+यद्वत्‌ छायाभावः शडकूस्तल्लम्बकः प्रोक्तः ।। १६ ॥।
+तत्पूर्वापररेखाविवरं arg: नृयष्टिभातुल्यम्‌ |
+
+दृग्ज्या कर्णो यष्टिः द्युदलभुजों दृग्ज्यया तुल्यः ।। १७॥।
+agua: समासो भिन्नदिशोरन्तरं तथैक [दिशोः ।
+शङ्करुतलं शछकुगुणा] तज्ज्या लम्बकहूताशक्षाभा 1195 tt
+सूर्य॑घ्ना वाऽक्षज्या लम्बज्याहूच्च THAT वा ॥ १६ ॥
+दयुदलच्छायाभ्यस्ता सूर्याग्रा च स्वद्र्ज्यया भक्ता ।
+फलयूतहीना भुजवद्‌ झ्युदलाभा [वा] पलच्छाया Wolk
+इष्टदढययोर्भुजयोः साम्यं ककुभोवियोगसंयोगः ।
+सूर्याहतो विभक्तः शडक्वोविवरेण वा पलच्छाया ॥
+अन्योन्यकणेनिष्नौ श्रुतिविवरहूतौ प्रभाद्रयोर्बाहू ।
+इष्टफलविवरयूतिः समान्यककुभोः पलच्छाया ॥२२॥
+द्रादशगुणिता वाऽग्रा सममण्डलशङ्कुभाजिताऽक्षाभा ।
+स्वधृति: समशंकुहूता रविगुणिता वा पलश्रवण: ॥।
+
+चिज्या द्वादशगुणिता भक्ता लम्बज्ययाऽथवा कर्ण: |
+समकणंगुणा कुज्या पलजीवाहत्‌ पलाभा वा ।। VY Ut
+
+स्वदेशाक्षः
+दिनदलदु ग्ज्याचापं कान्त्या युतवजितं क्रियतुलादौ |
+अक्षो दक्षिणद्ग्ज्याधनुषोना क्रान्तिरक्षं स्यात्‌ ।। २५॥
+wea परिकल्प्य aot विभूजेन विलोकयेत्‌ ध्रुवमुदीच्याम्‌ ।
+यन्त्रेण दुष्टिभूजयोविवराग्रा वा पलच्छाया ॥ २६ ॥
+
+1 For elucidation, see PS: TSK, 4.41-44.

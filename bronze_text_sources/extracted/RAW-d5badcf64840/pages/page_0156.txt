@@ -1,0 +1,54 @@
+2.20 Obtaining the mean Sun from the true Sun                                                        109
+
+   evam . kr. tam. sūks.mataram   . hi madhyam    . pūrvam  . padam. yāvadihādhikam    .
+   syāt || 49 ||
+   antyāt phalāt kot.igun   . am
+                                 . caturtham  . tvārabhyate yadyadhikātra kot.ih. |
+   sarvatra vis.kambhadalam       . śrutau vā vyāsārdhake syādviparı̄takarn   . ah. || 50 ||
+   The mean position of the Sun has to be obtained from the true position [as follows]. Hav-
+   ing subtracted the longitude of the apogee from the true Sun, the dorjyā and kot.ijyā are
+   obtained. When the manda-kendra lies within the six signs beginning from Mr.ga, the
+   difference between the antyaphala and the kot.ijyā has to be taken, and when it is within
+   the six signs beginning from Karka, their sum has to be taken. The square root of the sum
+   of the square of this and the square of the dorjyā is the viparı̄ta-karn . a. The square of the
+   trijyā divided by this viparı̄ta-karn . a is the karn. a.
+   This (karn  . a) is multiplied by the dorjyā obtained by subtracting the longitude of the
+   apogee from the Sun, and divided by the trijyā. The arc of the result has to be applied
+   positively to the longitude of the mandocca when the manda-kendra is in the first quad-
+   rant. 180 minus the arc, 180 (cakrārdha) plus the arc and 360 minus the arc have to be
+   applied to the mandocca when the manda-kendra lies in the second, third and fourth
+   quadrants respectively. The mean longitude obtained thus is accurate. In the first quadrant
+   the kot.ijyā is greater than the antyaphala. [Similarly] the fourth quadrant is said to com-
+   mence when the kot.iphala becomes greater than the antyaphala. Always the karn            . a bears
+   the same relation to the trijyā as the trijyā to the viparı̄ta-karn
+                                                                       . a (inverse hypotenuse).
+   Normally the texts present the procedure for determining the true position of
+a planet from its mean position. The above set of verses present a procedure for
+solving the inverse problem, namely finding the mean Sun from its true position.
+We explain this procedure with the help of Fig. 2.14b. Here, the longitudes of the
+mean Sun, the true Sun and the ucca (apogee) are given by
+
+                                           θ0 = Γ ÔP0 = PÔ′ P
+                                            θ = Γ ÔP
+                                and        θm = Γ ÔU = Γ Ô′U,                                 (2.144)
+
+respectively. Further,
+
+                                    θ − θm = N ÔP
+                                   θ0 − θm = N Ô′ P = N ÔP0 .                                 (2.145)
+
+Also, the aviśis..ta-manda-karn.a (iterated manda hypotenuse) K = OP and the
+vyāsārdha R = OP0 = O′ P. The true epicycle radius r = OO′ .
+   The word antyaphala used in the above verse has a special significance whose
+relation with the manda-karn.a may precisely be expressed as follows:
+                                                  r0     R    R
+                        antyaphala = r0 =            .r = .r = .OO′ .                           (2.146)
+                                                   r     K    K
+Now,
+                                               R
+                    dorjyā = R sin N ÔP =      .K sin N ÔP
+                                               K
+                                               R                 R
+                                              = .K sin(θ − θm ) = .PN
+                                               K                 K
+

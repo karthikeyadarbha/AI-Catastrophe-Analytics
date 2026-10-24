@@ -1,0 +1,50 @@
+334                             .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                     Solar eclipse
+
+   multiplied by the radius of the Earth in yojanas and divided by the trijyā are the doh. and
+   kot.i in yojanas.
+   The kot.i is subtracted from the distance of separation between the Sun and the Earth. The
+   square root of the sum of the squares of this and the bāhu is the dr.kkarn. a of the Sun in
+   yojanas.
+
+   Here the procedure for finding the dr.kkarn.a of the Sun is given. The term dr.k
+in this context refers to the observer. As the term karn.a is used to refer to the hy-
+potenuse, the term dr.kkarn.a refers to the hypotenuse joining the Sun with the ob-
+server (OS in Fig. 5.14(a)). In short, the problem posed in the text is to obtain OS
+from ES. In order to determine OS, a few intermediate quantities are introduced.
+The quantities dr.ggati and dr.kks.epa are defined as follows:
+
+                                         R sin(λs − λv )R cos zv
+                             dr.ggati =
+                                                    R
+                            dr.kks.epa = R sin zv .                                        (5.75)
+
+The dr.ggati given by (5.75) is different from the dr.ggati defined earlier in verse 7
+of this chapter. It is then stated that
+                                        q
+                              chāyā = dr.ggati2 + dr.kks.epa2
+                                        q
+                     i.e.    R sin zs = (R sin(λs − λv ) cos zv )2 + (R sin zv )2 (5.76)
+                                        q
+         and                  śaṅku = trijyā2 − chāyā2
+                                        q
+                    i.e.     R cos zs = R2 − R sin z2s ,                          (5.77)
+
+where zs is the zenith distance of the Sun.
+   To understand the rationale behind the above expressions let us consider the
+spherical triangle ZV S shown in Fig. 5.14(b). Here K is the pole of the ecliptic, Z
+the zenith, V the vitribhalagna and S the Sun. Since ZV̂ S = 90, the cosine formula
+applied to this triangle gives
+
+                               cos(ZS) = cos(ZV ) cos(SV ).                                (5.78)
+
+Using the notation ZS = zs , ZV = zv and SV = λs − λv , the above equation becomes
+
+                                coszs = cos zv cos(λs − λv ).                              (5.79)
+
+Squaring both the sides, and writing the cosines in terms of sines, we have
+
+                         1 − sin2 zs = cos2 zv (1 − sin2 (λs − λv ))
+                                     = cos2 zv − cos2 zv sin2 (λs − λv )
+               or            sin2 zs = (1 − cos2 zv ) + cos2 zv sin2 (λs − λv )
+                                        = cos2 zv sin2 (λs − λv ) + sin2 zv ,
+

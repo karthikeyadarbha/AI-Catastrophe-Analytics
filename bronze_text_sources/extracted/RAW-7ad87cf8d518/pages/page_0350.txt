@@ -1,0 +1,120 @@
+22. 15; 1
+
+Rsin fighra anomaly x circumference of sighra epicycle
+~ 360
+
+R sin sighra anomaly x sphufasighragunaka
+नि 80. ।
+= dohphala. ॥
+
+Again, from the same triangles,
+
+, EL x MC’
+CQ = ` ठट
+R cos sighra anomaly x sphulasighragunaka
+80
+
+=kotiphala.
+Now, EQ, sphutakoti= C’E+- C’Q.
+== R-+ kotiphala.
+
+In the first and fourth quadrants, sphutakoji is equal
+to the sum of R and kofiphala, but in the second and
+third quadrants it is equal to their difference.
+
+EM, sighrakarna=4/EQ?2-+ MQ?
+` or gighra hypotenuse=4/ (C9E+C’Q)?=MQ?
+` Now, from similar triangles EC’P and EMQ,
+
+“7? MQ.
+६८ EM
+MQ» EC’ dohphalax R.
+So, (“== =F .
+EM Sighra hypotenuse
+
+Arc C’M’, sighraphala, is the arc corresponding to C’P
+as R sine. The sighraphala is added 00 the corrected
+longitude, when sighrakendra is in the first and second
+quadrants, and subtracted when it is in the third and
+fourth quadrants. The fighraphala can also be cal-
+culated in the same way by the eccentric method.
+
+As regards their application to the mean longitude
+of a planet, the first operation should be to apply the
+amount of the first inequality to the mean longitude,
+getting thereby, in the case of a superior planet, its
+heliocentric longitude, and in the case of an inferior
+planet, the centre of its circular orbit; the second
+
+operation should be to apply the amount of the second ,
+
+inequality to the corrected mean longitude, which
+inequality is the annual parallax in the case of a superior
+planet and the elongation in the case of an inferior
+planet.
+
+But Indian astronomers have given various methods of
+application, perhaps to synchronize calculation with
+
+observation. Lalla’s rules are as follows:
+
+1. Calculate the mean longitude of the planet at
+the observer’s station and hence mandaphala. Apply
+half of it to the mean longitude. The result is the
+
+INDIAN ASTRONOMY-—A SOURCE-BOOK 306
+
+planet corrected once. Now calculate. fighraphala and
+apply half of it. to the once-corrected planet. - From
+this again calculate mandaphala. Apply the whole of it
+to the mean longitude. The result is mandasphuta planet.
+Calculate sighraphala from.it and apply the whole of it to
+the mandasphuta planet.: The result is the true longitude
+of the planet.
+
+2. According to the second method as given in
+verse 8, first the fighraphala is calculated and half of it is
+applied and then the mandaphala is calculated and half
+of it applied. The third and fourth operations remain
+the same.
+
+Here again, the: tabulated circumferences of. the
+epicycles, both manda and sighra, give only the mean
+circumferences and, as in the case of the Sun and the
+Moon, the method of successive approximation should
+be followed. _ (BC)
+
+सन्दशी घ्रभुक्तिवासना
+22. 16. 1. ज्याखण्डकेन गुणिता मुदुकेन्द्रजेन
+भुक्तिग्रंहस्य शरयुग्मयमे विभक्ता ।
+क्षुण्णा CHET गुणकेन हता खनागे-
+लिप्ता गतेः फलमृणं धनमुक्तवच्च ।। ११॥।
+तद्जिता स्वचलतुद्धगतिः स्वभोग्य-
+बण्डाहता शरयमाक्षि'हूता हता च ।
+स्वेन स्फुटेन गुणकेन खनाग'भक्ता
+विज्याहता भ्रुतिहूताऽशुफलं गतेः स्यात्‌ ॥ १२॥
+मन्दस्फुटा ग्रहगतिः स्फुटतामुपैति
+युक्तोनिता विरहिता सहितामुना च ।
+शीघ्राभिधाननिजकेन्द्रपदक्रमेण
+वक्रा गतिरभवति Samet विशुद्धा ।। १३ ।॥
+
+बाणाब्धिन्रि:' शशिगुण:' खयमै: खबागेः-
+^रङ्ध'लंवैस्तिगृहमाद्यपदं युतं स्यात्‌ |
+ऊनं तृतीयमिति केन्द्रपदोक्तलक्ष्म
+बध्वा गतौ चलफलं स्वमृणं विधेयम्‌ ae
+(Lalla, SiDhVr., 3. 11-14)
+
+Manda and Sighra motion
+
+The mean motion of a planet multiplied by the
+bhogyakhanda resultingfrom its mean anomaly and also
+by the corrected mandagunaka and divided by 225 and
+80 gives in minutes the correction to the motion or manda-
+gatiphala. It is to be applied to the mean motion as
+explained before. (The result is the motion corrected
+once.) (11)
+
+Subtract it (viz., the corrected motion) from the
+motion of the sighrocca of the planet. The remainder
+multiplied by the bhogyakhanda resulting from the Sighra-
+kendra, the radius and the corrected sighragunaka and

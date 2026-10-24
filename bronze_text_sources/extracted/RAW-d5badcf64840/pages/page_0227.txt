@@ -1,0 +1,60 @@
+180                               C+.a;ya;a;pra;k+.=+Na;m,a                                    Gnomonic shadow
+
+is taken to be of unit length, then OA and AP2 are the sine and the cosine of the
+azimuth of the Sun. Here, the length of the chāyā L is given by
+
+                             chāyā = L = OP2 = K sin z = 12 tan z.                                              (3.97)
+
+The corresponding bhujā and kot.i are given by
+
+                            bhujā = AP2 = |L cos A| = |K sin z cos A|                                            (3.98)
+                              kot.i = OA = |L sin A| = |K sin z sin A|.                                           (3.99)
+
+   Similar considerations apply for the sides of the triangle OBP1 also.
+
+
+
+                                                    path traced by the tip of the shadow
+
+
+                                                              J
+
+
+
+                                                                                E
+
+
+
+
+                                                                  P2            A                         F
+
+
+                C       H                                         P3            O (foot of the śaṅku)
+                                                         N                                                    S
+                        I
+
+                                                                  P1            B                         G
+
+
+
+
+                                                                                W
+
+
+                                                              K
+
+
+
+
+Fig. 3.17 The path traced by the tip of the shadow of the śaṅku on any day.
+
+
+   The point P3 in Fig. 3.17 represents the tip of the midday shadow. With P1 , P2 and
+P3 as centres, three circles are drawn. The points of intersection of the circles with
+P1 and P3 as centres intersect at G and I and form a matsya (fish [figure]). Similarly,
+the points of intersection of the circles with P2 and P3 as centres intersect at F and
+H and form another matsya. We draw straight lines passing through the matsyas
+which intersect at point C (represented by solid lines FHC and GIC in the figure).
+These lines intersect at a point C. With C as the centre and with CP3 as the radius we
+draw a circle. It can be shown that this circle will necessarily pass through points P1
+

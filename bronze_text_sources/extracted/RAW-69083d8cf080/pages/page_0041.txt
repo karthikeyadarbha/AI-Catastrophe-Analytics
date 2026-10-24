@@ -1,0 +1,45 @@
+INTRODUCTION xli
+
+16. Presentation of Rationale
+
+The mathematical and astronomical rationale presented in the Yuktibhdsa
+relate to several aspects, to wit, concepts, theories, constants, computations,
+demonstration by diagrammatic representation and the like. The treatment is
+logical, going step by step, first presenting the fundamentals and gradually
+building up the argument. It is, if one might say so, ‘intimate’ in that it
+inculcates the rationale and elucidates the steps even as a teacher does to a
+student. The work aims at understanding and conviction by the reader.
+
+17. Analytic Contents of the Yuktibhasa
+
+As mentioned earlier, Pt. I of the Yuktibhdsa, dealing with Mathematics,
+can be divided into seven chapters.
+
+Ch.I on Logistics (Parikarma) deals with the Nature of numbers,
+Multiplication as explained from several standpoints including the use of
+diagrams, Multiplication by easy methods, Division, Squaring through several
+methods and Roots of sums of squares and Difference of squares.
+
+(गा Dasaprasnottara (Ten algebraic problems and their solutions) relates
+to the finding of the numbers when two, from among the five, viz., their sum,
+difference, product, sum of squares and difference of squares, are given.
+
+Ch.IlI deals with Fractions. Highly analytical in presentation, the topics
+dealt with are: Nature of fractions, their addition, subtraction, multiplication
+and division.
+
+Ch.IV is entirely devoted to the Rule of Three, where both the general and
+inverse rules are set out.
+
+In Ch.V the importance of the Rule of three in mathematical and
+astronomical computations is indicated with the computation of the current
+Kali day.
+
+The Mean Planets are derived therefrom. Apavartana (Reduction) and
+Kuttakara (Pulverisation) are introduced here and their purpose specified. An
+elaborate rationalisation of the principles involved in it and the practices
+followed in both Reduction and Pulverisation are presented and explained with
+examples. It is also indicated how the process helps in arriving at the Bhajya-
+$ (Divisors) and Bhajakas (Multiplicands) in Pulverisation by means of the Valli
+(Series of divisions), and its application towards computing the planets more
+and more accurately.

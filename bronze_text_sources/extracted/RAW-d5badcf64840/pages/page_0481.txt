@@ -1,0 +1,61 @@
+                                                ñÍ
+434                                         Zxa;ç Å
+                                                *:+.ea;a;a;ta;pra;k+.=+Na;m,a                              Elevation of lunar horns
+
+1. Let θ0 = λm (t0 ) − λs . This can be converted into time units from the rising times
+   of the rāśis. Now find ∆ t0 = θ0 (in time units). Then t1 = t0 + ∆ t0 is the first
+   approximation to moonrise.
+2. Find the rate of motion of the Moon (λ̇m ) at t0 . Now λ̇m × ∆ t0 = δ λm is the
+   increase in the longitude of the Moon in the time interval ∆ t0 .
+3. Let λm + δ λm = λm (t1 ).
+4. From θ1 = λm (t1 ) − λs , we find ∆ t1 = θ1 (in time units). Then t2 = t0 + ∆ t0 + ∆ t1
+   is the second approximation to the moonrise.
+The whole process is repeated till ∆ tn becomes negligible. Note that ∆ ti can also be
+negative at any stage.
+   The time difference between the meridian transits of the Moon and Sun can also
+be determined by iteration in this manner, except that the carāsus are absent in this
+case. In the same way, the instant corresponding to the Moon on the meridian can be
+obtained, using the time elapsed since sunrise or the time to elapse till sunset from
+the desired time.
+
+
+  .  k+.ja;a;d;a;na;Ma k+:[ya;a;dùÅ;a;a;na;ya;na;m,a
+8 11 u
+
+
+8.11 Obtaining the dimensions of the orbits of Mars and other
+     planets
+
+      .=+a;va;va;a;ndÒ+k+:[ya;a;ya;aH     nea;ya;a;nyea;Sa;Ma ;a;h .sa;a ta;taH         Á Á 36        ÁÁ
+
+      Bea;de .sa;ma;a;ga;ma;a;d;Ea . a l+.}ba;na;a;dùÅe;a;va;mea;va ;a;h         Á
+                       È
+      Za;a;Gra;k+:NRa. îå Á
+                       *+;k+:[ya;a;ya;aH   ta;d
+                                              õx :ea;na ;Æa;sa;ta::℄a;ya;eaH        Á Á 37   ÁÁ
+
+                      å
+      A;a;a;a ;a;h .~.Pu+.f;k+:[ya;a .~ya;a;t,a ta;d
+                                                    õ ;Za;a;+:}ba;na;a;a;d .. a                   Á
+
+      ravivaccandrakaks.yāyāh. neyānyes.ām     . hi sā tatah. || 36 ||
+      bhede samāgamādau ca lambanādyevameva hi |
+      śı̄ghrakarn. aghnakaks.yāyāh. tadvr.ttena sitajñayoh. || 37 ||
+      āptā hi sphut.akaks.yā syāt tadvaśāllambanādi ca |
+      As in the case of the Sun, the [dimension] of the orbits of the Moon and other planets
+      have to be obtained. It is only from their orbits that the parallax in longitude at the instant
+      of opposition, conjunction etc. have to be obtained in a similar manner [as described for
+      eclipses]. [In the case of Mars, Jupiter and Saturn], the mean radii of their orbit (kaks.yā-
+      vyāsārdha-yojanas) multiplied by the śı̄ghra-karn      . a [and divided by the trijyā] gives
+      the true orbital radii (sphut.akaks.yās). In the case of Mercury and Venus their mean orbital
+      radii in yojanas, multiplied by the śı̄ghra-karn   . a and divided by the mean radii of their
+      own orbits, give the true values of their orbital radii (sphut.akaks.yās). And from that the
+      parallax in longitude etc. [must be calculated].
+
+   Here it is stated that the average values of the radii of the planets in yojanas are
+to be determined from the orbit of the Moon, just as in the case of the Sun (chapter 4,
+verse 8).
+   According to the standard assumption in Indian astronomy, the mean linear ve-
+locities of all the planets have the same value. If R p and Rm are the mean radii of the
+planet and the Moon in yojanas, and N p and Nm are the number of revolutions made
+

@@ -1,0 +1,57 @@
+3.17 Directions from the shadow of the gnomon                                                      177
+
+                                                          R sin δ
+                                             R cos At =           .                            (3.88)
+                                                          cos φ
+
+From the above equation it is seen that the arkāgrā is known, once the declination
+of the Sun is known. The latitude of the place is already known by the measurement
+of shadow on the equinoctial day. Expressing the declination in terms of the true
+longitude of the Sun (3.88) reduces to
+
+                                                              R sin ε sin λ
+                              arkāgrā = |R cos At | =                     .                  (3.89)
+                                                                  cos φ
+
+Thus we see that the arkāgrā is known, if the sāyana longitude of the Sun is known
+at the time of rising or setting. The above expression for the arkāgrā is in terms of
+minutes of arc. It may be expressed in aṅgulas by multiplying it by the hypotenuse
+of the shadow K, which is measured in aṅgulas, and dividing it by the trijyā:
+
+                                                           sin δ
+                          agrajyā = |K cos At | = K
+                                                           cos φ
+                                                         K R sin ε sin λ
+                                                       =                 .                     (3.90)
+                                                         R     cos φ
+
+
+                               Z                                                     X
+                  φ
+               90−                                                              K
+                                   A          z                                     z 12           E
+         P                                                                Y                    Q
+                                                                                      (A−90)
+                                                                                L
+                                     z            S               N                                    S
+φ                                                                                    O
+                              X          E
+                                                                           W
+                      Y                Q
+                                                                                     (b)
+                      (A−90) O
+                                             horizon
+                          W
+                               (a)
+
+Fig. 3.16 Determination of the chāyābhujā from the śaṅkucchāyā.
+
+
+   Let the zenith distance and azimuth of the Sun be z and A respectively, as indi-
+cated in Fig. 3.16. Then considering the spherical triangle PZS,
+
+                cos(90 − δ ) = cos(90 − φ ) cosz + sin(90 − φ ) sin z cos A
+               or         sin δ = sin φ cos z + cos φ sin z cos A.                             (3.91)
+
+Multiplying this by the karn.a, K, and dividing by cos φ ,
+

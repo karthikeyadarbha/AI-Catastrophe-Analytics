@@ -1,0 +1,80 @@
+5.2 Finding the dr
+                 . kks.epa and the dr
+                                    . ggati                                                                                     309
+
+the observer’s zenith, which is called the khamadhya in the Indian astronomical lit-
+erature, is the only point where the parallax in longitude and latitude are both zero.
+Thus the condition for parallax in both longitude and latitude to be zero simultane-
+ously is: the celestial object must be at khamadhya (zenith).
+
+
+    .
+5 2 dx;k
+       , [ea;pa;dx;gga;tya;ea:=+a;na;ya;na;m,a
+
+
+5.2 Finding the dr
+                 . kks.epa and the dr
+                                    . ggati
+                               ñÍ
+        .=+a;Zya;;ma;Ma;Za;l+.öÅ                  ãÉa;a;a;pa na;ta;a;sua;Æa;BaH
+                               *:+.ea;tTa;pra;a;NEa;(                                    ÁÁ 3       ÁÁ
+
+                                                   çÉ     å
+        .=+va;Ea [a;ya;Da;nea kx +:tva;a ma;Dya;l+.îå
+                                                   +;aM .~.Pu +.fM na;yea;t,a            Á
+
+        ta;sma;a;a;d
+                   õ ;Sua;va;d;a;deH    .~va;kÒ +:a; / / 
+                                                    a;nta;k+:a;mRua;k+:ma;a;na;yea;t,a       ÁÁ 4         ÁÁ
+
+        ta;d;[a;. a;a;pa;sMa;ya;ea;ga;ea ;a;d;#sa;a;}yea Y;nta:=+ma;nya;Ta;a Á
+                                                                          Éç
+        ma;Dya:$ya;a;K.ya;a ;a;h ta:ê       *.aa;a .~ya;a;t,a :pra;a;gl+.îå
+                                            êÁ                            +;a;~ya;a;g{a;ma;Ea;a;vRa;k+:a          ÁÁ 5     ÁÁ
+
+        o+.d;ya:$ya;a ta;ya;ea;Ga;Ra;ta;a;t,a ;a:a:$ya;a;Ma ba;a;hu;ma;Ea;a;vRa;k+:a          Á
+
+
+        ma;Dya:$ya;a;ya;a; / /
+                          a;~:a:ja;a;va;a;ya;aH     kx +:a;ta;Bya;Ma ta;tkx +:a;tMa tya:jea;t,a              ÁÁ 6   ÁÁ
+
+             å                              È
+                          a;~:a:ja;a;va;a. îå Á
+        ta;n}.Ua;l+.ya;ea; / /             *+;ma;a;dùÅ;a;ma;nyea;na .sMa;h:=e+t,a   Á
+
+        l+.Bya;tea ta:a dx ;k
+                             , [ea;paH         ta;tk+:ea;a;f;dRx;gga;a;ta;mRa;ta;a       ÁÁ 7        ÁÁ
+
+        rāśyas..tamām. śalaṅkotthaprān  . aiścāpi natāsubhih. || 3 ||
+        ravau ks.ayaghane kr.tvā madhyalagnam             . sphut.am. nayet |
+        tasmādvis.uvadādeh. svakrāntikārmukamānayet || 4 ||
+        tadaks.acāpasam                          ′
+                            . yogo diksāmye ntaramanyathā |
+        madhyajyākhyā hi tajjyā syāt prāglagnasyāgramaurvikā || 5 ||
+        udayajyā tayorghātā trijyāptam       . bāhumaurvikā |
+        madhyajyāyāstrijı̄vāyāh. kr   . tibhyām . tatkr.tim. tyajet || 6 ||
+        tanmūlayostrijı̄vāghnamādyamanyena sam              . haret |
+        labhyate tatra dr     . kks.epah. tatkot.irdr . ggatirmatā || 7 ||
+        By [making use of] the hour angle and also the ascensional difference of one-eighth of
+        the rāśi for an observer at Laṅka, and applying it to the Sun positively or negatively, let
+        the true madhyalagna be obtained. From that, may the declination of the vis.uvadādi 3
+        be calculated. The sum—[if the directions are same]—or difference, if the directions are
+        different, of this and the latitude of the place is to be found. The Rsine of this is known
+        as the madhyajyā [and] the agrā of the orient ecliptic point will be the udayajyā. The
+        product of the two divided by the trijyā is the bāhumaurvikā. From the squares of the
+        madhyajyā and trijyā subtract the square of this (the bāhumaurvikā). Finding the square
+        roots of them, multiply the former by the trijyā and divide it by the latter. The resulting
+        quantity will be the dr.kks.epa and the kot.i of it is considered to be the dr.ggati.
+
+   In the above verses, the dr.kks.epa and the dr.ggati are expressed in terms of the
+madhyajyā and the udayajyā. These are used in the computation of parallax in
+longitude and latitude. In Fig. 5.3, ZV represents the zenith distance of the vitrib-
+halagna. R sin ZV is called the dr.kks.epa and R cos ZV is called the dr.ggati.
+   First, the madhyalagna or the longitude of the meridian ecliptic point (λml )—
+which refers to the longitude of the point of the ecliptic which intersects with the
+
+3
+  From the context, it seems that the word vis.uvadādi has been employed to refer to the meridian
+ecliptic point. However, the etymological derivation of this meaning is not clear.
+

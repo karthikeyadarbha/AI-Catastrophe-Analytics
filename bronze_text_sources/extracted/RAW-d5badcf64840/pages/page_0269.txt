@@ -1,0 +1,59 @@
+222                             C+.a;ya;a;pra;k+.=+Na;m,a                      Gnomonic shadow
+
+   trijyāpakramaghāto yah. yaśca śaṅkvaks.ayorvadhah. |
+   tayoryogāntaram
+                  . yattu golayoryāmyasaumyayoh. ||80 ||
+   bhābāhurlambakāpto ′smāt trijyāghnādbhāhr
+                                                  . tes..tadik |
+   The sum or difference of the product of the trijyā and the apakrama and that of the śaṅku
+   and the aks.a is found, depending upon whether the Sun is in the northern or the southern
+   hemisphere. The result divided by the lambaka is the bhābāhu. This multiplied by the
+   trijyā and divided by the bhā (chāyā) is the is..tadik (āśāgrā).
+
+    In the sixth problem the hour angle (nata) and amplitude (āśāgrā) are obtained
+in terms of the zenith distance (śaṅku), declination (apakrama or krānti) and the
+latitude (aks.a). That is, H and a are obtained in terms of z, δ and φ .
+    The expression for the krānti is given in two steps. Initially a term called the
+bhābāhu is defined thus:
+                                                        + śaṅku × aksa
+                                      trijyā × krānti ∼
+                      bhābāhu =                                      .
+                                                   lambaka
+                                      R × R| sin δ | ∼
+                                                     + R cos z × R sin φ
+                                    =                                    ,               (3.222)
+                                                    R cos φ
+where the sum/difference is considered when the declination is south/north. Then
+the āśāgrā is given by
+
+                               bhābāhu × trijyā
+                    āśāgrā =
+                                     chāyā
+                               [R × R| sin δ | ∼
+                                               + R cos z × R sin φ ]
+                     R sin a =                                       × R.                (3.223)
+                                        R cos φ × R sin z
+
+Here ‘+’ or ‘∼’ is to be taken when δ is negative or positive respectively.
+
+
+Proof:
+
+From (3.220),
+                         sin z cos φ sin a = ± (cos z sin φ − sin δ ),                   (3.224)
+when the āśāgrā is south/north. When the declination is south, − sin δ = | sin δ |, the
+āśāgrā is necessarily south and we have
+
+                                                | sin δ | + cosz sin φ
+                                   sin a =                             .                 (3.225)
+                                                      cos φ sin z
+
+When the declination is north,
+
+                                       sin δ = | sin δ |                                 (3.226)
+                                               | sin δ | − cosz sin φ
+                          and          sin a =                        .                  (3.227)
+                                                      cos φ sin z
+
+These coincide with the stated expression (3.223) for the āśāgrā.
+

@@ -1,0 +1,127 @@
+-29..7. 10
+
+(Of the triangle giving this corrected angular distance
+of half duration), the difference or sum of the latitudes
+(mentioned in 60-61) is the perpendicular, the (angular)
+distance got (in 48 as a first approximation) is the base
+and the corrected (angular) distance (of half-duration)
+is the hypotenuse. (62)
+
+Since there is no parallax for the lunar eclipse, the
+half-duration got from the (angular) distance (got in
+60-61).is the correct (half duration), the mid-eclipse is
+at opposition, and the true latitude of the Moon itself
+
+is the (corrected) latitude. (63). (KVS)
+विमदः
+22. 7. 11. विमदेवृतमिन्दू[नतमसोऽधंनः] साधितम्‌ |
+गतिक्षेत्नं विमद्धिकालश्चात्र च पूववत्‌ ।। ६४।।
+(Para., Grahana-nydya, 64)
+Total Eclipse
+
+The circle of total (lunar) eclipse is drawn with the
+semi-diameter of the Shadow minus that of the Moon
+(as radius). . Here also, the (angular) distance of half
+total phase and the time thereof are to be found as
+before. (64). (KVS)
+
+वलनम्‌--१ आक्षवलनम्‌
+22. 7. 12. नतोत्कमज्यानिहतः पलज्या त्रिज्ययोद्धृता |
+आक्षं स्याद्‌ वलनं, सौम्यं प्राह्णे, पश्चात्तु दक्षिणम्‌ ।। ६५
+नते तिथ्यधिक तत्तु विशच्च्ृडमिह स्फुटम्‌ |
+तिर्यग्गतिनं पाताले तदासक्नेऽप्यतो यतः ।। ६६ ॥
+आधिव्याद्‌ हरिजे तिरयेग्गतेर्त्करमसंग्रहः |
+उदये ह्युदगग्न॑ स्याद्‌ बिम्बमस्तमयेऽन्यथा ।। ६७ ॥
+युवृत्त[स्थ]स्य बिम्बस्य ह्युदये विगुणः श्रुति: ।
+तियंग्गति: पलज्या च, न स्यात्‌ सातोऽनुपाततः ।। ६८ ॥।
+
+— आयनवलनम्‌
+[चन्द्र)कोटयुत्करमज्याघ्नस्‌ ्िज्याप्तः परमापमः।
+आयनं वेलनं, दिक्‌ तु वेद्याऽत्राऽ्यनवत्‌ सदा । ६६ ॥।
+
+उदडमुखो मृगादौ हि खेटो, याम्यायनेऽन्यथा |
+
+-ति्येग्गतिस्तु गोलान्तेऽत्राधिक्यादुत्करमग्रहः ।। ७० ।।
+
+तियेग्गतिहि बिम्बस्य गोलान्ते परमापमः।
+
+त्रिज्याकर्ण स्त्वयनान्ते, न त्वतः सानृपाततः ।। ७१ ॥
+--२ स्फुटवलनम्‌
+
+तुल्यातुल्यदिशोर्योगभेदाद्‌ वलनचापयोः ।
+
+जीवा [सोमाकं]कणेध्ना च्िज्याप्ता वलनं स्फुटम्‌ ।७२।।
+
+(Para:, Grahana-nyadya., 65-71)
+
+Deviation in Direction
+t.. Deviation due to Latitude of place
+
+The. (tabular) sine of latitude multiplied by the
+(tabular) versine of (the hour-angle got from) the time
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 296
+
+before or after midday and divided by Trijya (i.e., by
+3438) gives the deviation due to the latitude of the place;
+this is northward in the forenoon and southward in the |
+afternoon. (65)
+
+If the time is more than 15 (nadikds) it should be
+deducted from 30 (दऽ) and the remainder taken
+as the correct time to be taken, because at the nadir
+and its neighbourhood there is no morth-south devia-
+tion. (66)
+
+The versine is to be used because near the horizon
+the change of deviation is a maximum. At rising, the
+orb is turned northward, and at setting (it.is turned)
+
+.in the opposite direction; (and, this is the reason for the
+
+northward or southward deviation). (67)
+
+The orb is on its diurnal circle, and, at rising, the
+sine of three rdsis (i.e, Trijya) is the hypotenuse, and the
+sine of the latitude gives the deviation. Therefore the
+
+‘deviation cannot be proportionate (to the sine of the
+
+hour-angle).1 (68)
+
+ii. Deviation due to the Moon’s course
+
+The maximum declination, multiplied by the versine
+of the Moon’s kofi and divided by Trijyd, gives the devia-
+tion due to the Moon’s course. Here, the direction is
+always the direction of the course: (69)
+
+For the planet is in its northward course (when in the
+six Signs) from Capricorn, and in its southward course,
+otherwise. The (maximum) deviation is when (itis) at
+the ends of the (southern and northern) hemispheres,
+(i.e., at the first points of Aries and Libra). The versine
+is used sine the maximum variation is at these
+point.2 (70)
+
+At the ends of the hemispheres (7.¢., at the first points
+of Aries and Libra) the deviation in the direction of the
+orb is equal to the maximum declination. But the
+hypotenuse is equal to Trijya at the ends of the
+courses, (४.९ at the beginning of Cancer and of Cap-
+ricorn). Therefore the deviation cannot be propor-
+tionate (to the sine). (71).
+tit. “Total deviation
+
+Find the two arcs of deviation and add them together
+or take their difference respectively, according as they
+are of the same or different directions. Find the sine,
+multiply it by the diameter of the Moon or the Sun
+(as the case may be) and divide by Trijya. This gives
+the Total deviation. (72). (KVS)
+
+1 The reasoning in 67-68 is shown to be wrong by Bhaskaracarya
+II (vide his SiddhantaSiromani, Gola., Grahapavasana, 36 ff.
+
+®Here too the use of the versine is wrong as shown by
+Bhaskaracarya, ibid.

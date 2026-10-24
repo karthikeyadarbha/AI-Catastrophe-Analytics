@@ -1,0 +1,65 @@
+3.35 Determination of H and φ from z, δ and a                                                                      223
+
+        ñÍ
+  .
+3 35 Za;öÅ
+        *:+.pa;k
+        öÅ
+               Ò +:ma;a;Za;a;g{a;a;Æa;BaH                     na;ta;a;[a;Ea
+
+
+3.35 Determination of the hour angle and latitude from the
+     zenith distance, declination and amplitude (Problem 7)
+
+      va;ga;Ra;nta:=+pa;dM ya;t,a .~ya;a;t,a C+.a;ya;a;k+:ea;a;f;dùÅ;au:ja;a;va;ya;eaH          Á Á 81    ÁÁ
+
+                                                  ñÍ
+      ta;. C+.a;ya;a;ba;a;hu;ya;ea;ga;ea yaH   Za;öÅ
+                                                  *: u +.kÒ +:a;ntyEa;k+.a;va;gRa;taH       Á
+
+
+                                     a;sma;ea;va ta;t,a .~va;mxa;NMa :pxa;Ta;k
+      .tea;na;a;Ma ya;t,a :P+.lM ta; / / / / /                               ,                 Á Á 82   ÁÁ
+
+      ta;ya;ea:=+pa;h;ta;a ;a:a:$ya;a ma;h;ta;a;a;a;[a;ma;Ea;a;vRa;k+:a               Á
+
+      vargāntarapadam   . yat syāt chāyākot.idyujı̄vayoh. || 81 ||
+      tacchāyābāhuyogo yah   . śaṅkukrāntyaikyavargatah. |
+      tenāptam . yat phalam   . tasminneva tat svamr. .nam  . pr.thak ||82 ||
+      tayoralpahatā trijyā mahatāptāks.amaurvikā |
+      The square root of the difference of the squares of the dyujyā and the chāyākot.i is found
+      and it is added to the chāyābāhu [to get D]. The square of the sum of the śaṅku and the
+      krānti is divided by this, (D) [to obtain say, C]. To the result (C), kept separately, D is
+      added and subtracted. The smaller one multiplied by the trijyā and divided by the larger
+      one gives the aks.ajyā.
+
+    In Problem 7, the hour angle (nata) and latitude (aks.a) are obtained in terms
+of the zenith distance (śaṅku), the declination (krānti) and the amplitude (āśāgrā).
+That is, H and φ are obtained in terms of z, δ and a.
+    The expression for the hour angle has already been found in the earlier problems.
+Hence, in the above verses the expression for the aks.a alone is considered. As usual,
+it is convenient to define a few intermediate quantities. Initially a term, say x, is
+defined as:
+                               q
+                          x = dyujyā2 − chāyākot.i2
+                               q
+                            = (R cos δ )2 − (R sin H cos δ )2
+                                                     = R cos H cos δ .                                          (3.228)
+
+The chāyābāhu, R sin z sin a, must be added to x. The result (D) is given by
+
+                                                    D = R cos H cos δ + R sin z sin a.                          (3.229)
+
+In the next step, another quantity (say C) is defined as
+
+                                                                       (R cos z + R sin δ )2
+                                                            C=                               .                  (3.230)
+                                                                                D
+Then the sum and difference of C and D are found. Of these two, obviously the
+difference (C − D) will be smaller than the sum (C + D). Then the aks.a is the ratio
+of the product of the smaller one and the trijyā to that of the larger one. That is,
+
+                                                                           (C − D)
+                                                               aks.a = R ×         .                            (3.231)
+                                                                           (C + D)
+

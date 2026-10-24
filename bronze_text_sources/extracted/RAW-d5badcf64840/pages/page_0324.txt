@@ -1,0 +1,52 @@
+4.15 The time of the first and the last contact                                               277
+
+   The content of the above verses can be explained as follows. First, an intermedi-
+ate angle θ is defined thus:
+                             s
+                                    cos2 βmax × sin2 (λs − λn )
+                     sin θ = βt2 +                              ,              (4.42)
+                                             cos2 βt
+
+where βt and βmax are the instantaneous and maximum latitudes of the Moon, and λs ,
+λm and λn are the longitudes of the Sun, the Moon and the node respectively. Having
+found the arc θ corresponding to this, the quantity δ t p , which is to be applied to the
+instant of opposition (tm ), is defined to be
+
+                               ((λm − λn ) − θ )
+                      δ tp =                     × 60           (in ghat.ikās).            (4.43)
+                                   λ̇m − λ̇s
+As λm = λs + 180◦, |R sin(λm − λn )| = |R sin(λs − λn )|. δ t p is to be added to the
+instant of opposition if the latitude is in the even quadrant, and subtracted from it if
+the latitude is in the odd quadrant.
+   Here we give a geometrical representation of the expression for θ appearing in
+(4.42). In this equation, we can replace λs by λm , since λm = λs or λs + 180◦ at the
+instant of opposition for an eclipse.
+
+                                             O
+
+
+                                          λ m λn
+                                                  θ               βt
+                                                      θp
+
+                                                                                       M1
+                                                                                   M
+                          R1
+                                                      βmax                Mp
+                      R                                                            F
+                                                                                        M’
+                R’
+                         so    rbit                                                    F’
+                   Moon’               β max                 ecliptic
+
+              N
+Fig. 4.8a Determination of the paramagrāsakāla from the instant of opposition obtained through
+an iterative process.
+
+
+   In Fig. 4.8a, O is the centre of the celestial sphere and N the ascending node
+of the Moon’s orbit, whose inclination to the ecliptic is indicated as βmax . M is the
+position of the Moon at conjunction or opposition and its latitude at that instant is
+denoted by βt . MR and MF are perpendiculars to the line of nodes and the plane of
+the ecliptic respectively. It is easily seen from the figure that
+

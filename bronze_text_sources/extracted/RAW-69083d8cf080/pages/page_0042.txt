@@ -1,0 +1,41 @@
+xlii GANITA-YUKTIBHASA
+
+In Ch.VI, the Yuktibhasa gives several formulae for determining the
+circumference of a circle of a given diameter. Some of the methods involve
+the properties of right angled triangles, towards which the properties of right
+angled triangles are demonstrated graphically. For the methods which involve
+different summations of series, the derivation of those series is also
+demonstrated. Among the latter are the summations of consecutive numbers,
+the summation of squares, the summation of cubes and higher powers, and
+the summation of summations. In the case of certain formulae, Yuktibhdsa
+enunciates -further rules towards making the derived results more and more
+accurate. Attention of scholars might be drawn here to a series of papers
+wherein Prof. C.T. Rajagopal, former Director, Ramanujan Institute of
+Mathematics, University of Madras, and his associates who have worked out,
+in terms of modern mathematics, the above-said series and the different
+formulae enunciated in the Yuktibhasa. They have also shown that these are
+much prior to the discoveries made more than.a century later by the Western
+scientists, James Gregory (1671), 0.४. Leibntz (1673) and Isaac Newton
+(1670).19
+
+Ch.VII forms a long disquisition of rationale relating to Rsines, their
+modifications and allied subjects. The chapter commences with an elaborate
+exposition of the geometrical derivation of the 24 Rsines for 3° 45’ each and
+explanations of allied terms like Rcosine, Rversed sine, arc, bhujakhanda,
+kotikhanda, jivakhanda and khandajya and their mutual relationship. Some of
+the other topics elucidated herein are: Accurate determination of the Rsines,
+Computation of the Rsine of any given arc, Computation of the arc of any
+given Rsine, Summation of Rsine differences and of Rversed sine differences.
+Accurate determination of the circumference of a circle making use of the said
+summations, Rsine of the sum of two angles, Cyclic quadrilaterals and their
+properties, Square of the area of a circle, Derivation of Rversed sines,
+Derivation of Rsine shadow, Surface area of a sphere and Volume of a sphere.
+The author of the Yuktibhasa elucidates the rationale of the several items either
+geometrically or algebraically or using both means as the occasion demands.
+
+शा deals with the Planetary Theory and the computation of Mean
+and True Planets. At the outset, the concepts of the Mean Sun, Moon and
+other planets, their linear velocities and angular motions are described. As in
+all other Hindu astronomical treatises the assumption is made that the linear
+velocity of all the planets is the same but the angular motion varies depending
+on the dimension of their circular orbits. The Epicyclic Theory for the sun

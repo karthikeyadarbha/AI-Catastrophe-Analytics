@@ -1,0 +1,64 @@
+1.9 Number of revolutions of planets in a Mahāyuga                                                                                   25
+
+                                               No. Name of Yuga Duration (years)
+                                               1    Kr.tayuga       1728000
+                                               2    Tretāyuga      1296000
+                                               3    Dvāparayuga      864000
+                                               4    Kaliyuga          432000
+Table 1.4 The four yugas constituting a Mahāyuga and their durations as given in
+Sūryasiddhānta.
+
+
+
+   It may be noted that the periods of these four yugas are in the ratio 4:3:2:1 re-
+spectively. Because of this pattern the total number of years in a Mahāyuga happens
+to be just 10 times the number of years in the Kaliyuga. However, some scholars
+are of the view that Āryabhat.a might have employed a different scheme for the di-
+vision of the four yugas, in which all of them are taken to be of equal periods. This
+view is based on the use of the term ‘pāda’, which means quarter, in the expression
+‘kalpāderyugapādāh. ga ca’ (... [and] three-fourths of the yuga [have elapsed] since
+the beginning of the Kalpa [till the beginning of the current Kaliyuga]).36
+
+
+Revolutions completed by the planets in a Mahāyuga
+
+In verses 16–18a, Nı̄lakan.t.ha gives the number of revolutions completed by the
+planets in a Mahāyuga. In doing so, he has adopted the Bhūta-saṅkhyā37 system of
+numeration. Table 1.5 presents the number of revolutions completed by the planets
+in a Mahāyuga, along with their Sanskrit equivalents as given in the text.
+
+
+                        Planet                                  Number of revolutions
+                                              in bhūtasaṅkhyā-paddhati                         in numerals
+                                                   È
+                        Sun           A;yua;ta. îå Á
+                                                  *+:=+d;a;NRa;va;aH                                 4320000
+                        Moon          Ka;a;a:(õ;a;de;vea;Sua;sa;a;a;a;dÒ+Za:=+aH                  57753320
+                                                                                  ñÍ
+                        Mercury       na;a;ga;vea;d;na;Ba;ssa;a:=+a;ma;a;öÅ*:+.~va:=+BUa;ma;yaH   17937048
+                                                ñÍ
+                        Venus         A;;a;çÅ
+                                                          åò
+                                                *:+.d;~:a;nea:a;a;a:(   õ
+                                                                      ;a;Ka;a;dÒ+yaH                7022268
+                                               ñÍ                 ñÍ
+                        Mars          :vea;d;a;*:+.a;
+                                               çÅ a;h:=+sa;a;*:+.a;
+                                                                  öÅ   a:(
+                                                                          õ;a;k+.=+aH               2296864
+                                                                      ñÍ
+                        Jupiter       v.ya;ea;ma;a;:+.pa;vea;d;a;çÅ *:+.pa;a;va;k+:aH               364180
+                                                       ñÍ
+                        Saturn        Ba;a;~k+.=+a;ç Å *:+=+sea;ndÒ+aH                                146612
+                        Moon’s apogee nea:a;a;k+:Ra;;a;a;h;vea;d;aH                                 488122
+                        Moon’s node Ka;Ka:=+a;ma:=+d;a;a:(       õ;a;naH                             232300
+Table 1.5 The number of revolutions completed by the planets in a Mahāyuga.
+
+
+
+
+36 k+:a;h;ea ma;na;va;ea Q, ma;nua;yua;ga;aH        ZKa, ga;ta;a;~tea .. a, ma;nua;yua;ga;aH îÅå É *:+a .. a Á
+
+k+:pa;a;de;yRua;ga;pa;a;d;a ga . a   , gua:+:a;d;va;sa;a;a Ba;a:=+ta;a;t,a :pUa;vRa;m,a Á Á – {AB 1976} (Gı̄tikāpāda, 5), p. 9
+37 For details regarding the Bhūta-saṅkhyā system, the reader is referred to Appendix A.
+

@@ -1,0 +1,125 @@
+175 13.
+
+'द्विकयमलै'रध्यधं
+
+वक्री मनु भिद्धंयं नखै'श्चतुरः |
+अष्टा चतुरो भागान्‌
+
+विपरीतमतः पुनर्जीवः ।। १३ ॥
+
+भूक्त्वोदितो 'जिने देश
+
+पश्चा चन्दाग्निभि TTA ISS ।
+fart: सूर्यान्‌ त्रिधनेन
+
+सप्त धृत्या" सपादांशम्‌ ।। १४ ॥
+
+स्वमृणं त्येकैश्चतुर:
+पादाभ्यधिकान्‌ भवैदिशो वक्री |
+
+सूर्येजिना नदृश्यस्त्रिभिरष्टी `
+प्रागूविलोमोऽतः ।1 १५ ॥।
+
+विशत्या द्रौ भुक्त्वा
+
+प्रागुदितो 'रसहुताशन'स्त्रितयम्‌ |
+खयमे'रंशकमेकं
+
+नखै'स्त्रिभागां शकं स्वमृणम्‌ ।। १६ ॥
+विशत्यांशत्यंशं `
+
+वक्री सप्तदशभिः शनिभगिम्‌ |
+द्वाविशत्या द्वितयं
+
+'तत्त्वै'स्त्रितयं विलोमोऽतः ।। १७ ।।
+
+शी घ्रफलार्धमनष्टे
+मन्दफला्धं च मन्दशीघ्रफले |
+सकले मध्ये स्पष्टः
+शीध्रं मध्योनकं केन्द्रम्‌ ।। १८ ॥
+(Brahmagupta, KK, I. 2. 6-18)
+
+—True Planets
+
+The mandaphala of Venus is the same as that of the
+Sun. The mandaphala of the son of the Moon, (that is, of
+Mercury), is twice that of the Sun. The mandaphala of
+Mars is 5 times that of the Sun. The mandaphala of
+Jupiter is 1% times that of the Sun and doubled. The
+mandaphala of Saturn is 17% times that of the sun and
+quadrupled. (6b-7)
+
+Mars has a Sighraphala (SP) of 11° corresponding to a
+Sighrakendra (SK) of 28°, when it rises in the east. For
+the next SK of 32°, it has a SP of 12°; for the next 30°,
+it is 10°; for the next 31°, one of 7° more; and for the
+next 14°, one of $° more. All these SPs are positive.
+Then the SPs are negative. For the next $K of 13°,
+the SP decreases by 3०. and for the next 16° by 12°.
+Then the motion is retrograde. For the next SK of 9°,
+the 59 decreases by 13°, and for the next 7° by 123°.
+Then Mars has the same SP in the reverse order. (8-9)
+
+1 For the positive, ‘more’ is used. For the negative, ‘less’ or
+5 decreased › is used.
+
+PLANETS
+
+13, 34. 2d
+
+Mercury has a 8 of 13° corresponding to a SK of 51°
+and rises in the west. Then for the next SK of 38°,
+it has a SP of 7° more, and for the next 31° one of 1f°
+more. All these SPs are positive. Then they become
+negative. For the next SK of 26°, the SP decreases by
+5°. Then the motion is retrograde. For the next $K
+of 9°, the SP decreases by 34°. Then Mercury sets in
+the west. For the next SK of 25°, the SP decreases by
+13°. After this, Mercury has the same SP in the reverse
+order. (10-11)
+
+When Jupiter has a 8 of 2 1/3° corresponding to a
+SK of 14°, it rises in the east. For the next SK of 40°,
+it has a SP of 6° more; for the next 36°, one of 3° more;
+and for the next 18°, one of 10° more. These SPs are
+positive. Then they become negative. For the next
+SK of 22°, the SP decreases by 14°. The motion is then
+retrograde. For the next SK of 14°, the SP is 2° less;
+for the next 20°, 4° less and for the nex} 16°, 4° less.
+The SPs then repeat in the reverse order. ( 12-13)
+
+When the son of Bhrgu, (that is Venus), has a SP
+of 10° corresponding to a SK of 24°, it rises in the west.
+For the next SK of 39°, it has a SP of 16° more; for the
+next 33°, one of 12° more; for the next 27°, one of 7°
+more ; and for the next 18°, one of 14° more. These SPs
+are positive. After this, they are negative. For the
+next SK of 13°, the SP decreases by 4}°; and for the
+next 11°, by 10°. Then the motion is retrograde. For
+the next SK of 12°, the SP is 24° less. Venus then sets
+in the west. For the next SK of 3°, the SP is 8° less.
+The 59 then repeat in the reverse order. (14-1 5)
+
+When Saturn has a 57 of 2° corresponding to a $K
+of 20°, it rises in the east. For the next SK of 36°, it has
+a SP of 3° more; for the next 20°, one of 1° more, and
+for the next 20°, one of 1/3° more. These SPs are positive.
+Then they are negative. For the next SK of 20°, it
+has a SP of 1/3° less. Then the motion is retrograde.
+For the next SK of 17°, the SP is 1° less; for the next 22°,
+2° less and for the next 25°, 3° less. Then the SPs repeat
+in the reverse order. (16-17)
+
+Calculate the $P from the mean longitude of a planet.
+If it is positive, add half of it to the mean longitude; if
+negative, subtract half of it from the mean longitude.
+The result is the longitude of the planet corrected once.
+Use this result to calculate the mandaphala. Add half of
+the mandaphala to the result, if the mandakendra is greater
+than 6 Signs ; subtract, if less than 6 Signs. The reuslt is
+the longitude of the planet corrected twice. Use this
+result to calculate again the mandaphala. Add it to the
+given mean longitude of the planet, if the mandakendra
+is greater than 6 Signs; subtract, if less. The result is
+the longitude of the planet corrected thrice or manda-
+sphuja planet. From this calculate the SP. Add it to

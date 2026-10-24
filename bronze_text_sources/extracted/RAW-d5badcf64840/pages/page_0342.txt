@@ -1,0 +1,54 @@
+4.18 Accurate distance of separation between the orbs                                          295
+                                                     2
+                                        2 R sin θ2
+                                      =
+                                             R
+                                                     2
+                                         2R sin θ2
+                                      =
+                                            2R
+                                        (Rθ )2
+                                      ≃                   (since θ is small).                (4.90)
+                                         2R
+
+In his reply to the student’s query the teacher essentially states that 2R sin θ2 ≃ Rθ
+for a small θ .
+
+                                                   samastajya       A
+
+
+
+                                          θ
+                                  θ       2
+
+
+
+
+                                                                    B
+Fig. 4.16a The Rsine of an arc when the arc itself is small.
+
+
+
+
+Portion of the Moon obscured
+
+
+
+
+                                                                                        it
+                                                                           n’   s orb
+          ecliptic                O                                     Moo
+                                   Y
+
+                     A          X’
+                                A’                   of
+                   X                        r ec tion tion
+                                         di         mo
+                                           o  o n’s
+                                         M
+Fig. 4.16b Finding the portion of the Moon obscured at any instant of time during the eclipse.
+
+
+   The portion of the Moon obscured at any instant of time during the eclipse is
+called grāsa. In the second half of verse 41, it is given to be
+

@@ -1,0 +1,41 @@
+C.4 Equation of time                                                                     465
+
+1. When the Sun is at the perigee, the dynamical mean Sun starts off its motion
+   along the ecliptic with a uniform angular speed in such a way that it would meet
+   the true Sun again at the perigee after one complete revolution.
+2. The motion of the mean Sun is such that it starts off its motion along the
+   equator—with uniform angular speed, when the dynamical mean Sun is at the
+   vernal equinox—in such a way that it would meet the dynamical mean Sun again
+   at the vernal equinox after one complete revolution.
+   The difference between the right ascension of the mean Sun (RAMS) and that of
+the actual Sun (RA⊙) is defined as the equation of time (ε ) . That is,
+
+                                   ε = RAMS − RA ⊙                                    (C.11)
+                                     = H.A. ⊙ −H.A.M.S.                               (C.12)
+
+
+
+                   m
+             +15
+                   m
+             +10
+                   m
+              +5
+
+                   0
+                          May 21    July 21   Sept 21      Nov 21   Jan 21   Mar 21
+                   m
+              −5
+                   m
+             −10
+                   m
+             −15
+
+
+Fig. C.10 Variation in the equation of time over a year.
+
+
+   A graph depicting the variation in the equation of time over the period of an
+year is shown in Fig. C.10. The equation of time is the time difference between the
+meridian transits of the true Sun and the mean Sun.
+

@@ -1,0 +1,55 @@
+4.21 Deflection due to latitude and that due to declination                                             301
+
+the chāyā and the Moon). The local east–west line passing through O is depicted in
+the figure.
+
+
+                          line of motion
+                          of the shadow               A
+                                                                   ( valana in the bimbāntaravr.tta )
+                                              Z                               GF = S sin ψ
+           bimbāntaravr.tta
+   (a)                                            Ε
+                                                          F                              E
+                                              ψ                                                    F
+                                                              S                          G
+                                                                                              ψ
+                           ψ                      O
+                 K
+                                                  W B
+                  secondary to the                                                           O
+                   prime vertical                         parallel to the                         (b)
+                                       c
+                                     i pt i               prime vertical
+                                  E cl
+  N
+
+                                                               horizon
+                                              W
+Fig. 4.19 Application of the sum of or the difference between the aks.avalana and the
+āyanavalana.
+
+
+    We draw FG perpendicular to the local east–west line OE as indicated in
+Fig. 4.19(b). FG, which is the distance between F and the local east–west line,
+is the true valana (inclination) in the circle whose radius is the separation between
+the discs;
+
+                               FG = sin ψ × OF
+                                              OF
+                                  = R sin ψ ×
+                                               R
+                                              bimbāntara
+                                  = R sin ψ ×             .                                       (4.106)
+                                                 trijyā
+This is what is explained in verse 46a of the text.
+
+
+Note:
+
+In the discussion above, we have pointed out the errors in the expression for
+the aks.avalana and the āyanavalana. In fact, the same errors are to be found
+in Yuktibhās.ā also. Moreover, the latitude of Moon is neglected here. In Yuk-
+tibhās.ā, however, the effect of latitude is included through another term called the
+‘viks.epavalana’.
+

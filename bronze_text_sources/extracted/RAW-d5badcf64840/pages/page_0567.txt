@@ -1,0 +1,89 @@
+520                                          The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                                               . t.ha
+
+is not circumscribed by the orbit of the interior planets, Mercury and Venus; and that
+the mean period of motion in longitude of these planets around the Earth is the same
+as that of the Sun, precisely because they are being carried around the Earth by the
+Sun. In fact, Nı̄lakan. .tha seems to be the first savant in the history of astronomy to
+clearly deduce from his computational scheme (and not from any speculative or cos-
+mological argument) that the interior planets go around the Sun and that the period
+of their motion around the Sun is also the period of their latitudinal motion.
+
+   O;;ta;d
+         u ;M       Ba;va;a;ta Á      ta;ya;eaH   Bra;ma;Na;vxa:ea;na    na     BUaH      k+:ba;l+.a;a;k
+                                                                                                          Ò +:ya;tea Á        ta;ta;ea    ba;a;h;=e+va      .sa;d;a    BUaH Á
+
+   Ba;ga;ea;lE+.k+:pa;a:(õ;eRa    O;;va     ta;d
+                                               õx :a;~ya   :pa;a:=+sa;ma;a;a:va;a;t,a    ta;;
+                                                                                                ÂåÅ +ga;Nea;na       na   d;a;d;Za:=+a;a;Za;Sua
+                                                                                                                          õ                            .. a;a:=H   .~ya;a;t,a Á
+
+
+   ta;ya;ea:=+a;pa     va;~tua;taH         A;a;a;d;tya;ma;Dya;ma          O;;va     Za;a;Gra;ea;a;m,a Á       Za;a;Gra;ea;a;Ba;ga;Na;tvea;na       :pa;a;F+.ta;a     O;;va
+
+   .~va;Ba;ga;Na;aH Á         ta;Ta;a;a;pa     A;a;a;d;tya;Bra;ma;Na;va;Za;a;de;va          d;a;d;Za:=+a;a;Za;Sua
+                                                                                            õ                             .. a;a:=H      .~ya;a;t,a,      Za;a;Gra;vxa:a;~ya
+
+   k+:[ya;a;ya;aH        ma;h:va;a;t,a Á      Za;a;Gra;ea;a;na;a;. a;vxa:a;~ya;a;pyea;k+:Ba;a;ga;ga;mea;va .~va;Bra;ma;Na;vxa:a;m,a Á              ya;Ta;a   ku +.ja;a -
+   d;a;na;a;ma;a;pa    Za;a;Gra;ea;Ma   .~va;ma;nd;k+:[ya;a;ma;Nq+.l+.a;a;d;k+:ma;a;k+:SRa;a;ta                  O;;va;mea;ta;ya;ea:=+a;pa Á    A;na;ya;eaH         :pua;naH
+
+   ta;d;a;k+:SRa;Na;va;Za;a;de;va õ
+                                  d;a;d;Za:=+a;a;Za;Sua .. a;a:= I+.a;ta Á
+
+
+
+
+   Nı̄lakan.t.ha presents his cosmological model very clearly in a remarkable short
+tract called Grahasphut.ānayane viks.epavāsanā, which seems to have been written
+after Āryabhat.ı̄ya-bhās.ya as it quotes extensively from it. Here he clearly integrates
+the geometrical picture of motion of different planets into a single model of the plan-
+etary system by identifying the śı̄ghrocca, that each of the planets goes around, with
+the physical ‘mean Sun moving on the orbit of the Sun’. Based on this identifica-
+tion, Nı̄lakan. .tha also states that the ratio of the radius of the śı̄ghra epicycle to that
+of the concentric is nothing but the ratio of the mean radius of the orbit of the Sun
+around the Earth to the mean radius of the orbit of the planet itself, in the case of the
+exterior planets, while it is the other way around in the case of the interior planets.
+He further explains that this difference between the exterior and interior planets is
+because, in the case of the interior planets, their orbit is smaller than the orbit of the
+Sun around the Earth and the dimensions of the epicycle and concentric have to be
+interchanged. In Nı̄lakan.t.ha’s own words:
+
+   I+.n õ
+       d;a;deH       .~va;~va;pa;a;ta;d
+                                      õ ;ya;ta o+.d;ga;va;a;g,a A;DRa;ZaH                   a;nta;vxa:a;a;t,a
+                                                                                       k+:a; ////
+                                                                                       Ò
+
+                                                                                                       ñÍ
+   ;a;va;Æa;[a;a;a ma;a;nd;k+:[ya;a k+:a;Ta;ta;a;na:ja;l+.vEaH                 .sa;vRa;d;a tua;ya;sa;*ÉËù
+                                                                                                          +;aEH Á
+                                                                                                            Á
+
+   ta:ea;nd;ea;ma;Ra;nd;k+:[ya;a hùÅ:a;pa;ma;va;l+.ya;ma;Dya;~Ta;ke +:ndÒ+a ku +.ja;a;de                   -
+   ma;Ra;nd;aH       k+:[ya;a Ba;ga;ea;l+. / / / 
+                                          a;~Ta;ta;a;d;na;k+.=+k+:[ya;a;~Ta;ma;Dya;a;kR +:ke +:ndÒ+aH Á Á
+
+
+
+         ú
+   ;a;k+.*.              R +.ja;a;na;Ma ;a;na:ja;vxa;a;ta;k+:l+.ya;a ma;a;pa;a;ya;tva;a;k
+         ãÁa;a:=e+q:a;a;k                                                               R +:k+:[ya;Ma
+
+   ZEa;Gra;a;Nyua;+:a;a;na vxa:a;a;a;na ;a;h bua;Da;Æa;sa;ta;ya;ea;~tva;k
+                                                                          R +:k+:[ya;a;k+:l+.a;Æa;BaH Á
+
+   .~va;Ma k+:[ya;Ma ma;a;pa;a;ya;tva;a :pua;na;a:=+h k+:a;Ta;tea Za;a;Gra;vxa:ea ya;ta;ea Y;ta;ea
+
+   Ba;a;na;ea;mRa;DyMa .~va;ma;DyMa Ba;va;a;ta . a;l+.a;va;Da;Ea .~va;a;ya;ma;DyMa .. a;l+.ea;a;m,a Á Á
+
+
+
+   :pUa;va;Ra;. a;a;yERa;~tua ma;a;nde A;a;pa Ka;lu :pa;a:=+Da;a Ba;a;nua;k+:[ya;a;k+:l+.a;Æa;BaH
+
+   ma;a;tva;ea;e .tea;na ma;a;nde Y;a;pa . a ;a;d;na;k+.=+ma;DyMa .~va;ma;DyMa ta;ya;eaH                          .~ya;a;t,a Á
+
+   ma;nd;ea;a;ea;na;a;k
+                       R +:ma;Dya;a;d
+                                    u ;a;d;ta;mxa;d
+                                                  u ;P+.lM [ea;pa;na;a;ta;Ea .. a;l+.ea;ea
+

@@ -1,0 +1,67 @@
+120                                               å
+                                                .~.Pu+.f;pra;k+.=+Na;m,a                                      True longitudes of planets
+
+               Èå
+               î
+   ;a:a:$ya;a.*+ÁM k+:NRa;Ba;M ya;t,a ta:;d
+                                            Äâ ;nua;dR;l+.mea;va .. a            Á
+
+   ma;Dya;mea kx +:ta;ma;a;nde tua .sMa;~kx +:tya;a;ta;ea ;a;va;Za;ea;Da;yea;t,a                Á Á 66   ÁÁ
+
+                          x    ïîéå
+   ma;nd;ea;Ma ta;tP+.lM k+:t=+:   Ma ku +:ya;Ra;t,a :ke +:va;l+.ma;Dya;mea                Á
+
+                        ëÅ
+   ta;sma;a;t,a :pxa;Ta;ë
+                        *:Áx +:ta;a;. CE+.GrMa :pra;a;gva;d;a;na;a;ya .. a;a;a;pa;ta;m,a       Á Á 67   ÁÁ
+
+   x                                                      å
+   k+:ta;ma;a;nde tua k+:tRa;v.yMa .sa;k+:lM .~ya;a;t,a .~.Pu+.fH                    .sa .. a      Á
+
+   doh.kot.ijyās..tamām . śau khakhābdhyam      . śonau śaneh. phale |
+   dorjyā trijyāptasaptaikyam      . gun   . o mānde kujed.yayoh. || 61 ||
+   navāgnayo dvyaśı̄tiśca hārau doh        . kot.ijı̄vayoh. |
+   pr.thaksthe madhyame kāryam          . doh.phalasya dhanurdalam || 62 ||
+   ravimadhyam      . viśodhyāsmāt pr   . thaksthāt bāhukot.ike |
+    ānı̄ya bāhujı̄vāyāh. trijyāptam. gurumandayoh. || 63 ||
+   s.od.aśabhyo navabhyaśca kujasyāpi svadorgun             . āt |
+    trijyāptam . dvigun  . am. śodhyam  . trı̄s.ubhyah. śis.yate gun. ah. || 64 ||
+    aśı̄tireva tes.ām. hi hārastābhyām   . phale ubhe |
+    ānı̄ya pūrvavat karn    . am
+                                 . sakr.tkr . tvātha doh.phalam || 65 ||
+    trijyāghnam   . karn. abhaktam  . yat taddhanurdalameva ca |
+    madhyame kr      . tamānde tu sam   . skr . tyāto viśodhayet || 66 ||
+    mandoccam     . tatphalam   . kr.tsnam  . kuryāt kevalamadhyame |
+    tasmāt pr . thakkr.tācchaighram   . prāgvadānı̄ya cāpitam || 67 ||
+    kr. tamānde tu kartavyam      . sakalam    . syāt sphut.ah. sa ca |
+    One-eighth of the dorjyā and kot.ijyā (sine and cosine of the manda-kendra), diminished
+    by one-fortieth of the same, form the doh.phala and kot.iphala in the case of Saturn. The
+    dorjyā divided by the trijyā and added to 7, forms the gun        . a (multiplier) for Mars and
+    Jupiter. 39 and 82 are the hāra (divisor) for Mars and Jupiter respectively. Half of the arc
+    of the doh.phala has to be applied to the mean longitude of the planet (P0 ) to get the first
+    corrected longitude (P1 ).
+   Subtracting the longitude of the Sun (the śı̄ghrocca) from this (P1 ), the dorjyā and kot.ijyā
+   are obtained. Dividing the dorjyā by the trijyā and subtracting from 16 and 9, we get
+   the multipliers for Jupiter and Mars respectively. The same (dorjyā) multiplied by 2 and
+   subtracted from 53 forms the multiplier for Mars.
+   80 is the divisor for all of them (in the śı̄ghra-sam       . skāra). From them (the multiplier
+   and divisor of all the three planets) after obtaining the doh.phala and kot.iphala, and the
+   sakr. tkarn . a (once calculated hypotenuse), half of the doh.phala multiplied by the trijyā
+   and divided by the karn   . a is applied to the first corrected longitude (P1 ). (The longitude thus
+   obtained is, say, P2 .) From this (P2 ), let the mandocca be subtracted and the full manda-
+   phala be obtained; let that be applied to the original mean planet (P0 to get say P3 ). From
+   that (P3 ) let śı̄ghra-phala be obtained as before, and let this be applied fully to the manda-
+   corrected planet (P3 ). The longitude obtained thus is the sphut.a (the true longitude of the
+   planet).
+
+    A detailed and comprehensive discussion of the planetary model, and the geo-
+metrical picture implied by it in the traditional scheme, as well as the modification
+introduced by Nı̄lakan.t.ha, can be found in Appendix F. Here and in the following
+sections we confine our explanation mainly to the computational scheme described
+in the verses of the text.
+    The computation of the manda-sphut.a has already been described in the earlier
+verses in this chapter. Let θ0 , θm , θms be the mean longitude and the longitudes of
+the mandocca and the manda-sphut.a respectively. Also let R, r and K be radii of
+the deferent circle (trijyā), the epicycle and the manda-karn.a-vr.tta respectively. r
+is proportional to K and Kr = rR0 where, r0 is the tabulated value of the radius of the
+

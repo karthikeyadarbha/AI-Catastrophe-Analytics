@@ -1,0 +1,58 @@
+198                                                  C+.a;ya;a;pra;k+.=+Na;m,a                          Gnomonic shadow
+
+                                                            cos z0 × cos φ
+                                                    cos H =
+                                                                 cos δ
+                                                            "                     # 12
+                                                                    cos z0 × cos φ 2
+                                       or            sin H = 1 −                         ,                      (3.148)
+                                                                         cos δ
+
+which is the same as (3.146).
+
+
+  .
+3 26 :pra;k+:a:=+a;nta:=e+Na na;ta;pra;a;Na;aH
+
+
+3.26 Hour angle by another method
+
+                                                  È
+                                                  îå Á
+      .sa;ma;ma;Nq+.l+.ga;a C+.a;ya;a ;a:a:$ya;a.*+;a dùÅ;au:$ya;ya;a &+.ta;a        Á
+
+      . a;a;a;pa;ta;a va;a na;ta;pra;a;Na;aH   k+:ea;fa;a va;a .sa;vRa;d;a ta;Ta;a       Á Á 58   ÁÁ
+
+      samaman    . d.alagā chāyā trijyāghnā dyujyayā hr  . tā |
+      cāpitā vā nataprān . āh. kot.yā vā sarvadā tathā || 58 ||
+      The arc of the product of the samaman   . d.ala-chāya and the trijyā divided by the dyujyā
+      is always the hour angle. This could also be obtained from the kot.i.
+
+Here is another formula for the hour angle of the Sun when it is on the prime vertical.
+The term samaman.d.ala-chāyā refers to the mahācchāyā when the Sun is on the
+prime vertical. This is given by ON in Fig. 3.23. Since ZS = Z ÔS = OŜN = z0 , the
+chāyā of the samaman.d.ala-śaṅku, SN, is given by ON = OS sin z0 = R sin z0 . The
+expression for the nata-jyā given in the above verse is:
+
+                                                          samaman.d.ala-chāyā × trijyā
+                                               nata-jyā =
+                                                                       dyujyā
+                                                          R sin z0 × R
+                                  or            R sin H =              .                                        (3.149)
+                                                            R cos δ
+We arrive at the same result using the spherical triangle PZS in Fig. 3.24 and apply-
+ing the sine formula. We have
+                                                              sin ZPS sin PZS
+                                                                      =        .                                (3.150)
+                                                               sin ZS   sin PS
+Since ZS = z0 , Z P̂S = H, PẐS = 90 and PS = 90 − δ the above equation reduces to
+                                                                                 sin z0
+                                                                  sin H =               ,                       (3.151)
+                                                                                 cos δ
+which is the same as (3.149). In the fourth quarter of the above verse, it is stated
+that the hour angle can also be obtained from the kot.i. The term kot.i here refers
+to R cos z0 . Hence, it is suggested that the samaman. .dala-chāyā (R sin z0 ) can be
+obtained from the samaman. .dala-śaṅku (R cosz0 ) using the relation
+                                       q
+                             R sin z0 = R2 − (R cosz0 )2 .                      (3.152)
+

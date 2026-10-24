@@ -1,0 +1,69 @@
+3.39 Shadow when the amplitude is 45 degrees                                                                            233
+
+             È
+   k+:ea;a;f. îå Á
+             *+;a;[a;~ya . a;a;Ea;k+.Ma ya;a;}yea Bea;d o+.d;#pra;Ba;a              Á
+
+   A;[a;k+:ea;fa;a;Da;k+:a;ya;Ma tua kÒ +:a;ntya;Ma ya;ea;ga;ea Y;pyua;d;k, :pra;Ba;a                Á Á 93   ÁÁ
+
+                      ãÉa ta;tk+:ea;fa;eaH
+   k+:a;ntya;[a;ya;ea;(
+   Ò                                              va;Da;a;t,a Bea;d;yua;ta;a na:=H          Á
+
+   ta;d
+      õ ;d, ;a;d
+               õ :+:d;ga;nya:a;a;pya;Ba;a;vaH     k+:ea;Na;ya;ea;d
+                                                                   õR ;ya;eaH       Á Á 94       ÁÁ
+         È                        ñÍ               ñÍ
+   A;k   îå Áe Ba;a;(rua;ta;a Za;öÅ
+      R +*+                       *:+.Ba;e .tea A;çÅ
+                                                   *:+.l+.a; //////
+                                                            a;tma;k  e          Á
+                                     u                u
+
+
+
+   bhujāks.o lambavargārdhamūlam     . kot.ih. śrutistayoh. |
+   hārah. , krāntighnakot.yāśca doh.śrutyoh. krāntihārayoh . || 92 ||
+   kot.ighnāks.asya cāptaikyam   . yāmye bheda udakprabhā |
+   aks.akot.yadhikāyām                          ′
+                        . tu krāntyām  . yogo pyudak prabhā || 93 ||
+   krāntyaks.ayośca tatkot.yoh. vadhāt bhedayutı̄ narah. |
+   tadvad dvirudaganyatrāpyabhāvah       . kon . ayordvayoh. || 94 ||
+   arkaghne bhāśrutı̄ śaṅkubhakte te aṅgulātmike |
+   The bhujā is the aks.a. The kot.i is the square root of half the square of the lambaka. The
+   hypotenuse formed by them is the divisor for [each factor in] the product of the krānti,
+   and the kot.i which is obtained from the doh. (sine) and the śruti (hypotenuse), and also
+   for [each factor in] the product of the aks.a and the kot.i, obtained from the krānti and
+   the divisor [individually]. The sum of the products gives the shadow in the south, and their
+   difference that in the north.
+   If the krānti is greater than the kot.i of the aks.a, then the shadow is obtained even by taking
+   the sum of the products [in the north].
+   The nara (or śaṅku = R cos z) is the sum or the difference of the products of the krānti
+   and aks.a and their kot.is. As in the earlier case, here again two naras are possible in the
+   two kon. as of the northern hemisphere but not in the other (the southern). The shadow and
+   hypotenuse are obtained in aṅgulas by multiplying by 12 and dividing by the śaṅku.
+
+   The term kon.aśaṅku refers to the Rsine of the zenith distance of the Sun when
+the āśāgrā is equal to 45◦ , that is, when the azimuth of the Sun is 45◦ . In the above
+verses, the expression for the kon.aśaṅku is given. To arrive at the expression for
+the kon.aśaṅku, two right-angled triangles as shown in Fig. 3.31 are considered. In
+the first triangle, the bhujā is defined to be the aks.a and the kot.i (denoted by k1 ) is
+defined to be the square root of half the square of the lambaka. That is,
+                                          r
+                                            cos2 φ    cos φ
+                                   k1 =            = √ .                           (3.274a)
+                                              2          2
+Hence the hypotenuse (h), termed the śruti, is given by
+                                  r
+                                                cos2 φ
+                             h = R sin2 φ +            .                                                            (3.274b)
+                                                  2
+
+    Even for the other triangle, whose bhujā is stated to be the krānti, the hypotenuse
+is taken to be the same. Hence the kot.i, (marked as k2 ) of the krānti in the second
+figure, is given by               r
+                                             cos2 φ
+                           k2 = R sin2 φ +            − sin2 δ .                  (3.275)
+                                                 2
+

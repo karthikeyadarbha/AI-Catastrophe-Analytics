@@ -1,0 +1,57 @@
+168                                              C+.a;ya;a;pra;k+.=+Na;m,a                     Gnomonic shadow
+
+   ya;a;}ya;ea;d;gga;ea;l+.ya;ea;~ta;~ya . a;a;pea v.ya;~tMa .. a:=+a;sa;vaH     Á Á 24   ÁÁ
+
+   .sMa;~k+:a;ya;Ra ga;ta;ga;}ya;a;~tea :pUa;va;Ra;pa:=+k+:pa;a;l+.ya;eaH    Á
+
+   śankucchāye trijı̄vāghne mahatyau karn      . asam. hr.te |
+   lambakāks.ajyayoh. svarn   . amanyonyotthaphalam      . yathā ||22 ||
+   tathā nr. cchāyayoh. kāryam . viparı̄taprabhāvidhau |
+   vyāsārdhaghnāt tatah . śaṅkoh. lambakāptam   . trijı̄vayā ||23 ||
+   hatvā dyujyāvibhakte tat carajyā svarn    . ameva ca |
+   yāmyodaggolayostasya cāpe vyastam       . carāsavah. ||24 ||
+   sam. skāryā gatagamyāste pūrvāparakapālayoh     .|
+   The śaṅku and chāyā multiplied by the trijyā and divided by the karn      . a become the
+   greater ones [the mahāśaṅku and mahācchāyā respectively]. As the addition and sub-
+   traction was done in the case of the lambaka and aks.a, with the quantities obtained from
+   each other, so too the results have to be applied in finding the śaṅku (referred to by the
+   word nr. above) and its shadow in the reverse process (the viparı̄ta-prabhā).
+   The śaṅku is multiplied by the radius (the trijyā) and divided by the lambaka. This is
+   further multiplied by the trijyā and divided by the dyujyā. To this quantity, the carajyā is
+   applied positively or negatively depending upon whether the Sun is in the southern or the
+   northern hemisphere. To the arc of the result, the arc of the ascensional difference has to be
+   applied in the reverse order. This gives the time that has elapsed or is yet to elapse in the
+   eastern or in the western half of the hemisphere.
+
+These verses give the procedure for finding the time that has elapsed since sunrise,
+or that is yet to elapse till sunset, from a knowledge of the zenith distance of the
+Sun and its ascensional difference. Essentially it is the reverse process of what is
+described in the earlier verses 17 and 18 and is termed the viparı̄ta-prabhā-vidhi.42
+For that the mahāśaṅku and mahācchāyā are found first.
+   It was shown earlier (see (3.2) and (3.3)) that
+
+                                                                     śaṅku = 12 = K cos z            (3.69a)
+                                           and                       chāyā = L = K sin z,            (3.69b)
+
+where K is the karn.a. Hence,
+
+                                                                         saṅku
+                                                 mahāśaṅku = R cos z =         trijyā              (3.70a)
+                                                                         karn.a
+                                                                         chāyā
+                              and              mahācchāyā = R sin z =         trijyā.              (3.70b)
+                                                                         karn.a
+The procedure for obtaining the observed value of the zenith distance from the the-
+oretical value was described in the previous section. Here the reverse process is
+described. This reverse process of obtaining the theoretical value from the observed
+value is then carried out.
+   If z′ and z are the observed and the theoretical zenith distances of the Sun, then
+the prescription given above may be expressed using the modern notation as
+                                                          
+                                                   R sin z
+                         R cos z = R cos z − ∆ θ
+                                          ′
+                                                             ,                 (3.71)
+                                                     R
+42 The term refers to the reverse process of determining the time from the observed shadow.
+

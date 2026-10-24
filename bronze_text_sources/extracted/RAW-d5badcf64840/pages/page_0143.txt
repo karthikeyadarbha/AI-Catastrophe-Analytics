@@ -1,0 +1,76 @@
+96                                                   å
+                                                   .~.Pu+.f;pra;k+.=+Na;m,a                                                                              True longitudes of planets
+
+      ya;dùÅ;a;a;pa     .sua;sUa;[ma;. a;a;pa;a;k+.=+Na;ea;pa;a;yaH    :pUa;vRa;mea;va                 :pra;d;a;ZRa;taH               ta;Ta;a;a;pa   A;pa;a;ya;~ya;aH   .ja;a;va;a;ya;aH
+
+      . a;a;pa;a;k+.=+Na;mea;vMa    k+:tRa;v.ya;m,a , I+.a;ta I+.h;a;a;pa :pra;d;a;ZRa;ta;m,a Á A;ta o+.+:m,a - .. a:=+d;eaH P+.l+ja;a;va;a;deH
+      O;;va;ma;pa;Da;nua;nRa;yea;t,a      - I+.a;ta Á
+      Though the procedure for obtaining more accurate values of the arc length has already been
+      stated, for smaller jyās the arc lengths may be obtained by this method (from the look-up
+      tables). That is why it is stated: The small arc length of the cara-doh.phala etc. should be
+      obtained by this method.
+
+      The same idea is conveyed in Yukti-dı̄pikā in the following manner:
+                                ñ
+      o+.M . a;a;pa;Ga;nea :Sa:ÈÅÅ a:a:$ya;a;va;geRa k+:l+.a;sa;ma;m,a
+                                *+:                                                       ÁÁ
+
+      d;Za;Ma;Zea ta;tkx +:teaH       . a;a;pa:$ya;a;nta:=M ;a;va;k+:l+.a;sa;ma;m,a                         Á
+
+                   È
+      O;;k+:a;a;d. îå Á
+                  *+;a:a;ta; / /
+                             a;~:a:$ya;a;va;gRa;ta;ea d;Za;Æa;Ba;&R+.ta;a;t,a                 ÁÁ
+
+      ;Ga;na;mUa;lM tua ya;+:b.DMa ta:ua;yea ;Da;nua;a;Sa ; //////
+                                                              a;~Ta;tea                   Á
+
+            õùÅ;a;a;dùÅ;a;a ;a;va;a;l+.a;aH
+      O;;k+:d                                    .~yuaH   . a;a;pa:$ya;a;a;va;va:=+ea;;
+                                                                                      ÂåÅ +va;aH                             ÁÁ
+
+         U ;nMa . a;a;pa;ma;DRa:$ya;a ta;dùÅu;a;ta;a .$ya;a .. a ta:;d
+      ta;d                                                           Äâ ;nuaH                       Á
+
+                                                                                                                         16
+                                ãÉa;a;pa;a;a;Ea . a;a;pa;a;pa;tvea dx;QM .. a ta;t,a
+      k+:a;ya;eRa Y;a;va;Zea;Sa;(                                                                               ÁÁ
+
+      It has been stated implicitly (in verse 17 of the text) that the difference between the jyā and
+      cāpa will be equal to 1′ (one kalā), when the cube of the arc length is equal to six multiplied
+      by square of the trijyā. The same will be equal to 1′′ (one vikalā) when the cube of the arc
+      length is equal to one-tenth of the square of trijyā.
+      Now, the square of the trijyā divided by 10 is multiplied by 1,2,3, etc. Then the cube roots
+      of the results are taken [and stored separately]. These correspond to the arc lengths, when
+      the difference between the jyā and cāpa is equal to 1′′ , 2′′ , 3′′ , etc., respectively. When
+      differences are subtracted from the arc length we get the jyā and when they are added to
+      the jyā we get the arc length. Aviśes.akarma must be done in order to get accurate results
+      for the cāpa from the jyā whose values are small.
+
+    In fact the accuracy of the tabulated results is of the order of 0.003%. For instance
+for a cāpa of 105′ 44′′ , the listed jyā value is 105′ 43′′ , whereas the exact Rsine value
+is 105′ 43.02′′. The percentage error is 0.0003%. This is not surprising considering
+the fact that for a small α the fractional error in retaining terms only up to α 3 in
+           5
+sin α is α5! .
+
+
+  .
+2 16 ma;nd;Za;a;Gra;k+:Na;Ra;na;ya;na;m,a
+
+2.16 Obtaining the manda and śı̄ghra hypotenuses
+
+      A;a;dùÅe;a :pa;de . a;tua;TeRa . a v.ya;a;sa;a;DeRa k+:ea;a;f:jMa :P+.l+.m,a                                   Á
+
+      yua;+:a tya;+:a;nya;ya;eaH            ta;+eaH P+.l+.va;gERa;k+.a:jMa :pa;d;m,a                             Á Á 40       ÁÁ
+
+      k+:NRaH         .~ya;a;d;a;va;Zea;Sa;ea Y;~ya k+:a;ya;eRa ma;nde .. a;le na tua                                    Á
+
+      ādye pade caturthe ca vyāsārdhe kot.ijam   . phalam |
+      yuktvā tyaktvānyayoh     . taddoh.phalavargaikyajam
+                                                          . padam || 40 ||
+      karn                     ′
+          . ah. syādaviśes.o sya kāryo mande cale na tu |
+
+16 {TS 1977}, p. 158.
+

@@ -1,0 +1,52 @@
+364                             v.ya;ta;a;pa;a;ta;pra;k+.=+Na;m,a                         Vyatı̄pāta
+
+                                               R sin ε R cos i
+                                      x=                       ,                             (6.16)
+                                                      R
+Then the doh.phala (D) and the kot.iphala (K) are defined to be
+
+                                              R| sin λn | R sin i
+                                           D=                     ,
+                                                      R
+                                              R| cos λn | R sin i
+                           and             K=                      .                         (6.17)
+                                                      R
+We introduce yet another quantity (y), defined by
+
+                               y = R cos ε × K
+                                   R cos ε | cos λn | R sin i
+                                 =                            .                              (6.18)
+                                              R
+Using x and y, one more term (z) is defined to be
+
+                                     z = x−y                         when 90 < λn ≤ 270,
+                                       = x+y                         otherwise.
+                Essentially,         z = x + R cos ε cos λn sin i.                           (6.19)
+
+Now the parā-krānti, the maximum declination I of the Moon, is given as
+                 p
+       R sin I = z2 + D2
+                 q
+               = (R sin ε cos i + R cos ε sin i cos λn )2 + (R sin λn sin i)2 .
+                                                                                             (6.20)
+
+The ayanacalana (A) of the Moon is defined in terms of the maximum declination
+through the relation
+                                               R×D
+                                     R sin A =         .                (6.21)
+                                               R sin I
+This is also referred to as the viks.epacalana.
+
+
+Expression for the is..takrānti
+
+Having obtained the ayanacalana, it is added to the true longitude of the Moon
+when 180◦ ≤ λn ≤ 360◦, and subtracted from it otherwise. The Rsine of the result
+is multiplied by the Rsine of the maximum declination and divided by the trijyā to
+get the Rsine of the desired declination. That is,
+
+                                         R sin I × R sin(λm ± A)
+                          R sin δm =
+                                                      R
+                                       = R sin I sin η ,                                     (6.22)
+

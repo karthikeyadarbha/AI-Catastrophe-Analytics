@@ -1,0 +1,126 @@
+237 ~: ` 16. ECLIPSES: .
+
+and correct it for latitude; that gives nati in degrees
+(say x). (Lf kranti and .aksa are in the same direc-
+ton, take their sum; if of different signs take their
+difference). (1)
+
+Find the square of x/22. If this is greater than 2,
+subtract 2 from it. Add half of it to the square. Add
+12. This becomes the ‘divisor’.
+
+If (x/22)? is less than 2, add 12 to it. That is the
+
+‘divisor’.
+
+Find the difference in degrees between the lagna of
+the Nonagesimal and the Sun. Find 1/10th of this (x).
+Subtract x from 14. Multiply the remainder by x, i.e.
+find (14—x) x. Divide this by the ‘divisor’. The result
+in. nddikas gives the lambana. Add the lambana to the end
+of tithi in ghatis. If the lagna of the nonagesimal is less
+than that of the Sun, the lambana is to be subtracted from
+the time in ghatis of the end of the tithi. (2)
+
+Correction for the lambana for Sun minus Node
+
+Multiply the lambana by 13. The result is in minutes
+etc. Carry out the correction of this product just as in
+the case of the ¢ithi, (i.e. if the lambana is positive add; if
+negative subtract), to the position of the Sun minus node.
+Convert this corrected value into Sara.
+
+Multiply the lambana by 6, and add this to the lagna of
+the nonagesimal if the lambana is positive, (subtract
+otherwise). The declination (क्क) is to be calculated
+from this value. From the values of the kranti and aksa
+(declination and latitude) the corrected value of natamsa
+can be had. (3)
+
+Nati (parallax) and fara from nataémsa
+
+Divide 41064 by 10. Let it be x. Find (18—x). x.
+Subtract the same from 6° 18’, (9). Divide» by (18—x).
+x. The result in avgulas gives the parallax, its direction
+being the same as that of natamsa.
+
+For the fara already found out, carry out the parallax
+correction; i.e. take the sum if the directions are the
+same and take the difference otherwise. Only from the
+Sara thus corrected, is the portion of the body eclipsed
+and the duration of eclipse are to be calculated. (4)
+
+Times of first and last contacts
+
+Multiply the duration of the eclipse (already found)
+in ghalis by 6. It is thus converted into degrees. Take
+the lagna of the nonagesimal at the end of the zithi. Let it
+be x. The lagna of the nonagesima] at the first and last
+contacts are to be had by respectively substracting and
+adding the duration from and to this value x.
+
+The parallax is to be calculated separately from the
+two found above.
+
+16. 34, 1
+
+The time of first contact is found by correcting the
+middle of the eclipse minus the duration with the
+lambana of first contact, i.e. if lambana is positive, add
+them; if it is negative, take the difference.
+
+For the last. point of contact take the middle of the
+eclipse plus the duration. Carry out the correction for
+lambana as mentioned above. (5)
+
+Immersion and Emergence
+
+When marda is multiplied by six, degrees are obtained.
+Repeat the same process for determining the time of
+immersion or emergence. If the portion eclipsed is less
+than one avigula it is not necessary to find grasamana for
+both lunar and solar eclipses. (5b)
+
+Colour of the eclipse
+
+If Moon is eclipsed partially it is smoky in colour;
+if half is eclipsed it is black and a full eclipse is reddish
+brown. The solar eclipse is always balck in colour. (6b)
+
+Portion eclipsed at any time
+
+Double the desired time in ghafis. Multiply this by
+the grasamdna. (x) Find the difference between the
+times of last and first contacts (y). Find x/y. -Add to
+this half-angula (or 30 vyangulas), to get the portion of the
+body eclipsed at any desired time. (7). (VSN)
+
+सूर्यप्रहूणलेखनम्‌
+
+“-रोमकसिद्धान्तः
+
+16. 34. 1. रविशशिमानदलादवनतिहीनाद्‌ भवन्ति या लिप्ताः ।
+तान्यङ्गुलानि विद्याद्‌ भानोश्छन्नानि चन्द्रमसा ।। १७ I
+
+अर्घनालिख्य रवि दत्वावनति यथादिशं मध्यात्‌ |
+अवनत्यन्ताच्चन्द्रं विलिखेद्‌ ग्रासार्थमर्धेन ।। १८ ॥
+(Varaha, PS, 8. 17-18)
+
+—Romaka Siddhanta
+
+Subtract the parallax corrected-latitude for the time
+of parallax-corrected new moon, from the sum of the
+semi-diameters. The remainder in minutes are the
+digits of obscuration of the sun by the moon. (17)
+
+To represent the amount of obscuration graphically,
+draw a circle of radius equal to the semi-diameter of the
+Sun, measure the parallax-corrected latitude, north or
+south according as where the Moon is situated, and with
+the point marking its end as centre, draw a circle of
+radius equal to the Moon’s semi-diameter, to represent
+the. Moon. (The part common to both the circles is
+the part obscured, and its measure in digits is its width
+in minutes of arc)! (18). (TSK)
+
+. 4. For elucidation and worked out examples, see PS: TSK, 8.17-18

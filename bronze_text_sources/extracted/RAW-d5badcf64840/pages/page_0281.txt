@@ -1,0 +1,62 @@
+234                            C+.a;ya;a;pra;k+.=+Na;m,a                         Gnomonic shadow
+
+
+
+
+                    h                      aks.a
+                                                                 h
+                                                                                  krānti
+                                        (R sinφ)                                 (R sinδ)
+
+
+
+                     k         (a)                                   k2    (b)
+                         1
+
+Fig. 3.31 Two triangles having the same hypotenuse defined while giving the expression for the
+prabhā/chāyā corresponding to the kon
+                                       . aśaṅku.
+
+
+
+The hypotenuse (h) defined above is used as the divisor for both the bhujā and the
+kot.i in later computations. Now, the sum or difference of the cross-products of the
+bhujā and the kot.i of the two triangles (with each term divided by the hypotenuse
+h) is stated to be the required prabhā (shadow). That is
+
+                                             aks.a × k2 ∼
+                                                        + krānti × k
+                                                                     1
+                             prabhā =                                 .                    (3.276)
+                                                        h2
+Substituting for k1 , k2 and h from (3.274) and (3.275), we have
+                            q
+                    R(sin φ sin2 φ + cos2 φ − sin2 δ ∼            √φ)
+                                          2
+                                                     + | sin δ | cos
+                                                                    2
+          R sin z =                                                   .                     (3.277)
+                                        2     cos2 φ
+                                    (sin φ + 2 )
+
+It may be noted that we obtain the above equation right away by substituting a = 45◦
+in (3.269).
+    When the Sun’s declination is north, it is possible to have two kon.acchāyās.
+This is discussed in verse 94. We explain this with the help of Fig. 3.32. Here S1
+and S2 refer to the positions of the Sun before and after it crosses the prime vertical
+and when the āśāgrā is 45◦ . The angle A is measured from the prime meridian
+eastwards. But the āśāgrā (a) is measured from the prime vertical either to the north
+or to the south.
+                                          q
+             (sin δ cos φ cos A ∼ + sin φ sin2 φ − sin2 δ + cos2 φ cos2 A)
+     sin z =                                                               .      (3.278)
+                                  (sin2 φ + cos2 φ cos2 A)
+
+It may be noted that the above equation is the same as (3.277), when
+                                                         1
+                                             | cos a| = √ .                                 (3.279)
+                                                          2
+Incidentally, the above equation also clearly brings out the signs as set forth in the
+previous set of verses. Now we consider two different cases depending upon whether
+the Sun is in the northern (δ > 0) or the southern (δ < 0) hemisphere.
+

@@ -1,0 +1,49 @@
+32                      ma;Dya;ma;pra;k+.=+Na;m,a               Mean longitudes of planets
+
+where [a] is the integral part of a. To find the number of tithis that have elapsed since
+the beginning of the Kaliyuga till the desired date, we need to simply multiply l by
+30 and add to this the number of tithis that have elapsed in the current lunar month.
+If s be the number of tithis that have elapsed in the present month, then the total
+number of tithis A′ that have elapsed till the required date since the beginning of the
+Kaliyuga is given by
+                                      A′ = l × 30 + s.                              (1.7)
+Once again, by the rule of three, the number of ks.ayatithis elapsed since the begin-
+ning of the Kaliyuga is found:
+
+                                   1602999600 : 25082100
+                                           A′ : ?                                  (1.8a)
+
+If k is the number of ks.ayatithis that have elapsed since the beginning of the
+Kaliyuga, then
+                                   A′ × 25082100
+                              k=                 .                         (1.8b)
+                                     160299600
+ Now the Ahargan.a A, the number of civil days elapsed since the beginning of the
+Kaliyuga is given by
+                                  A = A′ − [k],                             (1.9)
+where [k] is the integral part of k. There is a possibility of round off errors which
+may occur at different stages in the computation of the Ahargan.a. We discuss these
+before moving on to some illustrative examples for finding the Ahargan.a.
+
+
+Resolution of likely errors in the calculation of the Ahargan
+                                                            .a
+
+In the procedure for finding Ahargan.a, or the number of civil days elapsed, we
+round off the fractional part and use the integers in further calculation, at least in
+two places, namely the computation of the adhimāsas and ks.ayatithis. In doing so,
+it is quite likely that this rounding off may lead to errors. The following discussion
+would be useful in removing the errors.
+
+1. Error in the computation of adhimāsas: The number of adhimāsas obtained
+   using (1.5b), has a fractional part that is indicative of the proximity of the ad-
+   himāsa to the date for which Ahargan.a is calculated. The closer the value of
+   the fraction to unity, the closer the adhimāsa will be to the date for which the
+   Ahargan.a is being computed. As per the calculational procedure, we have to use
+   only the number of adhimāsas that have completely elapsed and hence we round
+   off the number and choose the closest integer. This could introduce an error at
+   times, which can be easily dealt with as shown in the examples discussed below.
+2. Error in the computation of ks.ayatithis: The average duration of a tithi is less
+   than that of a civil day. In the computation of the Ahargan.a we are trying to find
+   the number of civil days elapsed from the measure of tithis elapsed. From the
+

@@ -1,0 +1,117 @@
+259 18. HELIACAL RISING AND SETTING OF PLANETS
+
+Agastya, Mrgavyadha or any of the naksatras rises or
+sets according as its udayasiirya or astastirya is the same
+as the true longitude of the Sun. (8-10)
+
+Subtract the number of degrees in the natarisa of a
+naksatra from 90°. The remainder is its unnatamsa.
+
+The naksatra whose udayasirya is less than its astastirya
+is always heliacally visible. (11)
+
+A naksatra is visible, as long as the true longitude of the
+Sun lies between its udayasiirya and, astasiirya. Otherwise
+it is invisible.
+
+Find the difference between the udayasiirya of a naksatra
+and the Sun, or the astasiirya and the Sun. Express the
+difference in minutes. Divide each difference by the
+motion of the Sun. The results give, respectively, the
+number of days passed since the visibility of the naksatra
+and that which will pass before it is invisible. (12). (BC)
+
+-आयेभटः २
+18. 5. 4. कुजजीवाकंजमुनय: शुक्रौ वक्रिणौ च सूर्याल्पाः |
+यान्ति प्राच्यामुदयं पश्च दस्तं ब्रजन्त्यधिकाः ।। १ ॥
+
+ऋजुगौ ज्ञसितौ चेन्दुः प्राच्यामूना रवेत्रैजन्त्यस्तम्‌ ।
+अधिकाः पश्चादुदयं सान्निध्ये लक्षणं चिन्त्यम्‌ ।। २ ॥
+
+BOT FAT FAT NT AT पोमा कालांशकाः शशाङ्काद्याः ।
+लूनकलोना वक्रगबुधसितयो: सम्भवन्तयुक्ताः ।। रे ।।
+
+रविदुक्खेटौ पष्चात्कार्यौ भगणाधंसंयुक्तौ ।
+तद्विश्लेषांशहतं स्वदृकाणं चीननै विभजेत्‌ i ४ ।।
+
+फलमिष्टांशा एतैरक्तांशोभ्योऽधिकरेष्यः ।
+अस्तौ न्यूनैयतिो व्यस्तोऽस्माल्लग्नाददयः ।। ५ ।।
+
+इष्टोक्तांशवियोगः कार्योऽथ प्रागिनादधिकः |
+पश्चादूनो वा चेद्‌ दृक्खेट: स्यात्तदा योग: ॥ ६ Ut
+
+तल्लिप्तौधं विभजेद्‌ गत्योः स्वदुकाणसङ्गुणयोः ।
+‘aad हृतयोर्युत्या वक्रिणि खेटेऽन्यथा वियोगेन ॥। ७ ॥।
+
+लब्धैदिवस: कथितवद्‌ एष्यगतत्वं विचिन्त्यमिह ।
+घटजध्रुवको AMT: शरोऽन्तकस्थाः ससोऽपमजात्‌ HSU
+(ABh. II, Maha., 9. 1-8)
+—Aryabhata II
+Mars, Jupiter, Saturn, Canopus (Muni), and Venus
+and Mercury in retrograde motion (vakrin), when (of)
+lesser (longitude) than the Sun, rise in the east, and
+when (of) greater, set in the west. (1)
+
+Mercury and Venus in direct motion (7juga), and the
+Moon, when (of) lesser (longitude) than the Sun, set
+in the east; when (of) greater, rise in the west. When
+
+` ३ For worked out examples see, KK:BC, I. 152-54.
+
+18.5.5
+
+they are nearer (to the Sun), the rule has to be duly
+reconsidered. (2)
+
+The degrees of time (kalatifaka) of the Moon etc. are
+12, 17, 13, 12, 8 and 15. The said (degrees of time),
+reduced by 30 minutes, (are those) of Mercury and
+Venus in retrograde motion: Moon 12°; Mars 17°;
+Mercury 13°; retrograde 12° 30’; Jupiter 12°; Venus 8°;
+retrograde 7° 30’; Saturn 15°. (3)
+
+Find out (the longitude of) the Sun and (that of) a
+planet (corrected for ecliptic deviation and for apparent
+latitude) (drkkheta) (in the east at sunrise). These,
+increased by half a revolution, (are the respective longi-
+tudes) in the west (at sunset). Multiply (the ascensional
+equivalent of) the drkana (in which they are situated)
+by the difference in degrees (of the longitude of the Sun.
+and the corrected longitude of the planet) and divide
+by 600. (4)
+
+The quotient gives the “required degrees”’ (isfamsa).
+When these are greater than the degrees listed above,
+the setting is to come; and when less, it is past. The rule
+is reverse for the rising. (5)
+
+If (the longitude of) the planet, (corrected for ecliptic
+deviation and for apparent latitude) (drkkhefa), is
+greater than (that of) the Sun in the east, or less in the
+west, take the difference of the required degrees (is/amSa)
+and those listed above. (6)
+
+(Find out) the minutes (of the distance in ascension
+of two planets). Multiply the daily motions (gati) (of
+the two planets, each by the ascensional equivalent of)
+the drkadna (in which it is situated) and divide by 600.
+By the sum (of the two quotients), if one planet (of the
+two) is retrograde, otherwise, by their difference, (divide
+the minutes obtained above). By the quotient in days,
+it can be determined, as: shown before, whether. (the
+conjunction) is to come or is past. (7-8ab)
+
+The polar longitude (dhruvaka) of Canopus (ghajaja)
+is 85°, and the (polar) latitude is 77 (degrees) south of
+the declination. (8cd). (SRS)
+
+-वाक्यकरणम्‌
+
+18. 5. 5. चाज्भा/ष्टि' ‘fafa’ ‘gente’ तिथिभिर्युतशेषितै: |
+उदयास्ते कुजादीनां, वक्रे चन्द्रजशुक्रयो: 1 १ ॥
+“खेन्द्रियै'-“रद्रयष्टदृग्भिर्पदनैरस्तोदयौ तथा |
+सूर्यादभ्यधिकाः पश्चादस्तं जीवकुजाकंजा: ॥। २ ॥
+ऊनाः प्रागुदयं यान्ति, शुक्रजञौ वक्रिणौ तथा ।
+अवक्रगौ तु ताबूनौ रवेः प्राच्यामदशेनम्‌ ।। ३ ॥
+ब्रजतोऽभ्यधिकौ पश्चादुदयं शीध्यायिनौ ।
+कुजादीनां 'सटा' "लोकः, “qed दान "शुको'ऽशकाः 11

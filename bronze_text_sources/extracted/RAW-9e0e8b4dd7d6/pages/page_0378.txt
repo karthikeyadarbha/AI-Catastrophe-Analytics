@@ -1,0 +1,53 @@
+144                                       BRIHAT SAMHITA.                                      [gh 30.
+
+               In the Chapter on combinations in Algebra^ we learn
+ that the               number of combinations of n things taken r at a
+time
+
+      “             n (n   — 1) (n — ^)(n — 3) .....                   (ii   —+
+                                                                             -
+                                                                                 r        l)
+                -                                                                              .
+                                 ^                             ^
+
+
+
+
+          the number of combinations 16 things taken 4 at a time
+ 16X15X14X 13
+=                                     —=     1820
+      1   x2x 3x4
+     Again take one of these sets of 4 substances. Call,
+the substances by the letters A^         D ; each of these
+enters into tlie mixture in 1,  ^ nnd 4 parts; but no two
+
+substances enter in tlie same number of parts.   The ques-
+tion now is to find out                    the number of mixtures that can be
+formed of each set of four substances.The number required
+is    the number of ways in which the figures C 2^ 3 and 4
+may be              written under the           letters        A, Bj,                D.        This    is
+
+the        number           of   permutations       of    four         things             taken       all
+
+together,     which is equal to 1 X 2 X 3 x 4=24. The author
+is    therefore wrong when he sa^^s that the number of such
+mixtures is 96.
+          We shall show his error by actually putting down the
+proportions of the various mixtures.
+
+          A.        B.     c.        D.                   A.       B.        C.           D.
+          1         2       3        4                                       o
+                                                          2        1         O            4
+                    2       4         O                   }}       1         4            3
+                    n
+          >}        D                4                    ))
+                                                                   3         1            4
+                    3      4         2                             3         4            1
+          5^        4      2         3                    }3       4         1            o
+                    4      3         o                             4
+                                     A4
+                                                          V                  3            1
+
+
+     Total          C                               Total          C
+

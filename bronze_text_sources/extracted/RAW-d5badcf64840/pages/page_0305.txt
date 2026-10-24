@@ -1,0 +1,70 @@
+258                                                       . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                                        Lunar eclipse
+
+by
+
+                                                            dm − ds : 60 (ghat.ikās)
+                                                 |∆ λ | = |λm − λc | : ∆ t (in ghat.ikās).
+
+Having determined ∆ t, the time of opposition of the Sun and the Moon or equiv-
+alently the conjunction of the Moon and the Earth’s shadow—the end of the full
+Moon day, which is the same as the middle of the eclipse denoted by tm —is ob-
+tained using the relation
+                              tm = sunrise time ± ∆ t.                    (4.4)
+We have to use ‘+’ if the instant of opposition is yet to occur and ‘−’ otherwise.
+The time given by (4.4) is only approximate, and the reason for the same has been
+stated in Yukti-dı̄pikā to be the continuous variation in the speed with which the
+Sun and the Moon move.5 In order to obtain the exact instant of opposition, the text
+prescribes an iterative procedure which is explained in the following verses.
+
+
+   .                    å
+4 2 A;a;va;Zea;Sea;Na .~.Pu+.f;ya;ea;ga;k+:a;l+.a;na;ya;na;m,a
+
+
+4.2 Determination of the exact moment of conjunction by
+    iteration
+                                                                     å
+       ta;a;tk+:a;a;l+.k+:Ea :pua;na;na;Ra;tva;a ma;Dya;a;k
+                                                           eR +:ndu;~.Pu+.f;a;va;a;pa                    Á
+
+       o+.d;ya;a;dùÅ;a;ea;ga;k+:a;le+.na na;a;ya;tea . ea:a;d
+                                                              u ;+:va;t,a         ÁÁ 4             ÁÁ
+
+       ta;a;tk+:a;a;l+.k+:a;k
+                            R +:a;na;Spa;a;. a:=+sMa;~k+:a:= I+.Sya;tea                    Á
+
+       A;~ta;k+:a;l+.ea;+:va;t,a ta;sma;a;t,a . a;a;ya;tea .. ea;t,a .. a:=+ea;;
+                                                                                 ÂåÅ +vaH                        ÁÁ 5        ÁÁ
+
+       I+.;k+:a;l+.a;k      ãÉEa;vMa k+:a;ya :pra;a;Na;k+:l+.a;nta:=+a;t,a
+                      R +:ta;(                                                                  Á
+
+                                                                       å
+       d;ea;BeRa;d;a;a;a;a;pa .sMa;~k+:a:=H      .=+va;a;ndU ta;Ea .~.Pu+.f;Ea ta;d;a                  ÁÁ 6     ÁÁ
+                                                        È              å
+       ya;ea;ga;k+:a;l+.~ta;ta;ea nea;yaH       ta;a;a. îå
+                                                        *+;aÁ .~va;a .~.Pu+.f;a ga;a;taH                     Á
+                            å
+       :Sa;a;a;a;a .~va;~.Pu +.fe ya;ea:$ya;a ga;}yea ya;ea;gea Y;nya;Ta;a;nya;Ta;a                           ÁÁ 7   ÁÁ
+
+       .sa;ma;a;l+.a;Ea Ba;vea;ta;Ma ta;Ea :pa;va;Ra;nta;sa;ma;ya;ea;;
+                                                                      ÂåÅ +va;Ea        Á
+
+       tātkālikau punarnı̄tvā madhyārkendusphut.āvapi |
+       udayādyogakālena nı̄yate cettaduktavat || 4 ||
+       tātkālikārkanis.pannacarasam    . skāra is.yate |
+       astakāloktavat tasmāt cālyate cet carodbhavah         . || 5 ||
+       is..takālārkataścaivam . kāryam . prān. akalāntarāt |
+       dorbhedāccāpi sam    . skārah. ravı̄ndū tau sphut.au tadā || 6 ||
+       yogakālastato neyah. tannighnā svā sphut.ā gatih. |
+       s.as..tyāptā svasphut.e yojyā gamye yoge ′nyathānyathā || 7 ||
+        samaliptau bhavetām      . tau parvāntasamayodbhavau |
+       The mean and the true [longitudes of the] Sun and the Moon are once again obtained at the
+       instant of conjunction. If the instant of conjunction is determined from [the position of the
+       Sun and the Moon at] sunrise, then as described [earlier] it is desired that the value of the
+
+5 :pra;a;ta;[a;NMa :pra;Æa;Ba;Ea;va .~å.Pu+.f;Bua;a;+:dùÅ;aR;. a;a;a:=+Na;a;m,a Á
+                                                               u
+
+k+:a;l+.Bua;+.a;eaH     ;Æa;ma;Ta;~ta;sma;a;t,a na;a;nua;pa;a;taH        :pra;va;tRa;tea Á Á           ({TS 1977}, p. 252)
+

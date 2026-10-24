@@ -1,0 +1,77 @@
+                                                   ëÅ
+396                                             dx;ë
+                                                   *:+:mR
+                                                      Á   a;pra;k+.=+Na;m,a                                        Reduction to observation
+
+is referred to Chapter 14 of Yuktibhās.ā.6 In Fig. 7.3, V refers to the vitribhalagna,
+which is a point on the ecliptic which is 90◦ from the lagna D′ . The sine of the
+zenith distance of the vitribhalagna, denoted by sin zv , is called the dr.kks.epa. In the
+triangle V ZD′ ,
+
+                         D′V = 90,                      ZD′ = 90,                       and              V D̂′ Z = ZV = zv .        (7.35)
+
+In the spherical triangle DD′ G, GD = β and DD̂′ G = 90 − V D̂′ Z = 90 − zv . Let θ
+be the instantaneous angle between the secondary to the ecliptic through G and the
+horizon. Using the sine formula, we have
+
+                                                           sin DD′       sin β
+                                                                   =              .                                                 (7.36)
+                                                             sin θ   sin(90 − zv)
+
+Therefore
+                                                                                   sin θ sin β
+                                                             sin DD′ =                         .                                    (7.37)
+                                                                                     cos zv
+Considering the spherical triangle ZGK and applying the cosine formula, we have
+
+                                                             cos ZK = cos β sin θ .                                                 (7.38)
+
+Since ZK = 90 − zv, we have
+                                                                                    sin zv
+                                                                    sin θ =                .                                        (7.39)
+                                                                                    cos β
+Using (7.39) in (7.36), we get
+
+                                                            sin DD′ = tan β tan zv ,                                                (7.40)
+
+which is the same as the formula (7.34) given in the text.
+
+
+               çÉ
+  .
+7 5 k+:a;l+.l+.îå                   ãÉa
+               +;aM k+:a;l+.Ba;a;ga;(
+
+
+7.5 Kālalagna and the divisions of time
+
+      O;;vMa kx +:ta;~ya . a;ndÒ+a;deH     .~va;ea;d;yea Y;~ta;ma;yea Y;a;pa va;a           Á
+
+                                                   çÉ
+                             ãÉa;a;a;pa k+:a;l+.l+.îå
+      .sa;a;ya;na;~ya .=+vea;(                     +;aM na;yea;d
+                                                               , d;ya;eaH
+                                                                 õ                 Á Á 10         ÁÁ
+
+      ta;d;nta:=+Ba;vEa;Ba;Ra;gEaH   dx ;ZyaH    .~ya;a;d
+                                                        , d;a;d;Za;a;a;d;Æa;BaH
+                                                          õ                             Á
+
+      nyUa;nEaH   Kea;f;ea na dx;ZyaH       .~ya;a;t,a Ba;a;nua:=+ ////////
+                                                                  a;Zma;h;ta;pra;BaH            Á Á 11   ÁÁ
+                                                  ñÍ
+      d;a;d;Za;a;tya;;ya;ea ;a;va:(õ;ea .+:dÒ+a;*:+.
+      õ                                           öÅ a;ta;Ta;yaH    k+:ma;a;t,a
+                                                                     Ò              Á
+
+      . a;ndÒ+a;a;d;k+:a;l+.Ba;a;ga;a;~tEaH     dx;Zya;a .~va;a;k+:Ra;nta:=+ea;;
+                                                                               ÂåÅ +vEaH        Á Á 12   ÁÁ
+
+      evam                                  ′         ′
+          . kr
+             . tasya candrādeh. svodaye stamaye pi vā |
+      sāyanasya raveścāpi kālalagnam  . nayed dvayoh   . || 10 ||
+      tadantarabhavairbhāgaih  . dr.śyah. syād dvādaśādibhih. |
+
+6 {GYB 2008}, pp. 822–6.
+

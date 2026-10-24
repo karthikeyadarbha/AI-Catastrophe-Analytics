@@ -1,0 +1,47 @@
+470                      Solution of the ten problems: a couple of examples from Yuktibhās.ā
+
+                        R sin(XG) = R sin δ = R sin(XY ) sin x
+                                                   = R sin ρ sin x.                    (D.8)
+
+Now the perpendicular arc from Z on the digvr.tta on the celestial equator = ZU = φ .
+Therefore
+
+                         R sin ZU = R sin φ = R sin(ZY ) sin x
+                                            = R sin i sin x.                           (D.9)
+
+R sin ρ and R sin i are called the sthānı̄yas or the ‘representatives’ of the apakrama
+and aks.ajyā on the digvr.tta. Now the zenith distance
+
+                                    z = ZX = ZY − XY
+                                               = i − ρ.                               (D.10)
+
+Therefore
+
+               R sin z = R sin(i − ρ ) = R sin i cos ρ − R cosi sin ρ
+                                         (R sin φ cos ρ − R sin δ cos i).R
+                                       =                                   .          (D.11)
+                                                       R sin x
+Consider the kot.is of the R sin φ and R sin δ on a circle of radius R sin x (which are
+denoted as kot.i ′ ):
+                                     q
+                       kot.i ′ (φ ) = R2 sin2 x − R2 sin2 φ
+                                     p
+                                    = R2 sin2 x − R2 sin2 i sin2 x
+                                    = R cos i sin x.                                  (D.12)
+
+Similarly,
+                                        p
+                       kot.i ′ (δ ) =       R2 sin2 x − R2 sin2 δ
+                                        q
+                                   =        R2 sin2 x − R2 sin2 ρ sin2 x
+                                   = R cos ρ sin x.                                   (D.13)
+
+Hence we have
+                               (R sin φ kot.i ′ (δ ) − R sin δ kot.i ′ (φ ))R
+                   R sin z =                                                  .       (D.14)
+                                                 R2 sin2 x
+This is the shadow R sin z at the desired place, which is expressed in terms of the
+declination δ , the latitude φ and the āśāgrā, as x is given in terms of φ and a by
+                                  q
+                         R sin x = R2 sin2 a cos2 φ + R2 sin2 φ .                   (D.15)
+

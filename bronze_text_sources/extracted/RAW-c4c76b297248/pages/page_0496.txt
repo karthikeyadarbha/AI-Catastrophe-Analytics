@@ -1,0 +1,49 @@
+Hindu Zodiac and Ancient Astronomy
+
+These four sets of stellar phenomena can be now observed (subject to factors controlling
+visibility) respectively at the beginning of the solar months of Gemini, Virgo, Sagittarius
+and Pisces. At the beginning of the next month these stellar phenomena will occur nearly
+two hours earlier.
+
+° Rising and Durations of ९३515 for 32000
+
+To understand the rising time of rasis the easiest method is to view the phenomena in
+relation to sun. When the sun has a siderea! longitude of 0°, the first point of Mesa rises
+at sunrise and sets at sunset. The seventh sign from the rising sign or the point 1 80°
+away from the rising point always represents the setting point in the west. As the sidereal
+longitude advances the rising point at sunrise shifts by one degree towards east and in
+one month when sun attains a longitude of thirty degrees the sign Vrsabha replaces
+Mesa as the rising sign at sunrise. Each rasi remains in the ascendant for their respective
+durations and is then succeeded by the next one. Duration of the rasis is a function of the
+declination of their boundaries — their position relative to the celestial equator and the
+vernal equinox. For the epoch 32000, the durations of the Maladhdra signs for the latitude
+of 10 are:
+
+> ६४ 90 clinati RA ST*of Interval
+Rasi 0" | Declination | h.m-s rising h-m-s
+
+Mesa 09 3134" | 01-31-05 | 19-24-18 | 01-50-44
+Vrsabha | 18°54’58” | 03-28-54 | 21-15-03 | 02-03-55
+Mithuna | 23°19'43” | 05-36-25 | 23-18-58 | 02-11-22
+Kataka 21. 1220" | 07-46-01 | 01-30-20 | 02-07-37
+Simha 13°19°37” | 09-47-31 | 03-37-57 | 02-00-39
+Kanya 02"09’03” | 11-40-07 | 05-38-36 | 01-59-16
+Tula -09 31134” | 13-31-05 | 07-37-52 | 02-04-53
+Vrscika | -18.54.58" | 15-28-54 | 09-42-45 | 02-11-06
+Dhanu -23°19'43” | 17-36-25 | 11-53-51 02-07-51
+Makara | -21-12’20” | 19-46-01 | 14-01-43 | 01-55-23
+Kumbha | -13°19'37” | 21-47-31 | 15-57-06 | 01-44-32
+| Mina _ | -02°09'03” | 23-40-07 | 17-41-38 | 01-42-40
+
+* ST: Sidereal time
+For any other latitude these values may be calculated using the expressions:
+
+Declination: 6 = 9116 ' [Sine ७. Sine A]
+
+Right ascension: o. = 005 [Cos A/ Cos 8]
+
+Hour angle: h = {0571 [-Tan 9. Tan 8]}/15
+
+Sidereal time of rising of the ecliptic point = 24 -h+ a.
+
+472

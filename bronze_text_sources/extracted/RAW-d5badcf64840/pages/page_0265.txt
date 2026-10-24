@@ -1,0 +1,50 @@
+218                              C+.a;ya;a;pra;k+.=+Na;m,a                           Gnomonic shadow
+
+   Having found the chāyā, the square root of the difference of the squares of the chāyākot.i
+   and the dyujyā is multiplied by the chāyā-bāhu. The sum/difference of the product of
+   the śaṅku and the krānti and the (aforementioned) product is taken when the krānti and
+   the āśāgrā have the different/same direction. If the Sun lies between the unman  . d.ala (6’0
+   clock circle) and the ks.itija (horizon), then it must always be added. The result is multiplied
+   by the trijyā and divided by the difference of the squares of the trijyā and the chāyākot.i.
+   This gives the latitude in terms of the other three known quantities, the nata etc.
+
+    The fourth problem is devoted to the determination of the zenith distance (śaṅku)
+and the latitude (aks.a), in terms of the hour angle (nata), the amplitude (āśāgrā)
+and the declination (krānti). That is, z and φ are to be obtained in terms of H, a and
+δ . It has already been emphasized earlier (see (3.202)) that the nata-jyā, the dyujyā
+and the chāyākot. i are related as follows:
+
+                          nata-jyā × dyujyā = chāyākot. i × trijyā
+                         or       R sin H cos δ = R sin z cos a.                              (3.207)
+
+Hence the chāyā (R sin z) and therefore the śaṅku are determined in terms H, a and
+δ . Now we only need to determine the latitude in terms of H, a and δ .
+    As in the earlier problems, a few intermediate quantities are defined. First an
+intermediate quantity (say u) is defined as follows:
+                              q
+                          u = dyujyā2 − chāyākot.i2
+                              q
+                            = (R cos δ )2 − (R sin H cos δ )2
+                                = R cosH cos δ .                                              (3.208)
+
+This u has to be multiplied by the chāyābāhu, which is given by
+                           q
+            chāyābāhu = chāyā2 − chāyākot.i2
+                           q
+                         = (R sin z)2 − (R sin H cos δ )2
+                           q
+                         = (R sin z)2 − (R sin z cos a)2      [by (3.203)]
+                              = R sin z sin a.                                                (3.209)
+
+It may be noted that the chāyābāhu is nothing but the projection of the shadow
+perpendicular to the east–west line (CD in Fig. 3.29). Further, another intermediate
+quantity, y, is defined as follows:
+
+                    y = u × chāyābāhu ±śaṅkukrāntisam . varga
+                      = R cos H cos δ × R sin z sin a ± R cosz R| sin δ |.                    (3.210)
+
+Then the aks.ajyā is given by the following expression:
+                                                               y × trijyā
+                                 aks.ajyā =
+                                                       (trijyā2 − chāyākot.i2 )
+

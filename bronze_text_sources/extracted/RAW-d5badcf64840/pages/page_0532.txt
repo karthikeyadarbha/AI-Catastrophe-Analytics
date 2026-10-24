@@ -1,0 +1,20 @@
+E.5 Karn
+       . ānayana                                                                485
+
+                           = R sin i cos λN cos ε + R cosi sin ε ,             (E.1)
+
+where MT is the kot.iphala discussed in the previous section. It may be seen that
+MV = R sin i sin λN , is the bhujā-phala. Then
+                q
+          ′
+      VU = (MV )2 + (MU ′ )2
+                q
+             = (R sin i sin λN )2 + (R sin i cos λN cos ε + R cosi sin ε )2 . (E.2)
+
+Clearly VU ′ = R sin I, where I is the angle corresponding to the arc V P. Hence,
+                q
+       R sin I = (R sin i sin λN )2 + (R sin i cos λN cos ε + R cosi sin ε )2 . (E.3)
+
+This is the maximum declination, or the maximum divergence between the equator
+and the viks.epavr.tta (the Moon’s orbit).
+

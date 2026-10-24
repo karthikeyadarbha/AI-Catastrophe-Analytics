@@ -1,0 +1,124 @@
+22. 3. 1
+
+बहुकारणगतिकत्वादेवं नियता ग्रहा भगोलगताः |
+कतमेन चिदेवैषां ज्ञेयः कालस्तु तद्गतिकालात्‌ 11 १८ ॥\
+(Nilakantha, Golaséra, 3. 15-28)
+
+Rationale of True planets
+
+The anomaly forming the difference between the
+planet and its apogee, and measured by the known
+planet’s circle, (whether mean or sighra) is (ultimately)
+measured by the minutes on the orbit of the knowable
+(i.e., true) planet. And there is difference between
+the two. (15) ` । है
+
+The orbit is measured by the base and perpendicular
+on the manda-circle centered at the centre of the orbit,
+and measured by the circle of the hypotenuse. (16)
+
+। Or, it is also measured. by the radius of the orbit got
+from the true base and perpendicular. (17a)
+
+It is this hypotenuse circle that is deflected (from
+the ecliptic), since the deflection (giving the latitude)
+is that of the planet on this. (17b)
+
+Ewen, there, the deflection is measured, not in yojanas,
+but by itself, (ie., the angle). Therefore, it is not got
+by the hypotenuse, since it is measured on a circle always
+even (i.e., of unchanging radius). (18)
+
+This is on the gighra circle (in the case of Mercury
+and Venus). When this is projected on the orbit, the
+resulting perpendicular circle is to be got. The hypo-
+tenuse (of the equation of conjugation) is to be got by
+using the two results, (ie., R sine and R cosine) of
+the orbit, formed by the segments of the motion of the
+planet, of circles varying according to the perpendiculars
+got from the deflection as base, and multiplying by the
+hypotenuse, and dividing by the radius. The R sine
+(of the equation of conjunction) multiplied by the radius,
+and divided by the above is the R sine forming the
+result, (to be applied in the last operation). (19-20)
+
+Getting the true planet in this manner is only for the
+two, (viz., Mercury and Venus). For Mars, Jupiter
+and Saturn, the perpendicular projected from the
+hypotenuse forming the distance between the Earth and
+planet, is the hypotenuse, and the base is the deflection
+mentioned. (21)
+
+This base, multiplied by the radius and divided by the
+distance between the Earth and the planet is the true
+(i.e., geocentric) latitude. Therefore, the latitude got on
+the manda circle, multiplied by the manda-hypotenuse is
+divided by this (viz., the distance between the Earth
+hand the planet. (22)
+
+Or, the hypotenuse is first to be got, using the radius
+of the mean planet’sorbit. In getting here the perpen-
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 288
+
+dicular related to that, the latitude got by the manda-
+circle is the true base. (23)
+
+Here, in the case of Venus and Mercury, theit mean
+is corrected by the equation of the centre. The latitude
+also is got from this, but this being applied to the apsis
+of conjunction inversely. (24)
+
+25. But since the orbit is smaller than the ईव
+circle, it (i.e., the latitude) is multiplied by the perpen-
+dicular got from the manda-hypotenuse and the latitude,
+(taken as base), and divided by the radius, to become
+true. (25)
+
+~ ‘The deflection listed by the wise (i.e., the authoritative
+
+astronomers) is to be multiplied by the radius and divided
+by the final result. Here, the distance between the
+Earth and the (true) planet is to be taken as the final
+result. Therefore, it, (i.e., the latitude), becomes true
+by that. (26) ,
+
+The mean Sun corrected by their (i.e., of Mercury
+and Venus) equation of conjunction, is their true position.
+Their yojana measures are to be multiplied by their true
+distances and their manda-hypotenuse and divided by
+their distances above. (27)
+
+The (motions of the) planets on the stellar sphere are
+thus ruled by motions caused multifariously. The
+motions of these are ruled by those. The inter-depend-
+ence is, thus, resolved by resorting to successive
+
+approximation. (28-29a). (KVS)
+देशान्तरादिवासना
+2. 4. 1. पश्चात्‌ पश्चादकें: प्राक्‌ प्राक्‌ च यतोऽभ्युदेति रेखायाः ।
+
+तद्‌देशान्तरजातं तेन स्वमृणं ग्रहे क्रियते 1! ६ ॥
+मध्यस्योदयकाले यः स रवेः स्वे चिरेण शी घ्रमृणे ।
+तत्फलकलासुभिरतः स्वगतित्रै ाशिकं स्वणैम्‌ ।। ७ ॥
+
+प्रागपरोन्मण्डलयोरुदयास्तमयौ रवेरिह निबद्धौ ।
+याम्योत्तरघ्रुववशात्‌ तत्र नति चोन्नति नीतौ ।। ८ ॥
+
+उन्मण्डलादधस्तात्‌ क्षितिजमुद्ग्‌ दक्षिणे तदुपरिष्टात्‌ ।
+तेन प्रागुदयोऽस्तमयः स्यात्‌ तेन रविचारेण ।। ६ ॥
+याम्ये गोले रव्युदयश्चिरेण शीध्रं भवेद्‌ यतोऽस्तमयः |
+तेन तदन्तरभूतं क्रालफलमुणधने स्वमूणम्‌ ।। १० ॥।
+अत एव महान्‌ दिवसस्तनीयसी रात्िरुत्तरे गोले |
+व्यस्तं याम्ये स्पष्टं विकारणं छेद्यकेऽभिहितम्‌ ।॥ ११ ॥
+
+(Lalla, SiDhVr., 16. 6-11)
+
+Rationale of DeSantara etc.
+
+` As the Sun rises first at a place which is to the east of
+the prime-meridian line, and then at a place which is to
+the west of it, the correction for terrestrial longitude is
+applied positively or negatively, as the case may be,
+to the mean place of a planet (as found at sunrise at
+Lanka). (6)

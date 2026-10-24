@@ -1,0 +1,57 @@
+3.39 Shadow when the amplitude is 45 degrees                                               235
+
+                                                                 Z
+                                                                                   P
+                                                                          a
+                                           a = 45
+               diurnal                                               45
+               circles
+
+
+
+                                                prime vertical
+                                S1
+
+                           S0        equ
+                   S                    ato                                   S2       N
+                                            r
+
+                                                                 E
+Fig. 3.32 Two different positions of the Sun (when δ > 0), corresponding to which there is a
+possibility of a second kon
+                          . aśaṅku and kon
+                                           . acchāyā.
+
+
+Case 1: δ < 0
+
+When δ < 0, sin δ is negative. And when the Sun is above the horizon, correspond-
+ing to the position S0 in Fig. 3.32, A > 90◦ , and therefore cosA < 0. So, the first term
+(3.278) is always positive. We show shortly that the second term has to be positive.
+Hence, sin z is the sum of two positive terms.
+
+
+Case 2: δ > 0
+
+When δ > 0, corresponding to the position S1 or S2 in Fig. 3.32, sin δ is positive.
+But, depending upon whether Sun is to the north or to the south of the prime vertical,
+two distinct cases are possible:
+1. When the Sun is to the south A > 90◦ . Hence, cosA < 0. So the first term in
+   the above equation is negative. So, the second term has to be positive, as sin z
+   should be positive when the Sun is above the horizon. In this case, sin z is clearly
+   a difference of two positive quantities.
+2. When the Sun is to the north, A < 90◦ . Hence cos A > 0. So the first term in the
+   above equation is positive. Hence sin z is the sum of two positive terms in this
+   case.
+
+
+Condition for the possibility of a kon
+                                     . acchāyā: (when the Sun is to the north)
+
+Due to the diurnal motion of the Sun, the aśāgrā, a, keeps on decreasing from the
+sunrise and becomes zero when the Sun is on the prime vertical. It can be shown
+that at sunrise
+                                               sin δ
+                              sin a|sunrise =         .                     (3.280a)
+                                               cos φ
+

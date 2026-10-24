@@ -1,0 +1,61 @@
+F.1 The traditional Indian planetary model: Manda-sam
+                                                    . skāra                                499
+
+As outlined in Section F.8.1, in the Keplerean picture of planetary motion the equa-
+tion of centre to be applied to the mean heliocentric longitude of the planet is
+given—to the first order in eccentricity—by the equation
+
+                                 ∆ θ ≈ (2e) sin(θ0 − θm ).                                (F.19)
+
+Now, comparing (F.19) and (F.17), we see that the manda correction closely ap-
+proximates the equation of centre as understood in modern astronomy if the values
+of rR0 are fairly close to 2e.
+   The values of rR0 for different planets as specified in Āryabhat.ı̄ya and
+Tantrasaṅgraha are listed in Table F.2. It may be noted here that the ratios speci-
+fied in the texts are close to twice the value of the eccentricity (2e) associated with
+the planetary orbits. In Table F.2, the modern values of 2e are listed according to
+Smart.15
+
+
+      Name of              Āryabhat.ı̄ya               Tantrasaṅgraha           2e
+                            r0                             r0
+      the planet            R             Average          R             Average Modern
+                           13.5                             3
+      Sun                                 0.0375           80            0.0375 0.034
+                           360
+                           31.5                             7
+       Moon                               0.0875           80            0.0875 0.110
+                           360
+                 31.5 − 9| sin(θ0 − θm )|                   1
+       Mercury                            0.075             6            0.167    0.412
+                           360
+                  18 − 9| sin(θ0 − θm )|                    1
+       Venus                              0.0375               θ0 −θm )|
+                                                                         0.053    0.014
+                           360                    14 + R| sin(240
+                 63 + 18| sin(θ0 − θm )|          7 + | sin(θ0 − θm )|
+       Mars                               0.200                          0.192    0.186
+                           360                             39
+               31.5 + 4.5| sin(θ0 − θm )|         7 + | sin(θ0 − θm )|
+       Jupiter                            0.0938                         0.091    0.096
+                           360                             82
+                40.5 + 18| sin(θ0 − θm )|                  39
+       Saturn                             0.1375           360           0.122    0.112
+                           360
+Table F.2 Comparison of manda epicycle radii and modern eccentricity values.
+
+
+
+
+F.1.6 Manda-sam
+              . skāra for interior planets
+
+For the interior planets Mercury and Venus, since the mean geocentric sidereal pe-
+riod of the planet is the same as that of the Sun, the ancient Indian astronomers took
+the mean Sun as the madhyama-graha or the mean planet. Having taken the mean
+Sun as the mean planet, they also prescribed the application of the manda correc-
+tion, or the equation of centre characteristic of the planet, to the mean Sun, instead
+of the mean heliocentric planet. Therefore, the manda-sphut.a-graha in the case of
+
+15 W. M. Smart, Textbook on Spherical Astronomy, Cambridge University Press, 1965, pp. 422–3.
+

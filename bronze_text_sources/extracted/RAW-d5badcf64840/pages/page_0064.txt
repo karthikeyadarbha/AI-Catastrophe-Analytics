@@ -1,0 +1,76 @@
+1.6 Definition of an intercalary month                                                                                                                       17
+
+    Further, it may be observed from Fig. 1.5 that between the winter solstice (S4 )
+and the summer solstice (S2 ), the Sun steadily moves northwards and this time in-
+terval is known as the uttarāyan.a/saumyāyana. The choice of this terminology
+stems from the fact that uttara/saumya mean north and ayana means motion. Simi-
+larly, between the summer solstice (S2 ) and the winter solstice (S4 ), the Sun steadily
+moves southwards and it is known as daks.in.āyana/yāmyāyana. These two ayanās
+together constitute a saurābda or a solar year.
+    The commentary Laghu-vivr.ti defines the sauramāsa and the two ayanās as
+follows:
+         .sa;Ea:=+a;b.d;~ya õ
+                            d;a;d;Za;Ma;Za;BUa;taH      yaH    .sa;Ea:=+ma;a;saH   , .saH ta;~yEa;va Ba;a;~k+.=+~ya .$ya;ea;a;ta;(ãÉa;kÒ+:dõ;a;d;Za;Ma;Za-
+         BUa;ta;~ya .=+a;Zea;Ba;eRa;ga;k+:a;lH .~ya;a;t,a Á ta;~yEa;va o+.d;gd;Æa;[a;Na;a;a;d;ga;Æa;Ba;mua;Ka;ga;a;ta;d
+                                                                                                                      õ ;yMa .sa;Ea;}ya;ya;a;}ya:+.pa   -
+         ma;ya;na;a;d
+                    õ ;ta;ya;ma;a;pa      ÁÁ
+
+         The solar month which is one-twelfth of a solar year is equal to the time spent by the Sun in
+         a rāśi, which in turn is one-twelfth of the jyotiścakra (ecliptic). The motion of the same
+         (Sun) along the north and the south directions is termed saumyāyana and yāmyāyana.28
+
+
+
+     .
+1 6 A;a;Da;ma;a;sa;l+.[a;Na;m,a
+
+
+1.6 Definition of an intercalary month
+
+         a;ya;ea;d;Za;~ya . Ea:a;a;a;d;d
+                                         õ ;a;d;Za;a;na;a;Æa;ma;yMa ;Æa;Ba;d;a      ÁÁ 7     ÁÁ
+
+                                           å                             ñÍ
+         mea;Sa;a;dùÅe;a;k                                       x +:tsa;ö
+                          E +:k+.=+a;a;Za;~.Pu+.f;ga;a;ta;a;d;na;k       *:Å" +.mEa;k
+                                                                                    E +:k+:ga;Ba;RaH
+
+                                                                       ñÍ
+                     ãÉEa:a;a;a;d;ma;a;sa;aH
+         . a;a;ndÒ+a;(                          I+.h na ya;d
+                                                           u ;d:=e .sa;*:
+                                                                       öÅ" +.maH       .sa;ea Y;a;Da;ma;a;saH        Á
+
+                                                 å                                     ñÍ
+         .sMa;sa;pRaH   .~ya;a;t,a .sa . a;Ma;h;~.pa;a;ta:+:pa;a:= ya;a;d g{a;~ta;sa;öÅ*:+.a;a;ta;yua;gmaH
+                                                                                           "
+                              ñÍ
+         ta;Ea . a;a;b.d;tvRa;çÅ                                                                          ãÉa;a;t,a
+                              *:+.BUa;ta;Ea .sa;h .sua;a;. a:=+Ba;va;Ea .sa;ea Y;a;Da;ma;a;sa;ea Y:a :pa;(               ÁÁ 8   ÁÁ
+
+         trayodaśasya caitrādidvādaśānāmiyam . bhidā || 7 ||
+         mes.ādyekaikarāśisphut.agatidinakr. tsaṅkramaikaikagarbhāh.
+         cāndrāścaitrādimāsāh                                 ′
+                                  . iha na yadudare saṅkramah. so dhimāsah. |
+         sam. sarpah. syāt sa cām. haspatirupari yadi grastasaṅkrātiyugmah
+                                                                             .
+         tau cābdartvaṅgabhūtau saha sucirabhavau so ′dhimāso ′tra paścāt ||8 ||
+         The following is the difference between the twelve lunar months, Caitra etc., and the thir-
+         teenth month.
+         Lunar months which include only one saṅkrama (transit) of the true Sun into any of
+         Mes.ādi rāśis are the usual Caitra etc. Those lunar months which do not include a
+         saṅkrama are adhimāsas. The same adhimāsa is referred as a sam       . sarpa if it is fol-
+         lowed by an am  . haspati, a lunar month which has two saṅkramas in it. These two lunar
+         months, a sam . sarpa and an am  . haspati, which always occur together in pairs and keep
+         recurring, are considered to be part of the year and seasons. Here, that (month without a
+         saṅkrama) which occurs later (after an am . haspati) is the [actual] adhimāsa.
+
+   In India, three types of calendrical system are followed: solar, lunar and luni-
+solar. While the solar calendar is based only on solar months and the lunar on lunar
+
+28
+   The term ayana essentially means motion; the words saumya and uttara refer to the north
+direction. Hence the term uttarāyan
+                                   . a refers to the northerly motion of the Sun.
+

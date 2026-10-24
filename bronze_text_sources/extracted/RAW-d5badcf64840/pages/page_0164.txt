@@ -1,0 +1,63 @@
+2.24 Finding naks.atra and tithi                                                                                           117
+
+   A;kR +:h;a;na;ea ;a;na;Za;a;na;a;TaH         ;a;l+.a;a;kx +:tya ;a;va;Ba:$ya;tea       Á Á 56              ÁÁ
+
+   ZUa;nya;a;a:(
+               õ;a;pa;vRa;tEa;lR+.b.Da;aH   ;a;ta;Ta;ya;ea ya;a ga;ta;aH    kÒ +:ma;a;t,a    Á
+
+   Bua;+.a;nta:=e+Na na;a;q:aH       .~yuaH     :Sa;a;a h;tva;a ga;ta;a;ga;tea         Á Á 57          ÁÁ
+
+   ;a;ta;Tya;DRa;h;a:=+l+.b.Da;a;a;na k+.=+Na;a;a;na ba;ba;a;a;d;taH            Á
+
+   ;a;va:+.pa;a;a;Na ;Æa;sa;tea :pa;[ea .sa:+.pa;a;Nya;Æa;sa;tea ;a;va;duH         Á Á 58            ÁÁ
+
+   ;a;va;Sk+:}Ba;a;dùÅ;a;a .=+va;a;nd                          ãÉa;a;;Za;ta;a;&+.ta;aH
+                                     õE ;k+.a;a;t,a ya;ea;ga;a;(                                 Á
+
+                                                     È
+   Bua;a;+:yua;+.a;a ga;tEa;Sya;a;Bya;Ma :Sa;a;. îå Á
+                                                    *+;a;Bya;Ma .. a na;a;a;q+.k+:aH                  Á Á 59          ÁÁ
+
+   liptı̄kr.to niśānāthah. śatairbhājyos..tabhih. phalam |
+   aśvinyādı̄ni bhāni syuh    . s.as..tyā hatvā gatāgate || 55 ||
+   gatagantavyanād.yah. syuh. sphut.abhuktyodayāvadheh. |
+   arkahı̄no niśānāthah    . liptı̄kr.tya vibhajyate || 56 ||
+   śūnyāśviparvatairlabdhāh    . tithayo yā gatāh. kramāt |
+   bhuktyantaren     . a nād.yah. syuh. s.as..tyā hatvā gatāgate || 57 ||
+   tithyardhahāralabdhāni karan         . āni babāditah. |
+   virūpān . i site paks.e sarūpān  . yasite viduh   . || 58 ||
+   vis.kambhādyā ravı̄ndvaikyāt yogāścās..taśatı̄hr.tāh. |
+   bhuktiyuktyā gatais.yābhyām       . s.as..tighnābhyām . ca nād.ikāh. || 59 ||
+   The longitude of the lord of the night (the Moon) in minutes is divided by 800. The quotient
+   gives the number of naks.atras that have elapsed beginning from the Aśvini naks.atra.
+   The remainder [which corresponds to the minutes covered by the Moon in the present
+   naks.atra] and the one which has to be covered multiplied by 60 and divided by the daily
+   motion of the Moon [in minutes] at sunrise gives the nād.ikās that have elapsed and are
+   yet to elapse in the present naks.atra. The longitude of the Sun subtracted from that of the
+   Moon, in minutes, is divided by 720′ . The quotient gives the number of tithis elapsed. The
+   remainder and the quantity obtained by subtracting the remainder from 720′ , multiplied by
+   60 and divided by the difference in the daily motion of the Sun and the Moon, gives the
+   number of ghat.ikās that have elapsed and are yet to elapse in the present tithi.
+   The same (difference in longitude between the Sun and the Moon) divided by half the
+   divisor used in the tithi calculation gives the number of karan            . as elapsed, starting with
+   bava. In the bright fortnight the karan        . as are without form and in the dark fortnight with
+   form. The sum of the longitudes of the Sun and the Moon [in minutes] divided by 800
+   gives the yogas, starting with the vis.kambha. The remainder and the quantity obtained by
+   subtracting the remainder from 800, multiplied by 60 and divided by the sum of the daily
+   motion of the Sun and the Moon, gives the number of ghat.ikās that have elapsed and are
+   yet to elapse in the present yoga.
+
+   The ecliptic is divided in to 27 equal parts called naks.atras beginning with
+Aśvinı̄ and ending with Revatı̄. Hence each naks.atra corresponds to 21600      27 =
+800 minutes, along the ecliptic. The naks.atra at any instant refers to the particular
+portion of the ecliptic in which the Moon is situated. Clearly, when the longitude of
+the Moon in minutes is divided by 800 the quotient gives the number of naks.atras
+which have elapsed and the remainder corresponds to the minutes covered by the
+Moon in the present naks.atra. When this is divided by the daily motion of the
+Moon in minutes at that time (taken to be the value at sunrise) and multiplied by 60,
+the result gives the ghat.ikas that have elapsed in the present naks.atra. Similarly the
+ghat.ikās yet to elapse in the present naks.atra can be calculated.
+   A tithi is the (variable) unit of time during which the difference between the
+longitudes of the Moon and the Sun increases by 12◦ or 720′. Hence there are 30
+tithis during a lunar month. Hence, when the difference in longitudes of Moon and
+

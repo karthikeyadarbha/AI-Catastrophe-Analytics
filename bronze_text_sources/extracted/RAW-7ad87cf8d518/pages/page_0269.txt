@@ -1,0 +1,130 @@
+225 16. ECLIPSES
+
+The north declination, being less, and therefore
+deducted from the latitude of the place, the remainder
+(which is the ZDN) is south. The south declination
+must be added to the latitude, and the sum (forming
+the ZDN) is north. The part of the north declination
+greater than the latitude, (i.e., the remainder after
+deducting the latitude from the north declination,
+which forms the ZDN), is north. (12)
+
+Correction to the parallax and diameter of the orbit
+
+Multiply the true daily motion of the Moon by the
+sine of the ZDN thus found, and divide by 1800. This
+is the parallax correction for latitude. The mean
+angular diameter of the Sun is 30 minutes, and that of
+the Moon, 34 minutes, (according to the Romaka). (13)
+
+Twentyone, multiplied by the sine of (Sun or Moon
+at new moon-Rahu) and divided by nine is the latitude.
+This, with the parallax correction added is the parallax-
+corrected latitude, when both are of the same direction.
+When of different directions, their difference is the
+corrected latitude. (14)
+
+True diameter of the orbits
+
+The mean angular diameters of the Sun and the Moon,
+respectively, multiplied by their true daily motions and
+divided by their mean daily motions, the true angular
+diameters at the time of eclipse. (15)
+
+Moment of the eclipse
+
+Subtract the square of the parallax-corrected latitude
+from the square of the sum of the semi-diameters. The
+square root of the remainder, multiplied by two, is the
+number of minutes of arc giving the duration. These
+minutes multiplied by 60 and divided by the minutes of
+the relative true daily motion gives the time of duration
+
+in nadikas.® (16). (TSK)
+
+--सौरसिद्धान्तः
+
+रविचन्द्रकक्षे
+
+16. 25. 1. मुनिकृतगुणेन्द्रिय'घ्नः स्फुटकर्ण: खक्क॒त'भाजितो5कंस्थ ।
+कक्षेति चन्द्रकर्णो “दिग्‌'ध्नः कक्षा शशाड्धुस्य ।। १५।।
+
+विम्बमानम्‌ ।
+'स्वरवसुमुनीन्द्रविषया' भानो: खकृतरतुवसुगुणाः' शशिन:।
+तात्कालिकमानार्थं स्पुटकक्षाभ्यां पुथग्‌ विभजेत्‌ ॥१६।।
+
+मध्यज्या
+
+मध्याकंलम्बिततिथेरनक्षराष्युद्गमः प्रतीपांशाः ।
+प्राक्‌ समलिप्ता हानिः क्रमेण पश्चाद्धनं कायम्‌ ।। १७ I
+
+1 J-e,, (i) The angular diameter of the Sun=30’ x Sun’s true daily
+motion+59.
+(ii) The angular diameter of the Moon=34’ x Moon’s true
+daily motion 791. -
+2 एजः the rationales and the working, see PS: TSK, 8. 9-16.
+
+17
+
+16. 25. 1
+
+तन्मध्यविलग्नाख्यं तस्माच्चापक्रमांशकाः क्रमशः ।
+तं रक्षवियुतयुक्तैर्या ज्या मध्याभिधाना सा ॥ १८ ॥
+
+प
+
+रवेदुक्कषेषः
+तिथ्यन्तविलग्नज्या काष्ठान्तज्याहता स्वलम्बहूता ।
+मध्यज्याघ्नी व्यासाधेभाजिता बमिता सा च ॥ १६ ॥।।.
+मध्यज्याकृतिविश्लेषितां पृथक्‌ स्थाप्य मूलमेकस्याः ।
+सवितुद क्षेपाख्यं संस्कृत्यर्थं पुथक्‌ स्थाप्यम्‌ ।। २० ॥
+शङ्कुः
+
+दुकक्षोपकृति जह्यात्‌ विज्यावर्गात्‌ ततोऽस्य यन्मूलम्‌ । `
+लग्नाकंविवरमौर्व्या गुणितं त्रिज्योद्धृतं wee: ।। २१॥।
+लम्बितपर्वान्तिः
+
+शडक्वड्गुलाख्यविशतिशतकृत्योरन्तरेण विश्लेषात्‌ ।
+स्थितवर्गान्मूलं द्विनवकाहतं तद्विभज्य कक्ष्याभ्याम्‌ ।। २२
+
+भागाविशेषात्तिथिवत्तिथ्यन्तनाम पूनः पुनस्तत्‌ स्यात्‌ |
+एवं मृग्यः कालस्तूत्पन्नो यावदविशेषः ॥ २३ A
+
+नतिः
+अविशेषाद्‌ gaat वस्वेक "घ्नं विभज्य कक्षाभ्यभ ।
+लब्धान्तरचापांशा मध्यज्यादिग्वशेन नतिः ।। २४ ।।
+
+ज्याविधिना विक्षेपं तत्कालं प्राप्य तेन सहितौना ।
+स्पष्टा नतिः प्रमाणैः स्वैः स्वर्ासिं स्थितं च वदेत्‌ ।।२५।।
+
+अवनतिवर्गं जह्याद्‌ रवीन्दुपरिमाणभोगदलवरगत्‌ ।
+तन्मूलात्तु feng तिथिभुक्तवदादिशरेत्‌ कालम्‌ ।।२६।।
+
+तिथ्यवनामो ग्रहणादिनामविश्लेषितो युतस्थित्याम्‌ ।
+गोलान्यत्वे देयस्त्ववनामौक्षिकस्यैवम्‌ ।। २७ ॥।
+(Varaha, PS, 9. 15-27)
+
+—Saurasiddhanta
+Kaksa of the Sun and the Moon
+
+The Sun’s radius vector multiplied by 5347 and
+divided by 40 is called its kaksé. The Moon’s radius
+vector multiplied by 1015 its kaksa. (15)
+
+Measure of the orbit
+
+Divide 5,14,787 by the Sun’s kaksdé, and 38,640 by
+the Moon’s, to get the respective angular diameters in
+minutes at the time. (16)
+
+Find the interval between midday and the moment
+of new moon. If the Sun is east of the meridian, (२.९.
+if new moon falls in the forenoon), find the degrees of
+right ascension corresponding to this time using the
+ascensional differences of zero latitude, (Lankodaya-
+mana), backwards from the Sun. Subtract these
+degrees from the Sun (=Moon) of the moment of
+new moon. If the Sun is west of the meridian, (2.९.
+if new moon is in the afternoon), find the degrees cor-
+responding to the interval counting forward from the
+Sun and add to the Sun (=Moon). (17).

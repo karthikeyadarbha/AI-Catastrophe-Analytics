@@ -1,0 +1,50 @@
+Hindu Zodiac and Ancient Astronomy
+
+Vyatipata correspond to: Sun + Moon + 1 33°20’ = 360° —(b)
+And Sloka 22 defines:
+
+Vyatipata correspond to: Sun + Moon = 1 80° —(c)
+
+It is apparent that the definitions of Vyatipata in (©) and (©) are different and hence the
+translator chose to describe (c) as ‘Maha-Vyatipata’ to make a difference.
+
+Present-day Practice in Nirayana Paricafigas
+
+The nirayana 22062485 published all over India compute Vyatipata and Vaidhruta using
+nirayana longitudes as per the definition (b) and (a) respectively. They are not at all
+bothered about the astronomical rationale of ‘Parallel dectlinations’. As a consequence
+Vyatipata is the 1 7" of the Yoga-series beginning with Viskambha while Vaidhrta is the
+last or 27". In fact if Vaidhrta corresponding to Sun + Moon = 360° is the 27” Yoga, then
+Vyatipata must be at the center of the series viz., 14" being Sun + Moon = 1 80°. The
+displacement of Vyatipata from the middle of the series must obviously be due to the use
+of nirayana longitudes in computation at a particular epoch. Equations (a), (b), and (c)
+can be reconciled if the same are considered with reference to the epoch of
+Pitamahasiddhanta as described in Sloka 21 i.e. the summer solstice at the middle of
+Aéglesa (113°20’) r the winter solstice at Dhanisthadi (293°20’).
+
+i.e. Ayanamga =23°20’.
+
+Now, the tropical sum of 180° as per (c) will be 180°+ 46°40 = 226°40’ in nirayana
+computation, as the ayanamsa was additive. Sun + Moon = 226°40’ was Vyatipata in
+nirayana computation. So the 14" in the tropical yoga-series got shifted to 1 7™ in the
+nirayana s system (i.e. 226°40’/ 13°20’ = 17). Similarly Vaidhrta will be 360°
+46°40'=406°40' i.e. 311 or 47" in the series and hence both Vaidhrta and Vyatipata are
+relatively at 13.5 Yogas (or 1 80°) from each other.
+
+Both the above computations as per (c) & (a) are in tune with the astronomical rationale
+of parallel declination. Relation (b) is practically the same as relation (c) because:
+
+Sun + Moon + 133°20’ = 360°
+1.6. Sun + Moon = 360° - 133°20 = 226°40’ (Nirayana)
+
+In fact relation (9) is a variant of (©) so that Vyatipata is the 17™ of the series even at the
+time of Varahamihira where-in Visu was supposed to be the beginning of Mesa or
+ayanamsa was zero. At zero ayanamsa Vyatipata should have been the 14" yoga
+irrespective of the sayana/nirayana method of computation.
+
+It is evident from the above that the Yoga-series undergo alteration if we adopt the
+nirayana computation while it remains the same if we use sayana longitudes. According
+to Bhaskara I: oo
+
+“When the Sun plus the Moon equals six signs it is Vyatipata, when it is twelve signs it is
+250

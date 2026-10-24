@@ -1,0 +1,58 @@
+3.43 Zenith distance of the vitribhalagna                                                            243
+
+     The aks.a multiplied by the antyadyujyā (the Rcosine of the obliquity of the ecliptic)
+     and divided by the trijyā, and the lambaka multiplied by the kot.i of the kālalagna and
+     divided by 8452, [are kept separately]. The dr.kks.epa is the difference between or the sum
+     of the two, depending upon whether the kālalagna is within the 6 signs beginning from
+     Karkat.aka or from Mr.ga.
+     Where the difference is greater than the one which is obtained from the lambaka [or lam-
+     baja],75 the dr.kks.epa is north. Otherwise it is always in the south. The square root of the
+     square of the difference between it and the square of the trijyā is the kot.i of the dr.kks.epa.
+
+In the above verses, the expression for the dr.kks.epa or the Rsine of the zenith dis-
+tance of the vitribhalagna is given. The term vitribhalagna76 (nonagesimal) refers
+to the point on the ecliptic which is exactly 90 degrees from the lagna, in the vis-
+ible part of the hemisphere. The need for the expression for the zenith distance of
+the vitribhalagna arises from the fact that it is used in the computation of the exact
+expression for the lagna, which will be presented in a later section. This also plays
+an important role in the calculation of eclipses.
+   Here, two intermediate quantities x and y are defined whose sum or difference
+gives the expression for the Rsine of the zenith distance of the vitribhalagna. These
+quantities are defined as:
+
+                                 antyadyujyā × aks.a R cos ε × R sin φ
+                              x=                     =                  ,                  (3.297)
+                                       trijyā                R
+                                 lambaka × kālalagnakot. i R cos φ × R| cosL′′ | × sin ε
+             and              y=                           =                              .(3.298)
+                                          8452                            R
+                              2
+Here sinR ε = R sin
+                 R
+                    24 is taken to be 8452.
+
+     The expression for the dr.kks.epa (= R sin ZV in Fig. 3.36) is given to be
+
+                                                                dr.kks.epa = x ± y.             (3.299)
+
+Substituting for x and y and using the notation ZV = zv , we have
+
+                                      R sin zv = R cos ε sin φ ± R cos φ | cos L′′ | sin ε ,    (3.300)
+
+where the sign chosen is ‘+’ when L′′ is in the first or the fourth quadrant, and ‘−’
+when L′′ is in the second or the third quadrant.
+
+
+Proof:
+
+In Fig. 3.36, Z, K and P represent the zenith, the pole of the ecliptic and the pole
+of the equator respectively. Γ is the vernal equinox and V the vitribhalagna. When
+Γ is on the horizon, both K and V are on the prime meridian. This situation is
+depicted in Fig. 3.36(a). At a later time during the day, as Γ keeps rising above the
+75 l+.}ba;a;t,a A;Ta;va;a l+.}ba;k+:a;t,a .ja;a;ya;tea I+.a;ta l+.}ba:jaH Á
+
+                                                      a, ta;t,a ;a;va;a:a;Ba;l+.îå
+                                              É
+76 ;a;va;ga;tMa ;a:a;BMa ya;sma;a;t,a l+.çîå+;a;a;t,                            çÉ
+                                                                                 +;a;m,a   Á
+

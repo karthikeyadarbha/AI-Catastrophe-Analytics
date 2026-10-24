@@ -1,0 +1,60 @@
+3.29 Determination of z and H from δ , a and φ                                                                          205
+
+                                                                                  Z                90
+                                                                                                      −   ϕ
+                                                                                      A
+                                                                  z
+                                                                                                   H
+                                                                      a
+                                                                                  90 − δ
+          A                                                                                                    P
+
+                                                              S                                    (b)
+        R sin ϕ
+                                ha
+                                  ra
+
+
+                                                      diurnal path
+          B                                  C        of the Sun.
+                  R sin a x R cos ϕ / R
+                                                                                  Z                90
+                          (a)                                                                           −ϕ
+
+                                                                                          A
+
+                                                                              a
+                                                                                      z             H
+                                                                                                               P
+
+
+
+                                                                                                   −δ
+                                                                                              90
+                                                                                                         (c)
+                                                                          S
+
+Fig. 3.27 Triangles used for arriving at the formula for the śaṅku (R cos z) and the nata (R sin H)
+in terms of the krānti (δ ), digagrā (a) and aks.a (φ ).
+
+
+
+                                        Y = k1 k2 .                                                                (3.168)
+
+Substituting for k1 and k2 , we find
+                                            q
+                       Y = R2 cos φ sin a        sin2 φ + cos2 φ sin2 a − sin2 δ .                                 (3.169)
+
+
+Stage 3: Expression for the śaṅku
+
+The following results for the śaṅku are stated:
+  Case A: When the declination is north (δ > 0)
+                      X ±Y
+      R cos z =            R
+                       K2                                 q
+                      R2 (sin φ | sin δ | ± cos φ sin a       sin2 φ + cos2 φ sin2 a − sin2 δ )
+                  =                                                                                                R.
+                                           R2 (sin2 φ + cos φ sin2 a)
+                                                                                                                   (3.170)
+

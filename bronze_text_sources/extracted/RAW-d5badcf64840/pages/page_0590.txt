@@ -1,0 +1,41 @@
+Glossary                                                                             543
+
+deśāntara              (1) Longitude. (2) Difference in terrestrial longitude. (3) Cor-
+                         rection to the celestial longitude due to the observer’s terres-
+                         trial longitude.
+deśāntara-kāla        Time difference corresponding to the difference in terrestrial
+                         longitude.
+deśāntara-sam . skāra Correction related to the difference in longitude.
+dhana                   (1) Positive. (2) Additive.
+dhanus                  Arc of a circle.
+dhruva                  (1) Celestial pole (north or south). (2) Fixed initial positions
+                        or longitudes of planets at a chosen epoch.
+dhruvanaks.atra         Pole star.
+dhruvonnati             Elevation of the celestial pole.
+digagrā                See aśāgrā.
+digvaiparı̄tya          Reversal of direction; perpendicularity.
+dik                     Direction, generally the four cardinal ones.
+dikjñāna              Knowledge of the directions.
+diksūtra               Straight lines indicating directions.
+dinabhukti              The angle traversed (by any planet) per day.
+divyābda               Divine year, equal to 360 ordinary years.
+divyadina               Divine day, equal to one year.
+doh.                    Literally, hand. See bhujā/bāhu.
+doh.phala               Opposite side of a right–angled triangle conceived inside an
+                        epicycle of specified radius with one of the vertices coincid-
+                        ing with the centre of the epicycle, and the angle subtended
+                        at that vertex being the manda-kendra or śı̄ghra-kendra.
+dorjyā                 Rsine.
+dr.ggati                Arc of the ecliptic measured from the central ecliptic point or
+                        its Rsine; Rsine altitude of the nonagesimal.
+dr.ggatijyā            Rsine dr.kks.epa.
+dr.ggola                (1) Visible celestial sphere for an observer – the observer-
+                        centred celestial sphere. (2) The khagola and bhagola to-
+                        gether.
+dr.ggolacchāyā        Shadow corresponding to the dr.ggola.
+dr.ggolaśaṅku         Gnomon corresponding to the dr.ggola.
+dr.gjyā                Rsine of the apparent zenith distance (R sin z′ , where z′ is the
+                        zenith distance corresponding to the observer).
+dr.gvr.tta              Vertical circle passing through the zenith and the planet.
+dr.kchāyā             Parallax.
+

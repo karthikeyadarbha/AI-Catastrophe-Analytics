@@ -1,0 +1,129 @@
+11. 16. 1
+
+Moon’s true declination
+
+The instantaneous latitude of the Moon added to or
+subtracted from the declination of the Moon’s projec-
+tion on the ecliptic, according as the two are of like
+or unlike directions, gives the true declination of the
+Moon. (53).
+Time of Vyatipata
+
+When the bhuja of the Moon’s Jongitude is greater
+than the एषु of the longitude corresponding to the
+Sun’s declination, (it should be understood that) the
+phenomenon of Vyatipata has already occurred. Similar
+is the case when the kofi of the Moon’s longitude is less
+then the koti of the longitude corresponding to the Sun’s
+declination. In the contrary case, it is just the reverse
+
+(i.e. it should be understood that the phenomenon of
+
+Vyatipate is to occur.) (54)
+
+When there is equality of the Sun’s and Moon’s
+declinations, (both in magnitude and direction), then
+the Vyatipdta is called Cakrardha (or Lata-Vyatipata). It
+is prohibited for all (auspious) acts. (55)
+
+When the declinations of the Sun and the Moon are
+unequal, multiply their difference by 600 and divide
+(the product) by the succeeding tabular declination
+minus the preceding tabular declination (given in verses
+49-50) and subtract the (resulting) quotient from or add
+that to the Moon’s longitude, according as the Vyatipdta
+has occurred or is to occur. Again calculate the Moon’s
+declination and iterate the process until the declinations
+(of the Sun and Moon) become equal.t (56-57). (1६88):
+
+करणानि |
+11.16. 1. बवबालवकौलवततिलाख्यगरवणिजविष्टिसंज्ञानाम्‌ ।
+पतयः स्युरिन्द्रकमलजमित्राय॑मभूश्रिय: सयमाः ॥ १ ।॥।
+कृष्णचतुरदश्य्धाद्‌ धरुवाणि शकुनिश्चतुष्पदं नागम्‌ |
+किस्तुध्नमिति च तेषां कलिवृषफणिमारुताः पतयः ॥1२॥।
+(Varaha, Br.Sam., 100. 1-2)
+Karanas ।
+
+The lords of the seven movable karanas, viz. Bava,
+
+Balava, Kaulava, Taitila, Gara, Vanija and Visti, are
+
+Indra, Brahman, Mitra, Aryaman, Bhi (Earth), Sri
+(Goddess of Wealth) and Yama (Death), respectively. (1)
+
+The fixed or Dhruva-karanas, viz. Sakuni, Catuspada,.
+
+Naga and Kirhstughna, begin from the latter half of the
+14th day of the dark fortnight and are presided over by
+
+Kali, Vrsa, Phai:in (Serpent) and Maruta (Wind),
+
+respectively. (2) .2 (MLR. Bhat)
+
+1 For further details regarding Vyatipata (also called Pata
+Mahapata) see Appendix 1, Mahapatadhyaya, KR:KSS, pp. 102-110..
+2 The fixed karanas appear only once inalunar month. A karana
+is equal to halfa tithi. So there must be 60 karapasinamonth. But
+the fixed ones are assigned to the latter half of the dark 14th day,
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 108
+
+करणगणनम्‌
+11. 16. 2. सितबहुलयो: क्षयधनं षड्भागाः शीतगोविरविभोगात्‌ |
+लिप्ता खर्तुहुताश' लेब्धं करणं तिथिवदन्यत्‌ | १८॥।।'
+बहुलचतुर्देश्यर्धाद्‌ धुवाणि शकुनिश्चतुष्पदं नाग: |
+किस्तुध्नमिति च करणान्यधं चराणि प्रवर्तन्ते ।। १६ ॥।
+(Varaha, PS, 3. 18-19)
+
+Karanas—Computation *
+
+In the light fortnight, take the Moon minus the Sun
+and subtract from it 6°. For the dark fornight take the
+Moon minus the Sun from the beginning of the dark
+fortnight, i.e., take the Moon minus the Sun with 6 rasis
+subtracted from it, and add 6°. Convert it into minutes
+and. divide by 360’. What are obtained are the cara-
+karanas Bava etc. coming one after another repeatedly.
+Take the remainder and treat it as the remainder in
+calculating the tithi, (i.e., multiply 60, and divide by the
+difference of the daily motions of the Sun and the Moon
+in minutes etc.) and thus get the ending moment of the
+last karana. In each tithi the first half is one karana and
+the second halfanother. (18)
+
+In the four half éthis, viz., the second half of Bahula-
+caturdagi, the two halves of Am4vasya, and the first
+half of Sukla-pratipad, are the sthira-karayas, Sakuni,
+Catuspada, Naga and Kimstughna, respectively. Then
+from the remaining half, the cara-karanas come in the
+order Bava, Balava, Kaulava, Taitila, Gara, Vanijya
+(Vanija) and Visti (Bhadra), (repeating eight times).
+(19). (TSK) `
+
+तिथ्यधंहारलन्धानि करणानि बवादितः ।
+विरूपाणि सिते पक्षे सरूपाण्यसिते विदुः ।। ३३ ॥।
+(Bhaskara I, MBh., 4. 33)
+
+11. 16. 3.
+
+The karanas (elapsed) are obtained by taking “half
+the measure of a tithi (i.e., 360 minutes)”’ for the diviser,
+and are counted with Bava. But the number of karanas
+elapsed in the light half of the month should be dimi-
+nished by one, whereas those elapsed in the dark half
+of the month should be increased by one. This is what
+has been stated.2 (33). (KSS)
+
+11. 16. 4. व्यकंन्दुकला भक्ताः खरसुंगुण लेब्धमूनमेकेन ।
+चलकरणानि बवादीन्यगहूतशेषे तिथिवदन्यत्‌ ।। ५८॥
+
+the two halves of the new moon and the first half of the first lunar
+day of the bright fortnight. Hence 56 karanas remain to be filled
+with the 7 karanas repeated 8 times. Bava prevails in the latter
+half of the bright pratipad; Balava and Kaulava in the two halves of
+the second; Taitila and Gara in the two parts of the third sth;
+Vanij and Vistiin those.of the fourth. In this manner these seven
+movable karanas have to be repeated in both the fortnights, without
+touching the provinces of the four fixed karanas.
+
+४ For therationale; see MBh:KSS, p.131.

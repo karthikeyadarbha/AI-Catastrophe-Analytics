@@ -1,0 +1,53 @@
+7.5 Kālalagna and the divisions of time                                                           397
+
+   nyūnaih. khet.o na dr.śyah. syāt bhānuraśmihataprabhah     . || 11 ||
+   dvādaśātyas..tayo viśve rudrāṅkatithayah  . kramāt |
+   candrādikālabhāgāstaih . dr.śyā svārkāntarodbhavaih . || 12 ||
+   Let the kālalagna of the sāyana (tropical) Sun and that of the Moon and the other planets,
+   with the above corrections incorporated, be found at their rising or setting.
+   If the difference in degrees [stated below] is greater than twelve etc. then the planet is
+   visible. If less, it will not be visible [because of] its glow being suppressed by the brilliance
+   of the Sun.
+   If the differences between the kālalagna of the Sun and those of the other planets starting
+   with the Moon are 12, 17, 13, 11, 9 and 15 respectively, then they are visible.
+
+Here the minimum angular separations that are required for the visibility of the
+Moon and the five star planets in terms of the difference in the kālalagnas are
+specified. The minimum angular separations for the different planets are given in
+Table 7.2.
+
+                       Name of planet Min. angular separation, ψm (in deg)
+                          Moon                        12
+                           Mars                       17
+                         Mercury                      13
+                          Jupiter                     11
+                          Venus                        9
+                          Saturn                      15
+Table 7.2 Angular separation required for the visibility of the planets.
+
+
+
+
+                                                  Z
+
+
+
+
+                                 ecl                                         P
+                                  ipt       6 o’clock
+                                    ic
+                                            circle            ξ
+                                                                       θ
+
+                              horizon     Γ
+
+                                              E   S
+                                                                  G
+                                   meridian passing
+                                   through the planet
+
+
+
+
+Fig. 7.4 Minimum angular separation for the visibility of a planet.
+

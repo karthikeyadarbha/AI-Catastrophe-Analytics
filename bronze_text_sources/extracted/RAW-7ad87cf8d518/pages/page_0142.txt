@@ -1,0 +1,118 @@
+10..19..1
+
+off the carajyd above that mark when the Sun has nor-
+thern declination, or below otherwise.. Then,.the dis-
+tance from the point where the parallel line (lengthwise)
+meets the circle to the parallel line through O gives the
+hour angle in ghatis. (26). (AS)
+
+यन्त्रैः ग्रहनिरीक्षणम्‌
+10. 19. 1. कितिरवियोगाद्‌ दिनकृद्‌
+. रवीन्दुयोगात्‌ प्रसाधितश्चेन्दुः ।
+शशिताराग्रहयोगात्‌
+तथैव ताराग्रहा सर्वे ।। ४८ ।।
+(Aryabhata I, ABh., 4. 48)
+
+Observation of planets with instruments
+
+The Sun is determined from the conjunction of the
+Earth and the Sun, the Moon from the conjunction
+of the Sun and the Moon, and all the other planets
+from the conjunctions of the planets and the Moon.
+(48). (KSS)
+
+अर्काग्रा
+
+10. 19. 2. ग्रीवासमां भगणभागविभक्तवृत्तां
+कूर्यात्‌ स्थलीं समतलां कृतदिग्िभागाम्‌ |
+तस्या जलेशदिशि मण्डलमध्यदुष्टि-
+
+विध्याद्रवि परिधिलग्नमनाकृलात्मा । ५६ ॥
+
+पूवे रेखाग्रवेधस्य रविवेधस्य चान्तरम्‌ |
+अकग्राचापनिर्माणं परिधौ भागलक्षिते ।। ५७ ।।
+
+अर्काग्रा ज्या भवेत्तस्य तन्नतिज्याविशेषजा |
+लिप्ता शडक्वग्रजीवाया दक्षिणे चोत्तरेऽन्यथा ।। ५८ ॥
+
+दक्षिणाभिमुखी छाया यदा भवति भास्वतः |
+नतिज्यारहितार्काग्रा शडक्वग्रं कथ्यते तदा ।। ५६ ॥
+
+विद्धि तेन विषुवत्प्रभां सतीं
+पूवेवच्च पललम्बकौ पूनः |
+HATTIE:
+वेदितव्यविदितग्रहान्तरं
+नाडिकाभिरवगम्य तत्वतः ।। ६० ॥।
+षड्गुणास्तु घटिका लवास्तु तैः
+पूवेपश्चिमदिशि स्थिते क्षयः ।
+उच्यते धनमपि क्रमेण त-
+ज्ञातचारनिचयै: सदा बुधैः ।। ६१ ॥।
+
+एवं नक्षत्रतारणां ग्रहस्ताराभिरेव च ।
+साधितं क्षेतनिर्माणं युक्त्या सरव॑त्र सवेदा tt ६२ Ul
+(Bhaskara I, MBh., 3. 56-62)
+
+Sun’s agra etc. by observation
+
+One should erect a (circular) platform, as high as one’s
+neck, with its floor in the same level, and its circum-
+ference graduated with the divisions of Signs, degrees,
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 98
+
+etc., and bearing the marks of the directions. (Then
+standing) on the western side thereof, one, having undis-
+turbed of mind, should, with the line of sight passing
+through the centre of the circular base, make the obser-
+vation of the Sun when (at sunrise) it appears as if
+clinging to the circumference, (and mark there a point).
+
+The (actual) distance, measured along the
+circumference graduated with the marks of degrees,
+between the end of the line drawn eastwards (i.c., the
+east point) and the point where the Sun is observed is
+the arc of the Sun’s agra. The R sine of that (arc) is
+(the R sine of) the Sun’s agrd. The minutes of the
+difference between that (R sine of the Sun’s agra) and
+the R sine of the Sun’s meridian zenith distance are the
+minutes of the sankvagra, provided that the Sun is in the
+southern hemisphere; when the Sun is in the northern
+hemisphere (and the shadow of the gnomon falls towards
+the north), the process is otherwise (i.c., the addition of
+the two).
+
+When, however, (the Sun being in the northern
+hemisphere), the shadow (of the gnomon) due to the
+Sun falls towards the south, the Sun’s agré minus the
+R sine of the Sun’s meridian zenith distance is stated
+to be (the value of) the sankvagra. From that (sankvagra)
+determine the true value of the equinoctial midday
+shadow (of the gnomon), and then calculate as before
+the latitude and colatitude (for the place). (56-60a)
+
+Longitude of an unknown planet
+
+Having correctly ascertained in terms of nddikds (i.e.,
+ghatis) the difference between (the times of rising or
+setting of) the planets known and to be known, multiply
+those ghatis by six. Thus are obtained the degrees (of
+the difference between the longitudes of the two planets).
+By those degrees diminish or increase the longitude of
+the known planet according as it is to the east or west
+of the planet to be known. This is stated by the learned
+people well versed in planetary motions (to be the
+method for getting the longitude of the planet to be
+known). (60b-61)
+
+Longitudes of the prominent stars of the naksatras
+
+In this way from (the known longitudes of) the planets
+or stars, have been determined, at all places and at all
+times, the celestial longitudes of the (prominent) stars
+of the naksatras. (62). (KSS)
+
+वेधप्रकारः
+10. 19. 3. सलिलेन समं कृत्वा THF फलकं यथादिशं दृष्ट्वा |
+` दक्षिणकोटचां शङ्कुं फलकप्रमितं व्यवस्थाप्य ।॥ ३० ॥
+ऋजुशडकुवबुध्नविन्यस्तलोचनो नमयेत्‌ तथा शङ्कुम्‌ |
+भवति यथा शडक्वग्रं ध्रुवता दृष्टिमध्यस्थम्‌ ।। ३१ ॥।

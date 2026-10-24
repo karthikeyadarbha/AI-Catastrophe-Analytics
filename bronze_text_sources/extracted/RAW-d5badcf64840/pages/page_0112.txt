@@ -1,0 +1,58 @@
+2.5 Obtaining the desired Rsines and Rcosines                                                                             65
+
+    I+.a;ta .tea kx +:ta;sMa;~k+:a:=e .~va;gua;Na;Ea ;Da;nua;Sa;ea;~ta;ya;eaH     Á Á 13         ÁÁ
+
+    ta:a;a;pa;a;yaH x
+                      k+:a;tMa
+                               8 tya;+:a :pa;dM ;a:a:$ya;a;kx+:teaH           :pa:=H       Á
+
+    is..tadoh.kot.idhanus.oh. svasamı̄pasamı̄rite || 10 ||
+    jye dve sāvayave nyasya kuryādūnādhikam         . dhanuh. |
+    dvighnatalliptikāptaikaśaraśailaśikhı̄ndavah     . || 11 ||
+    nyasyācchedāya ca mithah      . tatsam. skāravidhitsayā |
+    chitvaikām   . prāk ks.ipejjahyāt taddhanus.yadhikonake || 12 ||
+    anyasyāmatha tām      . dvighnām. tathā syāmiti sam  . skr.tih. |
+    iti te kr . tasam. skāre svagun. au dhanus.ostayoh. || 13 ||
+    tatrālpı̄yah.kr. tim
+                        . tyaktvā padam  . trijyākr.teh. parah. |
+    Having noted down the listed/tabulated values (samı̄rita) of the dorjyās (Rsines) and
+    kot.ijyās (Rcosines) corresponding to the two points which are on either side of the arc
+    whose dorjyā and kot.ijyā are desired, find the difference in the arc which may be in excess
+    of or short of it. [The number] 13751 divided by twice this difference has to be stored [as
+    divisor D] for dividing. This is done for mutual correction (i.e. for correcting the dorjyā
+    in determining kot.ijyā and vice versa). First divide one of them (the dorjyā or kot.ijyā by
+    D) and add or subtract this from the other (if the dorjyā is divided, apply it to the kot.ijyā
+    and if the kot.ijyā is divided, apply it to the dorjyā) depending upon whether the difference
+    is in excess or short. This result multiplied by two and operated as before (divided by D
+    and applied to the dorjyā or kot.ijyā) forms the process of correction. The correction thus
+    carried out gives the exact value of the dorjyā or the kot.ijyā of the desired arc. Of the two
+    (dorjyā or kot.ijyā) find the square of the jyā of the smaller one and subtract it from the
+    square of the trijyā. The square root of the result gives the other (the kot.ijyā or dorjyā).
+
+
+
+                                                                                                      G
+                                                                                                              B
+                                                                                         R                        C
+                                                                                δθ
+
+
+                                                                                         φ       θ
+                                                                                                                      A
+                                                                           O                              E
+
+
+
+
+Fig. 2.3 Finding the jyā value corresponding to a desired arc.
+
+
+   In Fig. 2.3, AB is the arc whose jyā and kotijyā are desired to be found. The
+length of the arc AB = Rθ , where R is the trijyā and θ is the angle subtended by
+the arc at the centre O, expressed in radians. The jyās corresponding to the known
+arc lengths AC and AG are known from the jyā table (Table 2.1). The procedure for
+
+8
+  The reading in both the printed editions is: ta:a;a;pa;a;yaH kx+:a;tMa Á This however is grammatically
+incorrect. Hence we have provided the right compound form of the word above.
+

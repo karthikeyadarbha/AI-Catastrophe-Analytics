@@ -1,0 +1,56 @@
+6.5 The occurrence or non-occurrence of vyatı̄pāta                                                 369
+
+                                                           ≈ NP + Γ N − (Γ N − NQ)
+                                                           = Γ P − (Γ N − NQ)
+                                                           ≈ λm − Γ Q,                            (6.43)
+
+where λm is the sāyana longitude of the Moon. In arriving at the above equation we
+have used two approximations:
+1. MN ≈ NP. This is a fairly good approximation since i, the inclination of the
+   Moon’s orbit is, very small.4
+2. The other approximation is that (Γ N − NQ) ≈ Γ Q. This again is reasonable as i
+   is small.5
+Applying the sine formula to the triangle Γ QN, we have
+
+                                                                                 sin λn sin i
+                                                            sin Γ Q =                         .   (6.44)
+                                                                                    sin I
+It may be noted that the above equation is the same as (6.21) presented by Nı̄lakan.t.ha,
+once we identify Γ Q with the ayanacalana A. Obviously the term ayanacalana in
+this context refers to the right ascension of the point Q.
+    Again, because i is small, we may write
+
+                                                     MQ ≈ λm − Γ Q = λm − A.                      (6.45)
+
+Substituting for MQ in (6.42) we get
+
+                                                         sin δ = sin(λm − A) sin I,               (6.46)
+
+which is the same as the expression for the declination (6.22) given in the text.
+
+
+  .
+6 5 v.ya;ta;a;pa;a;ta;~ya .sa;d;sa;;
+                                    ÂåÅ +a;vaH
+
+
+6.5 The occurrence or non-occurrence of vyatı̄pāta
+
+            x +:ta;[ea;pa;. a;l+.na;sa;a;ya;nea;nd;eaH
+      .sMa;~k                                            .=+veaH   :pa;d;a;t,a   Á Á 12   ÁÁ
+
+      A;ea:ja;yua;gma;ta;ya;a Bea;de v.ya;ta;a;pa;a;ta;ea na .. a;a;nya;Ta;a      Á
+
+      sam. skr
+             . taks.epacalanasāyanendoh. raveh. padāt || 12 ||
+      ojayugmatayā bhede vyatı̄pāto na cānyathā |
+      Only if the longitude of the Moon, corrected for the change in viks.epa and ayana [as
+      described earlier], is such that the Sun and the Moon lie in the odd and the even quadrants
+      [or vice versa] does vyatı̄pāta occur and not otherwise.
+
+  The condition for the possibility of the occurrence of vyatı̄pāta or otherwise, that
+was hinted at in—and hence to be inferred from—verses 1 and 2a of this chapter, is
+
+4 It may be recalled that the inclination is taken to be 270′ = 4.5◦ in Indian astronomy.
+5 It needs to be verified numerically how good this approximation is.
+

@@ -1,0 +1,48 @@
+xxvi                                                                                                        List of Figures
+
+       C.5 Celestial latitude and longitude in the ecliptic system. . . . . . . . . . . . . . 459
+       C.6 The locus of points traced by the equatorial axis due to precession. . . 460
+       C.7 (a) Different orientations of the celestial equator with respect to the
+            ecliptic due to precession; (b) and (c) orientation of the equator and
+            its axis at different epochs about 13000 years apart. . . . . . . . . . . . . . . . 461
+       C.8 Nirayan.a and sāyana longitudes. Γ is the vernal equinox and M is
+            the Mes.ādi. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
+       C.9 Positions of the ‘true’ Sun (S), the ‘mean’ Sun (M) and the
+            ‘dynamical mean’ Sun (D). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 464
+       C.10 Variation in the equation of time over a year. . . . . . . . . . . . . . . . . . . . . . 465
+
+       D.1 Measure of the arc connecting two intersecting circles. . . . . . . . . . . . . 467
+       D.2 The important circles and their secondaries considered in the ‘ten
+           problems’. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 469
+       D.3 The is..ta-digvr.tta passing through a planet. . . . . . . . . . . . . . . . . . . . . . . 472
+       D.4 Some important great circles and their secondaries. . . . . . . . . . . . . . . . 473
+
+       E.1 Moon’s orbit when the node Rāhu coincides with the vernal
+           equinox Γ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+       E.2 Moon’s orbit when the node Rāhu coincides with the winter solstice. 481
+       E.3 Moon’s orbit when the node Rāhu coincides with the autumnal
+           equinox. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 482
+       E.4 Moon’s orbit when the node Rāhu coincides with the summer
+           solstice. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 482
+       E.5 The distance between the viks.epa-pārśva and the north celestial pole.483
+       E.6 The inclination of the Moon’s orbit with the equator. . . . . . . . . . . . . . . 484
+
+       F.1  The epicyclic and eccentric models of planetary motion. . . . . . . . . . . . 491
+       F.2  Geometrical construction underlying the rule for obtaining the
+            manda-sphut.a from the madhyama using the epicycle approach. . . . 493
+       F.3a The variation of the radius of the manda epicycle with the
+            manda-karn.a. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
+       F.3b Determination of the viparı̄ta-karn.a when the kendra is in the first
+            quadrant. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 496
+       F.4a Śı̄ghra correction for exterior planets. . . . . . . . . . . . . . . . . . . . . . . . . . . 501
+       F.4b Śı̄ghra correction for interior planets. . . . . . . . . . . . . . . . . . . . . . . . . . . . 502
+       F.5 Heliocentric latitude of a planet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 504
+       F.6 Geometrical picture of the motion of an exterior planet given by
+            Parameśvara. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507
+       F.7 Geometrical picture of the motion of an interior planet given by
+            Parameśvara. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507
+       F.8a Geometrical picture of the motion of an exterior planet given by
+            Nı̄lakan.t.ha. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 517
+       F.8b Geometrical picture of the motion of an interior planet given by
+            Nı̄lakan.t.ha. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 518
+

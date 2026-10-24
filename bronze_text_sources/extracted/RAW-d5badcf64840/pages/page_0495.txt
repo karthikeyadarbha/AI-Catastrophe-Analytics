@@ -1,0 +1,50 @@
+448                                                                       Spherical trigonometry
+
+B.2 Spherical triangles
+
+When two great circle arcs meet at a point, the ‘spherical angle’ between them is
+the angle between the tangents to them at that point. From now onwards, we refer
+to a spherical angle just as an angle.
+    A spherical triangle is a closed figure formed on the surface of a sphere by the
+pairwise intersection of three great circular arcs. As spherical astronomy is con-
+cerned primarily with the positions of the celestial objects on the surface of the
+celestial sphere, studying the properties of spherical triangles is of great importance
+in spherical astronomy. In Fig. B.1, ABC is a spherical triangle formed by the great
+circle arcs, AB, BC and CA. The spherical angles are denoted by A, B and C. Simi-
+larly, A′ B′C′ is a spherical triangle.
+    The sides of a spherical triangle are the lengths of the great circle arcs forming
+it, divided by the radius of the sphere. Defined this way, the sides are the angles
+subtended by the great circle arcs at the centre, in radians. As the sides are angles,
+they are often expressed in degrees also. In the spherical triangle ABC, the sides BC,
+CA and AB are denoted by a, b and c.
+
+
+
+
+                                                C
+
+
+                                            B       A
+
+
+
+
+                                            A’           B’
+
+                                                    C’
+
+
+
+
+Fig. B.1 Spherical triangles formed by the intersection of three great circles on the surface of a
+sphere.
+
+
+    A spherical triangle can be conceived of as the spherical analogue of the planar
+triangle, for they have many properties in common. However, the geometry of a
+sphere is quite different from the geometry of a plane. Hence the properties of a
+spherical triangle are quite different from those of a planar triangle. However, as
+will be shown a little later, some of the fundamental formulae for a spherical triangle
+reduce to that of a plane triangle, when the sides of the former are ‘small’ compared
+with the radius of the sphere.
+

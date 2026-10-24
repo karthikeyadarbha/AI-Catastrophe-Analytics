@@ -1,0 +1,33 @@
+Note:
+
+APPENDIX I
+परिशिष्ठम्‌ १
+
+Index of Technical Terms: Sanskrit - English
+
+साङ्केतिकपदसूची - संस्कृतम्‌-आंगलभाषा च
+
+The references suffixed to the terms are to the numbers of
+chapters and sections of their place of occurrence.
+
+Since most of the terms occur frequently all through the
+volume references are given only to the places of their first
+occurrence where mostly their definitions are also given.
+
+‘Common words' (c.w.) used in their general sense, may be
+with a technical twist and, so, do not have any specific
+definition in the text are given with the abbreviation ‘cw’
+suffixed to them, but with no textual references.
+
+A technical term 'derived' from another technical term and, so,
+is not given special definitions in the text, are marked with the
+abbreviation 'd.w.' and included in the Index with no textual
+reference.
+
+अशः. 1. 6. #; 1.2 1. Part. 2. Numerator. 3. Degree in angular
+
+measure.
+अंशगुणन, 7.3 Multiplication of Fractions.
+अशभागहरणम्‌, 1.4 Division of Fractions.
+
+AMAA, 1.6.171 Area segment.

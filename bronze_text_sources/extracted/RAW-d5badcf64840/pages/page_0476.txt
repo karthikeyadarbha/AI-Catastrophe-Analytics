@@ -1,0 +1,63 @@
+8.8 Deflection of the horn (phase of the Moon)                                                                                  429
+
+
+                                                                                     di                         line of cusps
+                                                                            S          re
+                                   line perpendicular to                            of ctio                                     (b)
+          (a)                                                                         Su n
+                                                                                          n
+                                   OM and OS
+                                                                                                                        Z
+                                                                                    P
+                                                                                                    C1
+
+                                                                                                H
+                                                                                            G               M               B
+                                     (Moon)                                     X                   F
+                                          M                    zm
+                                                                                                                C2
+          W                                                                             Y
+                                                                        O
+                                                                                                        Q
+                                            un                π− zs
+                                   of the S                                                                 direction of
+                              na
+                           kar .                                                                            the observer
+                      dr.k
+
+                                                                                                            E
+
+S (Sun)
+
+
+
+Fig. 8.11 (a) Schematic sketch of the Sun and the Moon with respect to the observer’s horizon.
+(b) The phase of the Moon as seen by the observer for the situation depicted in (a).
+
+
+
+the Sun and the Moon as seen by the observer. φ is the angular separation between
+the Sun and the Moon. The difference in their azimuths is given by α .
+   As may be seen from Fig. 8.11(b), the line of cusps C1C2 is perpendicular to OM
+and MS. In other words, it is perpendicular to the plane containing the observer,
+the Sun and the Moon. The direction of the Sun as seen from the Moon, and the
+direction as seen from the Earth, will be almost the same because the Moon is very
+close to the Earth as compared with the Sun. Hence, the lines MS and OS can be
+taken to be parallel. By construction, the line OC is parallel to the line of cusps
+C1C2 . Hence (refer to Fig. 8.12(b) and (a)),
+
+                                          CÔX = C1 M̂D = β .                                                               (8.84)
+
+Therefore
+                                          CÔZ = 90 − β = ZC.                                                               (8.85)
+Considering the triangle ZCM and using the cosine formula,
+
+                                              sin β = sin zm sin im ,                                                       (8.86)
+
+where im is the spherical angle Z M̂S. Here we need to know the angle im in terms
+of other known angles. For this we consider the triangle ZMS. Applying the sine
+formula, we get
+                                         sin z′s sin α
+                                sin im =               .                   (8.87)
+                                            sin φ
+

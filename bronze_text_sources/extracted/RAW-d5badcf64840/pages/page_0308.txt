@@ -1,0 +1,76 @@
+4.5 Actual distances of the Sun and the Moon in yojanas                                                                                                                        261
+
+   In the above equation we have taken the value of π to be the ratio of 355 and 113
+as suggested by Śaṅkara Vāriyar in his Laghu-vivr.ti.11 The diameters of the Sun
+and Moon are specified to be 4410 and 315 yojanas respectively.
+
+
+     .
+4 5 .=+va;a;nd
+              õ ;eaH
+                                     å
+                                   .~.Pu+.f;ya;ea:ja;na;k+:NRaH
+
+
+4.5 Actual distances of the Sun and the Moon in yojanas
+
+         k+:a;l+.k+:NRa;h;tMa .~va;~va;k+:[ya;a;v.ya;a;sa;a;DRa;ya;ea:ja;na;m,a             Á Á 10          ÁÁ
+
+         ;a:a:$ya;a;Ma .~ya;a;t,a Ba;ga;ea;l+.~ya ma;Nq+.l+.~ya .. a ma;Dya;ya;eaH                    Á
+
+                                                                           å
+         ya;ea:ja;nEa:=+nta:=+a;lM .~ya;a;t,a ta:a;tk+:a;l+.ea;;
+                                                                ÂåÅ +vMa .~.Pu+.f;m,a          Á Á 11              ÁÁ
+
+         kālakarn. ahatam. svasvakaks.yāvyāsārdhayojanam || 10 ||
+         trijyāptam. syāt bhagolasya man   . .dalasya ca madhyayoh. |
+         yojanairantarālam  . syāt tattatkālodbhavam  . sphut.am || 11 ||
+         The radii of their own orbits multiplied by the kālakarn. a and divided by the trijyā are
+         the actual distances of separation between the centres of their discs and the centre of the
+         bhagola, in yojanas, [as] the correct values (sphut.a) are the ones determined from time
+         to time (tattatkālodbhavam . ).
+
+   The radii of the orbits of the Sun and Moon given earlier are only their mean
+values. The actual distances keep varying owing to the eccentricities of their or-
+bits, and are actually proportional to the manda-karn.a, or the kālakarn.a as it is
+called here. The term kālakarn.a is defined in the commentary Laghu-vivr.ti to be
+the aviśes.akarn.a, the hypotenuse determined by iterative procedure.12
+
+         A;keR +:nd
+                  õ ;eaH k+:[ya;a;v.ya;a;sa;a;DRa;ya;ea:ja;nMa .sa;ma;na;nta:=+ea;M k+:l+.a:+.pea;Na A;a;va;a;Za;;ma;nd;k+:NeRa;na ;a;na;h;tya
+
+         ;a:a:$ya;ya;a     ;a;va;Ba:jea;t,a Á     ta:a      l+.b.DMa   Ba;ga;ea;l+.Ga;na;ma;Dya;~ya            .~va;a;ba;}ba;Ga;na;ma;Dya;~ya       .. a   A;nta:=+a;lM
+
+         ya;ea:ja;na;a;tma;k
+                           M
+                               å
+                             .~.Pu+.fM           Ba;va;a;ta; .~å.Pu+.f;ya;ea:ja;na;k+:NRaH I+.tya;TRaH Á ta:a;tk+:a;l+.ea;;
+                                                                                                                           ÂåÅ +va;Æa;ma;tya;nea;na ta;~ya
+
+         :pra;a;ta;[a;NMa na;a;na;a:+.pa;tva;mua;+:m,a           Á
+
+         The radii of the orbits of the Sun and Moon in yojanas, just mentioned, is multiplied by
+         the aviśis..ta-manda-karn  . a (iterated manda-hypotenuse) and divided by the trijyā. The
+         result is the true distance in yojanas between the centres of the celestial sphere and the
+         centre of the body (Sun or Moon); that is, it is the sphut.a-yojana-karn      . a. By stating that it
+         has to be obtained for the particular time, it is indicated that it varies from instant to instant.
+
+    The word aviśis..ta-manda-karn.a, used in the commentary, refers to the word
+kāla-karn.a K in the text and is given by
+
+
+11 Śaṅkara Vāriyar observes:
+
+
+                                                                                çÉ
+         ya;ta;ea vxa:a;pa;a:=+DeaH   a;a;ZEa;a;nRa;h;ta;a;t,a A;TeRa;Sva;a;îå
+                                                                                +;a;Æa;Ba;a;vRa;Ba:$ya l+.b.DaH             õùÅ;a;a;sa I+.a;ta :pra;a;gea;va;ea;M . . .
+                                                                                                                         ta;d                                              Á
+
+         The diameter is what is obtained by multiplying the circumference of the circle by 113 and
+         dividing by 355 as stated earlier.
+
+12
+  This procedure is described in verses 41 and 42 of Chapter 2. A shortcut to the iterative method—
+due to Mādhava—is also presented there in verses 43 and 44.
+

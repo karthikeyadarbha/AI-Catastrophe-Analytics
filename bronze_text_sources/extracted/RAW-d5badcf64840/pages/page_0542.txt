@@ -1,0 +1,54 @@
+F.1 The traditional Indian planetary model: Manda-sam
+                                                    . skāra                                 495
+
+                                                    U
+
+                                                               kaks.yāman.d.ala
+                                  P (true planet)              (deferent circle)
+
+
+                     r           P1
+                            r0        Q
+
+                                 P0
+                                      T
+
+
+                                                    O"
+                                                         r0
+
+                                                    O
+
+
+
+
+Fig. F.3a The variation of the radius of the manda epicycle with the manda-karn
+                                                                              . a.
+
+
+
+   Now, the first hypotenuse (sakr.t-karn.a) is found from r0 using the relation
+                                                                                       1
+              OP1 = K1 = [(R sin(θ0 − θm ))2 + (R cos(θ0 − θm ) + r0 )2 ] 2 .              (F.11)
+
+From K1 , using (F.10), we get the next approximation to the radius r1 = rR0 K1 , and
+the process is repeated. From r1 we get the next approximation to the karn.a,
+                                                                                   1
+                 K2 = [{R sin(θ0 − θm )}2 + {R cos(θ0 − θm ) + r1 }2 ] 2 ,                 (F.12)
+
+and from that we get r2 = rR0 K2 and so on, till the radii and the karn.as do not change
+(aviśes.a). The term aviśes.a means ‘not distinct’. In the present context it means that
+the successive karn.as are not distinct from each other. That is, Ki+1 ≈ Ki = K. If
+this is satisfied, then ri+1 ≈ ri = r. Consequently, the equation giving the manda-
+correction (F.8) becomes
+                                 r                   r0
+                  R sin ∆ θ =      R sin(θ0 − θm ) =    R sin(θ0 − θm ).                   (F.13)
+                                 K                   R
+Thus the computation of the manda-phala involves only the mean epicycle radius
+and the value of the trijyā. It does not involve the value of the manda-karn.a. It
+can be shown that the iterated manda-karn.a is actually given (in the limit) by OP
+in Fig. F.3a, where the point P is obtained as follows.14 Consider a point O′′ at a
+distance of r0 from O along the direction of mandocca OU and draw O′′ P1 so that
+it meets the concentric at Q. Then produce OQ to meet the extension of P0 P1 at P.
+14 See for instance, the discussion in {MB 1960}, pp. 111–9.
+

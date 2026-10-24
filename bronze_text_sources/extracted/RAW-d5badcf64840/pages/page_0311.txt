@@ -1,0 +1,56 @@
+264                            . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                                Lunar eclipse
+
+                      R cos(λm − U) = R cos θmk = R cos(λs −U ).                                   (4.13b)
+
+First, let us consider the case when cos(λs − U ) is positive.
+
+
+   Sun                                                    Sun              Moon                   Moon
+      S                                                           O    E                            M
+                                                       (bhagola-      (bhūgola-
+                                                        madhya)        madhya)
+
+Fig. 4.2a Computation of the dvitı̄ya-sphut.a-karn
+                                                 . a in a lunar eclipse.
+
+
+   In Fig. 4.2a, E is the centre of the Earth (the bhūgola-madhya) and O the centre
+of the celestial sphere (the bhagola-madhya). M represents the Moon, and S the
+Sun. OM = d1m and OS = d1s . Now, the distance of separation between the bhagola-
+madhya and the bhūgola-madhya is given by
+
+                                    R cos(λs −U )    R cos θmk
+                           OE =                   =−           .                                     (4.14)
+                                          2              2
+Then, the dvitı̄ya-sphut. a-karn.a d2m of the Moon, which is the true distance of the
+Moon from the centre of the Earth, is
+
+                              d2m = EM = OM − OE
+                                               R cos θmk
+                                       = d1m +           .                                           (4.15)
+                                                   2
+Similarly, the dvitı̄ya-sphut. a-karn.a d2s of the Sun, which represents the true dis-
+tance of the Sun from the centre of the Earth, is given by
+
+                                d2s = ES = OS + OE
+                                                 R cos θmk
+                                         = d1s −           .                                         (4.16)
+                                                     2
+As mentioned earlier, during a solar eclipse the Sun and the Moon are in the same
+direction (λm = λs ). Therefore (4.14) becomes
+
+                                    R cos(λs −U )    R cos θmk
+                           OE =                   =+           .                                     (4.17)
+                                          2              2
+
+
+
+  Sun                                                       Moon                     Sun and Moon
+
+  S                                                          M                         O            E
+                                                                                   (bhagola-    (bhūgola-
+                                                                                    madhya)      madhya)
+
+Fig. 4.2b Computation of the dvitı̄ya-sphut.a-karn
+                                                 . a in a solar eclipse.
+

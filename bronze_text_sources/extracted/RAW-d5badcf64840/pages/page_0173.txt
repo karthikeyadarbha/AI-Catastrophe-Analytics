@@ -1,0 +1,50 @@
+126                                å
+                                 .~.Pu+.f;pra;k+.=+Na;m,a                               True longitudes of planets
+
+                  S’
+
+                            N                                                           Γ
+
+            P          rs
+                                  S
+                                           R
+                            Ks
+
+                                               δθ                                                 Γ
+                                                                θs
+
+
+                                                            O
+
+
+
+
+Fig. 2.16 Obtaining the sphut.a-graha (the geocentric longitude) from the manda-sphut.a-
+graha (the true heliocentric longitude) in the case of interior planets.
+
+
+
+   The mean Sun S is located on a circle of radius R with the centre of the Earth as
+the centre. Its longitude θs = Γ ÔS. Draw a circle of radius rs around S. Mercury is
+located on this point such that its longitude is the manda-sphut.a-graha θms = Γ ŜP
+with respect to S. Then θ = Γ ÔP is the true geocentric longitude of Mercury called
+the sphut.a-graha or simply the sphut.a. Now,
+
+                                      śı̄ghra-kendra = θms − θs
+                                                                     = Γ ŜP − Γ ÔS
+                                                                     = Γ ŜP − Γ ŜS′
+                                                                     = S′ ŜP.                           (2.186)
+
+The radius of the epicycle rs is given by
+
+                                      rs   31 − 2| sin θms − θs | K
+                                         =                       × ,                                     (2.187)
+                                      R             80            R
+and the śı̄ghra-karn.a Ks is obtained from
+                         p
+              Ks = OP = ON 2 + PN 2
+                         q
+                       = (R + rs cos(θms − θs ))2 + (rs sin(θms − θs ))2 .                               (2.188)
+
+The śı̄ghra correction S′ OP = δ θ is found from the relation
+

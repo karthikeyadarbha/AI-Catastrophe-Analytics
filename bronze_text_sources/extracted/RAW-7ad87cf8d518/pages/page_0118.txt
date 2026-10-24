@@ -1,0 +1,123 @@
+8. 6. 2
+
+extremity. Or, (it can be said that the) sanku is the
+perpendicular support of the Sun’s disc. (21)
+
+The samaganku is the R sine altitude of the Sun when
+it is on the prime vertical ; and the konasanku is the R sine
+altitude when it is on the konamandala or the vertical circle
+in an intermediate direction. When the Sun is equidis-
+tant from the north and south points of the horizon, the
+R sine of the degrees by which it is raised above the
+horizon is called ‘satku at midday’ or dyudalasanku. (22)
+
+When the Sun is on the meridian, the R sine of the
+degrees measured from the zenith is called natajya or R
+sine zenith distance . The dygjy@ is the distance on the
+earth between the foot of the R sine altitude and the
+centre of the earth, that is, the point where the directions
+meet. (23)
+
+When the Sun is on the equinox, its zenith distance at
+midday is equal to the latitude of the place, and its
+altitude is the colatitude of the place. Thus, the R sines
+of the zenith distance and of the altitude are, respectively,
+the R sines of the latitude and the colatitude of the
+
+place. (24)
+
+The line that joins the zenith to the point of
+intersection of the lines of direction is the radius or érijya
+and so is also the line that joins the top of the R cosine
+latitude to the same point. The same érijyd is the hypo-
+tenuse in a rectangular figure. (25)
+
+In the north, measure. out an arc below. the horizon
+equal to the elevation of the pole. (Let it be the lower
+point.) In the south, measure out an arc of the same
+length above the horizon. (Let it be the upper point.)
+One half of each of the vertical lines joining one of the
+poles to one of the points measures the R sine latitude of
+the place; and one half of the horizontal lines measures
+R sine colatitude. One half of the oblique line joining
+one upper point to one lower point is the radius or
+
+(26-27)
+
+When seen from the equator, the radius of the orbit
+of a planet is the radius of its diurnal circle. The same
+is the R sine of the zenith distance of a planet when seen
+from the pole ofthe Earth. The R sine ofits declination
+is its R sine altitude. (28)
+
+trijya.
+
+The latitudinal parallax or nati is the north-south
+difference of the orbits of two planets from the middle of
+the sky. The parallax in longitude or lambana is their
+east-west difference. (29)
+
+The prime vertical, meridian, horizon, celestial
+equator and the six o’clock circle (all of the same size
+as the planet’s orbit) are fixed for the stars and planets
+(at any given latitude): (30)
+
+INDIAN ASTRONOMY--A SOURCE-BOOK 78
+
+There are 7 epicycles, 7 eccentrics, 7 drimandalas, 7
+drkksepamandalas and 7 apamandalas or kaksamandalas, one
+each for each planet beginning with the Sun. Then,
+there are 5 sighra epicycles and 5 Sighra eccentrics, one
+for each of the five planets. Then, there are 6
+vimandalas, one for the Moon and five for the five
+
+planets. Thus, there are 51 great circles (which: are
+not fixed). (31-32). (BC)
+8. 6. 2. अथ लग्नकालसिद्धयं पूर्वापरपरिकरोत्तरेनैवभिः |
+
+निर्मापयेद्‌ भगोलं प्राग्विधिना करान्तिवृत्तमिह ।। ३ ॥
+
+तस्य बहिश्च खगोलं समवृत्तक्षितिजदक्षिणोत्तरगै: ।
+उन्मण्डलेन च तथा ध्रुवयष्ट्या पूवेवत्‌ सभुवा ।। ४ tt
+
+षष्टयाडुयेद भगोलं प्रागपराणीतराणि चक्रांशेः ।
+कुर्याद्‌ Fs खगोलं श्लथं खगोलं च नलिकाभ्याम्‌ ।। ५॥
+
+यस्मिन्नंशे सविता तत्र शलाकां क्षिपेदपमवृत्ते ।
+नाडीवृत्तस्थां तामुदये क्षितिजाद्रविवशेन ।। ६ ॥
+
+भ्रमयेच्छश्वत्‌ तद्त्‌ यथा न कन्दरं त्यजेच्छलाकाभा |
+
+. रविचिह्क्षितिजान्तरमुदितांशस्तृणकुजान्तरा घटिकाः 19 U1
+गोलः समैश्चतुभिः क्षितिजस्वस्तिकगतेः समो विधृतः |
+गतर्धिनिमग्नेन करणैर्बजिन वा भ्राम्य: ।। ८ ॥
+
+ध्रुवयष्टचां च शलाका नाडीवृत्तानुसारिणी शिथिला ।
+अग्रद्रयावलम्बा स्पृशति TELAT गतास्ता वा ।। ६ ॥।
+(Lalla, SiDhVr., 21. 3-9)
+
+Now, in order to determine the lagna (.०., the
+longitude of the rising point of the ecliptic) and the kala
+(i.e., the time elapsed since sunrise in the forenoon, or to
+elapse before sunset in the afternoon), one should get a
+Bhagola (‘Sphere of the asterisms’) constructed with the
+help of nine circles, the prime vertical etc. The ecliptic
+should also be exhibited in it, in the manner stated
+before. (3)
+
+Outside the Bhagola should be constructed the Khagola
+(‘Sphere of the sky’ or the Celestial sphere) by means of
+the prime vertical, the horizon, the meridian, and the
+6 o'clock circle, and having the polar axis and in its
+middle the globe of the Earth, as before. (4)
+
+(The equator lying on) the Bhagola should be
+graduated with the 60 marks (of ghafis), whereas the
+prime vertical and the other circles should be graduated
+with the 360 marks (of degrees). The Khagola should
+be fastened firmly (to the polar axis,) whereas the Bhagola
+should be kept loose by tying it to two loose pipes inserted
+into the polar axis. (5)
+
+Now, one should fix one end ofa pin to that point of
+the equator which rises with the Sun and should point

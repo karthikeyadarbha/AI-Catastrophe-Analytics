@@ -1,0 +1,48 @@
+52                            å
+                            .~.Pu+.f;pra;k+.=+Na;m,a                           True longitudes of planets
+
+trijyā. This is because R is the jyā corresponding to the arc whose length is equal
+to three rāśis (5400′). In other words, tri-rāśi-jyā is shortened to trijyā.
+
+
+Finding the bāhu and kot.ijyās in different quadrants
+
+The sine or cosine of an angle greater than 90◦ can always be determined in terms
+of an angle less than 90◦ . This is the essence of the second half of the verse wherein
+it is stated that:
+• if the kendra is in the odd quadrant, i.e. its value lies in the range 0◦ − 90◦ or
+  180◦ − 270◦ , then the bāhu and kot.i are to be determined from the angles already
+  covered and to be covered in that quadrant, respectively.
+• if the kendra is in the even quadrant, i.e. its value lies in the range 90◦ − 180◦ or
+  270◦ − 360◦, then the bāhu and kot.i are to be determined from the angles to be
+  covered and already covered in that quadrant, respectively.
+
+
+                                                        E
+
+                                                                           A
+                                                   A2
+                       B                                    B2
+                                               II
+                                                                      I
+                                   C1                                          D1
+                   N                                                                S
+                           B1                                             A1
+                                                            O
+                                         III                     IV
+                                                       D2                       D
+
+
+                                                            C2
+                                  C
+                                                        W
+Fig. 2.1b Bāhu and kot.i when the kendra is in different quadrants.
+
+
+   We explain this concept further with the help of Fig. 2.1b. In the following we
+use K to denote the kendra. Then,
+1. If K is in the first quadrant, i.e. K = AÔA1 , R sin AÔA1 = AA1 , R cosAÔA1 =
+   R sin AÔA2 = AA2 .
+2. If K is in the third quadrant, i.e. K = CÔA1 , |R sinCÔA1 | = R sinCÔC1 = CC1
+   and |R cosCÔA1 | = R sinCÔC2 = CC2 .
+

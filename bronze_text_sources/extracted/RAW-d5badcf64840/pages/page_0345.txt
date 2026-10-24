@@ -1,0 +1,64 @@
+298                                                     . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                              Lunar eclipse
+
+  .
+4 21 A;[a;va;l+.nMa A;a;ya;na;va;l+.nMa .. a
+
+
+4.21 Deflection due to latitude and that due to declination
+
+      na;ta:$ya;a;[a:$ya;ya;ea;Ga;Ra;taH       ;a:a:$ya;a;a;~ta;~ya k+:a;mRua;k+:m,a               Á
+
+      ta;dM;Za;aH    .sa;Ea;}ya;ya;a;}ya;a;~tea :pUa;va;Ra;pa:=+k+:pa;a;l+.ya;eaH         Á Á 44          ÁÁ
+
+                               , g{a;a;hùÅ:a;a;t,a k
+      .=+a;a;Za:a;ya;yua;ta;a;d                    Ò +:a;ntyMa;ZEa;a;dR;#sa;mEa;yRua;ta;a;t,a   Á
+
+      Bea;de Y;nta:=+a;
+                                          36 h;tva;a ;a;ba;}ba;a;nta:=M h:=e+t,a
+                       ç Åu +Na;~tea;na                                                   Á Á 45         ÁÁ
+
+                                 å
+      ;a:a:$ya;ya;a va;l+.nMa .~.pa;M vxa:ea ;a;ba;}ba;a;nta:=+ea;;
+                                                                     ÂåÅ +vea         Á
+
+      natajyāks.ajyayorghātah. trijyāptastasyakārmukam |
+      tadam  . śāh. saumyayāmyāste pūrvāparakapālayoh     . || 44 ||
+      rāśitrayayutād grāhyāt krāntyam   . śairdiksamairyutāt |
+      bhede ′ntarādgun   . astena hatvā bimbāntaram     . haret || 45 ||
+      trijyayā valanam    . spas..tam
+                                     . vr. tte bimbāntarodbhave |
+      The arc of the product of the Rsines of the hour angle and latitude divided by the trijyā [is
+      the aks.avalana]. Its value in degrees is taken to be south or north depending upon whether
+      it lies in the eastern or western half of the celestial sphere.
+      From the longitude of the eclipsed object increased by 90 degrees, and from the maximum
+      inclination of the ecliptic [the āyana-valana must be determined]. The Rsine is calculated
+      from the sum when the directions are the same, and from the difference when they are
+      different. Having multiplied the separation between the discs by this, divide by the trijyā.
+      The result is the true valana in the circle whose radius is equal to the separation between
+      the discs.
+
+    The term valana refers to the angle between the line joining the Moon and the
+centre of the shadow, and the local vertical (small) circle, which is parallel to the
+prime vertical. This is denoted by the angle ψ in Fig. 4.19. If the Moon’s latitude
+is ignored, this is essentially the angle between the ecliptic and the prime verti-
+cal. This consists of two parts, namely the aks.avalana and the āyanavalana. The
+aks.avalana is the angle between the diurnal circle and the prime vertical which is
+also the angle between the secondaries to them, whereas the āyanavalana is the
+angle between the diurnal circle and the ecliptic. In Fig. 4.18, ξ is the aks.avalana
+and θ the āyanavalana. Then, according to the text,
+                                                                                      R sin H
+                                                                        R sin ξ = R sin φ .                                   (4.96)
+                                                                                          R
+                                              and               R sin θ = R sin(90 + λ ) sin ε .                              (4.97)
+
+We first consider the aks.avalana.
+
+
+Expression for the aks.avalana
+
+In Fig. 4.18, K is the pole of the ecliptic, P the north celestial pole, N the north point
+and M the Moon, which is taken to be situated on the ecliptic, as the Moon’s latitude
+36 The prose order is: ;a;d;#sa;a;}yea            (A;[a;a;ya;na;va;l+.na;ya;eaH ) yua;ta;a;t,a, ;a;d;gBea;de    ta;ya;eaH   A;nta:=+a;t,a
+
+(ya;+:Bya;tea), ta;~ya gua;NMa kx+:ta;a = (.$ya;a;ma;a;na;a;ya), .tea;na ;a;ba;}ba;a;nta:=M h;tva;a . . . Á
+

@@ -1,0 +1,53 @@
+72                        å
+                        .~.Pu+.f;pra;k+.=+Na;m,a                       True longitudes of planets
+
+   Let α and β be the two arc lengths corresponding to the two angles θ and φ as
+shown in Fig. 2.6a. That is, AB = α and AC = β respectively. Nı̄lakan.t.ha gives
+the following two formulae for finding the jyā of the sum or difference of these arc
+lengths.
+
+
+                          dorjyā α kot.ijyā β ± kot.ijyā α dorjyā β
+        dorjyā (α ± β ) =                                              (2.62a)
+                                              trijyā
+                          q                           q
+        dorjyā (α ± β ) = dorjyā2 α − lamba2 ± dorjyā 2 β − lamba2 , (2.62b)
+
+where lamba in the above equation is defined by
+
+                                               dorjyā α dorjyā β
+                             lamba =                               .                     (2.63)
+                                                     trijyā
+In terms of the angles θ and φ , lamba can be expressed as
+
+                                                   R sin θ R sin φ
+                                 lamba =                           .                     (2.64)
+                                                          R
+The term lamba generally means a vertical line or a plumb-line. The expression for
+the lamba given above can be understood using a geometrical construction. For this
+consider two angles θ and φ such that θ > φ , as shown in Fig. 2.6b. Find sin θ and
+sin φ . Draw lines XY and OZ perpendicular to each other as indicated in the figure.
+Now we consider a segment of length R sin φ and place it inclined to OZ such that
+the segment BN makes an angle θ with BO.
+   Then draw a line NC such that OĈN = φ . By construction, BN̂C = θ − φ . Draw
+a perpendicular from B which meets the line NC at D. From the triangle NBD,
+                                                           BD
+                                     sin(θ − φ ) =                                      (2.65a)
+                                                          R sin φ
+
+Also in the triangle BCD,
+                                                        BD
+                                            sin φ =        .                            (2.65b)
+                                                        BC
+From (2.65a) and (2.65b)
+                                      BC = R sin(θ − φ ).                               (2.65c)
+Now, applying the sine rule to the triangle NBC, we get the following relation
+                         NB         BC           NC
+                              =            =                                             (2.66)
+                        sin φ   sin(θ − φ ) sin(180 − θ )
+
+Since NB = R sin φ (by construction) and BC = R sin(θ − φ ) (see (2.65c)), from the
+above equation, the third side NC of the triangle must be equal to R sin(180 − θ ).
+That is NC = R sin(180− θ ) = R sin θ . Now it can be easily seen that NO in Fig. 2.6b
+represents the expression for the lamba given above.
+

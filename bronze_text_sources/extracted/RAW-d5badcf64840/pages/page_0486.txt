@@ -1,0 +1,42 @@
+Appendix A
+Representation of numbers
+
+
+
+
+Long before the ten numerals: 1, 2, 3, . . . 0, were introduced and the notation
+for representing numbers became standardized, words like ekam, dve, trı̄n.i,
+catvāri, . . . (one, two, three, four, . . . ) seem to have been employed by the Vedic
+people. Listings of a series of odd numbers and multiples of four are found in
+Yajurveda, 1 indicating the antiquity of numeration by words. In fact, in Kr..s .na-
+yajurveda one also finds a listing of powers of 10 in several places.2
+    Besides listing numbers, the Vedic corpus also presents evidences to show that
+additive and subtractive principles were employed while coining words to connote
+numbers. For instance, one finds words like saptavim      . śati (7+ 20 = 27), dvātrim . śat
+(2 + 30 = 32), ekonavim    . śati (20 − 1 = 19) and the like. It is not difficult to see that
+this can easily be extended to represent large numbers having three, four and more
+digits.
+    However, it does not take long to realize that this method of employing words to
+represent numbers becomes extremely cumbersome, particularly with the increase
+in the number of digits. Thus there is a need for developing more efficient ways of
+representing numbers. The need will be felt all the more when one deals frequently
+with large magnitudes, which is the case in subjects like astronomy. Besides this
+need mentioned above, Indian astronomers and mathematicians had to meet with
+one more constraint, namely the rules imposed by metrical compositions. These two
+requirements, besides other considerations, made them invent different schemes for
+representing numbers, among which (i) the Kat.apayādi and (ii) the Bhūtasaṅkhyā
+systems are the most commonly employed ones.
+    Before we proceed to explain these systems in detail, it may be mentioned here
+that these systems, apart from being simply an alternate way of representing num-
+bers, have several advantages over the word-numeral scheme described above. This
+will become amply evident from the description of these systems and the numerical
+examples provided in following sections.
+
+1 Kr..s .na-yajurveda Taittirı̄ya-sam  . hitā 4.6.11. A similar listing is found in Yajurveda
+Vājasaneyı̄-sam . hitā (18.24–25) also.
+2 See for instance, Krsna-yajurveda Taittirı̄ya-samhitā 4.4.10 and 7.2.20.
+                     ...                               .
+
+
+                                                                                           439
+

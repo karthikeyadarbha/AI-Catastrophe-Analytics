@@ -1,0 +1,47 @@
+*“ INTRODUCTION ‘ २५८४५
+
+“Subtract 3600 from the Kali year and divide by 5,808.
+(Neglect the quotient and) divide the remainder by 1452, Treating
+the remainder as bhuja, multiply it by 2 and divide by 121 ; the result
+in degrees etc. is to be applied like the bhuja-phala to the longitudes
+of the planets and the solstitial points. By so doing, they agree with
+
+observation.” (See below, p. 94).
+
+The motion of the solstices is evidently the precession of the
+equinoxes. The value thereof, according to the above passage, is
+59°.5 per annum, where the modern value is 50” approximately.
+
+17. General remarks
+
+Generally, Stryadeva’s comments are fuller on the astronomical
+sections of the Aryabhatiya than on the mathematical sections, witha
+few exceptions, such as the derivation of the Rsines (ii. 11-12, pp. 47-51)
+and the Pulveriser (ii. 31-32, pp. 70-79). On the astronomical sections,
+apart from the detailed exposition of the celestial Sphere, (Gola-bandha,
+- pp. 118-22) and the explanation of the motion of the planets through
+` epicycles (Graha-bhramana-vasana, pp. 110-16), his exposition of the
+| हि 711 and Drkksepamandala (pp. 142-43), Aksajya and Lambaka
+(pp. 144-46), Lankodayaprana (pp. 147-50), Ksitijva and Caraprana
+(pp. 150-52), SvadesSarasyudaya (pp. 152-54), Istakalaganku (pp. 154-56),
+Drkksepajya (pp. 160-64) and Drggatijya (pp. 164-66) are full and
+detailed. It is also noteworthy that, in several cases, he speaks of the
+demonstration of the different items on the armillary sphere: Cf. com.
+on iv. 36 (p. 168), 40 (p. 172), 41 (p. 175) ete.
+
+7. Laghumanasa-vyakhya!
+1. The Work
+
+Stryadeva’s Commentary on the Laghumdnasa of Mufijala is
+certainly his magnum opus. This work, which he calls by the name
+Grahajii@nayasana, is extensive, discursive and highly informative, For
+
+the 60 verses of the text, the commentary extends sixty-fold thereof. The
+work begins with the verses :
+
+ee
+
+1, The details furnished here are based on an edition of the
+Ww. . .
+ners under preparation by the present writer from mss. available with
+im and the Mss. Libraries in Madras and Trivandrum,

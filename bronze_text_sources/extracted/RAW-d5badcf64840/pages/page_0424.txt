@@ -1,0 +1,70 @@
+6.7 Determining if vyatı̄pāta has occured                                                                                              377
+
+  .
+6 7 v.ya;ta;a;pa;a;ta;a;~ya             ga;tEa;Sya;tva;a;na;NRa;yaH
+
+
+6.7 Determining whether vyatı̄pāta has occurred or is yet to
+    occur
+
+      d;ea:$ya;a .=+veaH         Ò +:a;ntya;a h;tva;a . a;a;ndò ùÅ;a;a ta;ya;a h:=e+t,a
+                           :pa:=+k                                                                           Á Á 15   ÁÁ
+
+      l+.b.Da;. a;a;pa;sa;mea . a;ndÒ+ba;a;h;Ea Ò
+                                                k+:a; / / 
+                                                     a;nta;gua;Na;Ea .sa;ma;Ea            Á
+
+      . a;ndÒ+~ya;Ea:ja;pa;d;~Ta;~ya d;ea;DRa;nua;Sya;a;Da;ke ta;taH                Á Á 16             ÁÁ
+
+      v.ya;ta;a;pa;a;ta;ea ga;ta;ea nyUa;nea Ba;a;va;a yua;gma;pa;de Y;nya;Ta;a             Á
+                                                       È
+      ta;a;d;;. a;ndÒ+Da;nua;SaH    .~va;~va;Bua;a;+ îå Á
+                                                      *+;ma;nta:=+m,a           Á Á 17            ÁÁ
+
+      ga;a;ta;ya;ea;ga;&+.tMa .~va;Na d;ea;Sea ga;}yea ga;tea Y;a;pa .. a       Á
+
+      .sUa;yeRa;nd
+                 õ ;ea:=+nya;Ta;a :pa;a;tea ta;a;va;tk
+                                                     u +:ya;Ra;a;d;dM mua;huH       Á Á 18                  ÁÁ
+
+
+      ya;a;va;d;k+:eRa;tTa;Da;nua;Sa;a ta;tk+:a;le+.n ud;Da;nuaH    .sa;ma;m,a        Á
+
+      dorjyām . raveh. parakrāntyā hatvā cāndryā tayā haret || 15 ||
+      labdhacāpasame candrabāhau krāntigun     . au samau |
+      candrasyaujapadasthasya dordhanus.yadhike tatah. || 16 ||
+      vyatı̄pāto gato nyūne bhāvı̄ yugmapade ′nyathā |
+      tadis..tacandradhanus.ah. svasvabhuktighnamantaram || 17 ||
+      gatiyogahr                                     ′
+                 . tam
+                     . svarn. am
+                               . dos.e gamye gate pi ca |
+      sūryendvoranyathā pāte tāvatkuryādidam   . muhuh. || 18 ||
+      yāvadarkotthadhanus.ā tatkālendudhanuh. samam |
+      Having multiplied the sine of the longitude of the Sun by its parakrānti, divide [that] by
+      the parakrānti of the Moon. If the resulting arc [say x] is equal to the arc corresponding to
+      the Moon (η ), then the Rsine of the declination of the Sun and the moon will be equal.
+      If the arc corresponding to the Moon, in the odd quadrant, is greater than that (x), then
+      vyatı̄pāta has already occurred; if less, then it is yet to occur. It is exactly the reverse
+      [when the Moon is] in the even quadrant.
+      The difference of the arc corresponding to that (R sin x) and that of the [ayana-corrected]
+      Moon must be multiplied separately by their own [i.e. of the Sun and Moon] daily motions
+      and divided by the sum of their daily motions. The results must be added to or subtracted
+      from the Sun and the Moon depending upon whether the dos.a (a vyatı̄pāta) is yet to occur
+      or has already occurred. In the case of the node it has to be applied inversely. The process
+      has to be repeated till the arc obtained from the Sun becomes equal to the Moon’s arc
+      [found] at that time.
+
+   We saw earlier in (6.54) that the ratio of the declinations of the Sun and the Moon
+satisfy the relation
+                                 sin δs    sin ε sin λs
+                                        =               .                         (6.59)
+                                sin δm      sin I sin η
+Using the notation
+
+                                                    sin ε                                                                  sin δs
+                                     sin x =              × sin λs                                and                 y=          ,   (6.60)
+                                                    sin I                                                                  sin δm
+(6.59) reduces to,
+                                                                 sin η × y = sin x.                                                   (6.61)
+

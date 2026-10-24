@@ -1,0 +1,119 @@
+187 15. GNOMONIC SHADOW
+
+कालतः छाया -
+15. 13. 1. षड़गुणितेष्टविनाड्य: तदहविघटीहूतास्तु भवनाति ।
+
+दोर्ज्या शड्कुदिनाधच्छायाकृतियोगम्‌ लमपि ।। ` = ।।
+
+fanart ज्याभजिते लब्धकृतौ शछकुवर्ग रहितायाम्‌ |
+मूलं WEA लब्धं छाया पूर्वापरकपाले ॥। ६ ।
+(Deva, KR, 4. 8-9)
+Shadow from time
+Multiply the given vinddis (elapsed since sunrise in
+the forenoon or to elapse before sunset in the afternoon)
+by 6, and divide by the vinddis ina day (i.e., by 1800);
+the result is the Signs corresponding to time elapsed
+since sunrise in the forenoon or to elapse before sunset
+in the afternoon (i.e., unnatakdla). Find the R sine of
+these signs (and set it down at some place to be used
+later). Now, find the square root of the sum of the
+squares of the gnomon and (the oyargulas of) the midday
+shadow. Multiply this (square root) by 300 and
+divide by the R sine (kept at the other place, and
+diminish the square of the result by the square of the
+gnomon. The square root thereof divided by
+60, gives the shadow (in terms of amgulas) in the
+eastern or western hemisphere (as the case may be).!
+(8-9). (KSS)
+छायातोऽपक्रमः
+15. 14. 1. छायाग्रपूर्वापररेखयो्य॑त्‌
+स्यादन्तरं तत्‌ पलभावियोगः।
+सौम्ये य्‌ तिदेक्षिणगे च लम्ब-
+ज्या तदधः कणेहूतोऽपमज्या ।। ३६ ॥
+(Lalla, SiDhkVr., 4. 39)
+Declination from shadow
+
+Find the distance between the extremity of the shadow
+at any time and the east-west line. Subtract it from
+the equinoctial midday shadow when the Sun is in the
+northern hemisphere and add when it is in the southern
+hemisphere. The result multiplied by R sine of
+the colatitude (of the observer’s station) and divided
+by the hypotenuse of the shadow, gives R sine of the
+declination of the Sun. (39). (BC)
+
+छायातो लग्नम्‌ लग्नात्‌ छाया च
+
+15. 15. 1. द्वादशभिः सच्छायैमेध्याह्लोनैभेजेद्‌ !रसहुताशम्‌' |
+WITS चक्रार्धाद्‌ विशोध्य सारकं भवति लग्नम्‌ ।\११।।
+व्यक लग्ने लिप्ताः प्राक्पश्चात्‌ शोधितास्तु चक्रार्धम्‌ ।
+कार्यश्छेद: शृन्याम्बराष्टलवणोदषट्कानाम्‌' ।। १२ ॥।
+लब्धं द्रादशहीनं मध्याह्वच्छायया समायुक्तम्‌ |
+सा विज्ञेया छाया वासिष्ठसमाससिद्धान्ते ।। १३ 1
+
+(Varaha, PS, 2. 11-13)
+
+1 For the rationale, see KR: KSS, pp. 68-69.
+
+15. 16. 1
+
+LLagna from Shadow and vice versa
+
+Add 12 to the shadow (of the twelve-digit gnomon,
+measured in digits) at any time cf the day, and deduct
+from it the midday shadow for the day. Divide 36 by
+this and take the result. This result taken as गत, plus
+the Sun in rasis is the lagna at the moment, if it is fore-
+noon. If afternoon, deduct this from the Sun plus
+six ra@sis and the lagna is obtained.
+
+The formulae, (a) for the forenoon and (b) afternoon,
+respectively, can be expressed thus: (a) Lagna=Sun+
+36/ (12 shadow—noon shadow): (b) Lagna=Sun+6—
+36/ (12 shadow—noon shadow). (11)
+
+Deduct the Sun from the Jagna and convert the
+remainder into minutes of arc, if forencon. If after-
+noon, deduct the minutes from a half circle, i-e., from
+10800 minutes and take these as minutes. Divide
+64800 by the minutes so obtained. Add the result to the
+noon shadow of date, and deduct 12 from this. This
+is the shadow at the time of the given lagna. This is,
+according to the brief Vaststha Siddhanta. (12-13). (TSK)
+
+लग्नात्‌ कालः
+
+15. 16. 1. ‘aad? श्येकविशतं' शिखियमदहनं' क्रमोतक्रमाल््यस्य |
+
+चरदलविरहितसहितं मेषादि तुलादि चोत्क्रमत: ॥ ६ ।।
+
+अकंन्दरभुक्तलिप्ताः स्वोदयगुणिता नभोऽम्बरपुराणं :' |
+लब्धाः पुरोदययुताः प्राग्‌लग्नाल्लग्नकालः स्यात्‌ ।। ७ ।।
+(Deva, KR, 4. 6-7)
+Time from lagna
+
+First write down the numbers 278, 299, and 323 in
+serial order and then the same number in the reverse
+order: (the six numbers thus written down denote the
+right ascensions, in terms of vinddis, of the six Signs
+beginning with Aries. The same numbers in the reverse
+order are the right ascensions, in terms of vinddis, of the
+six Signs beginning with Libra). Now diminish the
+numbers 278, 299, 323 by the ascensiona] differences,
+in terms of vinddis, of the Signs, Aries, Taurus and
+Gemini respectively, and write them down in the serial
+order ; then increase the same numbers by the ascensional
+differences, in terms cf vinddis, of the signs, Aries, Taurus
+and Gemini, and write them down in the reverse order.
+The six numbers thus written down are the oblique
+ascensions, in terms of vinddis, of the six Signs beginning
+with Aries; and the same six numbers in the reverse
+order are the oblique ascensions, in terms of vinddis, of
+
+the six Signs beginning with Libra. (6)
+
+Multiply the minutes to be traversed of the Sign occu-
+pied by the Sun or the Moon by the oblique ascension
+of that Sign and divide by 1800. Add the resulting
+(asus) to the (asus of the) oblique ascensions of the (suc-
+ceeding) Signs which have risen prior to the rising

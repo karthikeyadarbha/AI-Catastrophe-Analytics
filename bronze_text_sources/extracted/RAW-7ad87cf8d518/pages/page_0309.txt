@@ -1,0 +1,121 @@
+265 19. CONJUNCTION OF PLANETS
+
+Computation of conjunction
+—Karanaratna
+
+A planet is said to be faster or slower (than another
+planet), according as its velocity is more or less (than
+that of the other).
+
+If the faster of the two planets has greater longitude,
+(it should be inferred that) the conjunction of the two
+planets has aready occurred. If (on the other hand)
+the slower of the two planets has greater longitude, (it
+should be understood that) the conjunction of the two
+planets is to occur. (13)
+
+When one comes to know that the time of conjunction
+of two planets, in close vicinity, is about to occur one
+should subtract the planet with smaller longitude from
+the planet with greater longitude and reduce the differ-
+ence to minutes. One should then divide that differ-
+ence (in terms of minutes) by he difference of the daily
+motions (of the two planets) (in case both the planets
+are in direct motion), or by the sum of the daily motions
+(of the two planets) if either of the two planets is in
+retrograde motion: one should then severally multiply.
+the resulting days, arising from the difference of the two
+planets, by the daily motions of the two planets and
+divide (each product) by 60: the result is in terms of
+minutes. If the two planets are in direct motion, these
+minutes should be subtracted from or added to the
+longitudes of the respective planets, according as the
+conjunction has occurred or is to occur. Tf either of the
+two planets is retrograde, subtraction and addition
+should be reverse for this planet.
+
+This is in brief the method stated by the learned for
+the equalisation of the longitude of two planets.
+(14-17).
+
+The Iteration process
+
+Again reduce the difference of the longitudes. of the
+two planets to minutes, as before; (then find the corres-
+ponding days); then (severally) multiply those days by
+the true daily motions of the two planets and divide by
+60; and then subtract the (resulting) quotients from or
+add them to the longitudes of the respective planets, as
+before. Proceeding in this way, correct the longitudes
+of the two planets by adding and subtracting the motions
+of the respective planets. (18-19ab)
+
+The celestial latitude
+
+Subtract the longitude of the planet’s ascending node
+from the instantaneous longitude of the true-mean
+planet in the case of Mars, Jupiter and Saturn, and from
+the longitude of the planet’s sighrocca in the case of
+Mercury and Venus; and then multiply the R sine of
+the bahu of the remainder by the (planet’s) greatest
+
+19. 3. 2
+
+latitude and divide by the (planet’s sighra) hypotenuse:
+the result is the (planet’s instantaneous) latitude.
+(19cd-20ac)
+
+Distance between planets in conjunction
+
+To obtain the true distane between (the centres of)
+the two planets (when they. are in conjunction in
+longitude), one should take the difference or sum of the
+latitudes of the two planets, according as they are of like
+or unlike directions. The (resulting). sum or difference
+divided by 4 gives the distance between (the centres of)
+the two planets in terms of afgulas. (20d-21)
+
+When the two planets are together, the planet, with
+greater diameter is the victor. When both the planets
+are to the north of the ecliptic, the planet with greater
+latitude is the victor. (22) ।
+
+When both the planets are to the south of the ecliptic,
+the planet with lesser latitude is the victor. When the
+latitudes of the two planets are of different directions,
+the planet with north latitude is the victor.1 (23). (KSS)
+
+--आर्यभटीयाघंरात्रपक्षः
+19. 3. 2. कृतयमवसुरसदशकाः पातांशा दशगुणाः कुजादीनाम्‌ ।
+ नवरविरसाकंमासा विक्षेपकला गुणा दशभिः ।1 १॥
+
+कन्दरज्यन्त्यफलज्यागुणिता फलजीवया हृता कणेः ।
+विज्यान्त्यफलज्योना चक्रार्थे संयुता चक्र ।। २ ।।
+भुक्त्यन्तरयुतिभाजितमनुलोमविलोमविवरमाप्तदिनै ।
+अधिकेऽल्पगतावेष्यत्यधिकगतौ ग्रहयुतिरतीता ।। ३ ॥।
+विवरं स्वभुक्तिगुणितं पृथक्‌ तथैवोद्धृतं क्षयोऽतीते ।
+धनमेष्यति समलिप्तो वक्रगतेः क्षयधनं व्यस्तम्‌ ॥॥ ४ ।
+स्वं स्वं विशोध्यं पातं समलिप्तात्‌ सौम्यशुक्रयोः शीघ्रात्‌ |
+जीवा विक्षेपगुणा हृतान्त्यकर्णेन विक्षेपः ।। ५॥
+
+एकान्यदिशोरन्तरयोगौ विक्षेपयोगरेहान्तरकम्‌ ।
+ग्रहणवदन्यत्‌ साध्यं स्पटविक्षौपोऽवनत्यैव ।। ६ ॥।
+(Brahmagupta, KK, 1.8. 1-6)
+
+ABh. : Ardharatrika system
+4, 2, 8, 6 and 10, each multiplied by 10, give the
+
+degrees in the longitudes of the patas (nodes) of Mars,
+Mercury, Jupiter, Venus and Saturn, respectively. 9,
+12, 6, 12 and 12, each multiplied by 10, give respectively
+the minutes in the viksepas of the above planets. (1)
+
+The jya of the sighrakendra of a planet obtained in the
+fourth operation during the process of finding its true
+longitude, multiplied by the pa of its maximum Sighra-
+phala and divided by the jya of its Sighraphala obtained in
+the fourth operation, gives its sighrakarna.
+
+1 The above rules show that, in general, the planet which lies to
+the north of the other is the victor. But Venus is always the victor,
+no matter whether it lies to the north or south of the other planct.

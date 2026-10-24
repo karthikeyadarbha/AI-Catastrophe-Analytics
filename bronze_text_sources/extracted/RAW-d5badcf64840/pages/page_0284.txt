@@ -1,0 +1,80 @@
+3.40 Obtaining the orient ecliptic point                                                                                                                        237
+
+   The shadow prabhā/bhā/chāyā and the hypotenuse śruti are obtained in aṅgulas
+by multiplying by 12 and dividing by the śaṅku. It was already shown [see (3.4)]
+that the shadow at any time is 12 tan z, where z is the zenith distance of the Sun at
+that instant. Now,
+                                                                                 12 × R sinz 12 × prabhā
+                                      prabhā = 12 tan z =                                  =             .                                              (3.285)
+                                                                                   R cos z      śaṅku
+Similarly,
+                                          12 ×śruti
+                                                      .             śruti = (3.286)
+                                            śaṅku
+That the āśāgrā must be equal to 45◦ for the kon.aśaṅku measurements is clearly
+stated by Śaṅkara Vāriyar in his Yukti-dı̄pikā as follows:
+                                                           ñÍ                                      68
+         A;a;Za;a;g{a;a;Dya;DRa:=+a;a;Za:$ya;a k+:ea;Na;Za;öÅ*:
+                                                               u +.pra;Ba;a;a;va;Da;Ea        Á
+
+
+         In measurements related to the kon                                        ◦
+                                          . aśaṅku, the āśāgrā is equal to 45 (the adhyard-
+         harāśi).69
+
+         Further, the procedure is clarified thus in Yukti-dı̄pikā:
+         l+.}ba;va;ga;Ra;DRa;mUa;lM tua .sa;a :pua;naH       k+:ea;a;f;vxa:a;ga;a       ÁÁ
+
+         k+:ea;a;fH    .sa;a;[a;ea Bua:ja;a  , k+:Na;eRa va;gRa;ya;ea;ga;pa;dM õd;ya;eaH                Á
+                                                                             È                  70
+         h;a:=+k H     .sa :pua;naH      kÒ +:a;ntya;[a;ya;eaH    k+:ea;a;f. îå Á
+                                                                            *+;ya;ea;Æa;mRa;TaH    ÁÁ
+
+         k+:a;ntya;[a;k+:ea;fa;Ea ta;tk+:NRa;va;gRa;Bea;d;pa;d;ea;;
+         Ò                                                         ÂåÅ +vea Á
+
+         ta:a l+.b.Da;P+.lE+.k+.Ma ya;t,a .~ya;a;t,a C+.a;ya;a ya;a;}ya;ga;ea;l+.ga;a Á Á
+                                                                                                               71
+
+         The square root of half the square or lambaka which is on the kot.ivr.tta is the kot.i. The
+         bhujā is the aks.a. The square root of the squares of the two is the karn
+                                                                                  . a hypotenuse. [That
+         is also] the divisor for the mutual product of the krānti, aks.a and their kot.is.72
+         The kot.is of the krānti and aks.a are themselves obtained by subtracting their squares from
+         the squares of the karn . a and taking the square root. The sum of the result obtained is the
+         shadow in the southern hemisphere.
+
+
+                Éç
+     .
+3 40 :pra;a;gl+.îå
+                +;a;a;na;ya;na;m,a
+
+3.40 Obtaining the orient ecliptic point
+
+               x +:ta;a;ya;na;Ba;a;nUa;tTa:=+a;a;Za;ga;nta;v.ya;a;l+.a;a;k+:aH
+         .sMa;~k                                                                                  Á Á 95       ÁÁ
+
+         ta;dÒ+a;a;Za;~va;ea;d;ya;pra;a;Na;h;ta;a .=+a;a;Za;k+:l+.a &+.ta;aH              Á
+
+
+68 {TS 1977}, p. 239.
+69 The term adhyardharāśi literally means: ‘a rāśi increased by half [of it]’, and it is equal to
+
+45◦ , since a rāśi equals 30◦ .
+70 The prose order: d;ya;eaH va;gRa;ya;ea;ga;pa;dM (yaH )                                .sa        :pua;naH        h;a:=+k H Á ? I+.tya;a;Za;ñÍöÅ*:+.a;ya;a;ma;a;h -
+                                                                                                                                  k+:~ya
+                        õ
+
+k+:a;ntya;[a;ya;eaH
+Ò                           ;Æa;ma;TaH    (=            å
+                                                             )
+                                                 :pa:=+~.pa:=M
+                                                                           È
+                                                                 k+:ea;a;f. îå Á
+                                                                           *+;ya;eaH          (ya;t,a :P+.lM l+.Bya;tea ta;~yea;a;ta) Á
+71 {TS 1977}, p. 239.
+72
+   The karn  . a is the divisor for each of the factors krānti, aks.a and their kot.is in the expression
+for cos z in (3.284).
+

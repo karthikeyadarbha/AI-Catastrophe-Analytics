@@ -1,0 +1,131 @@
+(The numbers of revolutions) of the. Higher Apses
+(mandocca) of these planets in a kalpa are: :
+
+(Sun) 353;
+
+(Moon) 48,81, 23,318;
+
+(Mars) | 754;
+(Mercury) ॥ . 494;
+
+(Jupiter) ॥ 601;
+
+(Venus) ह ` 272; ।
+(Saturn) ` 54. (6-72)
+
+Revolutions of the ascending nodes
+
+(The numbers of revolutions of the ascending nodes),
+which move backward (from the east) to the west, are,
+beginning with the Moon:
+
+(Moon) 23,22,96,745;
+
+(Mars) । | 834;
+(Mercury) ,.. 902;
+(Jupiter) 825; .
+(Venus) : ` ` 766; `
+(Saturn) । 757. (79-89)
+
+Maximum latitudes पि .
+
+The (maximum) latitudes of the epicycles of the higher
+apses at their halves, depending on the distance of the
+planet from the nodes, are, in units of quarter degrees
+(i.e., 15):
+
+18(X 15=270); `
+
+(Moon)
+
+(Mars) '6( >< 15=90);
+(Mercury) 21(X 15=315);
+
+(Jupiter) 4(*15=60) ;
+
+(Venus) 11(>< 15== 165) ;
+
+(Saturn) 8(X15=120). (8b-9a)
+
+Epicycles of the equation of the apses
+
+(The magnitude of the circumferences? of the epicycles
+of the equation of the apses) in terms of 4} parts of
+themselves (i.e., in terms of 4} degrees) are:
+
+(Sun 3(X4p=14");
+
+(Moon) 7(X44==314°);
+(Mars) 16(X44=72’) ;
+(Mercury) 14(X44=63°);
+(Jupiter) 8( x 44=36");
+(Venus) 3(X44=14°);
+(Saturn 10(X44=45°).
+
+1 The magnitude of the circumference is given in proportion to
+that of the circumferences of the orbits of the respective planets
+which are taken to be 360°, the number of degrees in a circle.
+
+PLANETS ~
+
+13, 6. 2
+
+Epicycles of the equation of conjuction
+
+(The circumfererices of) the epicycles of the equation
+of conjuction, beginning with Mars, are, in the odd
+quadrants:
+
+(Mars) 58 (>८41--238°) ;
+(Mercury) 31(X 44-=139}°) ;
+(Jupiter) 16(X44=72°);
+(Venus) 59(X 44=2654') ;
+(Saturn) , 9८०८4} 403).
+
+These same epicycles reduced, respectively, by 2, 2, 1,
+2, and 1 give the circumferences of the even quadrants.
+
+(Mars) 51(X44=2294°) ;
+
+(Mercury) 29(X4h= 130°);
+
+(Jupiter) 15(>८41 673");
+
+(Venus) 57(X44=256}°);
+
+(Saturn) 8(>८4‡ -- 36).
+रवि-चन्द्रमध्यम्‌
+
+रविमध्यम्‌--सौरसिद्रान्तः
+13. 6. 1. द्यगणेऽकेष्टशतध्ने विपक्षवेदार्णवे $कंसिद्धान्ते ।
+स्व॒रखाश्विद्विववयमो द धृते क्रमाटिनदलेऽवन्त्याम्‌ 1911
+(Varaha, PS, 9.1)
+Mean Sun and Moon
+(Mean Sun—Saurasiddhianta)
+
+According to the Saurasiddhanta, to get the mean Sun
+in revolutions etc., multiply the days from Epoch by
+800, deduct 442, and divide by 2,92,207. This is for
+Ujjain mean noon.t (1). (TSK)
+
+--सौरसिद्धान्तः
+18, 6. 2. नवशतसहस्रगुणिते स्वरैकपक्षाम्बरस्वररतू ने |
+"षटृ्न्येन्दरिनववसुविषयजिनं' भाजिते चन्द्रः ।। २ ॥।
+ नवणतगुणिते दद्याद्‌ “रसविषयगुणाम्बरर्तुयमपक्नान्‌ ।
+'नववसुसरप्ताष्टाम्बरनवाश्वि'भक्ते MATS ISTH ।। ३ ॥
+शशिविषय'घ्नानीन्दोः ।
+क्वर्काग्नि हृतानि भण्डलानि ऋणम्‌ ।
+स्वोच्चे दिग्‌घ्तनानि घनं
+(स्वररन्ध्रयमो'दृधृते विकलाः ।। ४ ॥
+| ‘(Varaha, PS, 9.2-4)
+--Saurasiddhanta
+
+Multiply the days by 9,00,000, deduct 6,70,217, and
+divide by 2,45,89,506. The approximate mean Moon
+in revolutions etc. is got.. (2)
+
+Multiply the Days by 900, add 22,60,356, and divide
+by 29,08,789. The approximate Moon’s apogee in
+revolutions etc. is obtained. (3)
+
+1 For the rationale, see-PS: TSK, 9.1.

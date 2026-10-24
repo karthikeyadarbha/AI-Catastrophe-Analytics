@@ -1,0 +1,113 @@
+17. 6.3
+
+Lf the true longitude of the Moon (corrected by the
+two visibility corrections) and increased by 6 Signs is
+the same as the true longitude of the Sun while rising,
+the Moon sets at that time; if greater, it sets after and if
+less, before sunrise. The times (for these phenomena)
+should be calculated as before. (10)
+
+Multiply the daily motion of the Moon by the number
+of hours elapsed or to elapse, as (calculated above),
+either in the days.or in the night, and divide the produt
+by 60. The quotient should be added to or subtracted
+from the true longitude of the Moon, either at the end
+of the day or at the end of the night (as the case may
+be). Then again, the longitude of the Moon corrected
+by the two visibility corrections should be calculated
+and hence the time. The process must be repeated
+till the time is fixed. (11)
+
+If the true longitude of the Moon, corrected by the
+two visibility corrections, is less than the udayalagna or
+the longitude of the rising point of the ecliptic and
+greater than the astalagna or the longitude of the setting
+point of the ecliptic, the Moon is visible.
+
+The time passed since the Moon was on the eastern
+horizon and to pass when it will be on the western
+horizon, can be found from the longitudes of these
+points and of the Moon; and so also in the case of a
+planet (12). (BC)
+
+चन्द्रच्छाया
+17. 7. 1. खद्युखण्डसदृशो यदोन्नतः स्यात्‌ तदा गगनमध्यग: शशी ।
+तत्र चोक्तवदहदेलप्रभा चन्द्रवच्च भनभ:सदामपि ।। ५।।
+(Lalla, SiDkVr., 9.5)
+Moon’s shadow
+When the time equal to half the day of the Moon has
+passed, since its rising, then it is midday. Find the
+shadow of the gnomon caused by the Moon for that
+time as explained before (in the case of the Sun). In
+the same manner, the shadows caused by the stars and
+planets must be found. (5).2 (BC)
+
+17. 7. 2. ताभिः शशिनश्च्छाया “षड्गुणिते'तिक्रमेण बोद्धव्याः ।
+पञ्न्वप्रष्नविधानं सूयेवदत्रापि सञ्चिन्त्यम्‌ ।! ७ ।।
+। (Deva, KR, 5.7)
+` From those nddis (intervening between the Moon and
+the rising or setting point of the ecliptic), one may
+obtain the gnomonic shadow due to moonlight by
+applying the rule: “Multiply the given vinddis by 6,
+लील. (vide supra, ch. iv. vss. 8-9). Methods for solving
+the five problems (vide supra, ch. iv. of vss. 16-17) should
+also be contemplated here (in the case of the Moon)
+too as in the case of the Sun. (7). (KSS)
+
+3 For elucidation and demonstration see, SiDAVr:BC, II. 159-61.
+2 For detailed elucidation see SiDhVr :BC, 11. 162-66.
+
+INDIAN ATRONOMY-—A SOURCE-BOOK 246
+
+17. 7. 3. उदयेन््रन्तरप्राणैरस्तचन्दरान्तरैरपि ।
+स्वाहोरात्रादिभिश्चान्द्रंः शङ्कुदुग्ज्ये ततः प्रभा ।) २२ ॥
+(Bhaskara I, LBh., 6. 22)
+
+From the asus (of the oblique ascension of the portion,
+the ecliptic) lying between the rising point of the ecliptic
+and the Moon (corrected for the visibility corrections)
+or from those (taken in setting at the local place by the
+portion of the ecliptic) lying between the setting point
+of the ecliptic and the Moon (corrected for the visibility
+corrections) (according as the Moon is above the eastern
+or western horizon), and from the Moon’s day radius,
+etc., determine (the R sine of) the (Moon’s) altitude
+and zenith distance and therefrom the shadow of the
+gnomon (due to the Moon). (22). (KSS)
+
+ग्रहस्य दृश्यादृश्यत्वम्‌
+17. 7. 4. निशीष्टलग्नादुदयास्तलग्ने न्यूनाधिकं यस्य खगः स दृश्य: ।
+दिनेऽपि चन्द्रे रविसन्निधानान्नास्तं गतश्चेत्‌ सति दशेने भा ॥
+ग्रहस्य झ्यगतम्‌
+ज्ञातुं यदा भाभिमता ग्रहस्य तत्कालखेटोदयलग्नलग्ने ।
+साध्ये तयोरन्तरनाडिका यास्ताः सावना: स्युर्युगता ग्रहस्य।।
+
+ता एव खेटद्युतिसाधनार्थं
+क्षेत्रात्मकत्वात्‌ सुधिया नियोज्याः |
+उनस्य भोग्योऽधिकभुक्तयुक्तौ
+मध्योदयाढयोऽन्तरकाल एवम्‌ ।। १२ ।।
+स्पष्टा क्रान्ति: स्फुटश रयूतोनैकभिन्नाशभावे
+तज्ज्या स्पष्टोऽपमगुण इतो द्युज्यका्ं ग्रहस्य |
+कृत्वा साध्या तदुदितघटीभिः प्रभा भानुभाव-.
+च्वन्द्रादीनां नलकसुषिरे दशंनायापि भानाम्‌ । १३ ।।
+
+स्वभुक्तितिथ्यंशविवजितो ना
+महांत्लघुः खाग्निकृतां शहीन: ।
+स्फुरक्रन्तिः
+स्पष्टो भवेदस्फुटजातदृग्ज्या
+सन्ताडिताकंः स्फटशङ्कुभक्ता ॥ १४ ।।
+
+प्रभा भवेन्ना तिथिभागतोऽल्पो
+यावद्विधुस्तावदसावदृश्यः |
+एवं किल स्यादितरग्रहाणां
+स्वल्पान्तरत्वान्न कृतं तदादयः ।। १५ A
+(Bhaskara II, SiSi., 1. 7.10-15)
+Visibility of the planet
+During the night, if, at a given moment, the computed
+udayalagna of the planet is less than the particular lagna
+of the moment, (i.e. if the longitude of the udayalagna is
+less than that of the current lagna), and also if the asta-
+lagna of the planet computed is greater than that of the
+then current dagna (i.e. if the longitude of the astalagna
+is greater than that of the current lagna,) the planet
+is visible (i.e. above the horizon).

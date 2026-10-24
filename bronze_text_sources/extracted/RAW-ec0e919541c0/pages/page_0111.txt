@@ -1,0 +1,38 @@
+Movement of Mercury 109 ॥ बुधचार:॥
+This result is obtained using the planetarium software PLVS available at
+the website www.alcyone.de where details of the method of calculation
+and accuracy of the data base are available. This software can be used to
+find the duration of visibility and invisibility after allowing for the arcus
+visionis and critical altitude required above the horizon for the planet to
+be visible. For the year -1400 and -1200 the visibility and invisibility
+numbers in days are shown in the accompanying table. These years are
+selected here arbitrarily to verify the possibility of the correctness of the
+ancient observation.
+Table 7.1 Visibility Pattern of Mercury
+
+Morning Morning Evening Evening
+Year Visibility Invisibility Visibility Invisibility
+Days Days Days Days
+eee |~ 1 21 18
+ooh aia 1400 34 28 42 28
+16 38 eRe ee 24
+34 37 | | (~ उप petri
+-1200 (| 25 30 44
+2 28 42 23
+23 47 15 16
+
+The order of magnitude of these numbers does not change too much with
+the years. The visibility number given by PT is in the interval 9 to 40.
+Considering the advantages of a modern calculation to ancient naked
+eye observations of Mercury, an object known to be difficult to observe,
+Parasara’s figures are accurate. What is intriguing is why PT does ROL
+explicitly state the difference between east (morning) and west (evening)
+observations. In (7.2) the numbers are stated as so many nights. This
+
+would mean the observations were done either after Sunset or before
+
+Sunrise. PT observes that Mercury has seven visibility and invisibility
+phases of unequal lengths in a year. This amounts to 3 to 3 cycles giving
+the synodic period of Mercury to be between 122 and 104 days, which
+average to 114 days quite close to the modern value of 116 days. ]
+

@@ -1,0 +1,54 @@
+236                           C+.a;ya;a;pra;k+.=+Na;m,a                      Gnomonic shadow
+
+So, a kon.acchāyā is possible only when
+                                                      1
+                                      sin a|sunrise ≥ √ .                           (3.280b)
+                                                       2
+Therefore, the condition for a kon.acchāyā reduces to
+                                                   cos φ
+                                            sin δ ≥ √ .                              (3.281)
+                                                      2
+In this case, corresponding to the Sun’s position S2 in Fig. 3.32,
+                                                      1
+                               cos A = cos(90 − a) = √ ,                             (3.282)
+                                                       2
+and sin δ cos φ cos A is positive, as δ is positive. Hence the word yogo ′pi (sum also),
+for northern declinations is used in verse 93b when the kon.aśaṅku is to the north.
+   For the other kon.acchāyā, corresponding to the Sun’s position S1 in Fig. (3.32),
+the first term in (3.278) is negative as cos A is negative, and hence we have to find
+the difference of the terms and not the sum.
+   In verse 94, the expression for the nara (R cos z) is given. The text states:
+
+                                          aks.a × krānti ± k1 × k2
+                            nara =                                  .                (3.283)
+                                                      h2
+Substituting for k1 , k2 and h from (3.274) and (3.275), we have
+                                           q
+                                        √φ    sin2 φ + cos2 φ − sin2 δ )
+                                                           2
+                                    + cos
+                      R(sin φ sin δ ∼    2
+          R cos z =                                                      .           (3.284)
+                                      (sin2 φ + cos2 φ )
+                                                    2
+
+
+
+Using straightforward algebraic manipulations it can be shown that the above ex-
+pression follows from (3.278) for the chāyā (R sin z).
+
+
+Condition for the occurrence of a second kon
+                                           . aśaṅku/(nara):
+
+Here again, as in the case of a kon.acchāyā (R sin z), two naras are possible, when
+the product of the aks.a and the krānti is greater than that of their kot.is, and when the
+Sun is in the northern hemisphere. This is easily understood from the necessary and
+sufficient condition for the occurrence of a second kon.acchāyā, which is given in
+(3.281). In this case, the magnitude of the first term is greater than that of the second
+term in (3.284) and both ‘+’ and ‘∼’ can be taken in (3.284), and there are two
+solutions for cos z corresponding to two kon.aśaṅkus. However, when the product
+of the aks.a and the krānti is greater than that of their kot.is, and the declination is
+south, the first term is negative and its magnitude is greater than that of the second.
+In this case, cos z is negative. This implies that the kon.aśaṅku is not possible.
+

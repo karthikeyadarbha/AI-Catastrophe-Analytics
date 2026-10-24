@@ -1,0 +1,111 @@
+18.9. 3
+
+by the dyana-drkkarmakala. Thus is obtained the asta-
+lagna of the planet. If the viksepa is to the south, the
+previous result should be added to obtain the udayalagna
+and subtracted for the astalagna. (3)
+
+‘If the udayalagna of a planet is less than the lagna, the
+planet has already risen; if greater, the planet will rise
+later. If its astalagna increased by 6 Signs or 180° is less
+than the lagna, the planet has already set; if greater, the
+planet will set later. These times in ghafikds can be
+ascertained by means of the difference between the
+planet’s udayalagna or astalagna and the lagna, using the
+times of the risings of the rasis.1 (4). (BC)
+
+--ब्रह्मगुप्तकृतः शोज:ः
+18. 5. 3. वेदा ्रचष्टर्तुदिशः' पातांशा दिगग्गुणा: कुजादीनाम्‌ ।
+
+'नवतिथिरसाकंमासा' विक्षेपकलः ‘faa’ ered: ।। १॥।
+ग्रहवद्‌ बुधसितपातौ तृतीयलब्ध्याधिकोनकौ स्पष्टौ ।
+कुजजीवसौरपातास्तद्विपरीतं चतुर्थाप्त्या ॥। २ 1
+मानात्पत्वात्‌ पश्चा-
+दुदयोऽस्तमयः सितस्य दशभिः प्राक्‌ ।
+पश्चान्मानमहत्वा-
+दस्तमयो5ष्टाभिरुदथ : प्राक्‌ ।। ३ ॥
+्ञस्यैवं 'मनुसूर्य:' पठितः कुजजीव सूर्यपुत्राणाम्‌ |
+उदयः प्रागस्तमयो मानसमत्वाद्‌ भवति पश्चात्‌ ॥ ४ 1
+मिथूनस्य सप्तविशे भागेऽगस्त्यस्य याम्यविक्षेपः |
+'मुनिनग संख्या भागा रविसङख्या्चास्य कालांशा: !।
+` षडविशे मिथुनांशेऽशंकचत्वारिशता मृगव्याधः ।
+दक्षिणतो विक्षेषस्त्रयोदशास्यैव कालांशा: ।। ६ ॥
+ऋक्षाणां ALAS कालांशा प्रथमकमं सर्वेषाम्‌ |
+दृक्संज्ञक न कार्य दवितीयमेषां सदा कार्यम्‌ ।। ७ ॥।
+ उदयाख्यमगस्त्यस्य च लयनं वृद्धि नयेत्तथास्ताख्यम्‌ |
+हीनं कार्य नित्यं घटिकाद्वितयेन राश्युदयैः ।। ८ ॥।
+उदयास्तसूरय॑संज्ञौ ज्ञेयावेतौ भषट्कयुतमन्यत्‌ ।
+धटिकाद्वितयेनैवं षड्भागयुतेन मृगहर्तुः ।। ६ ।।
+एवं नक्षत्राणां घटिकाद्वितयेन सत्रिभागेन |
+दशेनमदशेनं स्यादन्योन्यं समे रविलग्ने 1 १० Ul
+सर्वेषां नतभागान्नवतेः प्रोह्मोन्नतास्तु शेषाः स्युः ।
+उदयार्कोऽस्तमयार्काद्यस्योनस्तत्‌ सदा श्यम्‌ ।। ११ ॥।
+उदयास्तसूरययोरन्तरे रवौ दृश्यतेऽन्यथास्तमितिः ।
+उनाधिका रविकला रविभुक्त्या भाजिता दिवसाः ।\१२।।
+(Brahmagupta, KK, 2. 5. 1-12)
+
+—Emendation by Brabmagupta
+The longitudes of the patas of Mars etc., are 40°, 20°,
+80°, 60° and 100°, respectively. The mean viksepas
+
+1 For the formulae and proofs, see, KK:BC, 1. 129-31.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK _ 258
+
+of Mars etc. are 90’, 150’, 60’, 120’ and 120’,
+respectively. (1) :
+
+The second mandaphalas calculated during the process
+of finding the true longitudes of Mercury and Venus
+should be added to or subtracted from the longitudes of
+their respective patas (as given above), according as the
+mandaphalas are additive or subtractive. The results
+are their correct longitudes.
+
+The second sighraphala calculated during the process
+of finding the true longitudes of Mars, Jupiter and Saturn
+should be added to or subtracted from the longitudes of
+their respective patas (as given above), according as the
+Sighraphalas are subtractive or additive. The results are
+their correct longitudes. (2)
+
+When Venus has direct motion, its diameter appears
+smaller, and it rises in the west and sets in the east by a
+kalaméa of 10°. When its motion is retrograde, its
+diameter appears bigger, and it rises in the east and sets
+in the west by a kalarhsa of 8°. Mercury rises and sets
+in a similar manner, with the difference that when it is
+direct, its kalamsa is 14°, and 12° when, retrograde.
+The diameters of Mars, Jupiter and Saturn always
+appear the same. (There is, therefore, no change in
+their (तक्र). They rise in the cast and set in the
+west by the kdlamsas already given in KK 1 6.1. (3-4)
+
+The dhruvaka of Agastya is 2 signs 27° and its distance
+from the ecliptic measured on the declination circle is
+77° to the south. Its kalasnsa is 12°. (5)
+
+The dhruvaka of Mrgavyadha is 2 Signs 26° and tis
+distance from the ecliptic measured on the declination
+circle is 40° to the south. Its kalarga is 13°. (6)
+
+The kalamsa of each naksatra is 14°. No dyana-drkkarma
+correction need be applied to their dhruvakas, as they are
+already corrected. The dksa-drkkarma correction only
+should be applied. (7)
+
+From the udayalagna of Agastya calculate the Jagna
+at 2 ghatikas after sunrise by means of the times of the
+rising of the rdsis (according to the method explained
+before). The result is the udayasiirya of Agastya. Again,
+from the astalagna calculate the lagna at 2 ghajikas before
+sunrise. Add 6 Signs to it. The result is the astastirya
+of Agastya.
+
+In the same manner the udayasiirya and astasiirya of
+‘Mrgavyadha may be found. In this case 2 ghatikas and
+10 vinddis should be used.
+
+Similarly, the udayasiirya and the astasiirya of other
+naksatras should be. calculated. In this case 2 ghatikas
+20 vinddis should be used.. ।

@@ -1,0 +1,64 @@
+8.8 Deflection of the horn (phase of the Moon)                                                                                   421
+
+                                                                                                     S
+
+
+                                                                                            θ
+
+                                                                                                                  ds
+                                                                            ψ
+                                                                M                                    U
+                                                                                              φ
+                                                                                dm
+                                                                                                    E
+
+
+Fig. 8.5 The illuminated portion of the Moon as seen by the observer.
+
+
+
+ψ = 180 − (θ + φ ). Hence
+
+                                                     cos ψ = − cos(θ + φ ) = − cos φ ′ .                                       (8.65)
+
+This is used in the next subsection.
+
+
+Phase of the Moon from spherical trigonometry
+
+Consider the Earth-Sun-Moon system as shown in Fig. 8.6. By definition, the illu-
+minated portion of the Moon’s disc—also known as the phase of the Moon—is the
+arc CB. This corresponds to the segment CF across the diameter:
+
+                               CF = CM + MF
+                                          = CM + MB cos ψ
+                                            am                                                                         am
+                                          =    (1 + cos ψ )                               (since CM = MB =                ),   (8.66)
+                                             2                                                                          2
+where am is the diameter of the Moon’s disc. Using (8.65) in the above equation, the
+phase of the Moon is
+                                  am
+                                     (1 − cos φ ′ ),                          (8.67)
+                                   2
+which is precisely the formula given in the text.
+
+
+        ñÍ
+  .
+8 8 Zxa;ç Å
+        *:+.ea;a;a;taH
+
+
+8.8 Deflection of the horn (phase of the Moon)
+
+      :pra;a;gva;. C+.a;ya;a;Bua:ja;Ma Ba;a;na;eaH    .~va;a;g{a;a;Bya;Ma .. a ;a;va;Da;ea;nRa;yea;t,a        Á
+         ñÍ                      ëÅ
+      Za;öÅ
+         *:+.g{Ma .sa;Ea;}ya;a;d;ë
+                                 *:MÁ .~ya;a;t,a A;dx ;Zya;a;DRa;ga;tea g{a;he            Á Á 22         ÁÁ
+         öÅ
+         ëÅ                    ñÍ
+      dx;ëÁ
+         *:+:Na;Ra;na;ya;nea Za;öÅ
+                                *:+.eaH   :P+.l+.ma;pya:a ya;ea:ja;yea;t,a           Á
+

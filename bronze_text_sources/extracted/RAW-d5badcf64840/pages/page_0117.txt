@@ -1,0 +1,72 @@
+70                                                   å
+                                                   .~.Pu+.f;pra;k+.=+Na;m,a                                                         True longitudes of planets
+
+                                                                                             B
+                                                                                                      J
+                                                                                                            P
+                                                                                         D
+                                                                             R
+                                                                                    δθ
+
+                                                                                    θ
+                                                                             θ0
+                                                               O                             N K M
+
+Fig. 2.5b Geometrical construction to determine the arc length corresponding to a given jyā.
+
+
+
+Considering the similar triangles PBD and JOK, we have the relation
+                                               PB   BD                                                                       BD
+                                                  =                                 or               PB = JO ×                  .                                  (2.60)
+                                               JO OK                                                                         OK
+Using (2.59) in the above, we get
+                                                                                             2R
+                                                                 PB = h                                         i,                                                 (2.61)
+                                                                                    (cos θ +cos θ0 )
+                                                                                    (sin θ −sin θ0 )
+
+which is the same as (2.55) given in the text.
+  The above verse is explained in Laghu-vivr.ti as follows.
+
+      ta:a      . a;a;pa;sa; / / 
+                             a;nDa;pa;a;F+.ta;ya;eaH    ;a;na:=+nta:=+ya;ea:ja;Ra;va;ya;eaH         ya;~ya;aH     (.ja;a;va;a;ya;aH ) I+.:$ya;Ma :pra;tya;a;sa;a-
+      ta:=+tvMa ta;~ya;aH                        ãÉa ya;ea Bea;dH
+                                 I+.:$ya;a;ya;a;(                          .tea;na ta;ya;eaH        k+:ea;a;f:$ya;ya;eaH     ya;ea;gMa ;a;va;Ba:jea;t,a Á ta:a l+.b.DaH
+
+      Ce+.d;ea     na;a;ma Á   ta;ta;~tea;na    Ce+.de;na    ;a;d
+                                                                õ ;gua;a;Na;ta;Ma   ;a:a:$ya;Ma                   l+.b.DMa I+.:$ya;a-ta;d;a;sa;a-
+                                                                                                      ;a;va;Ba:jea;t,a Á   ta:a
+
+      . a;a;pa;sa; / / 
+                  a;nDa:$ya;ya;ea;DRa;nua;Sa;eaH       A;nta:=+m,a   ; I+.:$ya;a-ta;d;a;sa;a-.. a;a;pa;sa; ////
+                                                                                                            a;nDa:$ya;ya;ea:=+nta:=+ea;tTa;~ya .$ya;a-
+
+      Ba;a;ga;~ya ;Da;nua;a:=+tya;TRaH Á
+
+      Of the two points whose jyā values are listed in the table, find the one which is closer to the
+      desired jyā [whose arc value is to be found]. Then find the difference between these two
+      jyās (dorjyās), and divide the sum of the kot.ijyās by this difference. The result is called
+      the cheda. Divide twice the trijyā by this cheda. The result obtained is the difference
+      between the arcs lying between the desired jyā, and the jyā closest to it (as found from the
+      table); that is, it gives the length of the arc corresponding to the difference in the dorjyās.
+
+
+
+  .
+2 7 .sUa;[ma:$ya;a;na;ya;na;m,a
+
+2.7 Finding more accurate values of the desired Rsine
+
+      I+.a;ta .$ya;a;. a;a;pa;ya;eaH      k+:a;ya g{a;h;NMa ma;a;Da;va;ea;a;d;ta;m,a             Á
+
+      ;a;va;Da;a;nta:=M . a .tea;na;ea;M ta;ya;eaH       .sUa;[ma;tva;Æa;ma;. C+.ta;a;m,a            Á Á 15      ÁÁ
+
+                        å
+      .ja;a;vea :pa:=+~.pa:=+a;na:jea;ta:=+ma;Ea;a;vRa;k+:a;Bya;Ma A;Bya;~ya;a;va;~txa;a;ta;d;le+.na ;a;va;Ba:$ya;ma;a;nea Á
+
+      A;nya;ea;nya;ya;ea;ga;a;va:=+h;a;nua;gua;Nea Ba;vea;ta;Ma ya;d
+                                                                   õ ;a .~va;l+.}ba;kx +:a;ta;Bea;d;pa;d;a;k
+                                                                                                            x +:tea :d
+                                                                                                                     õe Á Á 16                     ÁÁ
+

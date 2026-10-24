@@ -1,0 +1,32 @@
+D.2 Problem two: the śaṅku and apakrama                                              477
+
+                           (R cos H cos a − R sin φ sin H sin a)R
+     R cos z = q                                                              .    (D.45)
+                   R2 cos2 φ sin2 H + (R cosH cos a − R sin φ sin H sin a)2
+
+We have actually considered the āśāgrā ‘a’ to be south in Fig. D.4. When the āśāgrā
+‘a’ is north, the ‘−’ sign in (D.45) has to be replaced by ‘+’ sign. Similarly, substi-
+tuting in (D.40) we have
+
+                                     (R cos φ sin H)R
+     R sin z = q                                                              .    (D.46)
+                   R2 cos2 φ sin2 H + (R cosH cos a − R sin φ sin H sin a)2
+
+These are the gnomon and the shadow respectively.
+   Now X is at the intersection of the nata-vr.tta and the digvr.tta, which makes
+angles H and 90 − a, respectively, with the north-south circle. PX = 90 − δ and
+ZX = z. Equating the two expressions for the distance between X and the north–
+south circle, we get
+                           R cos δ sin H = R sin z cos a.                   (D.47)
+Hence
+                                            R sin z R cos a
+                                R cos δ =                   ,                      (D.48)
+                                               R sin H
+or
+                                       chāyā × āśāgrā-kot.i
+                           Dyujyā =                              ,
+                                               natajyā
+from which the apakrama can be obtained as
+                                  p
+                         R sin δ = R2 − R2 cos2 δ .                                (D.49)
+

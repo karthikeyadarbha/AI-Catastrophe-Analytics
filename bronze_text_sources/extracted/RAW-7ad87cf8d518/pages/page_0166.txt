@@ -1,0 +1,135 @@
+13. 4. 4
+
+-आयंभटः २
+
+13. 4. 4. कल्पे सूर्यादीनां भगणा. घडफननेननुनीनाः' ।
+'मथथमगग्लभननुना' खखज्ञतजोगीपनीनोनाः' ।। ७ ।।
+“कसधगसनमघचसिपा' बोचीभोरीकुधितहीरा:' ।
+सीनररगसकप्नडठा' कढतीमोतीधानीनेनाः ॥ ८ ॥
+रविचक्रसमा वुधसितभगणाश्चारेज्यसौरिशीध्राणाम्‌ ।
+पाठोक्ता बुधसितयो: शी ्रोच्चाष्या; EAA वध्ये ।।
+सूर्यादीनां "घुतपा" ढजहेकुनहेत्सभा aa’ गुडुघा: ।
+‘afar “चिमिढा' ‘an’, चेन्द्रादिविलोमपातानाम्‌ ॥
+"फगफगपडिलेमोढा' ^रिक्षिना' ‘ean’ धता" धढसा:।
+'तरना'; सप्तर्षीणां कुणिधुधिधुधिजः'; मसिहटमुधाः* ।।
+अयनग्रहस्य भास्करभगणा "यख'ताडितास्तरणिमासाः |
+रविशशिचक्रवियोगः शशिमासा वीनमासका अधिकाः ॥
+
+(ABh. II, Maha, 1.7-12)
+
+—Aryabhata II
+
+In a kalpa the revolutions (bkagara) of (the planets),
+beginning with the Sun are: (Sun) 4,320,000,000;
+(Moon) 57,753,334,000; (Mars) 2,296,831,000; (Con-
+junction of Mercury) 17,937,054,671; (Jupiter)
+364,219,682; (Conjunction of Venus) 7,022,371,432;
+(Saturn) 146,569,000. (7-8)
+
+The revolutions of Mercury and Venus are the same
+as the revolutions (cakra) of the Sun; (so are those) of
+the conjunctions (sighra) of Mars, Jupiter and Saturn.
+(Those) of the conjunctions (sighrocca) of Mercury and
+Venus are mentioned (above). (9)
+
+Now I give ithe revolutions of) the apsides (mydicca)
+of the Sun etc. (They are:) (Sun) 461; (Moon)
+488,108,674; (Mars) 299; (Mercury) 339; (Jupiter) 830;
+(Venus) 654; (Saturn) 76. . -
+
+(The revolutions) of the nodes (vilomapata) of (the
+planets) starting from the Moon are: (Moon) 232,313,
+354; (Mars) 298; (Mercury) 524; (Jupiter) 96; (Venus)
+947; (Saturn) 620. (10-1 1a)
+
+(The revolutions) of the Great Bear (Saptarsayah)
+are 1,599,998; and 578,159 are (those) of the equinoxes
+(ayanagraha).t (11b) ` `
+
+The revolutions of the Sun, multiplied by 12, are the
+solar months (taranimasa). The difference between the
+revolutions of the Sun and Moon are the lunar months
+(Sasimdsa). (These), diminished by the solar months
+(inamasaka), are the intercalary (months) (adhika).*
+(12). (SRS) ` ` । ।
+
+1 The equinoxes (ayana) are also reagrded here as a planet (graha) ;
+their annual motion is 173.4577". This is too high a value.
+Sudhakara Dvivedi suggests (in his edition, contents page 3) the
+reading masihatayudhdp (578,119); which would give a better. value
+for precession. ॥ ;
+
+> Solar months in a kalpa: 4,320,000,000 x 12==51,840,000,000
+Lunar months in a kalpa: 57,753,334,000—4,320,000,000=
+53,433,334,000.
+
+Intercalary months in a kalpa:
+
+53,433, 334,000—51,840,000,000= 1,593,334,000.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 122
+
+LN
+
+13. 4, 5. खाश्रखाश्रदशनाब्धयो' at
+भार्गवेनदुसुतसूयेपयंयाः ।
+
+शी ध्रतुङ्कभगणाः प्रकीतिता:
+सूयेसूनुसुरपूजितासुजाम्‌ ।। ११ ॥।
+
+शशिनो 'रसवह्विसुरेषुनग-
+क्षितिभृद्विषया ,स्तनयस्य भुव: ।
+"गजपक्षगजाङ्खनवद्धिभुजाः'
+'खयमाश्षिकृततुमुणा'श्च मुरोः ।। १२ .।।
+
+रविजेभरसानिलषण्मनवः'
+शशिसूनुचलस्य रसाग्नियुताः ।
+'नखखा द्विगुणा द्ूनगक्षितयो
+भूगपुत्रचलस्य बुधर्गदिता: ।। १३ Ul
+“रसशैलगुणाक्षिभुजाश्रनगाः'
+'शशिखाश्विकरीभपयोनिधयः' ।
+हिमगूच्चयुगक्षेगणाः क्वतपुं-
+द्विभुजाग्निभुजा: शशिपातभवाः 1 १४ ।।
+(Vatesvara: Vsi., 1.1.11-14)
+
+—VateSvara
+
+43,20,000 are stated. to be the revolutions performed.
+in a yuga by Venus, Mercury, and the Sun and also by
+the Sighroccas of Saturn, Jupiter, and Mars. (11)
+
+The revolutions of the Moon, as stated by the learned,
+are 5,77,53,336; of Mars, 22,96,828; of Jupiter 3,64,220;
+of Saturn, 1,46,568; of the Sighrocca of Mercury,
+1,79,37,020 plus 36 (i.e., 1,79,37,056) ; of the Sighrocca
+of Venus, 70,22,376; of the Moon’s apogee, 4,88,211;
+and of the Moon’s node, 2,32,234.! (12-14). (KSS)
+
+1 The revolutions, as suggested by Roger Billard, were probably
+obtained by the application of the Bija correction prescribed by
+Lalla, to the revolutions given by Aryabhata I. See the table below.
+
+Aryabhata-I’s 2 Corrected Actual revo-
+
+revolutions correction revolutions lutions by
+Vatesvara
+Sun 4320000 Nil 4320000 4320000
+Moon 57753336 —2 57753334 57753336
+Moon’s apogee 488219 —9.12 488210 488211
+Moon’s node —232226 —7.68 —232234 — 232234
+Mars 2296824 +3.84 2296828 2296828
+Mercury’s
+Sighrocca 17937020 +33.60 17937054 17937056
+Jupiter 364224 —3-76 364220 364220
+Venus
+Sighrocca 7022388 —12.24 7022376 7022376
+Saturn 146564 +1.6 146566 146568
+
+Since the revolution of the Sun, Moon and the planets stated by
+Aryabhata I were divisible by 4,80, Vatesvara, in order to.preserve
+this characteristic feature of Aryabhata I’s revolutions, increased
+the Bija-corrected revolutions of the Moon, Mercury’s Sighrocca and
+Saturn by 2. Similarly he added I to the revolutions of the Moon's
+apogee to make them odd and prime to the number of civil days is a
+yuga asin Aryabhata. This explains the difference of the revolutions
+of Vategvara from the Bija-corrected revolutions of Aryabhata-I.

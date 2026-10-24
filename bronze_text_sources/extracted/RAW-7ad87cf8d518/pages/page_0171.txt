@@ -1,0 +1,131 @@
+127 13.
+
+हत्वाऽधिमासै रवमस्य शेषं
+छित्त्वा धराया दिवसैः प्रेलब्धम्‌ ।
+संयोज्य नित्यं त्वधिमासशेषे
+कार्य पुनस्तत्क रणैयेथोक्तम्‌ ।। १७ ॥।
+युगप्रसिद्धैध रणी दिनै हे रे-
+fag षष्टयावमशेषमार्िकम्‌ ।
+कला विलिप्ता: करमशः सतत्परा-
+स्त्वतीतमासा दिवसा गृहांशकाः ।। १८ ।।
+
+त्रयोदशघ्नादपि रूपताडिता-
+द्विशोधयेद्यत््त्धिमासशे षजम्‌ |
+निशाकराकों गणकौ: प्रकीर्तितौ
+भटप्रणीताविति बुद्धिमत्तमैः ।। १६ ॥
+(Bhaskara I, MBh., 1.13-19)
+
+Mean Sun without Days from Epoch
+
+For one (desirous of) calculating the mean longitudes
+of the Moon and the Sun without the use of the ahargana,
+the following method is stated:
+
+Reduce the years (elapsed since the beginning of
+Kaliyuga to months, and add to them the elapsed
+months (ofthe current year). Then multiply that (sum)
+by 30, and add the product to the number of (lunar)
+days elapsed since the beginning of the current month.
+Multiply that (sum) by the number ofintercalary months
+(in a yuga) and divided by the number of solar months
+in 2 yuga reduced to days. (13-14)
+
+The quotient denotes the number of intercalary
+months (elapsed). Delete (or rub out) the divisor and
+divide the remainder (called adhimasasesa, i.e., the
+residue of the intercalary months) by the number of lunar
+months (in a _yuga): thus are obtained degrees, minutes,
+seconds, and thirds. (15)
+
+Then multiply the (complete) intercalary months
+elapsed by 30 and to the product add the number of
+solar days elapsed since the beginning of Kaliyuga);
+. then multiply that (sum) by the number of omitted
+lunar days in a yuga and divide by the number of lunar
+days (in a yuga) : the remainder obtained is the avamasesa,
+- (ie, the residue of the omitted lunar days) called
+
+Ghnika. (16)
+
+Then multiply the avamasesa by the number of inter-
+calary months (in a yuga) and divide by the number of
+civil days (in a yuga). Add the resulting quotient to the
+adhimasasesa and then apply the process stated above
+(1.6., divide by the number of lunar months in a yuga:
+the result is in degrees, minutes, etc. This is the total
+adhimasasesa). (17)
+
+Next multiply the avamasesa called ahnika by 60 and
+divide by the number of civil days in a_yuga: the result is
+in minutes, seconds, and thirds respectively. The
+
+PLANETS
+
+13. 6.5
+
+number of months elapsed (since the beginning of
+Caitra) are to be taken as Signs, and the number of
+lunar days elapsed (of the current month) as degrees.
+(The sum of these Signs and degrees and the minutes,
+seconds, etc. corresponding to the avamasesa is the
+grahatanu). (18)
+
+From thirteen times and from one time that (grahkatanu)
+severally subtract the degrees, minutes, etc. correspond-
+ing to the (total) adhimdsasesa: the remainders (thus
+obtained) are stated by the wise astronomers to be the
+mean longitudes of the Moon and Sun, (respectively),
+conforming to the teachings of (Arya)bhata.4 (19).
+(KSS)
+
+| --महासिद्धान्तः
+
+13. 6.5. स्कुधिमुगनिन्धिधटणफा
+कल्यादौ द्युगण एष कलिजयुतः |
+इष्टो वा चक्रहुतो
+भूदिनभक्तो ग्रहो भगणात्‌ ।। २५ ।।
+‘ceed गणे ध्नग हते-
+$वाप्तांशोनों गणो रविदिवसे: ।
+खगभणथे' लिप्तार्ण
+स्वं च विलिप्ता झथीरमद' वर्ष: ।। २६ ।।
+(ABh. II, Maha. 1. 25-26)
+—Mahasiddhanta
+The ahargana at the dawn of Kali is 719,530,399, 152.
+This increased by that (i.e., ahargana) in Kali (gives the
+ahargana upto the) desired (day). Multiply it by the
+
+1 The process described in the above rule is not in proper sequence.
+The direction given in verse 15 ought to have been after verse 17.
+Stated in proper sequence, the rule would be:
+
+Reduce the years (elapsed since the beginning of Kaliyuga) to
+months, and add to them the elapsed months (of the current year).
+Then multiply the sum by 30, and add the product to the number
+of (lunar) days elapsed since the beginning of the current month.
+Multiply that sum by the number of intercalary months (in a yuga)
+and divide by the number of solar months in a yuga reduced to days:
+the quotient denotes the number of intercalary months (elapsed).
+(The remainder is the adhimasasesa). Multiply the (complete) inter-
+calary months (thus obtained) by 30 and to the product add the
+number of solar days (elapsed since the beginning of Kaliyuga):
+then multiply that (sum) by the number of omitted lunar days in a
+yuga and divide by the number oflunar days (in a yuga) ; the remain-
+der obtained is (the avamasesa called Ghnika). Then multiply the
+avamasesa (called ahnika by the number ofintercalary months (in a
+yuga) and divide by the number of civil days (in a yuga). Add the
+resulting quotient to the adhimdsasesa and divide the sum by the
+number of lunar monthsin a yuga: this gives degrees, etc. (This is
+the total adhimasasega.) Next multiply (again) the avamasesa called
+Ghnika by 60 and divide by the number of civil days in a yuga: the
+result isin minutes, seconds, and thirds, etc. The number of months
+elapsed (since the beginning of Caitra) are to be taken as Signs and
+the number of lunar days elapsed (of the current month) as degrees.
+(The sum of these Signs and degrees, and the minutes, second, etc.
+corresponding to the avamasesa is the grahatanu). From thirteen
+times and from one time of that (grahatanu) severally subtract the
+degrees, minutes, etc. corresponding to the (total) adhimdsasesa: the
+remainders (thus obtained) are stated by the wise astronomers to be
+the mean longitudes of the Moon and the Sun (respectively)
+conforming to the teachings of (Arya)bhata.
+
+For the rationale and formulae, see MBA: KSS, pp. 11-15.

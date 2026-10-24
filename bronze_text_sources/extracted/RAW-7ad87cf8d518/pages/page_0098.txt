@@ -1,0 +1,129 @@
+7.8.1
+
+` -तत्राविच्छिन्नसम्प्रदायपदमप्येवं व्याचष्टे--' गणितोन्नीतस्य चन्द्रादेः
+देशविरोषान्वयस्य प्रत्यक्षेण संवादः, ततो निश्चितान्वयस्य परस्य गणित-
+लिज्ञोपदेश:, ततस्तस्याप्तोपदेशवशावगतान्वयस्य अनुमानम्‌, संवादः,
+परस्मै चोपदेशः इति सम्प्रदायाविच्छेदात्‌ प्रामाण्यम्‌ ' इति । (अजिता-
+व्याख्या) | (Kuméarila Bhatta, Tantravdrttika and com.
+Ajita, quoted in Nilakantha Somayaji, Jyotirmimamsa,
+
+p. 3)
+
+Fixation of revolutions by observation and
+deduction
+“Even in the science of astronomy, the computation
+of tithis and naksatras by means of the motion of the
+Sun and the Moon, which is determined through the
+number of their revolutions in a yuga, is based on the
+continuity of tradition and deduction.” (Kumirila
+_ Bhatta, Tantravarttika, 1.3.2).
+
+Here, the expression ‘the continuity of tradition’ is
+explained thus: “The correlation of the Moon etc. as
+observed in a place and as computed (using extant texts
+in the science) is done first; this information is then
+discussed with astronomical rationale with one rooted
+in the science; there is then deductions by that person
+rooted in the science; then follows discussions and again
+instruction to another (on the basis of such deductions).
+Thus the authority of the science (along with the new
+deductions and revisions) is due to this continuity of
+tradition.’ (Com. 492). (KVS)
+
+युगभगणाः मासदिनादि च॑
+
+---आर्यभटीयानुसारी
+
+7. 8. 1. नानाज्ञानप्रगल्भः-स्तिलिबलमसुसूक्ष्मं' “धयेद्राजदम्भो'
+“भद्रोदन्तो धरेन्द्रों' 'निरनुसूगधिसौख्यं' वरिष्ठो5भिषज्भ : ।
+'दोदेण्डाग्नद्रिनाथो' 'विषमितविपिनं' “चन्द्ररेखाम्बुखिन्ने -
+त्यकदिः पर्यया स्युः, क्षितिदिन 'मनृशंसः Tears स AST.’ ।।
+
+“रुपा'हताकंभगणाः खलु सौरमासा
+
+मासा रवीन्दुभगणान्तरमेव चान्द्रः |
+चन्द्राकंमासविवरं च युगाधिमासा
+
+मासाः पुन-नेग-हता दिवसस्वरूपाः ।। MN
+
+चान्द्रमासा नगा'भ्यस्ता भूदिनोनास्तिथिक्षयाः ।
+भूदिनाढ्याकंभगणा नाक्षत्रदिवसाः स्मृताः ॥ ५ ॥।
+
+एवं युगोक्ता भगणादयस्ते
+"दिनानय'घ्नास्तु भवन्ति कल्पे |
+चतुदश स्यूमनवोऽ्र, तेषां
+युगानि रास'प्रमितानि यस्मात्‌ ॥ ६ ॥
+कृत-त्रेता-द्वापराख्य: कलिश्चैते युगां घ्रयः ।
+य्‌ गां घ्रयस्तु कल्पेऽस्मिन्‌ धिगादित्य'मिता गताः 1\ ७ ।।
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 58
+
+persed: ‘fra’ gate गतमासयुक्तात्‌
+चा्द्राख्यमासगुणिताद्‌ रविमासलब्धः ।
+नागा हतस्तिथियुत : क्षितिवासरघ्न-
+श्चान्द्रौदिनैरपहूतो द्युगणोऽच्छवारात्‌ ।। € ।।
+(Putumana Somayaji, KP, 1. 3-7, 9)
+
+Yuga revolutions etc.—Aryabhata school
+
+The number of revolutions of the planets in a (catur-)
+puga are:
+
+Sun: 43,20,000; Moon :-5,77,53,336; Moon’s apogee:
+4,88,219; Mars: 22,96,824; Mercury: 1,79,37,020;
+Jupiter: 3,64,224; Venus: 70,22,388; Saturn: 1,46,564;
+and Moon’s Node: 2,32,226. The number of civil days
+are 1,57,79,17,500. (3)
+
+The Sun’s revolutions multiplied by 12 give solar
+months.
+
+The difference between the revolutions of the Sun
+and the Moon gives the lunar months. The solar
+months minus lunar months are the intercalary months,
+all in the (catur-) yuga. Months multiplied by 30 give
+days. (4)
+
+The lunar months multiplied by 30 and the number
+of civil days subtracted from it give the ‘omitted lunar
+days’. The number of civil days plus revolutions give
+sidereal days. (5)
+
+In a kalpa there are 1008 yugas of the type stated
+above. In it (i.e. the kalpa) there are 14 manus, for
+the period of each manu is equal to 72 yugas. (6)
+
+The four quarters of the yuga are Krta, Treta, Dvapara
+and Kali. And, in the current kalpa, 1839 quarter
+yugas have passed by. (7)
+
+The (elapsed) Kali year multiplied by 12, the number
+of the months (Mesa etc.) elapsed in the current year
+added to it, the result multiplied by the lunar months
+in the yuga, and the product divided by the solar months,
+the result multiplied by 30, the lunar days elapsed in the
+
+‘current lunar month added to the product, and the
+
+sum multiplied by the number of days in a yuga and
+
+divided by the lunar days in the yuga will give the
+
+number ofelapsed Kali days in the yuga, as counted from
+
+Friday.1 (9). (KVS)
+
+अधिभासतियिक्षयौ
+
+7. 8. 2. अधिमासका युगे ते रविमासेभ्योऽधिकास्तु ये चान्द्रा: |
+
+शशिदिवसा विज्ञेया भूदिवसोनास्तिथिप्रलयाः ।।
+
+(Aryabhata I, ABh., 3.6)
+
+Intercalary months and omitted lunar days
+
+The lunar months (in a yuga) which are in excess of
+the solar months (in a yuga) are (known as) the inter-
+
+1 For the rationale, see KP: PKK.

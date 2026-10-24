@@ -1,0 +1,61 @@
+5.12 The dr     . a of the Moon
+          . kkarn                                                                                                                           339
+
+                                                            Z
+                      (a)
+                                                                                                                     (b)
+                                                                                 V                                         θ − 90
+
+                                                                                  V’
+                                                                                                                                    θ
+                               K
+                                                                                                                             A
+                                                                                A                                                       M
+                                                                                          M
+
+
+                                                                     ic
+     N                                                             ipt                                           S
+                                                                                    horizon
+                                                                 ecl
+
+
+
+
+Fig. 5.16 Spherical triangle considered in order to find the śaṅku of the Moon, that is used in
+finding the distance of the Moon from the observer on the surface of the Earth.
+
+
+
+But sin Z ÂV = sin(θ − 90) = − cos θ . Therefore
+
+                                                          sin ZV = − sin ZA cos θ .                                                     (5.95)
+
+Using (5.91), (5.93) and (5.95) in (5.92) with ZV = zv , we have
+
+                            cos ZM = cos AV cos zv cos βt + sin zv sin βt
+                                            = cos AV cos zv cos βt + cosnm − coszv cos βt .                                             (5.96)
+
+In the above equation, cos AV = cos(λm − λv ). But λv = λl − 90. Therefore,
+
+                                    cos AV = cos(90 − (λl − λm )) = sin(λl − λm ).                                                      (5.97)
+
+Substituting for cos AV in (5.96)
+
+                            cos ZM = cos nm − coszv cos βt + coszv cos βt sin(λl − λm),
+               or              cos zm = cos nm − [1 − sin(λl − λm )]cos zv cos βt ,                                                     (5.98)
+
+which is the same as (5.90).
+   After giving the expression for śaṅku, it is stated that the dr.gjyā may be obtained
+as earlier (tato dr.gjyā ca pūrvavat). The commentator explains this as follows.
+                                                    á                        Å
+                                                                          ìÉe;+Sa;mUa;le+.nEa;va k+:tRa;v.ya;a
+   ta;ta;ea dx ;giya;a . a :pUa;vRa;va;t,a ta;a:â +;a:$ya;a;va;gRa;a;va:(                                      Á
+
+   As done earlier, the dr.gjyā has to be obtained by subtracting its square from the square of
+   the trijyā and finding the square root.
+
+   In other words,
+                                                                q
+                                          dr.gjyā =                trijyā2 −śaṅku2
+

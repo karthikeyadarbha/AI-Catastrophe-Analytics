@@ -1,0 +1,56 @@
+5.13 Transformation to dr
+                        . ggola                                                             343
+
+of the Moon at the desired instant is given by
+
+                                                (td − tm ) × λ̇m
+                                λmd = λm0 +                      .                       (5.105)
+                                                       60
+
+In the above expression λ̇m represents the Moon’s dvitı̄ya-sphut.a-bhukti (second
+corrected rate of motion). The latitude of the Moon at the desired instant td is ob-
+tained using the formula
+                               β = i sin(λmd − λn ),                        (5.106)
+where λn is the longitude of the Moon’s node at the desired instant. This latitude
+corresponds to an observer at the centre of the Earth. The latitude as seen by an
+observer on the surface of the Earth is given by
+
+                                     β × dvitı̄ya-sphut.a-karn.a
+                              βt =                               .                       (5.107)
+                                             dr.kkarn.a
+
+
+
+                                                                        M’
+
+
+                                               βt
+                                                                           M
+                          O
+                                               β
+
+
+
+                          E
+
+
+Fig. 5.18 The latitude of the Moon as seen by an observer on the surface of the Earth.
+
+
+   The above expression for the true latitude may be understood with the help of
+Fig. 5.18. Here M represents the actual position of the Moon, and M ′ is the point on
+the ecliptic whose longitude is the same as that of M. β and βt are indicated in the
+figure. Considering the triangles MEM ′ and MOM′ , we have
+
+                                MM′ = β × EM = βt × OM.                                  (5.108)
+
+Therefore,
+                                        β × EM
+                                        βt =    ,                            (5.109)
+                                           OM
+which is the same as (5.107), once it is recognized that EM is the dvitı̄ya-sphut. a-
+karn.a (the distance of separation between the centre of the Moon and the centre
+of the Earth) in yojanas, and OM is the dr.kkarn.a (the distance of separation be-
+tween the centre of the Moon and the observer on the surface of the Earth), again in
+yojanas.
+

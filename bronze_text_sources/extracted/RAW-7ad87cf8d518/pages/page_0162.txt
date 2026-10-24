@@ -1,0 +1,120 @@
+13. 3, 2
+
+तिथिदशमांशं दद्यादधिमासार्थं ^स्वराम्बरेका'ब्दैः ।
+अवमार्थं 'पञ्चकृतद्वि सम्मितैस्तिथि शिवां शं॑ च ।१२।।
+
+अधिमासकेषु भूयोऽप्येकीकर्तु 'खपञ्चकेन्द्रिया'शेषु |
+देयोऽवमेषु हेयो नवसप्तद्वितिखयमेषु ।। १३ ॥।
+(Varaha, PS, 1.8-13)
+
+—Romaka and Paulisa
+
+Deduct 427 from the Saka year (elapsed) of the time
+taken. Multiply the remainder by 12. Add the
+months gone, counting from Caitra. Put this result in
+two places.. In one place, multiply it by 7, divide by
+228 and take the quotient which constitutes the inter-
+calary months. Add this to the result kept in the second
+place. (The total are synodic months gone). Multiply
+this by 30 and add the tiths counted from sukla-pratipad
+to the current tithi. Put the sum in two places. In one
+place multiply by 11, add 514, divide by 703 and take
+the quotient, (which constitute the elided days or
+avamas). Deduct this from the sum put in the other
+place. The remainder are the ‘Days from Epoch’
+(dyugana), the moment of epoch being mid-sun-set at
+Yavanapura, beginning Monday, when the first tithi
+of Caitra was about to begin.
+
+This rule is according to the Romaka. It can be
+taken as the Pauliga rule also provided the time taken for
+computation is not very far from the epoch. (or, the
+part of the rule for avama may be used for the Pauliga
+also, provided the taken days is not very far from the
+epoch; or inthe Pauliga too the movement of epoch is
+mid-sun-set at Yavanapura, beginning Monday). (8-10)
+
+(Fhe formula for “Days from Epoch’ according to the
+Pauliga is as follows:) Deduct 427 from the Saka year
+(elapsed), Multiply by 12 and add the months gone
+from Caitra, Multiply by 30. The ‘Solar days’ to the
+end of the current solar month are got). Multiply the
+‘Solar days’ by 698, and divide by 9761. The quotient
+are the intercalary months. (Multiply the months got
+by 30 and add to the ‘Solar days’, and also the tithis
+from suklapratipad, inclusive of the current titht. The sum
+is the tithis gone from epoch. Multiply this by 11),
+add 444, (and divide by 703. The quotient are the
+elided days. Deduct this from the tithis gone. The
+remainder are the ‘Days from epoch’.). (11)
+
+For greater accuracy in finding the intercalary months
+by the above formula, add 1/10 ‘Solar days’ to the ‘Solar
+days’ for every 107 years, and for still greater accuracy,
+add an extra 1/10 ‘Solar day’ for every 550 such 1/10
+‘Solar days’ added, (i.e., for 55 ‘Solar days’ added). In
+the same way, in getting the elided days, for every 245
+years add 1/11 tithi to the tithis gone and for every 2,03,279
+such additions omit one addition. (12-13). (TSK)
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 118
+
+--आ्यंभटीयाधंरातरिकपक्षः
+
+शाको5गवसुशरो AY SH गुणश्चैत्रादिमाससंयुक्त: |
+विशद्गुणस्तिथियुतः पृथगिषु सहितो द्विधा भक्त: ।। ३।।
+"पञ्चाम्बुधिनवमनुभि '.लंब्धोनो भाजितः 'घडगनन्दैः' |
+लब्धाधिमासकदिनैरधिकोऽधो रुद्र संगुणित: ।। ४ ।।
+“स्वरनववेद'युतोऽध^स्त्यगतिथिष्र हतः फलविहीनः ।
+fraay ga: फलावमरात्रोनोऽहगेणोऽरककादिः ।। ५ ॥
+अधिमासावमणेषे घटिकासप्तदशमनुभि"रभ्यधिके ।
+
+इन्दूच्चचन्द्रपातावृूनौ शरदि'ग्विलिप्ताभिः ।। ६ ॥
+(Brahmagupta, KK, 1.1.3-6)
+
+13. 3. 3.
+
+—Midnight system of Aryabhata
+
+Deduct 587 from the Saka year. Multiply the
+remainder by 12. Add to the product the number of
+montbs elapsed since the light half of Caitra. Multiply
+the sum by 30. Add to the product the number of
+tithis elapsed since the last Amavasya. (The result is
+taken as the total number of sauradinas elapsed). Add 5
+to this result. Put down the sum in two places. (3)
+
+At one place, divide it by 14,945. Subtract the result
+thus obtained from the sum in the other place. Divide
+the remainder by 976. The quotient gives the number
+of adfimasas. Convert it into days. Add the result to
+the number of sauradinas obtained above. (The sum is
+the total number of caéndradina: elapsed.) Multiply this
+number by 11. (4)
+
+Add 497 to the product. Put down the sum in two
+places. At one place divide it by 1,11,573. ‘Subtract
+the result thus obtained from the sum in the other
+place. Divide the remainder by 703. The quotient
+gives the number of (avamaratras), Subtract the
+quotient from the number of candradinas obtained
+above. The result is the ahargana in sdvana units
+beginning from Sunday. (5)
+
+Adhimasasesa and Avamasesa, calculated in the above
+manner, should be increased by 17 and 14 ghatikas,
+respectively.
+
+The Moon’s Ucca and Pata (calculated, according to I.
+13, 14) when decreased by 5” and 10”, respectively,
+(become equal to (those given by Aryabhata in his
+Ardharatrika or Midnight System).1 (6). (BC)
+
+--भास्करः १
+
+13. 3. 4 "नवाद्रचेकाग्नि'संयुक्ताः शकाब्दा द्वादशाहता: |
+चैवादिमाससंगुक्ताः पृथग्गुण्या युगाधिकंः ।। ४ ॥।
+ते च "षटृच्निक रामाग्निनवभूतेन्दवो" युगे ।
+भागहारो"ऽन्धिवस्वेकशराः स्युरयुताहताः ।। ५ ॥
+
+1 For the rationale and formulae involved, see KK:BC, 1.90-95.

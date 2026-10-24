@@ -1,0 +1,120 @@
+16. 30. la
+
+त्रिभोनलग्नाकंविशेषशिञ्जिनी
+कृता हंता व्यासदलेन भाजिता ।
+
+हतात्‌ फलाद्वित्रिभलग्नशडझकुना
+त्रिजीवयाप्तं घटिकादि लम्बनम्‌ ।। ४ ॥
+
+तत्संस्कृतः पवैविराम एवं
+स्फुटोऽसकृत्‌ स ्रहमध्यकालः ।। weed it
+
+नतिः
+दृग्ज्यैव या वित्तिभलग्नशड्कोः
+स एव दृक्क्षेप इनस्य तावत्‌ |
+सौम्येऽपमे वित्रिभजेऽधिकेऽक्षात्‌
+सौम्योऽन्यथा दक्षिण एव वेद्यः 11 १० ॥
+
+चापीकृतस्यास्य तु संस्कृतस्य
+विभोनलग्नोत्थश्षरेण जीवा ।
+
+THAT इन्दोनिजमध्यभुक्ति-
+तिथ्यंशनिध्नौ विगुणोद्धृतौ तौ ॥ ११ ॥
+
+नती <a: समभिन्नदिक्त्वे
+तदन्तरेक्यं तु नतिः स्फुटात्र ।। १२०४ ॥
+
+स्पष्टोऽत्र बाणो नतिसंस्कृतीऽस्मात्‌
+प्राग्वत्‌ प्रसाध्ये स्थितिमर्द॑ण्डं 11 १४५-१ ।।
+(Bhaskara II, SiSi, 1.6. 1-4, 7c-d, 10-12b, 14c-d)
+
+—Bhiaskara II
+Parallax in longitude and latitude
+
+Inasmuch as the observer who is situated on the
+surface of the Earth and as such elevated by the radius
+of the Earth from the centre thereof, perceives not the
+Sun and the Moon having the same longitude at the
+moment of conjunction, to be in the same line of sight
+their height being depressed unequally having different
+orbits, so I proceed to elucidate what are called lambana
+and nati, i.e. parallax in longitude and latitude, on which
+account they are not in the same line of sight. (1)
+
+Compute the lagna at the moment of conjunction of the
+Sun and the Moon. There will be no parallax in
+longitude when the Sun is situated at the point called
+vitribha or the point whose longitude is =L—90",
+(L being the longitude of the lagna, i.e. the ascendant
+which is the point of intersection of the ecliptic with the
+horizon). If the Sun’s longitude falls short of the longi-
+tude of the vitribha or exceeds it, there will be parallax
+in longitude which will be positive in the former case
+and negative in the latter. (2)
+
+Compute the R cosine of ZV, by calculating the
+rising time of AV, the kujyd, dyujya, and antyd pertaining
+to V, (as was formulated in the Triprasnadhtkara), then
+R sin V., multiplied by 4 and divided by R, and again
+multiplied by R cos ZV and divided by R again gives
+the parallax in longitude. (3-4) .
+
+INDIAN ASTRONOMY—A SOURCE-BOOK . 232
+
+The time of the ending moment of new moon, i.e.
+the moment of geocentric conjunction, is to be rectified
+by this parallax in longitude, to get the moment of
+apparent conjunction by the method of successive
+approximation. (7c-d)
+
+Parallax of latitude
+
+R sine ZV is called the Drkksepa of the Sun, which is
+considered to be north in case the northern declination
+of the vitribha is greater then ¢, the latitude, otherwise
+south. (10)
+
+Then the sum of ZV and the latitude of V, assuming
+V to be the Moon or the difference of the above two,
+as the case may be, according as both of them are north
+or of opposite directions, gives the arc whose R sine is
+the drk-ksepa of the Moon. The drk-ksepas of the Sun
+and the Moon multiplied, respectively, by 1/15 part of
+their daily motions and divided by the radius R (equal
+to 3438’) are the parallaxes of the Sun and the Moon in
+latitude. The sum or difference of these parallaxes
+according as they are of opposite or the same direction,
+is the true parallex in latitude in the context of a solar
+eclipse. (11b-12b)
+
+The apparent latitude of the Moon is equal to the
+algebraic sum of its geocentric latitude and the parallax
+in latitude. From this apparent latitude are to be
+ealculated the sthiti-khanda and marda-khanda of the solar
+eclipse (by the method described in the chapter on
+lunar eclipse, taking the eclipsing body or grdhaka to be
+the Moon and the eclipsed or gréhya to be the Sun).?
+(14c-d). (AS)
+स्पर्शभुक्तिसंमीलनोन्मीलनकाला:
+
+16. 30. 19. तिथ्यन्ताद्‌ गणितागतात्‌ स्थितिदलेनौनाधिकाल्लम्बनं
+तत्कालोत्थनतीपुसंस्कृतिभवस्थित्यर्धहीनाधिके ।
+दर्शान्ते गणितागते धनमृणं वा तद्ठिधायासक्ृजू-
+ज्ञेयौ प्रग्रहमोक्षसंज्समयावेवं कमात्‌ प्रस्फुटौ ।।१५॥
+
+तन्मध्यकालान्तरयोः समाने
+स्पष्टे भवेतां स्थितिखण्डके च |
+दर्शान्ततो मदंदलोनयुक्तात्‌
+संमीलनोन्मीलनकाल एवम्‌ । १६ ॥
+(Bhaskara TI, SiSi., 1.6. 15-16)
+
+Sparsakéla, Moksakala, Sammilanakéla and Unmilanakala
+
+First compute the time called sthiti-khanda (as
+mentioned in the chapter on lunar eclipses). The
+ending moment of local Amavasya or what is called the
+moment of local conjunction is known as the madhya-
+grahakala or the moment of the middle of the eclipse.
+
+1 For a detailed exposition and rationale of processess, see SiSi:
+AS, pp. 408-36. See also fig. 92 there.

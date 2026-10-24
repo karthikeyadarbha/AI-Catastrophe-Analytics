@@ -1,0 +1,111 @@
+2.9. 1
+
+Siddhantadipika and of those observed and enumerated
+by me (Nilakantha) in various contexts, compute:
+(i) the mean Sun etc., as directed by Paramegvara,
+(ii) their true positions as directed by Sripati and
+(iii) by the special process explained by me in my
+(Bhasya) on the Kalakriya and Gola padas of the Aryabhatiya.
+
+Take as the first case the following instance :
+
+‘On Kali day 16,43,524, (at a solar eclipse), the
+gnomonic shadow at commencement was eleven and
+the end (of the eclipse) occurred in the afternoon.’
+
+Here the ahargana referred to is at sunrise preceding
+the eclipse. The mean Sun then is 0 11° 57° 15",
+correct to seconds. The mean Moon correct to minutes
+is 77 4° 15’. The Moon’s Higher Apsis is 7 7° 14’.
+
+The commencement of the eclipse is to be tested first,
+since it has been stated that ‘the gnomonic shadow is
+eleven at commencement.’ There too the process of
+successive approximation has to be done. The rough
+time elapsed after sunrise might be understood from the
+measure of the shadow. That comes to 5 nadikis, 40
+vinadikas. Now, at Aévatthagrama, on the bank of river
+Nila, the desadntara (longitudinal time difference) is 20
+vinadis, positive. The Equinoctial shadow is 2 afigulas
+and 18 vyangulas. The sum of deSantara and time
+elapsed after sunrise is 6 nadis. (The longitude for)
+the motion thereof should be added to the longitude at
+sunrise. The mean Sun would then be 7 12° 3’ 12”.
+This is not for six nddis after the local sunrise but for
+that of the ghatikdmandala at the western horizon at
+180° from Lanka at the junction at the local N-S line,
+the horizon and the Equatorial E-W line. This.is from
+the rise at a place having the longitude of mean Sun,
+but not from the time of sunrise. The difference in
+motion in terms of prénas of mean Sun and the corres-
+ponding true Sun has now to be applied in toto to the
+mean, it being positive if the true pranas are greater,
+and negative if less. The true prdnas are calculated for
+the first quadrant using the formula enunciated in the
+verse istajydgunita etc. and added to six. In the second
+quadrant it has to be subtracted from six rasts. In the
+third, it is to be added to six क. In the fourth, it
+is to be subtracted from twelve rafis. In places having
+latitude (i.e. north or south of the equator), pranas equal
+to half local ascensional difference have to be subtracted
+from the true pranas if (the Sun is in the six rasis)
+beginning from Aries and added if beginning from
+Libra. The result would indicate the rising point of
+the ghatikimandala at sunrise. The difference in
+minutes between this point and the mean Sun would be
+in pranas. In all cases these have to be multiplied by
+their respective rates of motion and divided by 21,600
+and the resultant minutes applied to the respective
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 16
+
+means. In the case of true longitudes, the multiplica-
+tion is to be by the rates of true motion. For this
+purpose the true Sun has to be computed. Now, the
+bhujaphala (of the mean Sun found above, viz., 7 12° 3’
+12”) is 78’ (1° 18’). (Applying this to the mean), the
+true Sun is 7 10° 45’ 12”. To this the precession of the
+equinoxes has to be applied and the pranas of ascensional
+
+differences are to be derived.1 (KVS)
+केरलोय-गोविन्दशिष्यपरम्परा
+2.9. 1. 1. “गोविन्दन्‌' तलक्कुल्त्तूरभट्टतिरि। "रक्षेत्‌
+
+गोविन्दमकंः ' va अहेहत्तिन्टे जननकलि । केरलेश्वरसमीपत्तु इत्लं
+आकुन्नु ॥ . . .
+
+2. “परमेश्वरन्‌” वटश्शेरि नम्पूरि । निलायाः सौम्य `
+तीरस्थः परमेश्वरः । . . .
+
+3. अस्य तनयो “ दामोदरः" |
+
+4. अस्य शिष्यो ' नीलकण्ठसोमयाजी ' । eee तन्त्रसंग्रहं
+आययेभटीयभाष्यम्‌ मुतलाय ग्रन्थङउच्छ्क्कु कर्तावाकुल्रु । ' लक्ष्मीश-
+निहितध्यानै: ' इत्यस्य कलिना कालनिर्णयः ।
+
+5. पूर्वोक्तस्य दामोदरस्य शिष्यः ‘siesta: 1 इदं
+परडडोट्ट्‌ नम्पूरियाकुन्नु | युक्तिभाषाग्रन्थत्तं उण्टाक्कियतुं इहं TA |
+6. ज्येष्ठदवन्टे शिष्यन्‌ तुक्कण्टियूर्‌ ‘ अच्युतपिषारटि |
+aed स्फुटनिर्णयं, मोलदीपिक मुतलाय ग्रन्थकर्तावाकुन्नु । . -
+(ओर ज्योतिषग्रन्थवरि, Ms. Baroda 9886)
+“राम नेन्नेल्लाटवुं विश्रुतनायिटुभि-
+रामनामाशासितावेच्ुब्छठ कीतियोटुम्‌ 1
+गुरुदैवज्ञन्मार्कु गुरुभूतनामेन्टे
+Teat पिताविन्टे चरणाम्बुजं वन्दे ।। १ ॥।
+गुरुविन्‌ गुरु ‘ व्या घ्रमुखमन्दिरवासि '
+गुरुकारुण्यशालि THT वणड्ड्‌.सेन्‌ ।। २ ॥
+तद्गुरुभूतनायिट्रेत्र-युं मनीषियाय्‌
+हद्गतभावज्ञनाय्‌ गणिततत्त्वज्ञनाय्‌ ।
+ताषात कीतियोटुं ‘ नावायिक्कुछत्तु्ूलो-
+राषातिप्रवरनां गुरूवे वन्दिकक्न्नेत्‌ ।। ३ ।।
+आयवन्‌ Te गुरुभूतनायुरूछ देह-
+मायतमतिकव्ठाल्‌ पूजितनायुव्थ्ठवन्‌ |
+कोलत्तुनाट्दु  तृप्पाणिक्करप्पोतुवाढठ -
+क्कालत्तेग्गुरुवरन्मारिल्‌ वच्चग्रेसरन्‌ ।। ४ ॥।
+wae गुरुविन्टे गुरुविन्‌ गुरुभूतन्‌ |
+THE गुरुवाकुं तत्पदं TTSSAT ।। ५ I
+पोतुवाल्ठन्टे गुरु वच्युतप्पिषा रटि-
+यतिमानुषनवन्‌ सकलविद्यात्मकन्‌ ।
+
+1 हणा various and other allied revisions, see Fyotirmimamsa: KVS,
+pp. 36 ff.

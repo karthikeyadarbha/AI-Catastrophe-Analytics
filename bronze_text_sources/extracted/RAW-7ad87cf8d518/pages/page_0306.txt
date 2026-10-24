@@ -1,0 +1,118 @@
+18. 8. 2
+18. 8. 2. उदयास्तमयाकं मध्यगेऽकं
+| दृश्यः स्याद्‌ ध्रुवकः स्फुटोपमश्चेत्‌ |
+फलहीनयुतोऽन्यतुल्यदिक्स्थो
+. लघुतामेति गृहत्रयांशकेभ्य: ।। १८ 1
+अस्तोदयसू्यमध्यगेऽकं
+
+ध्रुवकस्तिम्मकरे न दश्यते |
+उभयोरपि मध्यगाः कला
+गतिभक्ता दिवसाः सहस्रमोः ।। १६ ॥।
+(Lalla, SiDhVr., 11. 18-19)
+As long as the true longitude of the Sun is between
+udayarka (i.e. that longitude of the Sun with which the
+naksatra rises) and astdrka (i.c. that longitude of the Sun
+with which the naksatra sets), so long the naksatra is
+heliacally visible.
+
+The sum or difference of its correct declination and
+
+the local latitude, according as they are in the same or
+opposité’ directions, must then be less than 90°. (18)
+
+~ As long as the true longitude of the Sun is between
+the naksatra’s astarka and udaydrka, so long is the latter
+heliacally invisible.
+
+The difference between the udaydrka and astarka of a
+naksatra, expressed in minutes, when divided by the true
+daily motion of the Sun, gives the days (for which the
+naksatra is visible or invisible). (19). (BC)
+
+18. 8. 3. दृक्कर्मणा पलभवेन तु केवलेन
+। भानां मुनेर्मृगरिपोरुदयास्तलग्ने ।
+कृत्वा तयोरुदयलग्नमिनं प्रकल्प्य
+लग्नं ततो निजनिजे पठितेष्टकाले ॥ १२ ॥।
+यत्‌ स्यादसावुदयभानुरथास्तलग्नाद्‌
+व्यस्तं विभाधंमपि लग्तकमस्तसूर्य: |
+इष्टोनषष्टिघटिकास्वथ वास्तलग्ना-
+ल्लग्नं क्रमेण भदलोनितमस्तसूरय  ।। १३ 1
+स्यादुद्‌गमो निजनिजोदयभानुतुल्ये
+ सूरयेऽस्तभास्करसमेऽस्तमयश्च भानाम्‌ ।
+अत्राधिकोनकलिका रविभुक्तिभक्ता
+यातैष्यवासरमितिश्च तदन्तरे स्यात्‌ ।। १४॥।
+
+यस्योदयाक्दिधिकोऽस्तभानुः
+
+प्रजायते सौम्यशरातिदैर्घ्यात्‌ |
+तिम्मांशुसान्निध्यवशेन नास्ति
+
+धिष्ण्यस्य तस्य्रास्तमयः कथंचित्‌ ।। १५ ॥।
+
+य॑स्य स्फुटा क्रान्तिरुदक्‌ च यत्त
+लम्बाधिका तत्र सदोदितं तत्‌ |
+न दृश्यते तत्‌ खलु यस्य याम्या
+, भं लुब्धकः कुम्भभवो ग्रहो वा ॥ १६ ॥
+(Bhaskara II, SéSi, 1.11.12-16)
+
+INDIAN ASTRONOMY—A SOURCE-BOOK | 262
+
+Stars in general
+
+‘Compute the udayalagna and the astalagna of Agastya
+and Lubdhaka doing dksa-drk-karma alone. Assuming
+the udayalagna to be the Sun, compute the lagna for the
+ista-kdla-nadis (i.e. after a lapse of isfa-nddis after the
+moment) given before (namely 2 nddis for Agastya and
+2 1/6 for Lubdhaka) which will be the longitude of the
+Sun, when the star (Agastya or Lubdhaka or whatever
+it be) rises heliacally. Thus the udayaérka is a point of
+the ecliptic which rises when the star rises heliacally. (12)
+
+Having computed the asta-lagna of the star, taking it
+to be the Sun, compute the lagna in the reverse direction,
+i.e. the lagna which precedes it by the isfa-kéla given.
+If this lagna be decreased by 180°, it will give the longi-
+tude of the setting Sun at the time of the heliacal setting
+of the star.
+
+Or, again, find the longitude of the point of the
+ecliptic which is ahead of the astalagna which takes
+(60—istanddis) to rise after the astalagna; this longitude
+decreased by 180° gives the longitude of the setting Sun
+at the time of the heliacal setting of the star. (13)
+
+The heliacal rising or setting takes place when the
+longitude of the Sun equals the longitude of the point
+of the ecliptic which is technically called the udayarka
+or the astarka, respectively. The difference between the
+longitude of the Sun and that of the udaydrka or the
+astarka divided by the daily motion of the Sun gives
+approximately the number of days that have elapsed
+or are to elapse for the heliacal rising or setting as the
+case may be. (14)
+
+If in the case of a star, the astdrka happens to have a
+longitude greater than the udaydrka on account of a very
+big northern latitude, that star does not set heliacally
+(and so the question of heliacal rising does not
+arise.) (15)
+
+Circumpolar stars or Sadbdita stars
+
+If a star has a northern declination greater than
+90—¢ (i.e. ¢ > 90—8), it will be always above the
+horizon; also if the southern declination is greater than
+90—¢, such axstar will never be seen in a northern
+latitude, be it Lubdhaka or Agastya or even a planet for
+the matter or that.1 (16)
+
+अगस्त्थोदयास्तमयौ
+18. 9. 1. संख्याविधानात्प्रतिदेशमस्य
+विज्ञाय सन्दशंनमादिशेज्जः |
+
+तच्चोज्जयिन्यामगतस्य कन्यां
+. भागैः स्वराख्यैः स्फुटभास्करस्य ।। १५॥ .
+। (Varaha, Br. Sam., 12.15)
+
+1 For exposition and rationale, see SiSi:.AS, pp. 513-18.

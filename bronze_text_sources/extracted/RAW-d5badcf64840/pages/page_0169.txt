@@ -1,0 +1,48 @@
+122                          å
+                           .~.Pu+.f;pra;k+.=+Na;m,a                  True longitudes of planets
+
+   In Fig. 2.15 the śı̄ghra-nı̄cocca-vr.tta or śı̄ghra-vr.tta or śı̄ghra-circle is a circle
+with the bhagolamadhya (the centre of the Earth) as the centre at O. The radius
+of this circle is the śı̄grāntyaphala rs . The śı̄ghrocca S, which is the mean Sun, is
+located on this circle. The planet P is located on the manda-karn.a-vr.tta of radius
+K with S as the centre, such that θms = Γ ŜP is the manda-sphut.a-graha. Then
+the śı̄ghra-sphut.a (śı̄ghra-corrected planet) is found in the same manner from the
+manda-sphut.a as the manda-sphut.a is found for the mean planet, the madhyama-
+graha.
+   Let θs be the longitude of the śı̄ghrocca. That is, θs = Γ ÔS. Also from the figure,
+
+                                      śı̄ghrocca θs = Γ ŜB
+                                 manda-sphut.a θms = Γ ŜP
+                                      śı̄ghra-sphut. a θ = Γ ÔP.                    (2.173)
+
+Therefore
+                                     OŜC = PŜB = θms − θs .                         (2.174)
+Further,
+
+                       śı̄ghrābhujaphala OC = rs sin(OŜC)
+                                                  = rs sin(θms − θs )
+                           śı̄ghrakot. iphala SC = rs cos(θms − θs ).                (2.175)
+
+Hence the śı̄ghra-karn.a (śı̄ghra-hypotenuse)
+                      q
+        Ks = OP = (K + rs cos(θms − θs ))2 + rs2 sin2 (θms − θs ).                    (2.176)
+
+It can be easily seen that
+                                            OP̂C = θms − θ .                          (2.177)
+Also from the triangle POC,
+
+                                         OP sin OP̂C = OC.                            (2.178)
+
+Now using (2.175) to (2.177) in the above equation we have
+
+                              Ks sin(θms − θ ) = rs sin(θms − θs )
+                                                  R
+                      or       R sin(θms − θ ) =     rs sin(θms − θs ).               (2.179)
+                                                 Ks
+The arc corresponding to θms − θ is found from this. Subtracting θms − θ from the
+manda-sphut.a θms , we obtain the śı̄ghra-sphut.a θ . Here θms is the true longitude
+of the planet with respect to S, which is taken to be the mean Sun. Hence θms is
+essentially the true heliocentric longitude of the planet. So the true geocentric lon-
+gitude θ is obtained from the true heliocentric longitude θms using the above proce-
+dure. Now,
+

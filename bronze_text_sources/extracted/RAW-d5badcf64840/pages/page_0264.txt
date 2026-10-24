@@ -1,0 +1,68 @@
+3.32 Determination of z and φ from H, δ and a                                                                              217
+
+defined thus:
+                                                                     natajyākot.i × dyujyā
+                                                                  x=
+                                                                             trijyā
+                                                                     R cos H × R cos δ
+                                                  or              x=                   .                                (3.203)
+                                                                             R
+It is then stated that the bhūjyā has to be added to or subtracted from this quantity.
+The result has to be multiplied by the lambaka and divided by the trijyā to get the
+expression for the śaṅku. That is,
+
+                                                                            (x ± bhūjyā)R cos φ
+                                                      śaṅku =                                   .                     (3.204)
+                                                                                      R
+Since the bhūjyā or ks.itijyā is given by R tan φ | sin δ | (see Chapter 2, verse 27), the
+above expression reduces to
+
+                                                      R(cos H cos δ ± tan φ | sin δ |)R cos φ
+                                     R cosz =
+                                                                           R
+                                                    = R(± sin φ | sin δ | + cos φ cos δ cos H).                         (3.205)
+
+As the +/− sign corresponds to a northerly/southerly declination, (3.205) is the
+same as
+                 R cos z = R(sin φ sin δ + cos φ cos δ cos H).          (3.206)
+Equation (3.206) follows by applying the cosine formula to the side ZS in the spher-
+ical triangle PZS in Fig. 3.27. The āśāgrākot. i (R cos a) is obtained using (3.200).
+
+
+                                                                   ñÍ
+  .
+3 32 na;ta;a;pa;k
+                Ò +:ma;a;Za;a;g{a;a;Æa;BaH                      Za;öÅ
+                                                                   *:+.[a;Ea
+                                                                   öÅ
+
+3.32 Determination of the zenith distance and latitude from the
+     hour angle, declination and amplitude (Problem 4)
+
+      C+.a;ya;Ma na;a;tva;a;Ta ta;tk+:ea;a;f;dùÅ;au:$ya;a;va;ga;Ra;nta:=+a;t,a :pa;d;m,a       Á Á 75        ÁÁ
+
+                                                 ñÍ
+      ta;. C+.a;ya;a;ba;a;hu;Ga;a;ta;ea yaH   Za;öÅ
+                                                 *:+.kÒ +:a;ntya;ea;vRa;Da;ea;a;pa yaH     Á
+                                                    u
+
+      k+:a;ntya;g{a;ya;ea;~tua tua;ya;a;d;Za;ea;~ta;ya;ea;BeRa;d;ea Y;nya;Ta;a yua;a;taH
+      Ò                                                                                            Á Á 76          ÁÁ
+
+           å
+      o+.n}.a;Nq+.l+.Æa;[a;a;ta:ja;ya;eaH       A;nta:=e Y;keR .. a ta;dùÅ;au;a;taH        Á
+
+      ta:;d
+          Äâ ;ta;Ma ;a;va;Ba:jea;t,a ;a:a:$ya;Ma ta;. C+.a;ya;a;k+:ea;a;f;va;gRa;ya;eaH       Á Á 77    ÁÁ
+
+      A;nta:=e+Na Ba;vea;d;[aH          na;ta;a;dùÅE;a;a;vRa;a;d;tEa; ///
+                                                                     a;~:a;Æa;BaH   Á
+
+      chāyām. nı̄tvātha tatkot.idyujyāvargāntarāt padam || 75 ||
+      tacchāyābāhughāto yah  . śaṅkukrāntyorvadhopi yah. |
+      krāntyagrayostu tulyadiśostayorbhedo ′nyathā yutih. || 76 ||
+      unman                              ′
+             . d.alaks.itijayoh. antare rke ca tadyutih. |
+      taddhatām  . vibhajet trijyām . tacchāyākot.ivargayoh. || 77 ||
+      antaren  . a bhavedaks.ah. natādyairviditaistribhih. |
+

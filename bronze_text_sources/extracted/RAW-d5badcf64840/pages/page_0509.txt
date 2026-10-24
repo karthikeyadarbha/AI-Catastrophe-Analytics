@@ -1,0 +1,55 @@
+462                                                                                       Coordinate Systems
+
+                  îå +:vea;Da;a;du;d;yea Y;~ta;ma;yea Y;a;pa va;a .sa;h;~å:a;M
+   Ud:=+~Ta;a;. a;                                                        ò a;Za;eaH Á
+
+                                                                               2
+   C+.a;ya;a;pra;vea;Za;a;na;gRa;ma;a;. a;Eîå +:va;Ra ma;Nq+.le ma;h;a;ta Á Á
+
+   There was indeed a time when the Sun’s southerly course began from the middle of the star
+   Āśles.a and the northerly one from the commencement of the star Dhanis..thā, as it has
+   been so stated in ancient works.
+   At present the southerly course of the Sun starts from the beginning of Cancer and the
+   other from the initial point of sign Capricorn. The actual state of affairs which goes against
+   the old statement can be verified by direct observation. The Sun’s change of course can be
+   detected by marking everyday the position of a distant object either at sunrise or sunset, or
+   by watching and marking the entry and exit of the shadow of the gnomon fixed at the centre
+   of a big circle drawn on the ground.
+
+   The above passage besides giving the positions of the solstices during Varāhami-
+hira’s time also clearly brings out Varāha’s understanding of the phenomenon of
+precession. The simple techniques recommended by him for the determination of the
+current positions of the solstices also enable us to discern his ingenuity. This also
+highlights the fact that he was not blindly following the statements of the ancient
+writers, but as a true astronomer was making observations for himself to verify them,
+which is quite essential for the advancement of science in general and astronomy in
+particular.
+   Many of the Indian astronomical works talk about the phenomenon of precession.
+They give slightly differing values for the rate of precession, which are all centred
+around the value of 54′ per year.
+
+
+Sāyana and nirayan
+                  . a longitudes
+
+As noted in the previous section, the point of intersection of the ecliptic and the
+celestial equator, namely the vernal equinox, constantly drifts westwards at the rate
+of around 50′′ per year. There are two kinds of longitude specifications, namely
+sāyana and nirayan.a, based on whether the vernal equinox or the beginning point
+of the Mes.a rāśi (which is the same as the beginning point of the Aśvinı̄ naks.atra)
+is taken as the reference point on the ecliptic for the measurement of longitudes.
+    The term ayana refers to motion in Sanskrit. Hence sāyana means ‘with motion’
+and nirayan.a means ‘without motion’. In the nirayan.a system, the longitude of any
+celestial object is measured from the beginning point of the Mes.a rāśi (which is a
+fixed point in space) in the eastward direction, whereas in the sāyana system it is
+measured with respect to the vernal equinox (which is a moving point with respect
+to fixed stars). This explains the origin of the terminology sāyana and nirayan.a
+longitudes. While the longitudes differ, the celestial latitudes are the same in both
+the systems, as latitude is a measure of the distance of the celestial object along a
+the circle perpendicular to the ecliptic.
+
+
+
+
+2 {BS 1981}, (III.1–3), p. 23.
+

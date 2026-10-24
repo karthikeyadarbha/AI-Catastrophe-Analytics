@@ -1,0 +1,71 @@
+3.36 Determination of δ and a from z, H and φ                                                                                                        225
+
+        ñÍ
+   .
+3 36 Za;ö
+        *:Å +.na;ta;a;[EaH
+         u
+                                             A;pa;k
+                                                  Ò +:ma;a;Za;a;g{ea
+
+
+3.36 Determination of the declination and amplitude from the
+     zenith distance, hour angle and latitude (Problem 8)
+
+                                ñÍ
+       ;a:a:$ya;a;h;ta;a;[a;Za;öÅ                         Äâx ;ta;Ea :pxa;Ta;k
+                                *: .~va;na;ta;k+:ea;fa;ea:;d                   ,        Á Á 83           ÁÁ
+                                   U
+
+                                         á
+       yea ta;tk+:ea;fa;Ea . a ta;a:â +;a:$ya;a;va;gRa;Bea;d;pa;d;a;kx +:tea 61 Á
+
+                              È
+       ;Æa;ma;TaH   k+:ea;a;f. îå Á
+                              *+;ya;ea;ya;eRa;ga;a;t,a ya;a;}yea .sa;Ea;}yea Y;nta:=+a;t,a ta;ya;eaH           Á Á 84   ÁÁ
+
+       ;a:a:$ya;ya;a ;a;va;&+.ta;a dùÅu;a:$ya;a kÒ +:a;ntya;a;Za;a;g{ea tua :pUa;vRa;va;t,a     Á
+
+
+       na;ta;ma;Nq+.l+.dx;Zya;a;DRa;ma;Dya;taH             .sa;Ea;}ya;ya;a;}ya;ta;a     Á Á 85       ÁÁ
+
+       trijyāhatāks.aśaṅkū svanatakot.yoddhr.tau pr.thak ||83 ||
+       ye tatkot.yau ca tattrijyāvargabhedapadı̄kr    . te |
+       mithah. kot.ighnayoryogāt yāmye saumye ′ntarāt tayoh. ||84 ||
+       trijyayā vihr.tā dyujyā krāntyāśāgre tu pūrvavat |
+       nataman  . .daladr.śyārdhamadhyatah. saumyayāmyatā ||85 ||
+       The aks.a and śaṅku are multiplied by the trijyā and divided by the svadeśa-natakot.i,
+       and kept separately.
+       The square roots of the squares of these subtracted from the square of the trijyā become
+       their kot.is. By finding the sum or difference of the cross products, depending upon whether
+       [the position of the Sun is] to the south or north, and dividing by the trijyā, the dyujyā is
+       obtained. The krānti and āśāgrā [are to be obtained] as stated earlier.
+       Here the north and south is with respect to the visible half of the 6 o’clock circle (nataman
+                                                                                                   . d.ala).
+
+       In Problem 2, the svadeśanatakot. i has been defined to be
+                                                    q
+                   svadeśanatakot. i = R cos h = R 1 − sin2 H cos2 φ .                                                                           (3.239)
+
+With this svadeśanatakot.i as the divisor, two intermediate quantities x and y are
+defined as
+                                                                          R × R sin φ
+                                                                       x=                                                                         (3.240)
+                                                                            R cos h
+                                                                          R × R cosz
+                                                                       y=             .                                                           (3.241)
+                                                                            R cos h
+The kot.is of x and y, denoted by ρ and ξ , are given by
+                                    p
+                                ρ = R2 − x2
+                                    s
+                                              R2 sin2 φ
+                                  = R2 −
+                                                cos2 h
+                                     R cos φ | cos H|
+                                  =                   ,                                                                                           (3.242)
+                                    p cos h
+                        and     ξ = R2 − y2
+
+61 ta;ya;eaH     va;gRa;ya;eaH   , ;a:a:$ya;a;va;gRa;ya;ea;(ãÉa Bea;dM .sMa;pa;a;dùÅ;a :pa;d;a;kx+:tea ya;+:Byea;tea .tea ta;tk+:ea;fa;Ea Á
+

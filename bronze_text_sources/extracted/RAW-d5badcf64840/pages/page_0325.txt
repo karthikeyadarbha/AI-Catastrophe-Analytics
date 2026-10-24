@@ -1,0 +1,56 @@
+278                              . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a               Lunar eclipse
+
+                                               MR = R sin(λm − λn )
+                                              MF = R sin βt
+                                and           OF = R cos βt .                         (4.44)
+
+The angle between MR and RF is the same as the angle between the planes of the
+Moon’s orbit and the ecliptic, βmax . Now we extend OF to meet the ecliptic at F ′ ,
+and draw F ′ R′ parallel to FR. Then
+
+                                RF = MR cos βmax
+                                   = R cos βmax sin(λm − λn ).                        (4.45)
+
+Also,
+                                      R′ F ′   OF ′     1
+                                             =      =        .                        (4.46)
+                                      RF       OF     cos βt
+Using (4.45) in (4.46), we have
+
+                                            R cos βmax sin(λm − λn )
+                               R′ F ′ =                              .                (4.47)
+                                                     cos βt
+
+We now draw F ′ M ′ = R sin βt perpendicular to the plane of the ecliptic at F ′ . R′ M ′
+is the hypotenuse in the right-angled triangle M ′ R′ F ′ and is given by
+                                                        1
+                   M ′ R′ = [M ′ F ′2 + R′ F ′2 ] 2
+                                                                        1
+                                             R2 cos2 βmax sin2 (λm − λn ) 2
+                          = R2 sin2 βt +                                    .         (4.48)
+                                                       cos2 βt
+
+Again, we draw R1 M1 perpendicular to ON from a point M1 in the Moon’s orbit,
+such that R1 M1 = R sin θ = M ′ R′ , as shown in the figure. Thus we have
+                                                                    1
+                                         R2 cos2 βmax sin2 (λm − λn ) 2
+                  R sin θ = R2 sin2 βt +                                .             (4.49)
+                                                   cos2 βt
+
+This is the significance of the angle θ described in the text and appearing in (4.42).
+Also sin βt = sin βmax sin(λm − λn). Therefore
+                           s
+                                         cos2 βmax
+                   sin θ = sin2 βmax +             × sin(λm − λn).              (4.50)
+                                          cos2 βt
+
+Clearly |θ | > |λm − λn |.23 Now, as per the prescription given in the text, the maxi-
+mum obscuration occurs before the instant of opposition when the latitude is in the
+odd quadrant. Let us assume that the maximum obscuration occurs at M p , corre-
+sponding to N ÔM p = θ p , such that
+
+                      2
+23 This is because cos βmax ≥ cos2 β
+                    cos2 β          max .
+                          t
+

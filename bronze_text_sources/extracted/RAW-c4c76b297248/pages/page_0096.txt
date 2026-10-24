@@ -1,0 +1,56 @@
+Hindu Zodiac and Ancient Astronomy
+
+to choose an initial point on the great circle, which astronomically can be easily defined
+and located. In the Tropical System, this is done by taking the initial point as the Vernal
+Equinoctial point, which is one of the intersection points of the Equator and the Ecliptic ...
+
+e In the Sidereal system, the reference point is a fixed point in the ecliptic from which
+angular measurement is taken ... It will be appropriate to define this point on the ecliptic
+in relation to a star whose position is fixed in the sky and this star again should logically
+be a prominent one and close to the Ecliptic.... There has been much controversy in the
+past about the selection of this initial point but now most of the 02068008 makers indicate
+the longitudes ... with reference to the point in the Ecliptic which is located opposite, that
+is 180° away from the prominent Citra star (a - Virginis placed close to the ecliptic ... It
+may be mentioned that the location of this point in the Ecliptic is in keeping with the
+indication given in the Vedanhga Jyotisa that Dhanistha naksatra division started from the
+same longitudinal position as that of Dhanistha star (a or 3 Delphini), and also with
+Varahamihira's statement that the longitudinal position of Magha star (a - Leonis) is 126
+
+e However, a few calendaric astronomers though accepting the initial point of the
+Nirayana Zodiac to be the point opposite Citra star, have expressed the view that its
+position on the Ecliptic should be that point whose polar longitude (Dhruvaka) from Citra
+is 180° mainly for the reason that such type of longitudes for stars have been indicated in
+Suryasiddhanta. Originally it appears Siryasiddhantic(?) astronomers started measuring
+the position of luminaries in relation to both the Equator and the Ecliptic rather than with
+reference to only one of these. Dhruvaka or polar longitude of a celestial object was
+measured by describing a vertical circle to the celestial Equator passing through the
+object and the celestial pole, and marking the point where this vertical circle cut the
+Ecliptic, which was not right angles to it but to the Equator. The angular distance of this
+point along of the date was taken as the Dhruvaka or polar longitude of the celestial
+object at that instant of time. The vertical angular distance of this object along the vertical
+circle from the point it cut the Ecliptic was called Viksepa or polar latitude. This was a very
+complicated system of celestial measurement for indicating the position of the luminaries
+in the sky and this was given up after some time, being inconvenient and a simpler
+method of meagurement for indicating the position of luminaries with reference only to the
+Ecliptic was adopted, which is continuing to the present day. At present all Pancanga
+makers indicate the position of the Grahas, in ecliptic longitudes and not in polar
+longitudes. Therefore it will be incongruous to fix the position of the initial point on the
+basis of polar longitude
+
+¢ We ail should now sincerely try to bring about uniformity in the basic astronomical data
+given in our Pancafgas ... ”
+
+A summary of the analysis of CRC by the above author can be found in Vol. 20, 1985 of
+the Indian Journal of History of Science.
+
+3. Absurdity of the Recommended Initial Point
+
+The ‘ Citra = 180°’ recommendation raised a number of questions which neither Prof. M.
+N. Saha could have answered then (in 1956) nor its present day advocates are capable
+of answering now (in 1996).
+
+1. Stiryasiddhdnta gives the “Polar” longitude of Citra as 180° and the corresponding
+celestial longitude is 180° 48’. This is evident from page 265 of the CRC report itself
+How can then Citra be credited with the celestial longitude of 180°?
+
+72

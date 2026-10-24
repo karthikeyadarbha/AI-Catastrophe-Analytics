@@ -1,0 +1,53 @@
+50                             å
+                             .~.Pu+.f;pra;k+.=+Na;m,a                     True longitudes of planets
+
+The manda-sam             1
+                  . skāra is a procedure to obtain the correction for the eccentricity
+of the planetary orbit. The terms ucca and kendra used in this context refer to the
+direction of the mandocca (apogee/aphelion of the planet) and the manda-kendra
+respectively.
+    Similarly, ucca and kendra used in the context of śı̄ghra-sam . skāra—the process
+by which the geocentric longitudes of the planets are obtained from their heliocen-
+tric longitudes2—refer to the directions of the śı̄ghrocca and śı̄ghra-kendra respec-
+tively. If θ0 refers to the longitude of the mean planet, and θm that of its mandocca,
+then the manda-kendra, θmk , is defined as
+
+                                               θmk = θ0 − θm .                                 (2.1)
+
+If θms is the longitude of the manda-sphut.a-graha, that is, the mean longitude of
+the planet corrected by manda-sam    . skāra, and θs that of the śı̄ghrocca, then the
+śı̄ghra-kendra, θsk , is defined as
+
+                                               θsk = θms − θs .                                (2.2)
+
+In the second quarter of the above verse, it is mentioned that three rāśis constitute a
+pada. Since rāśi is a 30◦ division on the ecliptic, by definition the term pada refers
+to a quadrant. In Fig. 2.1a, APB represents a pada. Before explaining the second
+half of the verse, it would be useful to introduce the concepts of bāhu and kot.i,
+which are frequently employed in this and the following chapters.
+
+
+Bāhu and Kot.i
+
+In Indian astronomical texts, the terms bāhu3 and kot.i are used in association with
+either cāpa or jyā. The terms cāpa and jyā literally mean bow and string respec-
+tively. In this context, they refer to the arc of a circle and the chord associated with
+it. Sometimes instead of the term cāpa, dhanus is also used to refer to the arc of a
+circle.
+    In Fig. 2.1a, the arc PAL represents the cāpa and PQL is the jyā associated with
+the cāpa (arc). Though literally the term jyā refers to the chord PL, in most situations
+PQ, which is half of PL, is referred to as the jyā (Rsine) of the arc PA. Since PQ
+is only half of PL, it must actually be referred to as the jyārdha. However, since
+only PQ is involved in planetary computations (as will be clear later), the term jyā
+itself is used to refer to the semi-chord PQ, for the sake of brevity in the use of
+terminology. Hence the terms bāhucāpa and bāhujyā or Rsine refer to the arc AP
+and the semi-chord PQ in the figure, respectively. The terms kot.icāpa and kot.ijyā
+
+1 The significance of this is explained in detail in Appendix F. The equivalent of this correction in
+
+modern astronomy is the equation of centre.
+2 For details refer to Sections 2.26–28 and Appendix F.
+3
+  The literal meaning of bāhu is hand. Similarly, kot.i means side. In this context, the term kot.i
+refers to the side which is perpendicular to bāhu.
+

@@ -1,0 +1,58 @@
+18                                                                ma;Dya;ma;pra;k+.=+Na;m,a                                                                            Mean longitudes of planets
+
+                                                                                                     Solar Year
+
+
+
+
+Mı̄na           Mes.a            Vr..sabha          Mithuna              Karka.            Sim
+                                                                                             . ha        Kanyā              Tulā
+                                                                                                                                             Vr.ścika        Dhanus        Makara            Kumbha             Mı̄na           Mes.a
+
+
+
+        Cait.           Vaiś.               Jye.             Ās.ā.             Śrā.        Bhād.            Āśvi.            Kār.        Mārga. Pus.ya                     Māgh.            Phāl.            Cait.
+
+
+            Cait.           Vaiś.                  Jye.                Ās.ā.            Śrā.    Bhād.                 Āśvi.          Kār.        Mārga.       Pusya Māgh.                            Phāl.
+
+         Ao               A1                 A2                 A3                  A4              A5               A6                A7                A8            A9              A10               A11              A12
+
+
+
+                                                                                           Normal lunar year
+
+Fig. 1.6 A normal lunar year consisting of 12 lunar months.
+
+
+
+months, the luni-solar is based on both. It is well known that a solar year has nearly
+365.25 days. If twelve lunar months constitute a lunar year, it would have nearly
+354 days. Hence, there is a shortage of nearly 11.25 days in such a lunar year. If the
+lunar and solar calendars are to be mutually linked, it is necessary to introduce an
+additional thirteenth month in some lunar years to align the lunar calendar with the
+solar one. The additional thirteenth month occurring in some lunar years is known as
+the ‘intercalary month’, or adhikamāsa. In the Indian calendrical system, there is a
+definite, well-defined procedure for introducing the adhikamāsa. This is described
+in the first half of the above verse.
+    In Fig. 1.6, the markings A0 , A1 , A2 , A3 , . . . below the horizontal line repre-
+sent the occurrence of the new Moons. The vertical lines above the horizontal line
+marked with Mı̄na, Mes.a, etc., represent the saṅkramas or solar transits. A lunar
+month by definition is the time interval between two successive new Moons or full
+moons. Here we consider the Amānta system. Normally each lunar month will in-
+clude one saṅkrama, i.e. transit of true Sun from one rāśi to another. Under this
+circumstance, both the solar and lunar year will consist of 12 months each. This
+situation is schematically sketched in Fig. 1.6.
+    However, when the rate of motion of the Sun is slower than average,29 it may
+so happen that in between two sucessive new moons or full moons there is no
+saṅkrama/saṅkrānti (solar transit). Such a lunar month is called an adhimāsa
+(an intercalary month). Approximately, an adhimāsas occur once in three years.
+Somewhat more precisely, they occur 7 times in a span of 19 years. If an adhimāsa
+occurs, then that particular lunar year will have 13 lunar months.
+    Here it must be noted that in the Indian calendrical system, all the units of time,
+namely solar year, lunar year, solar month, lunar month, adhimāsa, day and tithi,
+are determined based on the positions of the true Sun and the Moon. This is in
+
+
+29 This will occur when Sun is near its apogee.
+

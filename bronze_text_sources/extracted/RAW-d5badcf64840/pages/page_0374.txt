@@ -1,0 +1,80 @@
+5.8 Time of sparśa by an iterative process                                                                                           327
+
+                                                                   = S1 S2 − (S1′ S1 − S2′ S2 )
+                                                                   = ∆ t1 − (l1 − l2 ).                                             (5.53)
+
+
+    . å
+5 8 .~.pa;ZRa;k+:a;l+.a;a;va;Zea;SaH
+
+
+5.8 Time of sparśa by an iterative process
+
+                                               å
+        ; ///
+         a;~Ta;tya;DRa;mea;va;ma;a;na;a;tMa .~.pa;a;a;ZRa;k
+                                                           M :pa;vRa;Na;~tya:jea;t,a       Á Á 22                        ÁÁ
+
+                                                    å
+        A;a;va;a;Za;;a;t,a :pua;na;~ta; / / / / /
+                                        a;sma;n,a .~.pa;ZeRa Y;a;pa na;a;ta;l+.}ba;nea                     Á
+
+        ; ///
+         a;~Ta;tya;DRa;ma;a;pa . a;a;na;a;ya ta;a;tya;a;na;a;ta;ya;a .sa;kx +:t,a               Á Á 23                 ÁÁ
+
+                        å                                             x +:ta;m,a
+        ; ///
+         a;~Ta;tya;Da .~.pa;ZRa;ma;Dya;ea;tTa;l+.}ba;na;a;nta:=+sMa;~k                             Á
+
+                                                   å
+        l+.}ba;nEa;k+.a;yua;tMa va;a .~ya;a;t,a .~.pa;ZRa;ma;Dya;k+:pa;a;l+.ya;eaH                    Á Á 24                  ÁÁ
+
+        Bea;de .tea;na ;a;va;h;a;na;ea ya;ea ma;Dya;k+:a;l+.ea Y;a;va;Zea;a;Sa;taH            Á
+
+                         x +:d;a;na;a;ya na;a;ta; / / /
+        ta:a;a;a;pa .sa;k                        a;~Ta;  a;ta;d;l+.a;a;d;k+:m,a         Á Á 25               ÁÁ
+
+        l+.}ba;na;a;nta:=+mEa;k+.Ma va;a ku +:ya;Ra;t,a ; / / /
+                                                          a;~Ta;  a;ta;d;le Y:a .. a                 Á
+
+                         å                                                      å
+        .tea;na;a;a;pa .~.pa;ZRa;k+:a;l+.a;d;a;n,a :pra;a;gva;de;va;a;na;yea;n}.ua;huH    Á Á 26                   ÁÁ
+
+
+                          ãÉa;l+.a;k
+        k+:a;lM tMa ;a;na;(         x +:tya ma;ea;[a;k+:a;lM ta;Ta;a;na;yea;t,a            Á
+
+        sthityardhamevamānı̄tam        . spārśikam. parvan . astyajet || 22 ||
+        aviśis..tāt punastasmin sparśe ′pi natilambane |
+        sthityardhamapi cānı̄ya tannatyānı̄tayā sakr        . t || 23 ||
+        sthityardham    . sparśamadhyotthalambanāntarasam          . skr. tam |
+        lambanaikyayutam       . vā syāt sparśamadhyakapālayoh      . || 24 ||
+        bhede tena vihı̄no yo madhyakālo ′viśes.itah. |
+        tatrāpi sakr.dānı̄ya natisthitidalādikam || 25 ||
+        lambanāntaramaikyam                                   ′
+                                      . vā kuryāt sthitidale tra ca |
+        tenāpi sparśakālādı̄n prāgvadevānayenmuhuh         . || 26 ||
+        kālam. tam   . niścalı̄kr.tya moks.akālam . tathānayet |
+        The first half-duration (spārśikam  . sthityardham  . ) of the eclipse may be subtracted from
+        the instant of conjunction obtained by iteration. At the instant of first contact which is
+        obtained, once again deflection from the ecliptic and parallax in longitude are obtained.
+        The half-duration (∆ t11 ) is also calculated only once (sakr      5
+                                                                       . t ) with the deflection from the
+        ecliptic thus obtained.
+        To this half-duration, the sum of or the difference between the parallaxes in longitude is
+        applied. The difference must be added [if the first contact and the middle of the eclipse occur
+        in the same hemisphere] and the sum if they occur in different hemispheres. The result must
+        be subtracted from the iterated value of the instant of conjunction. The deflection from the
+        ecliptic and half-duration etc. may be obtained without iteration once again at this instant.
+        To this half-duration (∆ t12 ) the sum of or the difference beween the parallaxes in longitude
+        must be applied. At the resulting time once again [the nati, half-duration etc. may be ob-
+        tained]. Thus the beginning moment of the eclipse may be determined iteratively till a stable
+        result is obtained (niścalı̄kr.tya). The ending moment (instant of last contact) may also be
+        determined in the same manner.
+
+
+
+5
+ The word .sa;kx+:t,a is used deliberately to emphasize that, here, one need not find the half-duration
+by iteration.
+

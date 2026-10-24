@@ -1,0 +1,67 @@
+154                                                  C+.a;ya;a;pra;k+.=+Na;m,a                                                                  Gnomonic shadow
+
+   place] and [they] are taken in order, in the odd quadrants and in the reverse order in the even
+   quadrants.
+
+   The problem of finding the time required for the rising of different raśis for an
+observer on the equator amounts essentially to finding the right ascensions (R.A.s)
+corresponding to the end points of the first three rāśis. Then by making use of sym-
+metry, the rising time of other rāśis can be easily determined. In Chapter 2, verses
+23–27, the expression for right ascension (α ) has already been given. An alternative
+expression of the same is given in the commentary Laghu-vivr.ti as follows:
+   ya;d
+      u ;M :pra;a;k,   , ‘;a;va;Sua;va;;
+                                        ÂåÅ +a;h;ta;a k      a;ntaH ’ I+.tya;a;a;d, ta;taH .sa;a;ya;na;~.Pu+.f;a;k :pra;Ta;ma;a;d
+                                                       Ò +:a; ////
+                                                                                                        å
+                                                                                                                                õ ;ta;a;ya;txa;ta;a;ya-
+
+   .=+a;Zya;nta;gRa;tMa      :pa;a:=+k+:pya      ta;+ea:$ya;a       .. a;tua;a;va;Za;a;ta;Ba;a;ga:$ya;ya;a          ;a;na;h;tya       ;a:a:$ya;ya;a       ;a;va;Ba:$ya
+
+   l+.b.DMa   I+.;a;pa;kÒ +:mMa     :pxa;Ta;gva;ga;Ra;k
+                                                        x +:tya    ;a:a:$ya;a;va;gRa;ta;ea    ;a;va;Za;ea;Dya      ta;tk+:ea;a;f;ma;a;pa       .. a;a;na;yea;t,a Á   A;Ta
+
+   d;ea:$yeRa;;a;pa;k
+                     Ò +:ma;ya;eaH     va;ga;Ra;nta:=+mUa;lM      I+.;k+:ea;a;f:$ya;a        .. a   .~ya;a;t,a Á   ta;taH     ta;Ma   k+:ea;a;f:$ya;Ma      ;a:a:$ya;ya;a
+
+   ;a;na;h;tya    I+.;dùÅ;au:$ya;ya;a      ;a;va;Ba:jea;t,a Á    ta:a   l+.b.Da;~ya         ya;a;a;pMa   ta;de;va     mea;Sa;a;d;a;na;Ma   .=+a;Za;a;na;Ma   k+:mea;Na
+                                                                                                                                                                  Ò
+
+      ñÍ
+   l+.öÅ
+      *:+.ea;d;ya;pra;a;Na;aH    .~yuaH Á
+
+   Obtaining the sāyan   . a longitudes of the Sun corresponding to the end points of the first,
+   second and the third rāśis, as explained in the verses beginning with ‘vis.uvadbhāhatā
+   krāntih.’, multiply their Rsines by the jyā corresponding to 24◦ and divide by the trijyā
+   to obtain the is..tāpakrama (R sin δ ). The kot.i of this [known as the is..tadyujyā = R cos δ ]
+   should be obtained by subtracting its square from the square of the trijyā [and taking the
+   square root of the difference]. The is..takot.ijyā is the square root of the difference between
+   the squares of dorjyā (R sin λ ) and is..tāpakrama. This is..takot.ijyā should be multiplied
+   by the trijyā and divided by the is..tadyujyā. The arc corresponding to the result obtained
+   will be the rising time of the Mes.ādi rāśis (Aries and other signs), in order, for an observer
+   at Laṅkā.
+
+   This essentially gives the right ascension α (R.A.) as:
+                                    p
+                                      R2 sin2 λ − R2 sin2 δ
+                        R sin α =                           R.                                                                                                        (3.33)
+                                            R cos δ
+
+
+Derivation of the alternative expression for right ascension
+
+In Fig. 3.9, S represents the Sun, O the centre of the celestial sphere and P the
+celestial north pole. ASB refers to the ecliptic and AN ′C the equator. Let λ (the arc
+AS) be the longitude of the Sun and δ (SN ′ ) its declination. PSN ′ is the vertical
+passing through the Sun. The angle SÂN ′ = ε is the obliquity of the ecliptic, and
+SÔN ′ = δ the declination of the Sun. The arc AN ′ is the right ascension, α . Draw SN
+perpendicular to ON ′ . Let NM and N ′ M ′ be perpendiculars to OA. Then, SM is also
+perpendicular to OA. Let R be the radius of the celestial sphere. Now, considering
+the triangle SON, we have
+
+                                                                   SN = OS sin δ = R sin δ ,
+                                                and                ON = OS cos δ = R cos δ .                                                                          (3.34)
+
+From the triangle SOM,
+

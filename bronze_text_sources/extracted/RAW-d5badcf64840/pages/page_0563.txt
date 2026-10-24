@@ -1,0 +1,63 @@
+516                                   The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                                        . t.ha
+
+   .sa;ma;ya;ea:ja;na;ga;a;ta;BrRa;ma;a;ta Á ta:ua;ya;mea;va ta;t,a k+:[ya;a;ma;Nq+.lM Za;a;Gra;pa;a:=+Da;Ea o+.a;pra;de;Zea :k
+                                                                                                                                   e +:ndÒM kx +:tva;a
+
+   :pa;a:=+le+.Ka;na;a;ya;m,a Á ta:a;a;a;pa k+:NRa;ma;Nq+.lM ma;nd;k+:NRa;nya;a;yea;na A;a;va;Zea;Sya :pa;a:=+le+.Ka;na;a;ya;m,a Á
+                                                                                                                                                 31
+
+   Here, what is intended to be conveyed is as follows: The centre of the kaks.yā-man         . d.ala
+   (concentric) is also the centre of the śı̄ghra epicycle; on that epicycle, at the location of the
+   śı̄ghrocca, is the centre of the manda epicycle; in the same way, on that manda epicycle
+   at the location of mandocca is the centre of the pratiman       . .dala (eccentric). (The circum-
+   ference of) that pratiman    . d.ala is equal to the circumference of the sky (ākāśa-kaks.yā)
+   divided by the revolution number of the planet. The planetary orb moves with the same
+   linear velocity, as that of the others, in that (pratiman . .dala) only. The corresponding con-
+   centric (kaks.yā-man  . .dala) should be drawn with the same dimension with its centre on the
+   śı̄ghra epicycle at the location of śı̄ghrocca. There also the circle of the hypotenuse is to
+   be obtained by the process of iteration as per the rule for the manda-karn      . a.
+
+   Later, while commenting on verse 3 of Golapāda, Nı̄lakan.t.ha explains how the
+above picture needs to be modified when the latitudinal motion is also taken into
+account. The main feature is that it is the manda epicycle together with the eccentric
+which is inclined to the ecliptic and not the śı̄ghra epicycle (which represents the
+Earth–Sun relative motion):
+                                              ïîéå
+   Ba;ga;ea;l+.ma;Dya;na;a;Æa;Ba;k+:~ya k+:a;t=+:  yeRa;na A;pa;ma;Nq+.l+.ma;a;gRa;ga;~ya Za;a;Gra;vxa:a;~ya :pa;a:=+Da;Ea yaH Za;a;Gra;ea;a       -
+   .sa;ma;pra;de;ZaH   ta;a:;d
+                             Äâ   ma;nd;k+:mRa;a;Na      k+:[ya;a;ma;Nq+.l+.ke +:ndÒ+Æa;ma;a;ta      k+:a;l+.a;kÒ +:ya;a;pa;a;de      O;;vea   o+.+:m,a Á
+
+   ta;de;va   ma;nd;ea;a;na;a;. a;vxa:a;~ya     k+:NRa;ma;Nq+.l+.~ya      .. a   :k
+                                                                                     e +:ndÒ+m,a Á   O;;va;mea;ta;a;na   a;a;a;Na     ma;Nq+.l+.a;a;na
+
+                                                                                                                    32
+   A;pa;ma;Nq+.l+.ma;a;gRa;ma;Æa;Ba;taH          A;DRa;ZaH                              ãÉa ;a;va;Æa;[a;a;a;a;na Á
+                                                             o+a:=+ta;ea d;Æa;[a;Na;ta;(
+
+   It has already been stated in the Kālakriyāpāda that on the śı̄ghra-vr     . tta, which has its
+   centre at the centre of the celestial sphere and is in the plane of the ecliptic, the point which
+   corresponds to the śı̄ghrocca is in fact the centre of the kaks.yā-man   . .dala (concentric) in
+   the manda process. The same (śı̄ghrocca) is also the centre of the manda-nicocca-vr.tta
+   (the manda epicycle) and also of the (manda) karn         . a-man . .dala (the hypotenuse circle
+   or the orbit). In this way these three circles (manda concentric, epicycle and hypotenuse
+   circle) are inclined to the ecliptic towards both the north and the south.
+
+   Based on the description presented above, we arrive at the geometrical picture of
+motion—for an exterior planet—as shown in Fig. F.8a. In this figure, O represents
+the location of the observer and is considered to be the bhagola-madhya (the centre
+of the celestial sphere). The circle centred around O, with radius equal to the tabu-
+lated radius of the śı̄ghra epicycle, rs , is called the śı̄ghra-nı̄cocca-vr.tta, on which
+the śı̄ghrocca or the mean Sun S is located.
+   It is said that the manda-nı̄cocca-vr.tta (also called the mandaparidhi) is a circle
+with the śı̄ghrocca as the centre. The mandocca U is located on this circle, whose
+radius is equal to the (variable) radius of the manda epicycle. The pratiman. .dala on
+which the planet P moves is centred at the mandocca. SP is the manda-karn.a de-
+noted by K and Γ ŜP is the manda-sphut.a. Γ ÔP is the true geocentric planet known
+as the śı̄ghra-sphut.a. The distance of the planet from the centre of the bhagola is
+denoted by Ks and it is also the śı̄ghra-karn.a.
+   Among the various circles depicted in Fig. F.8a, it is said that the circles centred
+around the śı̄ghrocca S, namely the manda-nı̄cocca-vr.tta, the manda-karn.a-vr.tta
+31 {ABB 1931}, vol. II, p. 70.
+32 {ABB 1957}, p. 5.
+

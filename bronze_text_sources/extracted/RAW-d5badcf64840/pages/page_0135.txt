@@ -1,0 +1,49 @@
+88                           å
+                           .~.Pu+.f;pra;k+.=+Na;m,a                                True longitudes of planets
+
+                                                          Z
+                                         P
+
+
+
+
+                                                                                  S (Sun)
+
+
+                                                          A
+                                                              śaṅku
+                    N
+                                     B                    O             horizon
+
+                           equator                    W
+
+
+
+
+Fig. 2.9 Shadow of śaṅku on an equinoctial day.
+
+
+
+an equinoctial day, the equator itself serves as the diurnal circle. The length of the
+shadow of a stick of length 12 units, when the Sun is on the observer’s meridian on
+the equinoctial day, is termed the vis.uvadbhā. In the figure, OA represents the stick
+of length 12 units, referred to as a śaṅku. Since ZS = φ , the latitude of the observer,
+OÂB = φ . Hence,
+                                vis.uvadbhā = 12 tan φ .                           (2.93)
+From (2.85), ks.itijyā is given by 12 tan φ12×R sin δ . Also the ascensional difference
+carāsava of the planet is given by
+
+                             carāsus = (R sin)−1 R tan φ tan δ ,                                    (2.94)
+
+where δ is the declination of the planet. The declination δ of a planet with longitude
+λ and latitude β as depicted in Fig. 2.10 is given by
+
+                           sin δ = cos ε sin β + sin ε cos β sin λ
+                                 = cos ε sin β + cos β sin δE ,                                      (2.95)
+
+where δE is the declination of an object on the ecliptic with the same longitude as
+the planet. That is, sin δE = sin ε sin λ . Thus, in the case of planet having a latitude,
+a correction has to be applied to δE to obtain the actual declination δ . From the
+‘planet-day’ and the carāsava of the planet, the time interval between the rising and
+setting of the planet which is the duration of the ‘day’ for the planet can be obtained.
+

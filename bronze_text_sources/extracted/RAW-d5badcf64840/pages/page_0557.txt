@@ -1,0 +1,63 @@
+510                    The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                         . t.ha
+                            1         h r                i
+                                           0
+                  θ1 = M + R sin−1 − R sin(θ0 − θm ) ,                 with
+                            2             R
+                  r0   [7 + | sin(θ0 − θm )|]
+                     =                         (for Mars)
+                  R              39
+                  r0   [7 + | sin(θ0 − θm )|]
+                     =                         (for Jupiter)
+                  R              82
+                  r0    39
+                     =                        (for Saturn).
+                  R    320
+   Then θ2 is found by applying the half-śı̄ghra correction with the mean Sun θs as
+the śı̄ghrocca as follows:
+                                                        
+                            1         rs
+                  θ2 = θ1 + R sin−1       R sin(θs − θ1 ) ,     with
+                            2         Ks1
+                                                                           1
+               Ks1 = [{rs sin(θ1 − θs )}2 + {R + rs cos(θ1 − θs )}2 ] 2
+              r  [53 − 2| sin(θ − θ )|]
+                s                    1     s
+                   =                                        (for Mars)
+               R                80
+              r  [16 − | sin(θ − θ )|]
+                s                  1     s
+                   =                                       (for Jupiter)
+               R               80
+              r  [9 − |sin(θ − θ )|]
+                s                1     s
+                   =                                       (for Saturn).
+               R              80
+Then the manda-sphut.a θms is found by adding the whole manda correction ob-
+tained with θ2 to θ0 :
+                                           r 
+                                             0
+                      R sin(θms − θ0 ) = −      R sin(θ2 − θm ).
+                                            R
+Then the true planet sphut.a-graha P is found by applying the whole of the śı̄ghra
+correction to θms .
+                                                
+                             rs
+         R sin(θ − θms ) =      R sin(θs − θms )
+                             Ks
+                                                                                  1
+          where       Ks = [{rs sin(θms − θs )}2 + {R + rs cos(θms − θs )}2 ] 2 .       (F.27)
+
+Again, as we had noted earlier in connection with the traditional planetary model, in
+the above four-step process also the iterated manda-hypotenuse (aviśis..ta-manda-
+karn.a) does not appear and the manda and śı̄ghra corrections can be read off from
+a table.
+    In the case of the interior planets, Nı̄lakan.t.ha presents just the two-step pro-
+cess: manda-sam  . skāra followed by śı̄ghra-sam . skāra. For the interior planets, if
+θ0 is the longitude of the mean planet (as per his revised model), θm its mandocca
+and θs that of the mean Sun (śı̄ghrocca), then the manda correction leading to the
+mandasphut.a is given by
+                               r0
+        R sin(θms − θ0 ) = −      R sin(θ0 − θm )
+                               R
+

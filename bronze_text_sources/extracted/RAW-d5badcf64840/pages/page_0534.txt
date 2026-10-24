@@ -1,0 +1,48 @@
+Appendix F
+The traditional Indian planetary model and its
+revision by Nı̄lakan.t.ha Somayājı̄ 1
+
+
+
+
+It is now generally recognized that the Kerala school of Indian astronomers,2 start-
+ing from Mādhava of Saṅgamagrāma (1340–1420 CE ), made important contribu-
+tions to mathematical analysis much before this subject developed in Europe. The
+Kerala astronomers derived infinite series for π , sine and cosine functions and also
+developed fast convergent approximations to them.3
+    Here we shall explain how the Kerala school also made equally significant dis-
+coveries in astronomy, and particularly in planetary theory. Mādhava’s disciple
+Parameśvara of Vat.aśśeri (c. 1380–1460) is reputed to have made continuous and
+careful observations for over 55 years. He is famous as the originator of the Dr.g-
+gan.ita system, which replaced the older Parahita system. He also discussed the
+geometrical picture of planetary motion as would follow from the traditional Indian
+planetary model.
+
+1 This appendix, prepared by K. Ramasubramanian, M. D. Srinivas and M. S. Sriram, is a revised
+
+and updated version of the following earlier studies on the subject: (i) K. Ramasubramanian,
+M. D. Srinivas and M. S. Sriram, Modification of the Earlier Indian Planetary Theory by the Kerala
+Astronomers (c. 1500) and the implied Heliocentric Picture of Planetary Motion, Current Science
+66, 784–790, 1994. (ii) M. S. Sriram, K. Ramasubramanian and M. D. Srinivas (eds), 500 Years
+of Tantrasangraha: A Landmark in the History of Astronomy, IIAS, Shimla 2002, pp. 29–102.
+(iii) Epilogue: Revision of Indian Planetary Model by Nı̄lakan.t.ha Somayājı̄, in Gan. ita-yukti-
+bhās.ā of Jyes.t.hadeva, ed. and tr. K. V. Sarma with Explanatory Notes by K. Ramasubramanian,
+M. D. Srinivas and M. S. Sriram, 2 vols, Hindustan Book Agency, Delhi 2008; repr. Springer, 2009,
+vol II, pp. 837–856.
+2 For the Kerala school of astronomy, see for instance, K. V. Sarma, A Bibliography of Kerala and
+
+Kerala-based Astronomy and Astrology, Hoshiarpur 1972; K. V. Sarma, A History of the Kerala
+School of Hindu Astronomy, Hoshiarpur 1972.
+3 For overviews of the Kerala tradition of mathematics, see S. Parameswaran, The Golden Age of
+
+Indian Mathematics, Kochi 1998; G. G. Joseph, The Crest of the Peacock: Non-European Roots
+of Mathematics, 2nd edn. Princeton 2000; C. K. Raju, Cultural Foundations of Mathematics: The
+Nature of Mathematical Proof and the Transmission of the Calculus from India to Europe in the
+16th c. CE, Pearson Education, Delhi 2007; Kim Plofker, History of Mathematics in India: From
+500 BCE to 1800 CE, Princeton 2009; G. G. Joseph (ed.), Kerala Mathematics: History and Possi-
+ble Transmission to Europe, B. R. Publishing, New Delhi 2009. See also the detailed mathematical
+notes in Gan  . ita-yukti-bhās.ā cited above.
+
+
+                                                                                              487
+

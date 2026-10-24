@@ -1,0 +1,60 @@
+1.14 Duration corresponding to difference in longitude                                               41
+
+   tadantarāladeśotthayojanaih        . sammite svake || 31 ||
+   bhūvr  . tte nād.ikaikā syāt kālo deśāntarodbhavah. |
+   nimı̄lanāntaram     . yadvā svadeśasamarekhayoh       . || 32 ||
+   deśāntarabhavah     . kālah. indorunmı̄lanādapi |
+   prāgeva dr.śyate pratyak, paścāt prācyām      . grahah. sadā || 33 ||
+   deśāntaraghat.ı̄ks.un   .n
+                              . ā madhyā bhuktirdyucārin   . ām |
+   .sas..tyā bhaktamr   . .nam
+                              . prācyām . rekhāyāh. paścime dhanam ||34 ||
+   The [measure of the] circumference (vr  . tta) of the Earth [at the equator] 3300, when divided
+   by trijyā and multiplied by the Rsine of colatitude (lambaka) is [the circumference of the
+   latitudinal circle] at one’s own place. The same divided by 60, multiplied by 360 and again
+   divided by 3300, gives the distance of separation between two places in the latitudinal circle
+   [corresponding to one ghat.ikā] in degrees and so on (bhāgādi).
+   The deśāntara-kāla will be one nād.ikā between the places on the two meridians (yāmyo-
+   dagrekhā), the one passing through the observer and the other separated from it by a dis-
+   tance in yojanas, measured along the latitudinal circle, corresponding to the above circular
+   measure.
+   Or, the difference between the time of obscuration of the Moon in [the meridian passing
+   through] one’s own place, and the one passing through the meridian (samarekhā) [at an-
+   other location], is the deśāntara-kāla (time difference due to the difference in the longi-
+   tude). This deśāntara can also be determined from the release of the Moon [at the two
+   longitudes]. The planet is always seen earlier in the west and later in the east. Hence, the
+   deśāntara-kāla, multiplied by the mean daily motion of the planet and divided by 60, must
+   be subtracted in the east and added in the west.
+
+
+                                                  P
+
+                                                                      Earth
+
+
+
+                                                                              G
+                         H   latitudinal ci
+                                           rcle                   D
+                                                           C
+
+
+                                                      φ
+                     F                                                            E
+                                       equator
+                                                          A        B
+
+
+
+
+                                                  Q
+
+Fig. 1.9 Deśāntara-sam
+                       . skāra to find the longitude of a planet at sunrise at one’s own place.
+
+
+   In Indian astronomy the linear distances are measured in yojanas. In Fig. 1.9,
+PCAQ is the prime meridian through Ujjayinı̄. PDBQ is the meridian through the
+observer. ABEF represents the terrestrial equator whose circumference Ce is given
+to be 3300 yojanas. CDGH is a latitudinal circle corresponding to a latitude φ . The
+

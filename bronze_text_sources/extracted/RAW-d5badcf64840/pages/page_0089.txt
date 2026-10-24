@@ -1,0 +1,50 @@
+42                      ma;Dya;ma;pra;k+.=+Na;m,a                           Mean longitudes of planets
+
+radius of this circle (a small circle) is the radius of the sphere multiplied by cos φ .
+The circumference of this latitudinal circle C0 or svadeśabhūmiparidhi in yojanas
+is stated to be:
+                                3300 × R cos φ
+                         C0 =                    = 3300 cos φ .                  (1.14)
+                                        R
+    As mentioned earlier (Section 1.3), the time taken by the stellar sphere (or the
+Earth) to rotate through 360◦ is 60 ghat.ikās and this duration corresponds to one full
+rotation of the latitudinal circle C0 . Hence the distance along the latitudinal circle
+that corresponds to one ghat.ikā is C600 . In other words, the distance of separation
+whose measure in yojanas is equal to C600 corresponds to a difference of one ghat.ikā
+in local time.
+    Further, the text also mentions that the distance in bhāgādis between two places
+in the latitudinal circle corresponding to a separation of one ghat.ikā can be ex-
+pressed as
+                                      C0 × 360
+                                                = 6 cos φ .                                    (1.15)
+                                      60 × 3300
+   Let t0 be the time of an event, such as the obscuration of the Moon, for an ob-
+server in the standard meridian. Let δ t be the difference in the sunrise times between
+the observer on the standard meridian and an observer elsewhere. Then the local
+time t at which the observer will observe the event is given by
+
+                   t = t0 − δ t             (if the observer is to the west)
+                   t = t0 + δ t             (if the observer is to the east).                  (1.16)
+
+  Let d be the distance of separation between the given place and the standard
+meridian along the latitudinal circle. Then
+                                   d
+                       δt =               × 60             in ghat.ikās.                      (1.17)
+                               3300 cos φ
+
+   It is suggested that δ t can be determined from the difference in times correspond-
+ing to the beginning or end of a lunar eclipse at these places (with respect to their
+local sunrise times). This particular physical phenomenon is chosen probably be-
+cause the beginning of obscuration and the release of the Moon are sharply defined
+events.
+   Let ∆ θ be the daily motion of the planet, that is, the angle covered by it in 60
+ghat.ikās. Then the angle covered by it in a time δ t is given by
+
+                                                    δt × ∆θ
+                                          δθ =              .                                  (1.18)
+                                                       60
+Here δ t is called the deśāntarakāla and the term deśāntara-sam
+                                                                   . skāra refers to the
+application of δ θ to the mean longitude of the planet obtained from the Ahargan.a,
+to get the mean longitude at sunrise at the observer’s location.
+

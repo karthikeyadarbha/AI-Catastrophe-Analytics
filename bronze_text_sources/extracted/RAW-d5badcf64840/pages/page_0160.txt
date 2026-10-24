@@ -1,0 +1,60 @@
+2.21 Another method for getting the mean planet                                                                          113
+
+  .    å          å
+2 21 .~.Pu+.f;a;n}.a;Dya;ma;a;na;ya;nea                      :pra;k+:a:=+a;nta:=+m,a
+
+
+2.21 Another method for getting the mean planet from the true
+     planet
+
+                          å
+      A;keR +:nd
+               õ ;eaH   .~.Pu+.f;ta;ea mxa;dU;a:=+a;h;ta;a;t,a d;eaH k+:ea;a;f:ja;a;tea :P+.le
+
+      na;a;tva;a k+:a;kR +:mxa;ga;a;a;d;ta;ea ;a;va;a;na;ma;yea;na;a;na;a;ya k+:Na .sa;kx +:t,a         Á
+
+      ;a:a:$ya;a d;eaH P+.l+.Ga;a;ta;taH      (rua;a;ta;&+.tMa .. a;a;pa;a;kx +:tMa ta;t,a .~å.Pu+.fe
+
+                                                            å
+      :k
+       e +:ndÒe mea;Sa;tua;l+.a;a;d;gea ;Da;na;mxa;NMa ta;n}.a;Dya;sMa;Æa;sa:;d
+                                                                              Äâ ;yea        Á Á 51       ÁÁ
+
+      arkendvoh. sphut.ato mr     . dūccarahitāt doh.kot.ijāte phale
+      nı̄tvā karkimr . gādito vinimayenānı̄ya karn    . am. sakr.t |
+      trijyā doh. phalaghātatah. śrutihr.tam . cāpı̄kr.tam . tat sphut.e
+      kendre mes.atulādige dhanamr.n       . am
+                                               . tanmadhyasam      . siddhaye || 51 ||
+      Subtracting the longitude of their own mandoccas from the true positions of the Sun and
+      the Moon, obtain their doh.phala and kot.iphala. Find the sakr         . t karn. a (one-step hy-
+      potenuse) once by interchanging the sign [in the cosine term] depending upon whether the
+      kendra is within the six signs beginning with Karki or Mr.ga. Multiplying the doh.phala
+      and trijyā, and dividing this product by the karn    . a [here referred to as śruti], the arc of
+      the result is applied to the true planet to obtain the mean planet. This arc has to be applied
+      positively and negatively depending upon whether the kendra lies within the six signs be-
+      ginning with Mes.a or Tulā respectively.
+
+      Now,
+
+                                                     bāhuphala = r0 sin(θ − θm )
+                                                      kot.iphala = r0 cos(θ − θm ).                                   (2.154)
+
+Taking the one-step karn.a (sakr.tkarn.a) with the opposite sign in the kot.iphala, we
+have                                                               1
+           karn.a = [(R − r0 cos(θ − θm ))2 + (r0 sin(θ − θm ))2 ] 2 .         (2.155)
+This is the same as the viparı̄ta-karn.a Rv given by (2.150). In Fig. 2.14b, draw O′ T
+perpendicular to OP. Then in triangle O′ PT ,
+
+                                                             O′ T = O′ P sin(O′ P̂T )
+                                                                       = O′ P sin(PÔP0 )
+                                                                       = R sin(θ0 − θ ).                              (2.156)
+
+                                              Also                            O′ T = r sin(θ − θm ).                  (2.157)
+Equating the above two expressions for O′ T ,
+
+                                                       R sin(θ0 − θ ) = r sin(θ − θ0 )
+                                                                                                               R
+                                         or            R sin(θ0 − θ ) = r0 sin(θ − θ0 )                           ,   (2.158)
+                                                                                                               Rv
+where we have used (2.135) and (2.153). Hence,
+

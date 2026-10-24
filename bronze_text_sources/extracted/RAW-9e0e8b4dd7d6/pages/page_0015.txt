@@ -1,0 +1,62 @@
+                                                    +         I
+
+
+
+
+                                                                                               •   •
+                                                                                              Vll
+
+
+lengths of the Ayanarasam as adopted by Mr. K. L. Cliatrai and
+as discovered by me.      The question is one of Arithmetical
+progression.       We
+                 will suppose,
+
+   a— rate of motion of Vernal Equinox when it coincided
+      with the star Kevati.
+
+           the annual increment in tlie rate.
+
+   Z= the last term or rate                             of motion on          the first   January
+                               '
+          18e3.
+
+   sz=i    the    sum of the terms or the length of the Ayanamsam.
+  n = number of terms or number of years required.
+     We have the following series                         :
+
+
+
+
+  a, a    + d, a {-2d, a           4-   3d,                       ai-{n   —   l)d.
+
+          Z=a+(n        —   l)d.                        a—        — —
+                                                                   (n     l)d.
+
+  s={a + Z)’i=[^—
+
+                       = / 2 ?—{«—
+          2s—{2l + d)n             —dn^.
+           dn'^   —     {2l   + d]n + 2s = 0.
+
+                  2l   + d± K (2Z + d)2_4. d. 2s.
+          ’*=                                 2d.
+
+           where                          34.
+
+                        d = 0-'\ 00024.
+                       5=20° 24' 15" or 18° 14' 20".
+      Substituting these values, we get        14,66 and 4,17,368   n=
+years , or        =
+                1310 and 4,17,523 years, before first January
+ 1883 where the bigger figures may be rejected as they refer
+to the position of the vernal Equinox in its second revolution.
+ 8o that Varaha Mihira^s time is found to be eitherl882-l466=
+                               —
+ 416 A. D. or 1882 1310—572 A. D., according to me or Mr.
+K. L. Chatrai respectively. Now it is true that 572 A. D.
+is in support of the supposed dates, above given, of Varaha Mi.
+hira’s birth and death.   But I cannot bring myself to believe
+that Zeeta piscium was the Kevati of the Hindus, for this sim-
+ ple reasonAhat it is not on the ecliptic. Several st'nrs of compa-
+

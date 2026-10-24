@@ -1,0 +1,50 @@
+494                   The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                        . t.ha
+                        q
+                       = (OP0 + P0Q)2 + QP2
+                        q
+                       = {R + r cos(θ0 − θm )}2 + r2 sin2 (θ0 − θm ).                   (F.6)
+
+Again from the triangle POQ, we have
+
+                              K sin ∆ θ = PQ
+                                        = r sin(θ0 − θm ).                              (F.7)
+
+Multiplying the above by R and dividing by K we have
+                                          r
+                            R sin ∆ θ =     R sin(θ0 − θm).                             (F.8)
+                                          K
+In the Āryabhat.an school, the radius of the manda epicycle is assumed to vary
+in the same way as the karn.a, as explained for instance by Bhāskara I (c. 629) in
+his Āryabhat.ı̄ya-bhās.ya, and also in his Mahābhāskarı̄ya. Thus the relation (F.8)
+reduces to
+
+                                          r0
+                            R sin ∆ θ =      R sin(θ0 − θm ),                           (F.9)
+                                          R
+where r0 is the mean or tabulated value of the radius of the manda epicycle.
+
+
+
+F.1.3 Aviśis..ta-manda-karn
+                           . a: iterated hypotenuse
+
+According to the geometrical picture of planetary motion given by Bhāskara I, the
+radius of the epicycle manda-nı̄cocca-vr.tta (r) employed in the the manda process
+is not a constant. It varies continuously in consonance with the hypotenuse, the
+manda-karn.a (K), in such a way that their ratio is always maintained constant and
+is equal to the ratio of the mean epicycle radius (r0 )—whose value is specified in
+the texts—to the radius of the deferent circle (R). Thus, according to Bhāskara, as
+far as the manda process is concerned, the motion of the planet on the epicycle is
+such that the following equation is always satisfied:
+                                        r  r0
+                                          = .                                          (F.10)
+                                        K  R
+If this is the case, then the question arises as to how one can obtain the manda-
+karn.a as well as the the radius of the manda-nı̄cocca-vr.tta at any given instant. For
+this, Bhāskara provides an iterative procedure called asakr.t-karma, by which both
+r and K are simultaneously obtained. We explain this with the help of Fig. F.3a.
+Here P0 represents the mean planet around which an epicycle of radius r0 is drawn.
+The point P1 on the epicycle is chosen such that PP1 is parallel to the direction of
+the mandocca, OU.
+

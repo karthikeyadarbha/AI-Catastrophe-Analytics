@@ -1,0 +1,149 @@
+281 21.
+
+शिवरात्रि गुरुगिर: काकागरु दिवाध्वरः |
+बन्धुवैरं शिखिशिखा भवः शूरः कृशः स्मरः ।। ३० ।।
+
+` छाया वैषुवती यत्र इव्यडगुला Ta केवलम्‌ ।
+गुवेक्षरात्मकमिदं विद्याच्‌ चरदलम्‌ कृतम्‌ ।। ३१ (1
+
+ततो न्यूनाधिकायां तु तत्‌ स्यात्‌ तदनुपाततः ।
+सायनेऽकंऽजजुकादौ ज्ञेया तस्य धनर्णता ॥ ३२ ॥
+
+तेषामेकविधत्वे स्यादेकीभूतानि तानि सः ।
+भेद एकस्य चेत्तस्य चापरेक्यस्य चान्तरम्‌ ।। ३३ ॥।
+
+त एते ध्रुवकालाः स्युर्वाक्यकालाः सुसंस्कृताः |
+चराध्रेमाव्रसंस्काराद्‌ दिनार्धं शुक नाडिका: ।। ३४ ॥
+
+दिनमानाल्लघीयांसस्तेऽहन्येव, निगीतरे ।
+(Madhava, Sphuta., 21-35a),
+
+Correction to the Dhruvakala-s
+
+To the dhruvakalas derived in the above manner, along
+with their vdkyasankhyds and dhruvas (verses 16-20), or
+calculated in the manner enunciated before (verses 7-9),
+another correction has to be applied. That is stated,
+hereinbelow. (21)
+
+Mean Sun
+
+At the end of 5180 (ddikiirma) (anomalistic cycles)
+contained in the first result (agrimaphala), being the first
+dhruvasadhana, vide verses 5-6), the Mean Sun, correct
+to the seconds, is 11'-11°-5'-11" (karkasanekakaryakrt) 1
+For each remaining (cycle) the Mean Sun is (to be
+calculated at the rate of) 27°-9'-28" (daradhinasukham)
+plus 9/31" (dhi[yuga)® (and added). Again, (is to be
+calculated and added, the Mean Sun) for (the number
+of days equal to) the vakyasankhyad and for that portion of
+the day under consideration upto the time (of each
+dhruvakala).3 (22-23)
+
+Correction for equation of time due to the equation of centre
+
+The sine of arc of the difference between the Mean
+Sunand (the Sun’s) Higher Apsis (viz., 2°-18°, dustd stri)
+divided by 160 (atapa) would give vinadikas.4 These
+should be added (to the Dhruvakdlas) if Sun minus Apsis
+(Kendra) is less than 2 half-circle (6) and subtracted of
+greater. (24)
+
+1 Rationale: 5180 (adikarma) is a certain number of anamalistic
+Mean Sun which period when added to the Mean Sun of the
+Khanda 15,02,008 (dinanamranusasya) gives a result in full seconds,
+viz., 11t-119-59-11" (karkasanekakaryakrt).
+
+५ Rationale: The mean motion of the Sun in one anomalistic
+
+9 dhi
+cycle is 27° 9’ 28 —~ = daradhinasukham + ———
+81 yuga
+8 The mean motion of the Sun for this calculation, as given in
+
+the author’s Venudroha, (verse 38), is 59’-8 oO
+
+4 Rationale: The Dhkruvakalas have been reckoned as from
+mean sunrise at Ujjain. They should be reckoned from true
+sunrise of the local place, which depends on: (i) the Sun’s equation
+of the centre, (ii) the reduction to the equator, (iii) the longitude
+
+NOVEL INNOVATIONS
+
+21.2.4
+
+Correction for terrestrial longitude
+
+Then again, the corrective (vinddikds), on account of
+the place (ia question)being situated to the east or west
+of the central (Ujjain) meridian, (has to be calculated).
+Its measure (for the place) is to be known from the
+traditional knowledge of the learned. (25)
+
+Therefore, when the correction in minutes to the
+mean Moon (for the place, as got by tradition) has
+been found to be additive or subtractive, the minutes
+are to be multiplied by 255 (2८४४) and divided by 56
+(tama) and applied inversely as vinddikés.1 (26)
+Correction for decl. asc. difference
+
+The True Sun is then computed and the precession
+added. Its R sine in the Sine Table (below) beginning
+with 153 (gunodyana) is then noted in order to compute
+the declinational difference (cara-dala). (27).
+
+Sr. No. Gurvaksaras (2/5 second) _
+
+(1-4) 153 305 457 607
+
+(5-8) 756 903 1048 1190
+
+(9-12) 1329 1464 1595 1791
+
+(13-16) 1840 1953 2059 2156
+
+(17-20) 2245 2323 2391 2448
+
+(21-24) 2493 2525 2544 2551
+(28-30)
+It is to be noted that the above (table) gives the half-
+ascensional differences (cara-dala) expressed in terms of
+gurvaksara-s aad pertain to a place where the equinoctial
+
+shadow is two fingers’ breadh (angulas).2 (31)
+
+(When the equinoctial shadow of the place in question
+is) less or more than (2 afgulas), (the half-ascensional
+difference) will be proportional (to the shadow). Its
+positive or negative nature is to be understood from the
+
+of the place and (iv) the declinational ascensional difference
+(caradala) at the place for that day. Of these item (ii) is neglected
+by earlier astronomers like Aryabhata, and not given by our
+author in his work, following Aryabhata, though he must have
+known its need. Item (i) is given here.
+
+The equation of the centre is taken as 129’ x R sin Manda-
+kendra]3438 (Aryabhata) and the True Sun rises earlier or later
+as this is negative or positive, at the rate of | prana of time per minute
+of arc. Therefore, it is equal to R sin Mandakendra x 129/3435 x6
+=R sin Mandakendraj]160 in vinddikads, and is additive for the first
+six signs of Mandrakendra and subtractive for the next six.
+
+It may be noted that item (iii) is given in verses 25-26 and item
+(iv) in verses 27-32, below.
+
+1 Rationale: The Sun rises at the rate of 10 vinddikds earlier or
+later, as the place is 1° east or west of the standard meridian and
+thisis additive or subtractive, respectively, to get the true dhruvakdla.
+Expert astronomers find this time by various means, and usually
+express itin terms of correction to the Mean Moon, which obviously
+is negative for the east, and positive for the west. This is trans-
+mitted through tradition to succeeding astronomers. This can be
+re-converted into vinadikds by multiplying the Moon’s correction
+by 255 and dividing by 56, since the mean motion in 255 vinddikas
+is 56. Since the correction-vinadikas and the Moon’s correction are
+opposite in sign, the sign is asked to be reversed.
+
+2 This would correspond to a region having a latitude of 9}°,
+like Central Kerala, from where the author of this work hailed.

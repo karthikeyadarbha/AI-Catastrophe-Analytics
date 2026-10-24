@@ -1,0 +1,62 @@
+116                                                 å
+                                                  .~.Pu+.f;pra;k+.=+Na;m,a                                                          True longitudes of planets
+
+                                                           θ − θm = (θ0 − ∆ θ ) − θm,
+
+where the manda correction ∆ θ is given by
+                                     r               
+                                       0
+                        ∆ θ = sin−1      sin(θ0 − θm ) ,                                                                                             (2.166)
+                                      R
+as explained earlier. Hence,
+                                                                                  r                           
+                                                                                          0
+                                                  θ = θ0 − sin−1                                  sin(θ0 − θm ) .                                    (2.167)
+                                                                                      R
+Therefore,
+                                         d      d θ0  d        r                 
+                                                                  0
+                                            θ =      − sin−1        sin(θ0 − θm )
+                                         dt      dt   dt         R
+                                                                       d(θ −θ )
+                                                d θ0 r0 cos(θ0 − θm ) 0dt m
+                                              =      −q                         .                                                                   (2.168a)
+                                                 dt      R2 − r2 sin2 (θ − θ )                    0            0            m
+
+    It may be mentioned here that in the case of all the planets, except the Moon, the
+rate of change of the mandocca is extremely small and can be neglected. That is,
+d θm
+ dt ≈ 0. Then the above equation reduces to
+                                                               
+                    d     d θ0            r0 cos(θ0 − θm)
+                      θ=         1− q                           .            (2.168b)
+                   dt      dt                        2
+                                         R − r sin (θ − θ )
+                                          2     2
+                                                                                                      0                 0       m
+
+Note:
+1. It is remarkable that the author in this verse gives the correct form for the deriva-
+   tive of the inverse sine function. In his Jyotirmı̄mām  . sa, Nı̄lakan.t.ha mentions
+   that this verse is due to his teacher Dāmodara.
+2. The differentials of the sine and cosine functions were used in Indian astron-
+   omy at least from the time of Mañjulācārya in his Laghu-mānasā. Bhāskara II
+   clearly makes use of them in his Siddhāntaśiroman. i.
+3. The significance of this verse lies in the fact that it is for the first time that the
+   derivative of the arcsine function is being considered here in the context of dis-
+   cussing the tātkālika-gati or instantaneous rate of motion of the planet.
+
+
+  .
+2 24 na;[a:a;a;ta;Tya;a;na;ya;na;m,a
+
+2.24 Finding naks.atra and tithi
+
+                  x +:ta;ea ;a;na;Za;a;na;a;TaH
+      ;a;l+.a;a;k                                Za;tEa;Ba;Ra:$ya;ea;;Æa;BaH     :P+.l+.m,a            Á
+
+      A;a:(
+          õ;a;nya;a;d;a;a;na Ba;a;a;na .~yuaH         :Sa;a;a h;tva;a ga;ta;a;ga;tea              Á Á 55       ÁÁ
+                                                    å
+      ga;ta;ga;nta;v.ya;na;a;q:aH    .~yuaH      .~.Pu +.f;Bua;+.a;ea;d;ya;a;va;DeaH       Á
+

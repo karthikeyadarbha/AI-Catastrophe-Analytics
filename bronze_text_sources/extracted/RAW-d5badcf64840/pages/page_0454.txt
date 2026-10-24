@@ -1,0 +1,78 @@
+8.5 Distance between the solar and lunar discs                                                                          407
+
+  .
+8 4 ;a;va;[ea;paH                     ãÉa
+                              na;a;ta;(
+
+
+8.4 The latitude and the zenith distance
+
+      :pa;a;tMa ;a;va;Za;ea;Dya . a;a;nya;sma;a;t,a v.ya;ta;a;pa;a;ta;ea;+:va;tmRa;na;a            Á
+
+      A;a;na;a;ta;Æa;ma;;a;va;[ea;pMa ya;ea:ja;na;(rua;a;ta;ta;a;a;q+.ta;m,a        ÁÁ 6      ÁÁ
+
+      BUa;. a;ndÒ+a;nta:=+gEa;&R+.tva;a l+.b.DaH      [ea;pa;~ta;TEa;va .. a      Á
+
+      .=+va;a;nd
+                õ ;eaH   :pxa;Ta;ga;a;na;a;ya na;a;ta;l+.}ba;na;a;l+.a;a;k+:aH             ÁÁ 7        ÁÁ
+
+                 , BUa;pxa;+a;va;[ea;paH
+      :pra;a;gva;d                                                     x +:taH
+                                             .sa . ea;ndu;na;a;ta;sMa;~k                 Á
+
+      ;a;ba;}ba;a;nta:=e na;a;ta;g{a;Ra;hùÅ:a;a ;a;va;Da;ea:=+kR +:~ya .. ea;t,a .~va;k+:aH          ÁÁ 8          ÁÁ
+
+      pātam . viśodhya cānyasmāt vyatı̄pātoktavartmanā |
+      ānı̄tamis..taviks.epam  . yojanaśrutitād.itam || 6 ||
+      bhūcandrāntaragairhr     . tvā labdhah. ks.epastathaiva ca |
+      ravı̄ndvoh. pr.thagānı̄ya natilambanaliptikāh       . || 7 ||
+      prāgvad bhūpr  . .s.thaviks.epah . sa cendunatisam   . skr
+                                                                 . tah. |
+      bimbāntare natirgrāhyā vidhorarkasya cet svakāh                     4
+                                                                    . || 8 ||
+      Having subtracted the node from the other [i.e. the longitude of the Moon obtained with-
+      out applying the dvitı̄ya-sphut.a], the viks.epa is to be obtained as per the procedure out-
+      lined in vyatı̄pāta. This should be multiplied by the hypotenuse in yojanas (the manda-
+      sphut.a-karn  . a) and divided by the distance of separation between the Earth and the Moon
+      (the dvitı̄ya-sphut.a-karn    . a). The value that is obtained is the viks.epa [as seen from the
+      bhūgola].
+      Similarly, after obtaining the nati, lambana etc. in minutes, for the Sun and the Moon
+      separately [corresponding to the bhagola], the latitude corresponding to the observer on
+      the surface of the Earth (bhūpr.s..tha-viks.epa) has to be obtained as earlier. In finding the
+      distance of separation between the discs, it is this viks.epa corrected by the deflection from
+      the ecliptic of the Moon that should be taken as the [true] deflection from the ecliptic of the
+      Moon. In the case of the Sun, the parallax in latitude obtained as such should be taken as
+      the [true] parallax in latitude.
+
+   The latitude of the Moon corresponding to the bhagola is multiplied by the
+manda-karn.a and divided by the dvitı̄ya-sphut.a-karn.a to obtain the latitude cor-
+responding to the bhūgola-madhya. This viks.epa is corrected by the nati of the
+Moon (deflection due to parallax) to obtain its true deflection from the ecliptic (the
+bhūpr.s..tha-viks. epa). This is the deflection from the ecliptic which is to be used in
+the computation of the distance between the solar and lunar discs.
+
+
+  .
+8 5 .. a;ndÒ+a;k
+               R +:a;ba;}ba;a;nta:=+a;na;ya;na;m,a
+
+
+8.5 Finding the distance of separation between the solar and
+    lunar discs
+
+      x
+      k+:ta;l+.}ba;na;. a;ndÒ+a;kR +:a;va;va:=+a;t,a .$ya;a;Za:=+Ea na;yea;t,a           Á
+
+                                         È
+      ta:ê
+         *.aa;a;Æa;ma;ndu;na;ta;a;Sua. îå
+         êÁ                             *+;MÁ a ;a:a:$ya;a;a;Ma gua;Na;ta;~tya:jea;t,a       ÁÁ 9           ÁÁ
+
+                                                 å
+      na;ta;a;Sua;P+.l+. x        ãÉa Bea;d;a;n}.Ua;l+.Æa;ma;Sa;Ea ;Æa;[a;pea;t,a
+                         k+:tya;ea;(                                                     Á
+
+
+
+4 Here the term ;a;ba;}ba;a;nta:=e, should perhaps be interpreted to mean ;a;ba;}ba;a;nta:=+a;na;ya;nea.
+

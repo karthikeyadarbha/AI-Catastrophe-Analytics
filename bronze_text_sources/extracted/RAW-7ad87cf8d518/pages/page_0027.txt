@@ -1,0 +1,61 @@
+INTRODUCTION
+
+He has also given a good account of the second category of Kosthakas
+which present the beginnings and ends of tithis, naksatras and yogas
+which are useful for religious observations. In addition, there are
+astronomical tables intended for computing lunar and solar eclipses
+(op. cit., 42-46).
+
+As Pingree has pointed out after ably analysing a large number of
+astronomical texts, there developed gradually in India five main
+paksas—the Brahma, the Arya, the Ardharatrika, the Saurya and the
+Ganesa (daivajfia), some texts of course, not falling under any of these
+paksas (op.cit., pp. 13-16).
+
+Main conceptual aspects of Indian astronomy
+
+As already noted, the Indian astronomers conceived of a huge
+period of 43,20,000 years called a mahdyuga or caturyuga and even a
+period 1000 times longer, i.e., 43,20,000,000 years called a Kalpa.
+In the Saura and the Brahma schools, the kalpa is regarded as being
+equivalent to 14 manvantaras, a manvantara being equal to 71 maha- '
+yugas or 306,720,000 years to which must be added 15 sandhis, each.
+sand being 17,28,000 years, which again is equal to the period of
+Krtayuga. According to the Ardharatrika system of Aryabhata, the
+kalpa consists of 4,354,560,000 years but equivalent to 14 manvaniaras,
+each manvantara being composed of 72 mahayugas. Thus the kalpa
+consists of (14x 72) 1008 makdyugas. In this system also, a mahdyuga
+is equal to 43,20,000 years. However, here, the four ages, namely,
+Krta, Treta, Dvépara and Kali, are regarded as being of equal duration
+(each having 1,080,000 years), unlike in the Saura and Brahma, where
+they are in the ratio of 4:3:2:1 with sandhis.
+
+Rotations of the planets in a Mahayuga
+
+Brahma Arya Ardhara- Saura Adjusted
+trika Saura
+
+Saturn 146,567.298 146,564 146,564 146,568 146,580
+
+Jupiter 364,226.455 364,224 364,220 364,220 364,122
+
+Mars 2,296,828.522 2,296,824 2,296,824 2,296,832 2,296,832
+
+Venus’ Sighra 7,022,389.492 7,022,388 7,022,388 7,022,376 7.022.364
+Mercury’s
+
+sighra 17,936,998.984 17,937,020 17,937,000 17,937,060 17,937,076
+
+Moon 57,753,300.000 57,753,336 57753586 57,753,336 57,753,336
+
+Lunar node —232,311.168 —232,226 #—232,226 —232,238 . -252, 246
+
+Source: David Pingree, Op. cit., p. 15
+
+Such a huge period for computing the mean motion of planets is
+peculiar to Indian astronomy and it was the ingenuity of the astrono-
+mers to develop methods of calculation in relation to this huge period,
+evidently to avoid decimal fractions concerning intercalary months,
+omitted lunar days, civil days and the like.
+
+XXX

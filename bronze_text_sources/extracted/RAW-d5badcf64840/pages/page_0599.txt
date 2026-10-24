@@ -1,0 +1,41 @@
+552                                                                           Glossary
+
+moks.a                Literally freedom, which actually refers to the process of
+                      emergence in an eclipse.
+moks.akāla           Instant of moks.a (last contact).
+moks.alambana         Parallax in longitude at release.
+Mr.ga                 The 10th sign: Makara (Capricorn).
+Mr.gādi              The six signs beginning with Capricorn.
+mūla                 (1) The base or starting point of a line or arc. (2) Square root,
+                      cube root etc.
+nabhomadhya           See khamadhya.
+nābhyucchraya        Elevation of the nābhi.
+nād.ikā             See ghat.ikā.
+nād.ı̄-vr.tta        Celestial equator (see ghatikāman. d.ala).
+Nakra                 Capricorn (generally refered to as Makara).
+naks.atra             Star; asterism; constellation.
+nāks.atradina        Sidereal day, which is equal to the time interval between two
+                      successive transits of a particular star across the horizon or
+                      the meridian (≈ 23h 56m of a civil day).
+naks.atragola         The starry sphere.
+naks.atrakaks.yā,    Orbit of the asterisms, equal to 173260008 yojanas, denoted
+  bhakaks. yā        by the expression janānunı̄tiraṅgasarpa, being 50 times the
+                      orbit of the Sun.
+nāks.atravars.a      Sidereal year, which is equal to the time interval between
+                      two successive transits of the Sun across the same star say
+                      nirayan.ames.ādi; also called a nirayan.a year.
+nata                  (1) Hour angle, which gives the time interval between midday
+                      and current time. (2) Meridian zenith distance.
+natabhāga            Zenith distance in degrees.
+nata-dr.kks.epavr.tta Circle touching the zenith and prime vertical.
+natajyā              Rsine of hour angle; occasionally, Rsine of zenith distance.
+natakot.ijyā         Rcosine of the hour angle.
+nataman.d.ala         See natavr.tta.
+nataprān.a           Hour angle in prān.as.
+natasamaman. .dala    Prime vertical.
+natavr.tta            Great circle which intersects another great circle perpendicu-
+                      larly; for instance a ghat.ikānatavr.tta which is perpendicular
+                      to the ghat.ikāvr.tta (equator).
+nati                  Parallax in celestial latitude; deflection from (perpendicular
+                      to) the ecliptic.
+

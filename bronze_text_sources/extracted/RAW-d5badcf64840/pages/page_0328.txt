@@ -1,0 +1,64 @@
+4.17 The visibility or otherwise of sparśa and moks.a                                                                  281
+
+    ;Æa;sa:;d
+            ÄâE H   :pra;a;NEa;yRa;d;a ma;ea;[a;ea .=+v.ya;~ta;ma;ya;taH    :pa:=+m,a       Á
+                                                        ñÍ                      24
+    ta;dE;va dx ;Zya;ta;a;mea;a;ta ta;taH        :pra;a: íéÁ
+                                                        *+;;ea;[a;Nea na .. a              Á Á 36   ÁÁ
+
+    sparśe ravyudaye kāryo dr            . kks.epah. ks.iptiraindavı̄ || 29 ||
+    vyāsārdhaghnah. sphut.ah. ks.epah. samparkārdhahr.tastu yah. |
+    taddr                                                     ′
+           . kks.epadhanurbhedah. diśoh. sāmye nyathā yutih            . || 30 ||
+    tadūnabhatrayājjı̄vā tamovyāsadalāhatā |
+    trijyāptā lambane yojyā bhūcchāyāśaṅkulabdhaye || 31 ||
+    dvitı̄yasphut.abhāgasya tithyam              . śo lambanam . tviha |
+    rāśitrayādhike ks.epadr.kks.epānı̄takārmuke || 32 ||
+    adhikasya gun        . āt prāgvat labdham       . śodhyam. tu lambanāt |
+    śes.astasya tamah.śaṅkustrijyākr.tyā hatah. sa ca || 33 ||
+    hr.to ghātena sūryasya dyujyāyā lambakasya ca |
+    labdhāh. prān    . āh. ks.apāśes.e yadi ravyudayāt tatah    . || 34 ||
+    sparśah. prāgeva tarhyeva dr            . śyah. syānna tatah. param |
+    evam  . ravyastakālotthaks.epādyāptena śaṅkunā || 35 ||
+    siddhaih. prān     . airyadā moks.o ravyastamayatah           . param |
+    tadaiva dr    . śyatāmeti tatah. prāṅmoks.an        . ena ca || 36 ||
+    If the first contact is around the time of sunrise, then the dr.kks.epa (Rsine of the zenith
+    distance of the vitribhalagna) and the latitude of the Moon must be calculated.
+    The true latitude [of the Moon] is multiplied by the trijyā and divided by the sum of the
+    semi-diameters of the Sun and the Moon [the result is called the sphut.a-ks.epa]. If the
+    directions of this and the dr.kks.epa are the same, we find the difference, otherwise the two
+    are added [and the value is noted]. The Rsine of this subtracted from 90 is multiplied by the
+    semi-diameter of the shadow and divided by the trijyā. The result has to be added to the
+    parallax in longitude for obtaining the śaṅku of Earth’s shadow.
+    The parallax in longitude [to be] used here is one-fifteenth of the actual daily motion [of the
+    Moon], the dvitı̄ya-sphut.a-bhukti. If the arc (ζ ), obtained from the arcs corresponding
+    to the dr.kks.epa (zv ) and the ks.epa (θ ),25 is greater than 90 degrees [that is ζ > 90], then
+    the quantity obtained as earlier from the sine of the excess has to be subtracted from the
+    parallax in longitude.
+    The remainder is the śaṅku corresponding to the shadow. This is multiplied by the square of
+    the trijyā and divided by the product of the dyujyā and the lambaka of the Sun. If the re-
+    sult ∆ ts , obtained in prān                                                                       26
+                                  . as, is less than the time remaining in the night to be elapsed ∆ tu
+    before sunrise, then the first contact will be earlier [than moonset] and visible. Otherwise
+    (if ∆ ts > ∆ tu ), the first contact is not visible.
+    In the same way, from the śaṅku [which in turn is] obtained using the dr.kks.epa and
+    other quantities calculated at the time of sunset, the prān    . as [related to the visibility of
+    the moks.a] ∆ tm 27 are calculated. If the last contact occurs later than sunset by an amount
+    [∆ tm ] thus obtained in prān. as, then it will be [after the moonrise’s and] visible. If it hap-
+    pens earlier, then the last contact will not be visible.
+
+   In the above verses, quantitative criteria for the visibility of the first contact and
+the last contact of the lunar eclipse are discussed. If the lunar eclipse were to com-
+
+                                                      *+;;ea;[a;Nea;na .. a ; whereas it must be :pra;a:*+;;ea;[a;Nea na .. a
+24 The reading in both the printed editions is :pra;a:ñÍ                                                ñÍ
+                                                                                     íéÁ                    íéÁ
+
+because the idea to be conveyed is: ta;taH :pra;a;k, ma;ea;[a;Nea ma;ea;[aH dx;Zya;ta;Ma na O;;a;ta Á
+25 Though the term ksepa literally means deflection—and generally it is taken to refer to the
+                        .
+deflection from the ecliptic (β )—in the present context it refers to the arc θ . Perhaps θ is being
+referred to as the arc corresponding to the ks.epa, at it is obtained from the ks.epa (β ).
+26 The suffix ‘u’ refers to udaya.
+27 The suffix ‘m’ refers to the last contact.
+

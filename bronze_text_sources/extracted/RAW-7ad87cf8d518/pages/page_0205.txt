@@ -1,0 +1,125 @@
+161 13.
+
+Take the distance in yojanas between the two places be-
+tween which the time difference for longitude has to be
+found. Multiply this by 9 and divide by 80. (The
+result is their distance in degrees.) Square the result.
+From this deduct the squre of the difference in latitude
+between the two places. Find the square root of
+the remainder. (This is the East-West difference in
+
+degrees). This divided by 6 is the time difference
+in nadikas. (14). (TKS)
+
+भुजान्तरसंस्कारः
+
+भुजाफल:--पौलिश:
+
+13, 22. 1, पदमेकोनं 'पञ्चाष्टक'ध्नमेकर्तुपक्षविषयेभ्य: |
+प्रोज्म्य पदध्नं छिन्या न्रवयममुनिभिः कला इन्दोः ।!
+(Varaha, PS, 3.5)
+Equation of time due to the unequal motion of the
+Sun on the ecliptic
+Equation of the Centre (Pauliga)
+
+Reduce the plus or minus padas by one and multiply
+by 40. Subtract this from 5261. Multiply the result
+by the padas and divide by 729. The resulting minutes
+are the equation of the centre of the Moon. (5). (TSK)
+
+--भास्करः १
+
+रवेः भुजाफलम्‌
+
+13. 22. 2४. स्वपरिध्याहतेऽशीत्या लब्धं क्षयधनं फलम्‌ ।। ४ II
+केन्द्रात्पदविभागेन क्षयधनधनक्षयाः |
+देशान्तरक्ते सूर्ये कुर्यात्तन्मध्यमे सदा ॥ ५ ॥
+केन्द्रे क्रियादिकरे चाथ फलं बाहोविशोधयेत्‌ |
+तुलादिके तु तन्नित्यं देयं स्पुटदिदृक्षुणा ।। ६ ॥।
+करमोत्कमफलाभ्यस्ता मध्या बाहुफलेन वा |
+भुकितिश्चक्रकलालब्धं पूरववत्तत््रकल्पयेत्‌ ।। ७ ॥।
+
+(Bhaskara I, MBh., 4-49-7)
+—Bhaskara I
+
+Sun’s Equation of the centre
+
+The R sines and R versed-sines (of the parts of the
+Sun’s mean anomaly lying in the odd and even quad-
+rants respectively) should be (severally) multiplied by
+the (Sun’s) own epicycle and divided by 80: the resulting
+quantities should be subtracted and added (in the
+manner prescribed below). (4b)
+
+1 Bhujantara is the part of the Equation of time due to the unequal
+motion of the Sun on the ecliptic, and therefore is the time corres-
+ponding to the difference in longitude between the mean and the
+true Sun. Sunrise will be later if the true Sun if greater. This is
+given in vinddis.
+
+Inthe Pauliga rule enunciated here, the formula is: The equation
+of the centre={(5261—40 (pada—1)} pada/729, where pada is any
+pada, plus or minus, without distinction.) (TSK)
+
+13
+
+PLANETS
+
+13. 22. 2b
+
+The resulting quantities due to the first, second, third
+and fourth anomalistic quadrants should always be
+respectively subtracted from, added. to, added to, and
+subtracted from the Sun’s mean longitude corrected for
+the (local) longitude. (5)
+
+Alternative rule
+
+Or, (find the bahuphala and) subtract the bahupkala
+when the (Sun’s mean) anomaly is in the half-orbit
+beginning with Aries; and add that when (the Sun’s
+mean anomaly is) in the half-orbit beginning with
+Libra. This correction should always be performed by
+one who seeks the true longitude (of the Sun). (6)
+
+Correction for the Sun’s equation of time
+Multiply the mean daily motion (of the Sun) by the
+(Sun’s) equation (of the centre derived from the R sines
+and एर versed-sines of the parts of the Sun’s mean
+anomaly lying in the odd and even quadrants respec-
+tively), or by the (Sun’s) béhuphala (i.e., the Sun’s
+equation of the centre derived from the bahu) and then
+divide the product by the number of minutes in a circle
+(ie., by 21600); apply that (as correction, positive or
+negative, to the Sun’s mean longitude corrected for the
+local longitude and for the Sun’s equation of the centre)
+as before.t (7). (KSS)
+
+--चन्द्रे विशेषः
+13. 22. 20. सूर्यबाहुहता भुक्तिमेध्या चक्रकलाहृता |
+
+भास्करस्य वशात्‌ क्षेपः शुद्धिर्वापि निशाकृत : UW २६॥
+
+शेषं विवस्वता तुल्यं कर्म चन्द्रस्य कीतितम्‌ |
+भास्वद्‌भुजाफलेनैव शेषाणां तु प्रकल्पयेत्‌ ।। Fo tl
+(Bhaskara I, MBh., 4.29-30)
+
+—Correction for the Moon
+
+Multiply the (Moon’s) mean daily motion by the Sun’s
+equation of the centre and then divide (the product)
+by the number of minutes in a circle (1.6. by 21,600) :
+(the result is the bhujdntara correction for the Moon).
+Add it to or subtract it from the Moon’s (mean) longitude
+(corrected. for the longitude of the local place) in the
+same way as in the case of the Sun.
+
+All remaining corrections for the Moon are prescribed
+as in the case of the Sun.
+
+(The bhujéntara correction) for the remaining planets
+also is calculated from the Sun's equation of the
+
+centre. (29-30). (KSS)
+
+1 For explanation and rationale, see MBh: KSS, pp. 110-15.

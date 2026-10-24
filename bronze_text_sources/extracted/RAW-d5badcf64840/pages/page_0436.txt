@@ -1,0 +1,64 @@
+7.1 The āks.a and āyana corrections                                                                                                     389
+
+As β is small, the āyana-dr.kkarma will become
+
+                                                   x = CD ≈ GF ≈ β δ ′ .                                                             (7.18)
+
+Here x, β and δ ′ are all in radians. In the text it is mentioned that x is in seconds, β
+in minutes and δ ′ in degrees. Here the commentator Śaṅkara Vāriyar observes:
+
+   ‘ . . . ta;tk+:a;l+.sa;a;ya;nea;nd;eaH kÒ+:a; / /a;nta;.
+                                                       a;a;pa;ma;a;na;a;ya ta;taH :Sa;a;a ;a;va;Ba:$ya l+.b.Da;aH k+:a; ////
+                                                                                                                      Ò    a;nta;Ba;a;ga;aH
+
+      ç Åu +a;Na;ta;a I+.;a;va;[ea;pa;k+:l+.a O;;va d;ZRa;na;sMa;~k+:a:=+a;va;k+:l+.aH Á Á’.
+   ta;
+
+
+   The visibility correction in seconds is obtained by first finding the arc corresponding to the
+   declination from the sāyana longitude of the Moon and then converting the same to degrees
+   (krāntibhāga) by dividing by 60, and multiplying it by the desired latitude in minutes.
+
+   If the relation (7.18), which is in radians, is to be expressed in seconds, it has
+to be multiplied by R (which will give it in minutes) and then by 60 (to get it in
+seconds):
+
+                                       x × (R × 60) = (β × δ ′ ) × (R × 60)
+                                            x∗ (sec) = (β × R) × (δ ′ × 60).                                                         (7.19)
+
+Now we rewrite2 the above as
+                                                                              
+                                                                 δ′ ×R
+                                          x (sec) ≈ (β × R) ×
+                                            ∗
+                                                                                                                                     (7.20)
+                                                                     60
+                                                  = β ∗ (min) × δ ∗ (deg).                                                           (7.21)
+
+Since β and δ ′ are in radians, β ∗ = β × R is in minutes, and δ ∗ = R60δ is in degrees.
+                                                                                                                      ′
+
+
+This explains the different units specified for the different quantities appearing in
+(7.13).
+
+
+Application of the āyana-dr
+                           . kkarma
+
+When the declination and the latitude of the planet have the same direction—say
+both are positive as shown in Fig. 7.1a—then the āyana-dr.kkarma has to be applied
+to the longitude of the planet negatively. That is, if λ is the (sāyana) longitude
+before correction, then the longitude with the āyana-dr.kkarma (λ ′ ) will be
+
+                                                   λ ′ = Γ C = Γ D − CD
+                                                             = λ − x.                                                                (7.22)
+
+
+2 In rewriting, the following approximation seems to have been used:
+
+
+                                                    R    3438
+                                                       =      = 57.3 ≈ 60.
+                                                    60    60
+

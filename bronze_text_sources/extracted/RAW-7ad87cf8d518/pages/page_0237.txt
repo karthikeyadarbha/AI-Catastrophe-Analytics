@@ -1,0 +1,117 @@
+193 15. . GNOMONIC ‘SHADOW
+
+Ascensional differences
+
+Taking the Sun’s longitude as 1, 2 and 3 Signs, (that
+is, assuming it at the end of Aries or Taurus or Gemini),
+calculate the three corresponding ascensional differ-
+ences (at the observer’s station). The first, the
+difference between the first two, and: the difference
+between the third and second, are, respectively, the
+ascensional differences corresponding to the first, second
+and third Signs at the observer’s station. (7). (BC)
+
+लड्कोदयप्राणाः
+15. 23. 8. मेषस्य गोः पुथंगतो मिथुनस्य मौर्व्या
+क्षुण्णे गृहत्रयभवो चुगुणो विभक्तः |
+स्वदयुज्यया फलधनूंषि विशेषितानि
+लङ्कोदयासव इति प्रवदन्ति सन्तः ।। ८ ॥।
+
+ते चासवो गगनभूधरषट्‌कचन्द्राः
+पञ्चाङद्धुसप्तशशिनोऽक्नगुणाडकचन्द्राः ।
+. व्यस्तास्तथा निजचरार्धविहीनयुक्ताः
+षण्णां क्रमात्‌ स्वविषये पुनरुत्करमाच्च ।। ६ ॥।
+(Lalla, SiDhVr., 4. 8-9)
+
+Times of the R sine of the Signs at Lanka
+
+Multiply the R sine of 30°, 60° and 90° by the R sine of
+66° and divide each product by the corresponding
+radius of the day-circle. Find the arcs corresponding to
+the three quotients as R sines. The first quotient
+gives, in asus, the time of the rising of Aries in Lanka;
+the second diminished by the first gives that of Taurus;
+and the third diminished by the second that of Gemini.
+So say the wise. (8)
+
+These three times, are, respectively, 1670, 1795 and
+1935 asus. When these are diminished, respectively,
+by the three corresponding ascensional differences at the
+observer’s station, the remainders are the times of
+rising of the first three Signs of the zodiac at the same
+place.
+
+When the ascensional differences at the observer’s
+station are written in the reverse order and are added
+to the three times (at Lanka), also written in the reverse
+order, the results are the times of rising of the next
+three Signs at the same place.
+
+These six written in the reverse order are the times
+of rising of the last six Signs. (9). (BC)
+
+तत्काललग्नम्‌
+15. 23. 4. उद्गच्छतः परिमितिभेवनस्य या स्या-
+दस्तंगते जलपतेदिशि सास्तराशेः |
+कृत्वेष्टकालिकमिनं दुगते विधेयं
+काले विलग्नमथ भायुतं रजन्याम्‌ ।। १० ॥।
+(Lalla, SiDAVr., 4. 10)
+
+15. 23: 6
+Rising poiut of the ecliptic
+
+Whatever portion of a Sign of the zodiac has arisen
+in the east above the horizon, the same portion of the
+Sign (seventh from it), has set in the west.
+
+When the orient ecliptic point or lagna for any time in
+the day is calculated, the true longitude of the Sun at
+that time is considered. But when the orient ecliptic
+point at any time in the night is calculated, the true
+longitude of the Sun is increased by 6 Signs. (10). (BC)
+
+इष्टकाललग्नम्‌
+15. 23. 5. भोग्यान्‌ सहस्रकिरणेन गृहस्य भागान्‌
+सन्ताडयेत्‌ तदुदयेन हरेत्‌ खर्म |
+लब्धं त्यजेदसुसमूहमभीप्ितेभ्यो-
+saa: क्षिपेद्‌ दिनकरेऽपि च राशिभुक्तम्‌ ।। ११॥।
+यावन्त एवमुदया निपतन्त्यसुभ्यो
+राशीन्‌ क्षिपेत्‌ THY तावत एव सूं ।
+शेषात्‌ खराम गुणितादविशुद्धलब्धं
+भागादिकं च भवतीष्टविलग्नमेवम्‌ ।। १२ ॥।
+(Lalla, SiDhVr., 4. 11-12)
+
+Rising point of the ecliptic at any time
+
+Multiply the remaining. degrees etc. of the Sign of the
+zodiac in which the Sun is located by the time of rising
+(in asus) of that Sign and divide by 30. Subtract the .
+quotient in asus from the given time, also in asus. Add
+the remaining degrees etc. of the sign to the longitude of
+the Sun. (Call the result i).
+
+From the remaining asus subtract as many times of
+rising (asus) of the Signs as possible (beginning with the
+one next to the Sun), and add the same number of
+signs toi. (Call the sum ii).
+
+Multiply the remaining time (in asus) by 30 and divide
+by the time of rising (in asus) of the Sign next to the one
+subtracted. Add the quotient in degrees etc. to ii.
+
+The final result gives thus the longitude of the orient
+ecliptic point or vising ecliptic point. (11-12). (BC)
+
+द्य गतकालः
+
+15. 28. 6. चक्रा्धैयुक्तमिदमस्तविलग्नमाहु-
+लंग्नोदयेन ग्‌ णितास्तनुभुक्तभागाः ।
+
+स्वाग्न्युद्धृता: स्युरसवो रविभोग्यकाले
+
+तन्मध्यगोदययुताः समयो विलग्नात्‌ ॥ १३ ॥।
+भानोरभुक्तसमयाल्पतरेष्टकालात्‌
+farang तदुदयाप्तलवान्वितोऽकंः ।
+` लग्नं तदर्कविवरांशह॒तोदयात्‌ स्वात्‌
+ विशोद्धुतात्‌ समय एकगृहेऽकंतन्वोः । १४ ॥।
+(Lalla, SiDAVr., 4. 1 3-14)

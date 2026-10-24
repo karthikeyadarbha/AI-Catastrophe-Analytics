@@ -1,0 +1,49 @@
+3.46 Determining the madhyalagna without iteration                                253
+
+                                    R cos αT × R sin ε
+                               x=                      .                      (3.336)
+                                            R
+With x, two more quantities, namely the kot.ijyā (p) and the dvimaurvı̄ (q) are de-
+fined.
+                                      q
+                                p = (R cos αT )2 − x2
+                                      p
+                        and     q = R2 − x2 .                                (3.337)
+
+Now, the kālāsava is defined to be the arc of the product of the kot.ijyā and the
+trijyā divided by the dvimaurvı̄ or the dyujyā. For convenience we write
+                                               R× p
+                                  R sin θ =         ,                         (3.338)
+                                                q
+
+where θ is kālāsava. The madhyalagna is then given by 90 − θ . Substituting for p,
+q and x in the above expression and simplifying, we have
+                                           R cos αT cos ε
+                          R cos M = p                           .             (3.339)
+                                           1 − cos2 αT sin2 ε
+
+
+Proof:
+
+The relation between the R.A. α , the longitude λ and the declination δ of the Sun
+given by (3.39) may be written as
+
+                                           sin α cos δ
+                                 sin λ =               .                      (3.340)
+                                              cos ε
+Using the relation sin δ = sin ε sin λ to replace δ in terms of λ , the above equation
+reduces to
+                                   sin α p
+                          sin λ =           1 − sin2 ε sin2 λ .                (3.341)
+                                   cos ε
+Squaring both sides and simplifying, we have
+                                              sin α
+                            sin λ = p                       .                 (3.342)
+                                        1 − cos2 α sin2 ε
+With some algebraic manipulation it can be shown that
+                                            cos α cos ε
+                            cos λ = p                       ,                 (3.343)
+                                        1 − cos2 α sin2 ε
+which is the same as (3.339), once we identify λ → M and α → αT . Also, using the
+4-parts formula, the relation between α and λ can be shown to be
+

@@ -1,0 +1,59 @@
+454                                                                              Coordinate Systems
+
+                           P2
+                                                    direction of
+          tow                                       zenith
+          ce ards
+            les n
+               tia ort
+                  lp h
+                    ol e
+                  apparent direction
+           P1         of motion of
+                    celestial objects
+
+                                        φ           O (observer)              horizon
+                   N                                                                       S
+
+
+                   (north pole) P
+
+                direction of
+                 earth’s spin
+                                                       φ
+                                                                   to r              Earth
+                                                               ua
+                                                              eq
+                                                C
+
+
+
+
+                                                                          Q (south pole)
+
+
+
+Fig. C.1 The horizon and the north celestial pole as seen by the observer on the surface of the
+Earth.
+
+
+
+the points P2 and P1 would be indistinguishable on the celestial sphere. All the ce-
+lestial bodies seem to be rotating around the axis OP2 with a period equal to the
+period of rotation of the Earth (nearly 4 seconds less than 24 hours). The point P2
+is generally denoted by P and is called the north celestial pole. The south celestial
+pole is denoted by Q. The celestial sphere for the observer with latitude φ is shown
+in Fig. C.2.
+
+
+
+C.2 Locating an object on the celestial sphere
+
+An object situated at any point on the surface of the celestial sphere, which is a two
+dimensional surface, can be uniquely specified by two angles. Based on the choice
+of the fundamental great circle—the horizon, the celestial equator or the ecliptic—
+we have the following sytems listed in Table C.1.
+   Each of these systems has its own advantages and the choice depends upon the
+problem at hand, somewhat like the choice of coordinate system that is made in
+order to solve problems in physics. Table C.2 presents the Sanskrit equivalents of the
+

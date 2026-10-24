@@ -1,0 +1,60 @@
+176                                     C+.a;ya;a;pra;k+.=+Na;m,a                                    Gnomonic shadow
+
+    hypotenuse of the shadow and divided by the trijyā is the agrajı̄vā in aṅgulas. The result
+    added to the equinoctial shadow gives the bhujā [Rsine of the shadow] when the Sun is in
+    the southern hemisphere.
+    And [when the Sun is] in the northern hemisphere, (a) if the agrajı̄vā in aṅgulas is less
+    than the vis.uvadbhā, it has to be subtracted from the vis.uvadbhā to get the bhujā corre-
+    sponding to the shadow of the śaṅku which lies to the north [of the east–west line]; (b) if
+    the northern declination is sufficiently large, the vis.uvadbhā has to be subtracted from it
+    (the agrajı̄vā in aṅgulas). Then the bhujā corresponding to the shadow of the śaṅku will
+    be to the south [of the east–west line].
+    The square root of the difference between the chāyā and the bāhu is the [chāyā]kot.i.
+    The three form a [right] triangle. The triangle is rotated [around the śaṅku] such that the
+    hypotenuse (chāyā) is in the direction of the chāyā. Then the kot.i is understood to be
+    along the east–west line, and the bāhu along the north–south [line].
+
+The term agrajı̄vā (arkāgrā) refers to the perpendicular distance of the Sun from
+the east/west line in the plane of the horizon at the time of the rising/setting of the
+Sun. In Fig. 3.15(b), St B represents the arkāgrā. The expression for the arkāgrā
+(R cos At ) can be obtained in terms of other quantities as follows.
+
+                               Z
+                    Φ
+                90−
+           P       At                                    δ                                       E
+
+
+
+               90−δ                  diu
+                                   cir rnal
+                                      cle
+                           E
+                                                                                                      O
+                                                                                        At
+N                                  O                                  S
+
+                      St               W           horizon
+
+                                                                                      agrajyā
+                                                                               St                     B
+                     ator                                                                                 horizon
+                  equ
+                                                                                                     W
+                                                                (a)                                         (b)
+
+
+Fig. 3.15 Arkāgrā at sunset when the Sun has northerly declination: (a) as seen on the celestial
+sphere, (b) as seen in the plane of the horizon.
+
+
+    Consider the spherical triangle PZSt . Here
+
+        PSt = 90 − δ ;                 PZ = 90 − φ ;                      ZSt = 90;   PẐSt = At .            (3.86)
+
+Using the cosine formula we have
+
+          cos(90 − δ ) = cos(90 − φ ) cos90 + sin(90 − φ ) sin 90 cosAt .                                     (3.87)
+
+Rewriting the above equation we get an expression for the arkajı̄vā,
+

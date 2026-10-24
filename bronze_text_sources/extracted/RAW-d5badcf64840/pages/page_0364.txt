@@ -1,0 +1,51 @@
+5.5 Parallax in latitude of the Moon in minutes                                                    317
+
+   From the true longitude of the Moon at that instant (sphut.a-parvānta), let the viks.epa
+   ([Moon’s] latitude) be determined as before and then the true [latitude] be obtained. From
+   the sum of or the difference between the dr.kks.epa and the viks.epa, depending upon
+   whether their directions are the same or different, the Rsine is found. The result, multiplied
+   by the second true daily motion [in minutes] and divided by 51570, is the actual parallax in
+   latitude [of the Moon]. Find the sum of or the difference between this (parallax in latitude)
+   and the viks.epa depending on whether their directions are the same or different.
+   The difference of this and the parallax in latitude of the Sun is found if they have the same
+   directions. If they have the different directions, their sum is calculated. The result is the ef-
+   fective nati in the solar eclipse. When finding the difference, if the nati of the Sun remains,
+   then the direction of the nati is to be taken reversely [i.e., opposite to that of the Moon’s
+   deflection]. Otherwise, the direction of the nati is the same as that of the nati of the Moon.
+
+    Till now, the word nati has been used for the parallax in latitude of a given object.
+Before proceeding further, it must be clarified here that the word nati is used in
+different senses from now onwards. However, all these connotations are associated
+with the deflection perpendicular to the ecliptic.
+    In the above verses, the procedure to obtain the effective deflection of the Moon
+from the Sun in the direction perpendicular to the ecliptic is given. This is used in
+the determination of the half-duration of the solar eclipse. It should be noted that the
+role played by the effective nati ne in a solar eclipse is the same as the role played
+by the true latitude βt in a lunar eclipse. We explain the given prescription for ne
+with the help of Fig. 5.5. Here M represents the Moon and M ′ its position as seen
+by an observer on the surface of the Earth owing to the effect of parallax. V is the
+vitribhalagna (nonagesimal) and V ′ the point where the vertical circle through it
+meets the parallel to the ecliptic passing through the Moon. M ′ A is the parallax in
+longitude of the Moon called the lambana, and MA is the nati which is the parallax
+in latitude; they are given by
+
+                                lambana = M ′ A = MM ′ sin ξ
+                                    nati = MA = MM′ cos ξ ,                                     (5.29)
+
+where ξ is the angle between the vertical and the secondary to the ecliptic through
+M, and MM ′ = P sin z, P being the horizontal parallax of the Moon and z its zenith
+distance. Since the horizontal parallax is taken to be one-fifteenth of the daily mo-
+tion,
+                                            λ̇m × sin z
+                              MM ′ = p =                ,                       (5.30)
+                                                15
+where λ̇m is the daily angular motion of the Moon. Let nm be the parallax in latitude
+of the Moon. Then the expression for it is given as
+
+                                              λ̇m × R sin z′v
+                                       nm =                   ,                                 (5.31)
+                                                  51570
+where z′v = zv ± |βt |. The above expression is essentially the same as (5.25) except
+for two replacements: (i) λ̇s , the daily motion of the Sun, is replaced by λ̇m , the daily
+motion of the Moon; and (ii) zv , the zenith distance of the vitribhalagna is replaced
+

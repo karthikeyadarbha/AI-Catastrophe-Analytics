@@ -1,0 +1,48 @@
+xxiv                                                                                                         List of Figures
+
+       5.21 (a) Parallax in the longitude of the Moon as seen by the observer at
+            the centre of the dr.ggola. (b) Spherical triangle formed by the pole
+            of the ecliptic, the zenith and the Moon. . . . . . . . . . . . . . . . . . . . . . . . . . 348
+       5.22 Distance of separation between the centres of the Sun and the
+            Moon’s discs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 349
+       5.23 Criteria for the visibility of the totality/annularity of a solar eclipse. . 351
+       5.24 Condition for the visibility of the totality/annularity. . . . . . . . . . . . . . . 353
+       5.25 Graphical representation of a solar eclipse. The solar and lunar
+            discs are drawn with A and X as centres. The shaded portion is the
+            eclipsed part of the Sun. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355
+
+       6.1 Positions of the Sun and the Moon during vyatı̄pāta. . . . . . . . . . . . . . . 358
+       6.2a Finding the declinations of the Sun and the Moon. . . . . . . . . . . . . . . . . 360
+       6.2b Determination of the true declination of the Moon. . . . . . . . . . . . . . . . . 361
+       6.3a Determination of the parā-krānti, the greatest declination that can
+            be attained by the Moon at a given point in time. . . . . . . . . . . . . . . . . . 365
+       6.3b Determination of the parā-krānti, when the Moon’s orbit is
+            situated between the equator and the ecliptic. . . . . . . . . . . . . . . . . . . . . 368
+       6.3c Determination of the is..ta-krānti, the actual declination of the
+            Moon at a given point in time. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 368
+       6.4 Criterion for the occurrence of vyatı̄pāta. . . . . . . . . . . . . . . . . . . . . . . . 370
+       6.5a Moon’s orbit having the maximum inclination, I = ε + i, with the
+            ecliptic. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
+       6.5b Moon’s orbit having the minimum inclination, I = ε − i, with the
+            ecliptic. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 374
+       6.6 Schematic sketch of the Moon’s orbit and the ecliptic, when the
+            maximum inclination of the Moon’s orbit, I, is greater than ε . . . . . . . 376
+       6.7 Positions of the Sun and the Moon before vyatı̄pāta, at the instant
+            of vyatı̄pāta and after vyatı̄pāta. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 379
+
+       7.1a Āks.a- and āyana-dr.kkarmas when the latitude and the declination
+            both have the same direction (both are positive). . . . . . . . . . . . . . . . . . 387
+       7.1b Āks.a- and āyana-dr.kkarmas when the latitude and the declination
+            both have different directions (one positive and the other negative). . . 390
+       7.2a Heliocentric latitude of the planet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+       7.2b Obtaining the geocentric latitude of a planet from its heliocentric
+            latitude. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 393
+       7.3 Expression for the dr.kkarma correction. . . . . . . . . . . . . . . . . . . . . . . . . 395
+       7.4 Minimum angular separation for the visibility of a planet. . . . . . . . . . . 397
+       7.5 Rising and setting of an exterior planet. . . . . . . . . . . . . . . . . . . . . . . . . . 399
+       7.6 Rising and setting of an interior planet in retrograde motion. . . . . . . . 400
+       7.7 Rising and setting of the Moon and the interior planet in its direct
+            motion. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+
+       8.1     The second correction for the Moon. . . . . . . . . . . . . . . . . . . . . . . . . . . . 403
+

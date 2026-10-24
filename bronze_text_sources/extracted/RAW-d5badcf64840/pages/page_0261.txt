@@ -1,0 +1,58 @@
+214                             C+.a;ya;a;pra;k+.=+Na;m,a                                       Gnomonic shadow
+
+   Simplifying further we have
+
+                       R[sin φ sin a + cotH cos a]
+      R cos z = p                                                                (āśāgrā: north).   (3.194a)
+                    [sin φ sin a + cotH cos a]2 + cos2 φ
+
+When the āśāgrā is south,
+
+                                    [cos H cosa − sin H sin φ sin a]
+                            y=R                                      .
+                                                cos h
+Following an identical procedure as above, we find
+
+                       R[cotH cos a − sin φ sin a]
+      R cos z = p                                                                (āśāgrā: south).   (3.194b)
+                    [sin φ sin a − cotH cos a]2 + cos2 φ
+
+
+                                        ϕ
+                                                        Z
+                               δ
+                                                        A = 90−a H                P
+                                         a
+                                                    z
+
+
+
+
+                                                    S                                    N
+                                                                            on
+                                                                      horiz
+                                            E
+                                                                   diu
+                                                                       rn
+                                                                  circ al
+                                                            equ       le
+                                                               ato
+                                                                  r
+
+                             prime vertical
+                                                        Z’
+                           (samaman..dala)
+
+Fig. 3.28 Spherical triangle used for arriving at the formula for the śaṅku (R cos z) and the
+apakrama (R sin δ ), in terms of the nata (H), āśāgrā (a) and aks.a (φ ).
+
+
+
+
+Proof:
+
+The expressions for the śaṅku given in (3.194) can be arrived at by applying the
+cotangent formula or the four-parts formula in spherical trigonometry to the spher-
+ical triangle PZS shown in Fig. 3.28. Taking H, PZ = 90 − φ , A and z as the four
+parts,
+

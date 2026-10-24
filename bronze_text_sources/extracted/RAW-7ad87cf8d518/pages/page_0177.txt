@@ -1,0 +1,119 @@
+133 13. PLANETS
+
+Sighraphala, etc. as said before. And hence the corres-
+ponding arc. Thus the true longitudes of the planets
+are calculated.1 (6). (BC)
+
+रविचन्द्रस्फुटः--आयभटाधंरात्रिकपक्शः
+18. 7. 10. पञ्चगुणाः सप्तरसाः शरनन्दाः षोडशेन्दवो THe: ।
+कृतगुणचन्द्रा शश्यर्धलिप्तिका: पिण्डकाः सवितुः 11१६॥।
+
+शशिनः सप्तकमृनयों वसुमनवों नवनखा रसेषुयमा: |
+रसवसुयमला: षण्णवयमा, ग्रहः केन्द्रमुल्चोन: ।। १७ I
+
+विषमे भुक्तस्य, समे भोग्यस्य स्वफलमृणधनं मध्ये ।
+भांशोऽकंफलस्येन्दोः षड्राश्यूनाधिके केन्द्रे ।। १८ ॥
+
+पञ्चदशकेन विभजेद्‌ भानुमतो भोग्यमानकं पिण्डम्‌ |
+शशिनोऽगगुणं वसुभिः क्षयधनधनहानयः स्वगतौ ॥1१६॥।
+
+गतिभोग्यखण्डकवधाल्लब्धं नवभिः शतं रवीन्दुफलम्‌ |
+्राग्बच्छुक्रादीनां क्षयधनधनहानयः स्वमतौ ॥ २० ॥
+
+ब्रह्मगुप्तकृतः शोधः-- भुजान्तरम्‌
+कृतां 'शोनं रविफलमिन्दोदेस्रेषु'भागयुतम्‌ ।
+अकंफलभुक्तिघाताद्‌ भगणकलाप्तं भुजान्तरं रविवत्‌ |
+(Brahmagupta, KK, 1.1.16-20; 2.1.5)
+
+True Sun and Moon—ABh. Midnight System
+
+35’, 67’, 95’, 116’, 129’ and 134’ are the mandaphalas
+of the Sun for every half Sign of the mandakendra; that
+is, when the mandakendras are respectively 15°, 30°, 45°,
+60°, 75° and 90°. (16)
+
+77’, 148’, 209’, 256’, 286’ and 296’ are the mandaphalas
+of the Moon.
+
+When the longitude of a planet’s mandocca is deducted
+from its mean longitude, the remainder is its manda
+
+kendra. (17)
+
+When the mandakendra is in an odd quadrant, the
+mandaphala should be calculated from the arc of the
+quadrant passed over, and when it is in an even quadrant,
+from the arc to be passed over. This mandaphala should
+be added to or subtracted from the mean longitude of
+the planet, according as the mandakendra is greater or
+less than 6 Signs.
+
+A further correction for the Moon is 1/27 of the
+mandaphala of the Sun applied positively or negatively
+as in the case of the Sun. (18)
+
+One should divide the Sun’s bhogyamdnapindaka, (the
+difference between the bhuktamandaphala and the
+bhogyamandaphala) by 15, and 7 times that of the Moon
+by 8. The results are their mandagatiphalas, respectively.
+These should be applied to their respective mean
+
+1 For the rationale, see SiDAVr. BC, 11. 212-17..
+11.-# ।
+
+13. 7. 11
+
+motions negatively, positively, positively or negatively,
+according as the mandakendra is in the first, second, third
+or fourth quadrant. (The results are the corrected
+motions of the Sun and the Moon, respectively). (19)
+
+When the daily motion of the mandakendra of the Sun
+or Moon is multiplied by the bhogyakhanda (that is,
+bhogyamanapindaka), and the product divided by 900,
+the result is the mandagatiphala of the Sun or Moon
+accordingly (and is to be applied as explained in the
+previous verse).
+
+In the same manner, the mandagatigphalas of Venus and.
+other planets may be calculated and applied to their
+mean motions negatively, positively, positively or
+negatively (according as the mandakendra is in the
+first, second, third or fourth quadrant. The results
+are the corrected motions of the sun, moon and. the
+planets)? (20)
+
+Emendation by Brahmagupta: Bhuyaniara
+
+The mandaphalas of the Sun (calculated according to
+KK 1.1.16) should be decreased by 1/42 part, and those
+of the Moon (calculated according to KK, I.1.17)
+should be increased by 1/52 part.
+
+Multiply the daily motion of any planet by the Sun’s
+mandaphala and divide the product by 21,600. The
+result is bhujantara, which should be added to the longi-
+tude of the planet, if the mandaphala is added to the Sun’s
+longitude ; and subtracted, if the mandaphala is subtracted.
+This gives the longitude of the planet corrected by
+bhujantara. (5). (BC)
+
+रविस्फुटः-सुयंसिद्धान्तः
+
+18. 7. 11. एवं विषुवति छाया स्वदेशे या दिनाधंजा ।। १२ ॥
+दक्षिणोत्तरयोरेव सा तत्र विषुवत्प्रभा ।
+शङ्कुच्छायाहते fast पुथक्तत्कणेभाजिते ॥ १३ ॥।
+लम्बाक्षज्ये तयोश्चापे लम्बाक्नौ दक्षिणौ सदा 1
+मध्यच्छाया भुजस्तेन गुणिता व्रिभमौविका ।। १४ ।!
+तत्कर्णाप्तधनुलिप्ता नतास्ता दक्षिणे भुजे ।
+उत्तराश्चोत्तरे याम्यास्तत्सूयंक्रान्तिलिप्तिकाः ॥ १५॥। .
+दिग्भेदे fare: साम्ये विश्लिष्टाश्चाक्षलिप्तिका: ।
+तज्ज्याक्षज्याथ cat प्रोज्स्य त्रिज्याकृतेः पदम्‌ FEI
+लम्बज्याक्षगुणोऽकंघ्नः पलभाप्तोऽवलम्बकः |
+स्वाक्नाकंनतभागानां दिक्साम्येऽन्तरमन्यथा ।। १७ ॥
+
+दिग्भेदेऽपक्रमः शेष: तस्य ज्या विज्यया हेता ।
+परमापक्रमज्याप्तचापं मेषादिगे रविः ।1 १८ 11
+
+1 For the rationale and formulae involved, see KK: BC, I. App.
+vii. pp. 222-95.

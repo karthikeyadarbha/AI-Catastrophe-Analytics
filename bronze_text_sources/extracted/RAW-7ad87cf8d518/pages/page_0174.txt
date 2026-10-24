@@ -1,0 +1,118 @@
+13. 7.6
+
+True Moon—Romaka
+
+The mean Moon in revolutions etc. is got by
+multiplying the ‘days’ by 38,100, subtracting 10,984,
+and dividing by 10,40,953. (4)
+
+The mean anomaly in revolutions etc. is obtained by
+multiplying the days by 110, adding 609, and dividing
+by 3031, the result being for sunset at Ujjain. (5)
+
+For the half-Signs of anomaly the intervals of
+equation of the centre are: 1° +14’ +25", °+11'148",
+1*12/-9"/, 49°15”, 48'--18'--0/, and 48’—18'—
+20'—1" (२.८, 1° 14/ 257, 1° 11“ 487, 1° 17 517, 47" 45",
+30’ 0", 9 59“. (6). (TSK)
+
+रविचन्द्रयोः स्फुटः- सौरः
+13. 7. 6. अंशाशीत्या हीनोऽकंः केन्द्रं स्वोच्ववजितश्चन्द्रः ।
+तज्ज्याकंस्य “Ha ett STAT गुणा शशाङ्कस्य ।। ७ ॥।
+
+“व्योमरसान ल भक्ते तच्चापं द्विस्थितं स्वकेन्द्रवशात्‌ ।
+प्रथमे चक्रस्याधें क्षयश्वय: पश्चिमे भागे ।। ८ 1
+
+सौय स्थापितचापं तद्भुक्तिध्न॑ खखाष्टियम'भक्तम्‌ |
+प्रथमवदर्क कार्य चन्द्रे च दिवाकरवशेन ।। & ।।
+(Varaha, PS. 9. 7-9)
+
+True Sun and Moon—Saura
+
+The mean longitude of the Sun minus 80° is called the
+Sun’s (mean) anomaly. The mean Moon minus its
+apogee is its (mean) anomaly. Multiply the sine
+of the anomaly of the sun by 14, and that of the
+Moon by 31. (7)
+
+Divide each by 360, and find their arcs. Put the
+Sun’s arc in two places, for subsequent use. The arc of
+each is to be deducted from its mean longitude if its
+anomaly is less than six rasis, and added if more than
+six एव. (The true Sun and Moon at Ujjain mean
+Moon is got.) (8)
+
+"Multiply the Sun’s arc, kept aside in one place, by the
+Sun’s true daily motion (in minutes) and that kept in
+the other place by the Moon’s true daily motion (in
+minutes). Divide each by 21,600. Add or subtract
+thé résulting minutes in the respective true longitudes
+found, according as the Sun’s arc was first added or
+subtracted. (The true Sun and Moon at Ujjain true
+noon is obtained.)? (9). (TSK)
+
+रविचन्दरस्फुटः--भास्करः १ (महाभास्करीयम्‌)
+13. 7. 7. बाहुकोटी क्रमात्‌ केन्द्रे कोटिबाहू गतागते |
+तयोर्गुणफले प्राग्वत्‌ कर्णा्थे परिकीतिते ।। ८ ॥
+
+1 For the working, see PS: TSK, 8. 4-6.
+9 For the rationales and calculation, see. PS: TSK, 9. 7-9.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 130
+
+आद्ये पदे चतुर्थे च व्यासा कोटिसाधनम्‌ |
+क्षिप्यते शोध्यते चैव शेषयोः कोटिका भवेत्‌ ॥ ९ Ul
+तद्राहुवमयोगस्य मूलं कर्ण: प्रकीतितः ।
+बाहुकोटिफलाभ्यस्ते कर्णे व्यासार्धभाजिते ।। १० ॥।
+
+भुजाकोटिफले स्यातां ताभ्यां कर्णश्च पूरवेवत्‌ ।
+
+भूयः पूर्वफलाभ्यस्ते कर्णे त्रिज्याविभाजिते ॥ ११ I
+
+एवं पुन: पुनः कुर्यात्‌ कणैः पूर्वोक्तकर्मणा ।
+
+यावत्तुल्यो भवेत्‌ कणेः पूर्वोक्तिविधिनाऽमुना ।। १२ ।।
+(Bhaskara I, MBh., 4.8-12)
+
+True Sun and Moon—Bhaskara I (MBh.)
+
+The portions (of the mean anomalistic quadrant)
+traversed and to be traversed (by a planet) are called
+bahu and koti or koti and bahu, according as the mean
+anomalistic quadrant (occupied by the planet) is odd or
+even. The bdhuphala and kotiphala are obtained as
+before for the determination of the hypotenuse (i.e., the
+distance of the planet). (8)
+
+True distance in minutes of the Sun or Moon
+
+(When the Sun or Moon is) in the first or fourth
+(mean anomalistic) quadrant, add the Kotiphala to
+the radius: (when) in the remaining (quadrants),
+subtract that from the radius: the resulting sum or
+difference is the upright. The square root of the sum of
+the squares of that and the bahuphala is called the hypo-
+tenuse. Multiply that hypotenuse (severally) by the
+bahuphala and kotiphala and divide (each product) by the
+radius: the results are (again) the bahuphala and kotiphala.
+From them obtain the hypotenuse (again) as before.
+Again multiply this hypotenuse (severally) by the initial
+bahuphala and kotiphala and divide (each product) by the
+radius. In this way, processing as above, obtain the
+hypotenuse again and again until two successive values
+of the hypotenuse agree (to minutes). (Thus is obtained
+the nearest approximation to the true distance in minutes
+of the Sun or Moon). (9-12). (KSS)
+
+रविचन्धस्फुट:---भास्करः (लघुभास्करीयम्‌)
+13. 7. 89. मध्यमं पद्मिनीबन्धोः केन्दरमुच्चेन वजितम्‌ |
+पदं राशित्रयं तत्न भुजाकोटी गतागते ।। १॥।
+ओजे युग्मे क्रमाज्जेये कोटिबाहू इति स्थितिः ॥ २ ॥
+(Bhaskara I, LBh., 2. 1-22)
+True Sun and Moon—Bhiskara I (LBh.)
+
+Sun’s anomaly, bhuja and koti
+The mean longitude of the Sun diminished by the
+longitude of the (Sun’s) apogee is (called) the (Sun’s
+
+1 For the rationale, see MBh: KSS, pp. 116-21.

@@ -1,0 +1,67 @@
+74                                               å
+                                               .~.Pu+.f;pra;k+.=+Na;m,a                                                   True longitudes of planets
+
+                                                                                                    (δ θ )3
+                                                 or            sin δ θ = δ θ −                              .                               (2.70)
+                                                                                                       6
+Thus we find that sin δ θ is approximated by the first two terms in the series ex-
+pansion for it. This gives fairly accurate results when δ θ is small. That (2.70) is
+valid and yields accurate results only when the arc is small is clearly emphasised in
+Laghu-vivr.ti as follows:
+              x +:ta;a;ya;a;~ta;~ya;aH                                         å
+      O;;vMa k                             . a;a;pa;a;pa;ta;a;va;Za;a;de;va .~.pa;;ta;a Ba;va;a;ta             Á
+
+      The accuracy of this operation is due solely to the smallness of the arc.
+
+
+
+  .
+2 9 I+.:$ya;a;na;ya;na;m,a
+
+
+2.9 Computation of the desired Rsine
+
+      +:na;a;a;Da;k+:Da;nua:$ya;a . a na;a;tvEa;vMa :pa;a;F+.ta;Ma nya;sea;t,a       Á
+
+      +:na;a;a;Da;k+:Da;nuaH k+:ea;a;f:ja;a;va;ya;a ta;Ma .sa;ma;a;pa:ja;a;m,a      Á Á 18             ÁÁ
+                                                                             ú
+      ;a;na;h;tya :pa;a;F+.ta;Ma ta;~ya;aH      k+:ea;fa;a ;a;Za;;gua;Na;a:*.a
+                                                                             ãÁ ta;m,a          Á
+                                       Å
+                                    ìÉe;+SMa h:=e+d, v.ya;a;sa;d;le+.na tua
+      ta;dùÅ;a;ea;gMa va;a;Ta ;a;va:(                                         Á Á 19       ÁÁ
+
+                              å
+      I+.:$ya;a Ba;va;a;ta .~.pa;;a ta;tP+.lM .~ya;a;t,a k+:l+.a;a;d;k+:m,a                       Á
+
+                                        ãÉa ma;Ea;v.ya;RaH
+      nya;a;yea;na;a;nea;na k+:ea;fa;a;(                     k+:a;ya;Ra .sua;sUa;[ma;ta;a              Á Á 20       ÁÁ
+
+      ūnādhikadhanurjyām     . ca nı̄tvaivam  . pat.hitām. nyaset |
+      ūnādhikadhanuh.kot.ijı̄vayā tām . samı̄pajām || 18 ||
+      nihatya pat.hitām  . tasyāh. kot.yā śis..tagun
+                                                       . añca tam |
+      tadyogam    . vātha viśles.am
+                                    . hared vyāsadalena tu || 19 ||
+      is..tajyā bhavati spas..tā tatphalam . syāt kalādikam |
+      nyāyenānena kot.yāśca maurvyāh      . kāryā susūks.matā || 20 ||
+      Having also obtained the dorjyā of the arc which is in excess or deficit [from a multiple of
+      225 minutes], as described above (in the previous verse), keep it separately.
+      Multiply the nearest dorjyā [obtained from the tabulated Rsines] by the kot.ijyā of the arc
+      which is in excess or deficit. Also multiply the kot.ijyā by the dorjyā of the arc which is in
+      excess or deficit. The sum or difference of these two has to be divided by the radius (trijyā).
+      The desired jyā (dorjyā) can thus be found accurately. By the same procedure, the kot.ijyā
+      of any desired arc may be found accurately.
+
+    The above verses give the formulae for finding the dorjyā and kot.ijyā of an arc
+of any desired length. To find this using the procedure given in Indian astronomical
+texts, the desired arc length is expressed as a sum of two arcs, say α + δ α where α
+is an integral multiple of 225 and 0 < δ α < 225. The formulae given in the above
+verses are:
+                                 dorjyā α kot.ijyā δ α ± kot.ijyā α dorjyā δ α
+            dorjyā (α ± δ α ) =                                                                                                            (2.71)
+                                                       trijyā
+                                 kotijyā α kot.ijyā δ α ∓ dorjyā α dorjyā δ α
+           kot.ijyā (α ± δ α ) = .                                                ,                                                        (2.72)
+                                                       trijyā
+

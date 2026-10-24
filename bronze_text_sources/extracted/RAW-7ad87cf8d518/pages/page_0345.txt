@@ -1,0 +1,110 @@
+301 22. RATIONALE OF ASTRONOMY
+
+This is the ninth Rsine.
+
+Thus, we get all the twelve Rsines, which might be
+set out as follows:
+
+Rsin 37° 30'=2093’
+Rsin 45°=2431’
+Rsin 52° 30'=2728'
+Rsin 60°=2978'
+
+Rsin 7° 30’=449’
+Rsin 15°=890'
+Rsin 22° 30=1315’
+Rsin 30°= 1719.
+
+Rsin 67° 30/--3177'
+Rsin 75°=3321'
+Rsin 82° 30’=3409’
+Rsin 90°= 3438’
+
+Analysis. Stanza ABh. 9 (०-०) gives the fourth Rsine.
+This fourth Rsine yields the eighth and the second Rsines.
+The eighth Rsine does not yield any new Rsine. The
+second Rsine yields the tenth and the first Rsines. The
+first Rsine yields the eleventh Rsine, and the tenth
+Rsine yields the fifth and the seventh Rsines. These
+Rsines do not yield any new Rsines. So this process
+ends here.
+
+Again, the radius is the twelfth Rsine. This yields
+the sixth Rsine, and the sixth Rsine yields the third and
+the ninth Rsines. These do not yield any further
+Rsines. So the process ends here.
+
+Thus, from the fourth and the twelfth Rsines one gets
+all the twleve desired Rsines. (KSS)
+
+रविचन्द्रयोः स्फुटवासना
+22. 13. 1. ‘fafa’ नंगे: संगुणिते 'खकुञ्जरेः'
+स्वकेन्द्रजीवे विभजेत्‌ फलं कलाः ।
+तदूनयुक्तौ स्फुटतामिनोडुपा-
+वितः स्वकेन्द्रेऽजतुलादिके क्रमात्‌ 1 १४ ।।
+(तमनाः, SiDhVr., 2. 14)
+
+True Sun and Moon
+
+Multiply the R sines of the mean anomalies (of the
+Sun and the Moon) by 3 and 7, respectively, and divide
+each by 80. The results (called mandaphala or correc-
+tions to be applied to the mean longitudes) are in
+minutes. Add or subtract the results (to or from the
+mean longitudes of the Sun and Moon) according as
+their mean anomalies are within the six Signs beginning
+from Libra or within the six Signs beginning from Aries
+(i.e., greater or less than 180°). Thus are obtained their
+longitudes. (14). (BC)
+
+Diagrammatic rationale
+
+Here is given the formulae for determining the true
+longitudes of the Sun and the Moon. This can be
+
+22. 13. 1.
+
+achieved लालः by the epicyclic method or by the
+eccentric method.
+
+Epicyclic method
+
+First the epicyclic method or  nicoccavrttabhangt.
+According to this method, the body is supposed to
+describe, with uniform motion, the circumference ofa
+circle called nicoccaurtta or epicycle, the centre of which is
+supposed to move along the kaksdortia or deferent or
+circular orbit of the body, with a motion equal to the
+mean motion of the body, but in a reverse direction.
+The time the body takes to make one revolution about
+the centre of the epicycle is the same as the time the
+epicycle takes to revolve once round the orbit. |
+
+This method is illustrated below:
+
+U
+
+Cc.
+
+Py
+९
+
+P
+
+Let ABPC be the defereni of the Sun, with centre E,
+the centre of Earth. Let AEP be the apse line. With
+centre A and radius equal to manddantyaphalayja or radius
+of the Sun’s epicycle describe a circle. Let the
+apse line cut it at U and N, which are the mandocca
+or apogee and mandanica or perigee of the Sun on the
+epicycle, respectively. When the centre of the epicycle
+is at A, the Sun is at U. Let A move with the mean
+motion of the Sun up to A’ along the orbit and let the
+Sun move from U’ to § along the epicycle so that arc
+U’S=arc A’A. Join SE cutting the orbit at 8... Then
+A’ is the madhyamasirya or mean place of the Sun and 8’
+is the sphutasirya or true place of the Sun in the orbit.
+Thus the correction to be given to the mean longitude of
+the Sun to get its true longitude is the value of the arc
+A‘S’. This value is valled mandaphala or equation of
+the centre of the Sun and the process is called mandakarma.

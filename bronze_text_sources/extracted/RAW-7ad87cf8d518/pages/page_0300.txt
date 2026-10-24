@@ -1,0 +1,119 @@
+18. 4. 1
+
+Visibility corrections
+
+Subtract 3 rasis from the planet’s eastern rising point
+and add the same to its western rising point. From
+these find the krénti. Apply the correction with the
+latitude in degrees, being the sum of the two in case
+
+both are uni-directional, difference otherwise. Natamsa
+is thus got. (17)
+6, 7, 8, 9, 12, 17, 33 are the khandas. Divide the
+
+14100045 by 10. Add to the quotient the value of the
+khanda specified for it. Keep it separate (and call it,
+say x).
+
+Multiply the remainder by the succeeding value of
+the khanda. Again find 1/10th of this product. Add
+this to the khkanda obtained earlier. Multiply by the
+fara in angulas. Divide the product by 12. The result
+gives the visibility correction, Drkkarma, in minutes.
+These minutes are to be added to the true position of
+the planet, if the fara and natathSa are in the same
+direction; otherwise drkkarma is to be subtracted.! (18)
+(VSN)
+
+ग्रहोदयास्तमयगणनम्‌
+--लल्लः
+18. 5. 1. . ऊनः प्रागुदयं प्रयाति सवितुः प्रागेव चास्तं ग्रह:
+
+पश्चादभ्यधिकोऽकंसञ्धिधिवशाच्नित्यं प्रवाहेण च ।
+दृश्याः प्राचि कूजायैसू्ेतनयाः पश्चाददुश्याः सदा
+वक्रस्थौ सितौ च तौ क्रमगतौ चन्द्रश्च तद्रचत्ययात्‌ ।।
+
+अयनसंस्कृतग्रह
+शैलाडूत्िकु 'भिथेथागतभुजज्योनां तिभज्यां हतां
+विक्षेपेण च वेदवेदवसुगोरूपाष्टरद्रे भेजेत्‌ ।
+विक्षेपापमयोविभिन्नककुभोलिप्तादि लब्धं धनं
+कर्तव्यं PAL त्यजेत्‌ समदिशोः स्यादायनः स ग्रह:।। २।।
+
+दुक्कर्मशुदधः ग्रह
+व्यस्तज्यामथवा गृहत्रययुतात्‌ क्षेपाहतामुद्धरेद्‌
+रूपाज़ाब्धिगजे ग्रहे धनमृणं कुर्यात्‌ कलादयुक्तवत्‌ |
+अक्लज्पागुणितेऽथ weaned क्षेपे फलं सौरिका
+जायन्ते "रविभिहतेऽथ विषुवच्छायाउगुलैर्वा हते 1311
+प्रागृणं स्वमयनग्रहे फलं
+सौम्ययाम्यशरसम्भ॑वं सदा ।
+अन्यथापरकपालसंस्थिते
+कारयेदिति भवेत्‌ स दुम्प्रहः ।। ४
+कालां रवि" भिः शशी महि'सुतो-
+ऽत्यश्टया'थ नन्दैः' सितः
+rer fee गुणभूमि fat Terai Fat:
+सौरिः शिव tha:
+
+1 This procedure is for knowing the heliacal rising and: setting in
+the east. The process is to: be reversed for the west
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 256
+
+वक्रस्थौ बुधभागवौ रवि-गजे:'
+सूर्यान्तरैदू श्यतां
+
+यान्ति प्रत्यग्रिनों भषट्कसहित:
+कार्यस्तथा दुर्ग्रहः ।। ५।।
+
+मम्योऽत्पादसुनिवहोऽधिकाद्‌ गतो यो
+मध्यस्थैरसुभिरसौ युतो विधेयः |
+
+कालांशा गगनरसै'भेजेदमीभि-
+श्चोक्ताल्पर्यूचरमवेहि तैरदृश्यम्‌ ।। ६ ॥
+
+स्फुटग्रहोदयास्तमयौ
+
+उक्तेष्टकालांशविशेषलिप्ता
+
+गत्योवियोगेन gat दिनानि |
+विलोमगेऽकं ग्रहभुक्तियुत्या
+
+गतानि गम्यानि च विद्धि युक्त्या ।। ७ ॥
+
+अस्तेऽधिकाः स्युरध्ुवकालभागा
+गतानि विद्धीह्‌ दिनानि तानि |
+अल्पास्तथा गम्थदिनानि तानि
+तथोदये गम्यगतानि तानि ।! ८ ॥।
+(Lalla, SiDhVr., 8. 1-8)
+
+Computation of rising and setting
+—Lalla
+
+The planet, which has a motion slower than that of
+the Sun, always rises (heliacally) in the east and sets in
+the west. The planet which has a faster motion rises
+in the west and sets in the east. So, Mars, Jupiter, and
+Saturn, (which have a motion slower than that of the
+Sun), always rise heliacally in the east and set in the
+west. Mercury and Venus, when retrograde, do the
+same. But when they have direct motion, (which is
+faster than that of the Sun), they rise heliacally in the
+west and set in the east. And so does the Moon.
+
+(The daily rising and setting) is due to the wind called
+Pravaha. Then the planet with a lesser longitude than
+that of the Sun rises before sunrise and sets before sunset ;
+and that with a greater longitude rises after sunrise and
+sets after sunset. (1)
+
+Planet corrected for ecliptic deviation
+
+Multiply the radius diminished by the R sine of the
+true longitude of a planet, as calculated, by 1397 and by
+the latitude of the planet. Divide the product by
+1,18,19,844. The quotient in minutes etc. should be
+added to the true longitude of the planet if its latitude
+and declination are in opposite directions, and should
+be subtracted if they are in the same direction. The
+result is the longitude of the planet corrected by the
+visibility correction due to the ecliptic deviation or
+Ayanadrkkarmakala. ` (2)

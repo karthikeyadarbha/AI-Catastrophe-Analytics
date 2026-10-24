@@ -1,0 +1,57 @@
+4.2 Exact moment of conjunction by iteration                                                                                                               259
+
+   cara be determined at that instant [of conjunction], and applied [to obtain the true sunrise
+   time]. If otherwise [the instant of conjunction is determined from the position of the Sun
+   and the Moon at sunset], and the value of the cara obtained at sunset is applied as per the
+   procedure described for [application at] sunset. From the prān. akalāntara and the desired
+   sine (dorbheda6 ), determined at the instant of conjunction, the corrections have to be done.
+   Then the true positions of the Sun and the Moon are obtained. The time of conjunction is
+   once again calculated from that. This (yogakāla) is multiplied by the true daily motion and
+   divided by 60. The results are added or subtracted, according to whether the conjunction
+   is yet to occur or has already occurred. Thus [by using an iterative procedure] the true
+   longitudes of them (the Earth’s shadow and the Moon7 ) will be rendered equal [even] in
+   minutes at the end of the full Moon day (parva8 ).
+
+   The instant of conjunction calculated using (4.4) is only approximate, as ∆ t used
+in the expression is found using a simple rule of three that presumes a uniform
+motion of the Sun and the Moon, which is not true. In order to consider this non-
+uniform motion into account, an iterative procedure to determine the true instant of
+conjunction is described here.
+   As per the computational scheme followed by Indian astronomers, the instant of
+sunrise or sunset is the reference point for finding the time of any event. Hence, the
+instant of true sunrise is first to be determined accurately. It was noted in Chapter 2
+that this involves the application of the cara (ascensional difference), and the equa-
+tion of time, where the latter has two parts, namely the correction due to the equation
+of centre and the correction due to the prān.akalāntara. Here it is prescribed that
+the cara and the equation of time are to be determined at the instant of conjunction,
+in order to find the instant of true sunrise or sunset as the case may be.
+   Next, the approximate value of the instant of conjunction is found and also the
+true longitudes of the Sun and Moon, while their true daily motions are also deter-
+mined at this instant. The second approximate value of the instant of conjunction is
+determined using (4.3). The true longitudes and the daily motions are again com-
+puted at this instant, to obtain the third approximate value. The iteration process is
+carried till two successive values of the instant of conjunction are the same to the
+desired accuracy.
+   That the difference in the motion of the Sun and the Moon is a continuously
+varying quantity has been explicitly mentioned in Laghu-vivr.ti, while giving an
+avatārikā9 to these verses:
+   A;Ta     ;a;d;na;ga;tya;nta:=+k+:l+.a;na;Ma      :Sa;a;;Ga;a;f;k+:a;Æa;BaH        .sa;h   yaH   .sa;}ba;nDa;a;na;ya;maH        .saH   ta;d;va;ya;vea;Sua
+
+   A;nya;a;dx;ZaH        .~ya;a;t,a    ta;~ya      :pra;a;ta;[a;NMa   na;a;na;a:+.pa;tva;a;t,a Á   I+.tyea;va;ma;a;na;a;ta;~ya     ya;ea;ga;k+:a;l+.~ya
+
+      å                  ñÍ                              å
+   A;~.Pu+.f;tva;ma;a;Za;*ÅÉ Ùù
+                         ö÷  +;aÅ ;a;va;Zea;Sea;NEa;va .~.Pu+.f;a;k+:tRua;ma;a;h Á
+
+   However, the relation that exists between the difference in the daily motion [of the Sun
+   and the Moon] with 60 ghat.ikās will be quite different from the one that holds for its
+6 The term bheda is sometimes used as an equivalent to viśesa (a particular). In the present context,
+                                                               .
+the particular doh. = bhujā that is referred to is the equation of centre, which is generally referred
+to as the doh.phala or bhujāphala.
+7 The Sun and the Moon in the case of a solar eclipse.
+8 New Moon day in the case of a solar eclipse.
+9
+  This refers to the succinct note or observation made by the commentator before introducing a
+chapter or section or successive set of verses dealing with a topic.
+

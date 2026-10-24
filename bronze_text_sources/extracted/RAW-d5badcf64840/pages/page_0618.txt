@@ -1,0 +1,57 @@
+Index                                                                                         571
+
+Bhūta-saṅkhyā 25, 441–445                        number in a Mahāyuga 26–28
+   list of 442–445                                Comātiri xxxv
+bhūvyāsārdha 335, 340                          conjunction
+Bı̄jagan . ita xxxiii                               exact moment by iteration (in lunar eclipse)
+bim. bamāna 419                                         258, 259
+bimbāntara xliii, 291, 294, 295, 300, 301        contact
+   through coordinate geometry 416, 417             first xlii
+   between the Sun and Moon 349, 410, 413,          last xliii
+        428, 429                                  Copernicus 489, 522, 523
+bim. bāntara-bhujā 423, 428                     corrections
+Brahmasiddhānta 22                                 to obtain longitude at true sunrise 82
+                                                  cosine 51–53
+cakra 14                                          cosines of kendra (anomaly) 49
+cakravāla algorithm xxxiii
+calendars                                         daily motion of planets 129
+   lunar, luni-solar, solar 17                    daks.in . āyana 16
+candrabāhu 378                                   daks.in . ottara-man . .dala, (-vr.tta) 133
+Candracchāyāgan         . ita xxxvi             Dāmodara 116, 488
+candragrahan        . a, xlii                     daśapraśna 200, 201
+candrocca 403                                     day(s)
+cāpa 50                                             count of 31
+   in lunar eclipse 290, 294                         duration of 83
+cara 83, 84, 89, 196, 197                            of the Gods (devās) 23
+   application of 159                                of the pitr.s 23
+   arc corresponding to 90, 91                    declination(s) xli, 456–458
+   in lunar eclipse 259                              in the context of daśapraśna (ten problems)
+carakhan    . .da 159                                     200–228
+caraprān   . a xlv, 83, 84, 89, 157                 of the Moon xliv
+carāsava, carāsus 77, 88                           of the Moon by another method 362–369
+   expression for 80                                 of the Sun xlv, 77, 134
+cardinal directions 138                              of the Sun and the Moon xliv, 359, 360
+caturyuga 24                                      deferent circle
+celestial equator 133, 136, 186, 188, 199, 202,      radius of 90, 97
+        456, 457, 479–483                         deśāntara 89
+celestial sphere 8                                deśāntara-kāla 40–42
+   for an equatorial observer 133                 deśāntara-karma 38
+chāyā xl, 135, 178–180, 207, 211, 212, 215,     deśāntara-sam  . skāra xxxviii, 38, 39
+        217, 218 228–231, 477                     Dharmaśāstra xxxv
+   bāhu or bhujā of 178–180                     dhruva xxxviii
+   in dr.kkarn    . a of the Sun 334                 need for changing 44, 45
+   (Earth’s shadow) 256, 257, 290                    of planets at the beginning of Kaliyuga
+   in śr.ṅgonnati 426                                   43–45
+chāyābāhu, chāyābhujā 135, 136, 140, 177,      given in Tantrasaṅgraha 44–45
+        178, 186–189, 218, 221                    celestial pole 133
+   in śr.ṅgonnati 422–426                       digagrā
+chāyāgan   . ita 87                                in the context of daśapraśna (ten problems)
+chāyākarn    . a 135, 186, 194, 229, 230                200, 201
+chāyākhan    . d.a 231                          digvr . tta 469, 470, 473–475, 477
+chāyākot.i 178, 215, 218, 223, 472, 473         dinakaravalaya 523
+chronogram 1                                      directions
+citrabhānu xxxiv                                    determining the east 137
+civil day 4–6, 9                                     fixing in ones own place 138
+   mean xxxviii                                   diurnal
+   number elapsed since an epoch 30–32               circle, Sun’s 136, 186–188, 196, 202, 214
+

@@ -1,0 +1,48 @@
+B.2 Spherical triangles                                                                      449
+
+Properties of a spherical triangle
+
+The following properties of a plane triangle are applicable to a spherical triangle as
+well:
+1. The largest/smallest angle formed at the vertex is opposite the largest/smallest
+   side of the triangle.
+2. The sum of two sides of the triangle is always larger than the third side.
+  The important differences between the spherical and plane triangles that are of
+immediate utility in the study of spherical astronomy are, in summary:
+1. While the sum of the three angles in a plane triangle is always equal to the sum
+   of two right angles, in the case of a spherical triangle it is always greater than
+   that. The sum is not constant and the upper bound happens to be the sum of six
+   right angles. In other words, in a spherical triangle
+
+                                  180◦ < A + B + C < 540◦ .                               (B.1)
+
+2. While in a plane triangle the sides a, b and c are specified in units of length, in
+   the case of a spherical triangle they are usually specified in terms of angles. The
+   sum of the three sides in a spherical triangle satisfies the following inequality:
+
+                                    0◦ < a + b + c < 360◦ .                               (B.2)
+
+
+Fundamental formulae for spherical triangles
+
+There are several formulae connecting the sides and angles of a spherical triangle.
+Out of them four are considered fundamental and they are frequently referred to,
+while providing explanations in the text. In the following we explain these formulae
+without providing any derivations.1
+
+
+Cosine formula
+
+If ABC is the spherical triangle, with sides a, b, c, then the law of cosines is given
+by
+                        cos a = cosb cos c + sin b sin c cos A.                  (B.3)
+Clearly, there are two companions to the above formula. They are easily obtained
+by cyclically changing the sides and the angles, and are given by
+
+                           cos b = cos c cos a + sinc sin a cos B                         (B.4)
+                           cos c = cos a cos b + sina sin b cosC.                         (B.5)
+
+1
+  The derivation of these formulae, for instance, may be found in W. M. Smart, Textbook on Spher-
+ical Astronomy, Cambridge University Press, 1965.
+

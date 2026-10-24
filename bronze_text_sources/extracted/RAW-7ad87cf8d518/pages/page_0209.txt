@@ -1,0 +1,120 @@
+165 15. PLANETS
+
+Since on the day of the new moon the Sun’s disc is
+just above that of the Moon, to the manes the Sun
+appears to be on the zenith. This then is their midday
+as it is in the case of men (when the Sun is on their
+zenith). (16)
+
+As the Moon recedes from its position below the Sun,
+to the manes, the Sun appears to decline. Then, on the
+middle of the eighth day when the Moon is at a distance
+of 90° from the Sun, it appears to be on their horizon
+or very near it. (17)
+
+On the full moon day, the Sun is hidden by the Moon’s
+disc which is at a distance of 6 Signs from it. It is then
+midnight for the manes. Again, on the eighth day,
+when the Moon approaches the Sun, the latter is visible
+(to the manes). Then, gradually it rises above their
+horizon. (18). (BC)
+
+रविचनद्रगतिः
+--रविमध्यगतिः (पौलिशः)
+13. 28. 1. गुण (? यम} -शिखि-गुणा-ऽग्नि-यम-शशि-
+वियुता सैका-सरूप-रूपै-का" ।
+'खै-का'-वियुता च भानोः
+षष्टिर्भुक्तिः क्रमादेवम्‌ । १७ ॥
+(Varaha, PS, 3.17)
+
+Daily motion of Sun and Moon
+
+Mean Sun (Pauliga)
+
+The daily motion of the Sun in minutes during each
+of the twelve months, Mesa etc. is 57 (58?), 57, 57, 57,
+58, 59, 61, 61, 61, 61, 60, 59. (17). (TSK)
+
+चन्दरमध्यगतिः (रोमकः)
+13. 28. 2. खनवनगाः' शशिभुक्तिः कृतवसुमुनय: शशाद्धुकेन्द्रस्थ ।
+
+यातस्पफुटान्तरे दिवसभुक्तिरागामिकी नैशी ।। ७ ॥।
+(Varaha, PS, 8.7)
+
+Moon’s mean daily motion (Romaka)
+
+The daily motion of the mean Moon is 790’, and that
+of the mean anomaly, 784’. For work relating to the
+day-time, the true daily motion is the difference between,
+the true Moon of the taken day and of the previous day.
+For work relating to the night time, the true daily
+motion is the difference between the true Moon, of the
+taken day and of the next day. (7) (TSK)
+
+चन्द्रस्फुटगतिः (पौलिशः )
+13. 28. 3. विनवात्‌ पदाहुशध्नात्‌ सप्तांश: साश्िखाम्बरो' भुक्ति:।
+गत्यर्धान्ताच्छोध्यो लिप्ताभ्यो नवमुनिवसुभ्यः' ।। ४ uy
+(Varaha, PS, 3.4)
+
+1 For the calculation, see PS: TSK, 8.7.
+13-*
+
+13. 28. 4
+
+Moon’s true motion (एश्पार59)
+
+If the padas obtained by ch.-2, verse 2 are plus-padas,
+(1.6.; in the first half-gati) subtract 9 from the padas,
+multiply by 10 and divide by 7. Add the result to 702.
+The Moon’s daily true motion in minutes is obtained.
+In the second half-gati, i.c., if the padas are minus-padas,
+deduct 9, multiply by 10 and divide by 7 and subtract
+the result from 879. The resulting minutes are the
+daily true motion of the Moon. (4). (TSK)
+रविचन्द्रस्फुटगतिः
+रविशशिनोः मध्यभुक्तिः--सौरसिद्धान्तः
+13. 28. 4. नवतिः सप्तशतीन्दोः सचतुस्त्रिशद्धिलिप्तिका भुक्तिः |
+
+. षष््टर्व्येका विकलाष्टकं च मध्या सहस्रांशोः । ११॥
+
+चन्द्रकेन्रभुक्तिः
+सप्तकला वित्यंशाश्चन्द्रोच्चस्यन्दुभुक्तिरनयोना |
+केन्द्रस्य परिज्ञेया स्फुटभुक्तिश्चानया कार्या ॥ १२ ॥
+
+रविचन्दरस्फुटभुक्तिः .
+केन्द्रान्तरज्या गुणिता 'तिथि'वर्गेणोद्धृता च परिणाम्या |
+तत्कार्मुकं क्षयचयौ भुक्तौ मृगकर्कंटाद्येषु ॥ १३ ॥
+तत्कालभुक्तिरेषाऽऽटो राचिकी शशिविशेषात्‌ |
+व्यासाधैहता भुक्तिः स्फुटभुक्तिहूता SHE: कणैः ।। १४॥
+(Varaha, PS, 9.11-14)
+
+Sun and Moon: True daily motion
+Mean motion of the Sun and the Moon—Saura-siddhanta
+
+The mean daily motion of the Moon is 790’ 347, and
+that of the Sun is 59’ 8”. (11)
+
+Motion of Moon’s anomaly
+
+The daily motion of the Moon’s apogee is 6%
+minutes. The Moon’s mean daily motion less the
+motion of the apogee is the daily motion of the Moon’s
+(mean) anomaly. The true daily motion is to be found
+using this motion of anomaly. (12)
+
+True motion of the Sun and the Moon
+
+The daily motion of anomaly should be multiplied by
+the current sine-interval and divided by 225. This
+should be reduced to the epicycle, (i-e., multiplied by
+the degrees of epicycle and divided by 360°). The
+change in sine of the equation of centre is to be calcu-
+lated. Itsarc should be subtracted from the mean daily
+motion, ifthe anomaly falls within rdsis 9 to 3, and added
+if it falls within 7665 3 to 9. (13)
+
+This is the true motion per day, for the momént (for
+which the anomaly is taken). The true daily motion
+in the case of the Moon is obtained by subtracting the
+previous day’s true Moon from the given day’s true
+Moon. The daily mean motion, multiplied by 120’

@@ -1,0 +1,56 @@
+4.9 Angular diameter of the Earth’s shadow in minutes                                              267
+
+                                                                       BS   BS
+                                                                 =        =       .             (4.23)
+                                                                       SC SE + lc
+Hence
+                                                               AE      BS
+                                                                   =         .                  (4.24)
+                                                                lc   SE + lc
+Solving for lc , we have
+                                         SE × AE
+                                                    ,          lc =              (4.25)
+                                         BS − AE
+where SE refers to the actual distance of the Sun from the Earth. This is taken to
+be the dvitı̄ya-sphut.a-karn.a d2s . From Fig. 4.3 it is obvious that BS and AE are the
+semi-diameters of the Sun and the Earth, whose diameters in yojanas are given as
+4410 and 1050. Substituting these values in (4.25), we obtain (4.21).
+
+
+  .
+4 9 BUa;. C+.a;ya;a;ya;aH            ;a;ba;}ba;k+:l+.a;v.ya;a;saH
+
+
+4.9 Angular diameter of the Earth’s shadow in minutes
+
+      . a;ndÒ+BUa;}ya;nta:=M tya;+:a Zea;Sea BUa;v.ya;a;sa;ta;a;a;q+.tea   Á Á 16    ÁÁ
+
+      C+.a;ya;a;dE;GyRa;&+.tea v.ya;a;saH   . a;ndÒ+va;t,a ta;ma;saH   k+:l+.aH   Á
+
+      candrabhūmyantaram      . tyaktvā śes.e bhūvyāsatād.ite || 16 ||
+      chāyādairghyahr  . te vyāsah. candravat tamasah. kalāh. |
+      Subtracting the distance of separation between the Earth and the Moon (dvitı̄ya-sphut.a-
+      karn. a) [from the length of the chāyā], and multiplying the reminder by the diameter of the
+      Earth and dividing it by the length of the shadow, gives the [diameter of the] shadow as in
+      the case of the Moon in minutes [at the distance of the Moon’s orbit].
+
+   If lc be the length of the chāyā (the Earth’s shadow), and Dc and De are the linear
+diameters of the shadow and the Earth respectively, then the formula given for the
+diameter of the shadow at the distance of the Moon’s orbit may be written as
+
+                                                                   (lc − d2m) × De
+                                                        Dc =                       .            (4.26)
+                                                                          lc
+The above result may be understood with the help of Fig. 4.4. Here E represents
+the centre of the Earth, M the centre of the Moon and C the tip of the shadow.
+EC represents the length of the shadow, lc , and EM the sphut.a-yojana-karn.a, d2m .
+From the triangle AEC,
+                                        AE       AE
+                                tan θ =       =      .                       (4.27)
+                                        EC        lc
+      Similarly from the triangle BMC,
+                                                                       BM    BM
+                                                       tan θ =            =        .            (4.28)
+                                                                       MC lc − d2m
+Therefore
+

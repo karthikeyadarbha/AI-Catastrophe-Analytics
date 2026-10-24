@@ -1,0 +1,61 @@
+220
+
+छायाकोयिवृत्तम्‌, श्ा.7
+
+छायाभुजः, 7.13
+छायालम्बनम्‌, X18, 36
+छेदः, 7.2
+
+छेद्यक:, 1.1
+
+जलधिः, 1.2
+
+जीवा, ज्या, VI.17
+
+जीवे परस्परन्यायः,
+VII.11, 12, 16
+
+Sch: , (c.w.)
+
+ज्या, ज्यार्ध: V1.1, 10
+
+ज्याखण्डः, (d.w.)
+
+ज्याचापान्तरम्‌, शा.8
+
+ज्या, पिण्ड-ज्या, शा.1,2,8
+
+ज्यावर्गः, शा.10 (d.w.)
+
+APPENDICES
+Circle described by Rcos. shadow of a
+gnomon.
+Rsine gnonomic shadow.
+Parallax of the gnomon.
+Denominator.
+Figure; Diagram; Drawing.
+1014, (number and place).
+
+Rsine.
+
+R sine (A plus or minus B).
+
+Sign Tula, Libra.
+
+1. Semi-chord; 2. Ordinate of an arc;
+3. Rsine; 4. Line joining the two ends of an
+arc.
+
+1. Segment of arc; 2. Sine segment;
+
+3. Sine difference.
+
+Difference between an arc and the
+
+corresponding semi-chord.
+
+The semi-chords of one, two etc. parts of the
+arcs of a quadrant which is divided into any
+number of equal parts.
+
+Square of Rsine.

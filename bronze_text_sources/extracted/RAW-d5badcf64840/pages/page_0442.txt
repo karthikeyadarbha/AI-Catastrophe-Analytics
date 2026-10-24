@@ -1,0 +1,58 @@
+7.4 Alternate method for reduction to observation                                              395
+
+   of the result has to be added or subtracted [to the longitude of the planet] depending upon
+   whether the viks.epa and the dr.kks.epa have the same direction or otherwise, when it is
+   rising as in the case of the Moon. During setting the application has to be reversed.
+   In this way, the two dr.kkarmas may be carried out in a single step for getting the position.
+
+The aim is to arrive at a single formula for the dr.kkarma (DD′ of Fig. 7.1 or 7.3).
+It turns out that the formula is an exact result without involving the kind of approx-
+imations used in getting the āks.a and āyana-dr.kkarmas (in verses 1–4). It is stated
+that the dr.kkarma is the arc corresponding to the following expression:
+                                                                    
+                      ′              viks.epa × dr.kks.epa × trijyā
+                  DD = Arc of                                          .         (7.33)
+                                   cos (viks.epa) × cos (dr.kks.epa)
+
+In modern notation, we have the following relation
+
+                                   DD′ = sin−1 (tan β tan zv ).                             (7.34)
+
+This expression is the same as the expression for the ‘cara’ (ascensional difference),
+with the declination δ replaced by the celestial latitude β and the terrestrial latitude
+φ replaced by the arc of the dr.kks.epa zv .
+
+                                                       Z
+
+                                               V
+                                                                90
+                                                                   −
+                                                                       z       P
+                                                                           v
+                              eq
+                                       eclip
+                               ua                          90
+                                 tor
+                                        tic
+                                                                                   K
+
+
+                                                                 Γ 0−β
+                                                                   9                   N
+                    horizo                χ
+                          n                                         θ
+
+                                               D’           G
+
+                                                   D
+
+Fig. 7.3 Expression for the dr.kkarma correction.
+
+
+
+
+Proof:
+
+In what follows, we give the derivation of the dr.kkarma correction using spherical
+trigonometry. For a derivation of this result using the traditional approach, the reader
+

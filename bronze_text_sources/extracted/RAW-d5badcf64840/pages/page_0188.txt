@@ -1,0 +1,77 @@
+3.6 Relation between the gnomon, its shadow and the hypotenuse                                         141
+
+Criterion for the noon-shadow to be declared equinoctial
+
+The condition that must be satisfied for the noon-time shadow to be called the
+viśuvacchāyā is clearly spelt out in Yukti-dı̄pikā.
+
+      k+:a;ntya;eaH
+      Ò                ;Æa;Ba;a;a;d;Za;eaH   .sa;a;}yMa .sa;a;ya;na;a;~ta;ea;d;ya;a;k
+                                                                                     R +:ya;eaH Á
+
+         a;sma;a;h;a;na ta:a;a;k+:eRa ma;Dya;a;eîå ;a;va;Sua;vMa v.ra:jea;t,a Á Á
+      ya; / / / / /
+
+      na;a;nya;d;a;~ta;ea;d;ya;kÒ +:a;ntya;eaH     ;a;va;a;d;Za;eaH   Bea;d;sMa;Ba;va;a;t,a Á
+
+      O;;k+:sUa:a;ga;ta;a;. C+.a;ya;a ta:a .~ya;a;d
+                                                    u ;d;ya;a;~ta;ya;eaH Á Á
+
+      The Sun would reach the equinox at noon on that day on which the declinations obtained at
+      the sunrise and sunset from its sāyan
+                                           . a longitude have opposite directions and are equal [in
+      magnitude].
+      On no other day [can the Sun be at equinox at noon]. This is because the declinations having
+      different directions will vary [in magnitude]. Only there [on that day] will the shadow at
+      rising and setting lie on the same [straight] line.
+
+   Let δr and δs be the declinations of the Sun at sunrise and sunset. It is stated
+that the Sun is at the equinox at noon on that day on which these two declinations
+have opposite directions (one southern and the other northern) but equal magnitudes.
+In other words, the conditions to be satisfied for the noon-shadow to be declared
+equinoctial are
+                          δr = −δs      and     |δr | = |δs |.
+
+
+                 ñÍ
+  .
+3 6 C+.a;ya;a;Za;ö
+                 *:Å +.k+:Na;Ra;na;Ma
+                  u
+                                                  .sa;}ba;nDaH
+
+
+3.6 Relation between the gnomon, its shadow and the hypotenuse
+
+              ñÍ
+      ta;. C+.öÅ
+              *:u+.va;gRa;sMa;ya;ea;ga;mUa;lM k+:Na;eRa Y;~ya va;gRa;taH       Á
+
+                  ñÍ                                 ñÍ
+      tya;+:a Za;öÅ
+                  *:+.kx +:a;tMa mUa;lM C+.a;ya;a;Za;öÅ*:+.a;vRa;pa;yRa;ya;a;t,a      ÁÁ 8       ÁÁ
+                     u                                   u
+
+      :℄ea;ya;ea d;eaH k+:ea;a;f;k+:NeRa;Sua õ
+                                             d;a;Bya;a;ma;nya;ea Y; 
+                                                                   a;Ka;le+.Sva;a;pa          Á
+
+      tacchaṅkuvargasam                            ′
+                           . yogamūlam. karn  . o sya vargatah. |
+      tyaktvā śaṅkukrtim
+                       . .    mūlam. chāyāśa ṅkurviparyayāt ||8 ||
+      jñeyo doh.kot.ikarn                         ′
+                         . es.u dvābhyāmanyo khiles.vapi |
+      The square root of the sum of the squares of that (shadow) and the śaṅku is the karn         .a
+      (hypotenuse). Subtracting the square of the śaṅku from the square of this (karn       . a), and
+      taking the square root the shadow is obtained. By [doing] the reverse process [subtracting
+      the square of the shadow from the square of the karn   . a], the śaṅku is obtained. It must be
+      understood that among the doh. (sine), kot.i (cosine) and karn   . a, if any two are known then
+      the other [third] can be determined in all the instances.
+
+   It can be easily seen from Fig. 3.2b or 3.4 that the triangle formed by the śaṅku
+(gnomon), the chāyā (shadow) and the karn.a (hypotenuse) is a right-angled trian-
+gle. In these figures OX represents the śaṅku, OY the chāyā and XY the karn.a:
+                       q
+                          (XY )2 − (OY )2 = OX
+

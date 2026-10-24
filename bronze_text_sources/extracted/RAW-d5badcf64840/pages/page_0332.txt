@@ -1,0 +1,51 @@
+4.17 The visibility or otherwise of sparśa and moks.a                                 285
+
+Step 3
+
+Having determined ζ , it now remains to find the projection of the samparkārdha
+along the vertical. In Figs. 4.10a and 4.10b, the projection is BO. From the triangle
+BOX,
+                                          BO BO
+                                    cos ζ =    =
+                                          OX      Sd
+                            or       BO = cos ζ × Sd
+                                          R sin(90 − ζ )
+                                        =                × Sd .                     (4.60)
+                                                R
+This is exactly the expression for the projection of the sum of semi-diameters of the
+shadow and the Moon along the vertical as described in the text.
+
+
+Time measure of a segment along the vertical circle
+
+For the time being, we ignore the Moon’s parallax and find out the time measure of
+this segment OB along the vertical circle. This is the time taken by this segment to
+come down below the horizon.
+
+                                                          ϕ
+                                              Z
+                                                                          δ
+
+
+
+
+                                                                     cle
+                                                                   al cir
+               P
+                                                                  diurn
+                                       S (Sun) E
+
+
+           N                                                                  S
+                          horizon
+                                              W           O
+
+                                        tor
+                                       ua
+                                      eq          C
+                                                              B           X
+                                                      ϕ
+
+Fig. 4.11 Correspondence between the segment (BO) along the vertical circle and the segment
+(CO) along the diurnal circle.
+

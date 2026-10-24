@@ -1,0 +1,39 @@
+546                                                                            Glossary
+
+gurvaks.ara             A time unit which is equal to one-sixtieth of a vinād.ı̄ or 24
+                                                                                     60
+                        of a sidereal second.
+hanana                  Multiplication.
+hāra, hāraka          Divisor.
+haran.a                 Division.
+haran.aphala            Result of division, quotient.
+hata                    That which is multiplied.
+hr.ta                   That which is divided.
+icchā                  Literally, desire; generally used to refer to the third of the
+                        three quantities, whose corresponding phala is to be deter-
+                        mined by employing the rule of three.
+icchāphala             The desired consequent; the fourth quantity, corresponding to
+                        icchā to be obtained by the rule of three.
+indūcca                Higher apsis of the Moon.
+indupāta               Node of the Moon.
+is..ta                  Desired quantity.
+is..tabhujācāpa       Arc corresponding to the desired Rsine.
+is..tadigvr.tta         Vertical circle passing through the zenith and the planet.
+is..tadikchāyā        Shadow in the desired direction.
+is..tadoh.kot.idhanus   The complementary arc of any chosen arc.
+is..tadyujyā           Desired dyujyā (Rcosine of declination).
+is..tagrahan. akāla    Desired moment during an eclipse/occultation.
+is..tajyā              Rsine at the desired point on the circumference of a circle.
+is..tāpakrama          Desired declination.
+is..tāpakramakot. i    Rcosine of the desired declination.
+is..tasaṅkhyā         The desired number.
+itarajyā               The other Rsine (ordinate).
+itaretarakot.i          The Rcosine (ordinate) of each other.
+jaladhi                 The number 4 in the Bhūtasaṅkhyā system; also 1014 (both
+                        number and place).
+jhas.a (matsya)         Figure in the form of a fish in geometrical construction such
+                        as intersecting circles.
+jı̄vā                  Rsine of an arc; R sin θ where θ is the angle corresponding
+                        to the arc and R is the trijyā, which is the radius of a circle
+                        whose circumference is 21600 units; R ≈ 3438.
+

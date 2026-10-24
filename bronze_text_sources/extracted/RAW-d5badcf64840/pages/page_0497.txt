@@ -1,0 +1,51 @@
+450                                                                    Spherical trigonometry
+
+The law of cosines – more often referred to as the cosine formula – is analogous to
+the ordinary law of cosines used in plane trigonometry. It has two direct practical
+applications: (i) it straightaway gives the third side of a spherical triangle if the other
+two sides and the included angle are known, and (ii) it gives all the angles if all the
+three sides are known. Further, it may be noted that the above rule reduces to the
+planar law when the sides of the spherical triangle are small. It is well known that
+when θ is small,
+
+                                                                θ2
+                      sin θ → θ ;       and      cos θ → 1 −       .                   (B.6)
+                                                                2
+Using the above approximation, (B.3) reduces to
+
+                               a2 = b2 + c2 − 2bc cosA,                                (B.7)
+
+which is none other than the cosine formula for a plane triangle.
+
+
+Sine formula
+
+The relation between the ratio of the sides to that of the angles of a spherical triangle
+is given by
+                               sin a      sin b    sin c
+                                      =         =        .                          (B.8)
+                               sin A sin B sinC
+When the sides a, b and c are small, it is quite evident that the above formula reduces
+to
+                                 a          b        c
+                                      =         =        ,                          (B.9)
+                               sin A sin B sinC
+which is the sine formula for a plane triangle.
+
+
+Four-parts formula
+
+Considering any four consecutive parts of a spherical triangle, which obviously in-
+cludes two sides and two angles, they can be shown to satisfy the following relation:
+
+  cos (inner side) cos (inner angle) = sin (inner side) cot (other side).
+                                               − sin (inner angle) cot (other angle).
+                                                                                     (B.10)
+
+    Of the two sides and two angles that we consider consecutively, the side which
+is flanked by two angles is called the ‘inner side’ and the angle which is contained
+by two sides is called the ‘inner angle’. For instance, consider the four consecutive
+parts B, a, C and b in the spherical triangle ABC in Fig. B.2. Here a is the inner side
+and b is the other side. Similarly, C is the inner angle and B is the other angle. Then,
+for these four parts, the four-parts formula is
+

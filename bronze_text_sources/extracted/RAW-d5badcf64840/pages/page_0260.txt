@@ -1,0 +1,54 @@
+3.30 Determination of z and δ from H, a and φ                                     213
+
+   In these verses, the second problem, of finding the zenith distance (śaṅku) and
+the declination (krānti), in terms of the hour angle (nata), the latitude (aks.a) and
+the amplitude (āśāgrā), is considered. That is, z and δ are determined in terms of
+H, φ and a.
+   As in the earlier problem, before stating the formula for the śaṅku (R cosz) a
+few intermediate quantities are defined here also. First, the svadeśanata and the
+svadeśanata-kot.i, which are compliments of each other, are defined as
+
+                                           natajyā × lambaka
+                         svadeśanata =                        ,
+                                                  trijyā
+                                           R sin H × R cos φ
+                         or      R sin h =                   .                 (3.185)
+                                                   R
+Hence,                                                 q
+                   svadeśanata-kot.i = R cos h =          R2 − (R sin h)2 .   (3.186)
+Two more quantities which depend on the svadeśanata-kot.i, which we denote by x
+and y, are defined thus
+                                      R sin H × R sin φ
+                                  x=                    ,                   (3.187)
+                                           R cos h
+and                           √
+                                R2 − x2 × R cosa ± x × R sin a
+                         y=                                    ,            (3.188)
+                                              R
+‘+’ when the āśāgrā is north and ‘−’ when it is south.
+   Suppose we choose āśāgrā to be north as shown in Fig. 3.28. Then substituting
+for x in the above equation and simplifying we have
+
+                              R[sin H sin φ sin a + cosH cos a]
+                         y=                                     .              (3.189)
+                                            cos h
+For convenience, we further define two quantities ρ and ξ as follows:
+                                               
+                                      y × R cosh 2
+                                  ρ=                                           (3.190)
+                                          R
+                                     q
+                                  ξ = ρ + R2 sin2 h.                           (3.191)
+
+Now the śaṅku is given by
+
+                                                y × R cosh
+                                  R cos z =                .                   (3.192)
+                                                    ξ
+
+Substituting for y and ξ we have
+
+                            R[sin H sin φ sin a + cosH cos a]
+         R cos z = q                                                   .       (3.193)
+                    [sin φ sin a + cotH cos a]2 sin2 H + sin2 H cos2 φ
+

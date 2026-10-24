@@ -1,0 +1,48 @@
+460                                                                              Coordinate Systems
+
+    Among the various great circles represented on the celestial sphere, the ecliptic
+is very important. This is because the Sun moves along the ecliptic, and the inclina-
+tions of the orbits of all the planets and the Moon with the ecliptic are small.
+    Using the formulae of spherical trigonometry, it can be shown that the eclip-
+tic coordinates (β , λ ) and the equatorial coordinates (δ , α ) are related through the
+following equations:
+
+                           sin β = sin δ cos ε + cos δ sin ε sin α                           (C.9)
+                           sin δ = sin β cos ε + cos β sin ε sin λ .                        (C.10)
+
+
+
+C.3 Precession of equinoxes
+
+
+                      locus of the tip of the Earth’s K (pole of the ecliptic)
+                      axis in the celestial sphere
+
+                                                      space−fixed
+                                                      reference axis
+                           P
+
+
+
+                                      spin of
+                                      the Earth
+                                                            precesses in
+                                                           ~26000 years
+
+
+
+
+Fig. C.6 The locus of points traced by the equatorial axis due to precession.
+
+
+    Because of the gravitational forces of the Sun and the moon on the equatorial
+bulge of the rotating Earth, the rotational axis of the Earth moves with respect
+to a space-fixed reference frame as shown in Fig. C.6, like the axis of a precess-
+ing top. As a result of this, the relative orientations of the ecliptic and the celes-
+tial equator in space keep steadily varying, maintaining the angle of inclination
+around an average value of 23.5◦ . In otherwords, the equinoctial points Γ and Ω
+as indicated in Fig. C.7 move backwards (westwards) along the ecliptic. This phe-
+nomenon is known as the precession of equinoxes. In this figure, K is the pole of
+the ecliptic. The tip of the axis of rotation of the Earth moves around the circle
+P → P1 → P2 → P3 → P.
+

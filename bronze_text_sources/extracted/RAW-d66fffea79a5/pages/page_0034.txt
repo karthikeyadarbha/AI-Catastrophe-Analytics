@@ -1,0 +1,43 @@
+xxtiv «© ARYABHATIVA
+
+the shpere rotates one half. Similarly, in the next 30 ghatikas the entire
+water flows out, the gourd reaches the bottom of the cylinder and the
+sphere completes one full rotation, In this manner, the sphere could be
+rotated intelligently keeping pace with time.” (Gola, 22, pp. 143-44).
+
+7. Verification of a Computaticnal System
+Explaining the method of the verification of astronomical
+computation by observation Stiryadeva states :
+
+“In an open spot construct a perfectly circular platform of
+desired radius in angulas, raised to the height of the eye, with the
+east-west and north-south lines drawn (through the centre) and 21,600
+equal divisions (of minutes) marked on its circumference, Then,
+at sunrise and sunset, stand (in turn) at the west and east sides of
+the platform and observe the half-risen and half-set Sun, respectively,
+and mark their positions on the circumference as indicated by the
+20101101 (fixed at the centre of the circle). Mark also the opposite
+points on the circumference as indicated by the shadow of the gnomon.
+Mark also a point at the tip of the mid-day shadow. When the
+Sun is in the northern hemisphere, place another gnomon on
+the east-west line and observe daily the entrance of the shadow on
+that line, These observations should be continued for two or three years.
+If the sun, observed thus, is seen exactly in the positions arrived at by
+computation, then that computation is to be understood as correct. If
+the time of the entrance of the midday shadow on the north-south line
+corresponds to that derived by computation, then also the correctness of
+the computation is verified. In the same way, the correctness of the
+computation may be verified also by the observation of the north-south
+midday shadow, when it is either maximum or totally absent. The
+verification of the computed Sun with the observed Sun is done in
+this manner.
+
+“The Moon will also be correct if the computed conjunction of the
+Moon with the observed Sun is found to be identical with the observed
+one at the time of eclipses. And, the other planets too will be correct
+if the computed conjunctions of the Moon (as verified) above with
+the computed planets are in conformity withthe observed one, to be
+correct.”” (Com. on Gola, 48, pp. 182-83).
+
+8. A discrepancy in Laila explained
+After specifying that at Kali 3600 (Saka 421), when the Arya-

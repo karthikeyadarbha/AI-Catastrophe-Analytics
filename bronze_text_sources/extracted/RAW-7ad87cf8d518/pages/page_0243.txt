@@ -1,0 +1,125 @@
+199 16.
+
+--सोरसिद्न्तः
+तमोबिस्ब:
+16. 5. 1. रविकक्ष्या नवतिगुणा षडष्टदसत्रो दूधूतेन्दुकक्षाया: |
+छेद: षट्त्नि'घ्नाया: लब्धेनोनश्च WaT: ।। १।॥।
+
+“वियदके qo शशिकक्ष्यया हृते कार्मुके तमोव्यास: |
+
+स्थित्यध॑ काल:
+चन्द्रतमोव्यासयुति द्वाभ्यां हूत्वा ततो वर्गात्‌ ॥। २ ॥।
+
+विक्षेपवर्गहीनादासन्नपदे 'वियद्द्विचन्द्र घने ।
+सूर्यन्दुभुक्तिविवरोद्धृते स्थितेर्नाडिका लब्धाः ॥ ३ ।।
+
+परग्रहणेन्दोः Heat विक्षेपमतोऽनया स्थितैभवति |
+एवं भूयो भूयः स्थित्य विशेषः कृतो यावत्‌ ।। ४ ॥।
+
+इष्टकालग्रासप्रमाणम्‌
+अकेंन्दुभुक्तिविवरं वाञ्छितनाडीहतं तु षष्टिहतम्‌ |
+स्थितिलिप्तास्ताभ्यस्तत्तत्कालेन्दोश्च विक्षेपात्‌ ।। ५॥
+
+कृतियोगपदं शोध्यं शशिराहुकलप्रमाणयोगदलात्‌ ।
+यच्छेषं तद्‌ ग्रस्तं ज्ञेयं तत्कालमकन्ढोः ।। ६ ॥
+विमर्दकालः .
+अन्त्याद्ययोधिशेषादवनतिविक्षेपवगेविव रपदम्‌ ।
+far तिथिवत्‌ कत्वा विमदंकालोऽकंचन्द्रमसोः ।। ७ ।।
+(Varaha, PS, 10.1-7)
+
+—Saura Siddhanta
+
+Diameter of the shadow
+
+Multiply the Moon’s true distance in its orbit by 36,
+and divide by the Sun’s true distance multiplied by 90
+and divided by 286. Subtract this result from 36
+multiply by 120, divide by Moon’s true distance and
+get the arc of the resulting sine. This is the angular
+diameter of the shadow. (1-2a)
+
+Duration of the eclipse
+
+Add the angular diameters of the Moon and the
+shadow, divide by two, and square it. Subtract the
+square of the Moon’s latitude from this, and find the
+square root. Multiply this by 120 and divide
+by the difference of the motions per day of the
+Sun and the Moon, pertaining to the time of eclipse
+The duration of the eclipse is obtained in nddtkas
+
+(2b-3)
+
+ind the Moon’s latitude at first contact, and using
+this find a more correct duration. Repeat this till there
+is no difference between the previous and the next
+durations. (4)
+
+Obscuration at any desired moment
+
+Take the nadis before or after full or new moon up to
+the time for which the amount eclipsed is wanted
+Multizly this by the difference of the Sun’s and Moon’s
+daily motions, (mentioned above), and divide by 60.
+
+` EGLIPSES
+
+16. 6.1
+
+The ‘corresponding minutes of arc’ are got. Square
+this, square the Moon’s latitude for the momert, add
+them and extract the square root. Subtract this from
+the half-sum cf the diameters of the eclipsing and the
+eclipsed bodies. The remainder is the minutes of arc
+eclipsed, at the moment taken, of the Moon in the case
+of the lunar eclipse, and of the Sun in the case of the
+solar eclipse. (5-6)
+
+Time of obscuration
+
+Take the difference of the angular semi-diameters,
+instead of the sum. Square it, subtract the square of the
+parallax-corrected latitude (in the case of the solar
+eclipse), of the latitude (in the case of the lunar), find the
+square root, double it, and treat it as tithi, i.e. multiply by
+60 and divide by the difference of the parallax-corrected
+daily motions for the solar eclipse, cr of the mere daily
+motions in the case of the lunar. The time of total
+obscuration is got.1 (7) (TSK). ।
+
+--आयंभटीयम्‌
+16. 6. 1. ` चन्द्रे जलमर्कोऽग्निः मृद्भूश्छायापि या तमस्तद्धि |
+छादयति शशी सूर्य, शशिनं महती च भूच्छाया ।। ३७ ॥
+
+स्फुटशशिमासान्तेऽक पातासन्नो यदा प्रविशतीन्दुः |
+भूच्छायां पक्षान्ते तदाधिकोनं ग्रहणमध्यम्‌ ।। २८ Ut
+
+भूरविविवरं विभजेद्‌ भूगुणितं तु रविभूविशेषेण ।
+भूच्छायादीर्घ॑त्वं लब्धं भूगोलविष्कम्भात्‌ ।। ३६ ॥
+
+छायाग्रच॑न्द्रविवरं भूविष्कम्भेण तत्‌ समभ्यस्तम्‌ |
+भूच्छायया विभक्तं विद्यात्‌ तमसः स्वविष्कम्भम्‌ ।। ४०-।।
+
+तच्छशिसम्पकधिकृतेः शशिविक्षेपवगितं शोध्यम्‌ |
+स्थित्यधंमस्य मूलं ज्ञेयं चन्द्राकंदिनभोगात्‌ ।। ४१ ॥।
+
+चन्द्रव्यासार्धोनस्य वगितं यत्तमोमयाधेस्य ।
+विक्षेपकृतिविहीनं तस्मान्मूलं विमदर्धिम्‌ ।। ४२ ॥
+
+तमसो विष्कम्भार्धं शशिविष्कम्भाधैरवाजतमपोह्य ।
+विक्षेपाद्यच्छेषं न गृह्यते तच्छशाङ्भुस्य ।। ४३ ॥।
+
+विक्षेपवर्गसहितात्‌ स्थितिमध्यादिष्टर्वाजितान्मूलम्‌ |
+सम्पर्कार्धाच्छोध्यं शेषस्तात्कालिको ग्रासः ।। ४४ ।।
+(Aryabhata I, ABh., 4. 37-44)
+
+—Aryabhatiya
+Moon, Sun, Earth and Shadow
+
+The Moon is water, the Sun is fire, the Earth is earth,
+and what is called Shadow is darkness (caused by the
+Earth’s Shadow). The Moon eclipses the Sun and the
+great Shadow of the Earth eclipses the Moon. ` (37)
+
+1 For detailed elucidation, rationales and calculations, see PS:
+TSK, 10. 1-7 ॥

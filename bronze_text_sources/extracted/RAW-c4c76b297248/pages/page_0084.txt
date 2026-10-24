@@ -1,0 +1,50 @@
+Hindu Zodiac and Ancient Astronomy
+
+from its true value by 87 minutes, the longitude of Jupiter varies by 1 80° while computing
+across 3600 years. At the beginning of Kaliyuga the elongation of Jupiter was only 17°
+and this small difference automatically cancel out for a difference of 87" 13°°° in the
+synodic period. Similar is the case with all planetary mean longitudes at the beginning of
+Kaliyuga. Alternatively using the annual synodic variation Y/S:
+
+Planet Siddhantic Y/S Modern Y/S Difference
+Jupiter 329° 38’ 54” 329° 39’ 1”.47 -7" 47
+Saturn 347° 47’ 10”.8 347° 46’ 43”.1 +27".7
+
+The difference in Siddhantic Y/S leads to a variation of (-)7°.47 and 27°.7 for Jupiter and
+Saturn respectively in 3600 years. Because of this reason Jupiter and Saturn had the
+above deviations at the beginning of Kaliyuga from the Siddhantic zero point viz., the
+vernal equinox of AD 499 for the Ardharatrika system of Aryabhata.
+
+०० Yuga System - A Mathematical Model
+
+Correlation between the inaccuracy of the Siddhantic synodic periods and the elongation
+of the planets at the beginning of Kaliyuga suggest that the Siddhantic mean planetary
+elements all are entirely theoretical in origin. Even though such an inference is contrary to
+what we may expect, it can be satisfactorily explained as follows:
+
+Accuracy of the planetary computations depends upon the precision with which the
+epochal positions have been observationally ascertained and on the correctness of the
+planetary motion. As we saw earlier, the methodology of Siddhantic astronomers
+demanded the most precisely determined synodic periods for arriving at the correct
+planetary elongation with reference to the mean Sun of the respective expiry of Kali-year.
+In this context, the theoretical values based on the Yug&di synodic super-conjunction was
+probably more reliable than the observationally determined synodic periods i.e. the
+interval between two successive heliacal risings or settings. For example, Aryabhata
+himself accepted the theoretical values as they were providing the best fit with the
+observations as compared to the observationally deducible crude values of such distant
+past. It is quite likely that the ancient astronomers had no sufficient provisions for
+determining the interval between two successive heliacal risings with the accuracy up to
+the minutes.
+
+5. Epoch of Siddhantic Astronomy and Zero point
+
+Expiry of the 3600 Kali years is the well-known epoch of Aryabhata in the ‘Midnight’ as
+well as ‘Sunrise’ systems. It can be understood by computation and from the quotations
+of Bhaskara-I that the year-length of the ‘midnight’ system was 365.25875 days - the
+same as that of the ‘old' Siryasiddhanta available in Pancasiddhantika. In view of this
+agreement it is generally accepted that the expiry of 3600 Kali (Saka 421) is the epoch of
+Siryasiddhanta as well. The epochal positions according to the Aryabhatiya are given in
+the following table:
+
+60
+

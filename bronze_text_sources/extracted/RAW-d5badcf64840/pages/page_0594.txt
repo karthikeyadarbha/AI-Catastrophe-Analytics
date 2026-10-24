@@ -1,0 +1,43 @@
+Glossary                                                                             547
+
+jı̄ve-paraspara-       Rule for obtaining the Rsine of the sum or difference of two
+    nyāya             angles, wherein the Rsine of one angle is multiplied by the
+                       Rcosine of the other and vice-versa. That is, R sin(A ± B) =
+                       R sin AR cos B±R cosAR sin B
+                                     R              .
+Jūka                  The sign Tulā (Libra).
+jyā                   See jı̄vā; Perhaps earlier jyā referred to the chord correspond-
+                       ing to an arc, that is 2R sin θ2 , where θ is the angle corre-
+                       sponding to the arc. But later, as in Tantrasaṅgraha, the jyā
+                       refers to R sin θ .
+jyācāpāntara        Difference between an arc and its Rsine.
+jyākhan. .da          Rsine difference.
+jyāpin. d.a           The Rsines of one, two etc. parts of a quadrant which is di-
+                       vided into a certain number of equal parts, generally 24.
+jyārdha               Same as what came to be termed the jyā, that is, R sin θ ; (see
+                       jyā).
+jyāsaṅkalita         The summation of Rsines.
+jyāvarga              Square of the Rsine.
+jyotirgola             Sphere of celestial bodies.
+jyotiścakra           Circle of asterisms.
+kaks.yā               Orbit of a planet.
+kaks.yāman.d.ala,     Deferent or concentric circle, on which the mean planet
+  kaks.yāvr.tta       moves.
+kaks.yā-vyāsārdha   Mean radius of the planetary orbit.
+kalā                  Minute of an arc (angular measure); also referred to as liptā,
+                                   1
+                       liptikā; 21600 th part of the circumference of a circle.
+kalāgati              Motion expressed in minutes of arc.
+kālalagna             (1) Time elapsed after the rise of the vernal equinox at any in-
+                       stant. (2) Time interval between the rise of the vernal equinox
+                       and the sunrise.
+kalāvyāsa            Angular diameter (for instance, of Sun, Moon etc.) expressed
+                       in minutes.
+Kaliyuga               The yuga (aeon) which commenced on February 18, 3102
+                       BCE at sunrise at Laṅkā.
+kalyādi               Beginning of the Kali epoch.
+kalyādi-dhruva        Initial positions (longitudes) of planets at the beginning of the
+                       Kali epoch.
+kalyahargan. a         Number of civil days elapsed since the beginning of the
+                       Kaliyuga.
+

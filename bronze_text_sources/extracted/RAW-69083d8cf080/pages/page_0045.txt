@@ -1,0 +1,41 @@
+INTRODUCTION xlv
+
+has not been satisfactorily solved by Indian astronomers till then and only
+approximate solutions had been given which are valid only if the latitude is
+small.23_ The formulae derived here accord with the modern formulae.
+
+Chapter X tackles Fifteen types of astronomical problems. Taking the
+sun and the krdanti triangle and the krantikoti triangle there are six elements,
+vizZ., Jongitude, R.A., declination, obliquity of the ecliptic, nata and krantikoti.
+The problem is: Given two of these six, the other four are to be found out.
+There will be in all 15 cases which will arise. All these cases are examined
+and the methods for finding the other four elements are discussed exhaustively
+from fundamentals. It is a very interesting and instructive exercise to
+understand how the ancient astronomers’ mind worked in solving problems
+on spherical trigonometry.
+
+Chapter XI deals with Direction and Gnomonic Shadow. This Chapter
+starts with the method for finding accurately the east-west and north-south
+lines or directions. The method adopted is the familiar one, marking off the
+points where the shadow of the gnomon touches the circumference of a circle
+with centre at the foot of the gnomon, forenoon and afternoon, and joining
+them to get the east-west line. Since there will be a change in the declination
+of the sun between the forenoon and afternoon this line will not accurately
+depict the east-west line and a correction is provided to rectify the error.
+Then Kujyd and Carajya are defined and the formulae derived. The method
+for arriving at the shadow for the given time is next considered and the
+standard method is adopted. But in this two corrections are made is in
+Tantrasangraha. The sun is not a point but a sphere, and the umbra is to be
+taken as the shadow, and correction is needed for this. Secondly the
+correction due to the parallax of the sun is also explained. The converse
+problem of finding time from shadow is tackled by the standard method after
+giving effect to the above two corrections. Then the problems connected with
+noon shadow, Samasanku, corner shadow etc., are dealt with in the usual
+manner.
+
+There is again an interesting section concerned with Ten Shadow
+Problems. We have five elements of the spherical triangle joining the sun,
+zenith and the north pole. The five elements are the three sides and two
+angles of the triangle. That is, zenith distance, co-declination, co-latitude,
+which are the three sides and, the azimuth and the hour angle, the two
+angles. (Actually the text would use either these elements or their

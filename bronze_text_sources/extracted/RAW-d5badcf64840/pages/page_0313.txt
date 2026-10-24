@@ -1,0 +1,66 @@
+266                                                       . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                                         Lunar eclipse
+
+correspond to a distance of d2s (d2m ), the above relations follow straightaway from
+the rule of three.
+   The commentary Laghu-vivr.ti reminds us that the values of the linear diameters
+are mentioned in verse 10 of this chapter. This fact is recalled in the commentary
+Laghu-vivr.ti as follows:
+      ‘;a;d;gvea;d;a; /a;b./Da;Æa;ma;ta;ea Ba;a;na;eaH v.ya;a;sa; /////   +;a;ya;ea ;a;va;Da;eaH ’ I+.tyua;+.+.pa;Ea . . . Á
+                                                                            çÉ
+                                                                  a;~ta;Tya;îå
+
+      As stated earlier, the diameter of the Sun is 4410 yojanas and that of the Moon is 315 . . . .
+
+
+
+  .
+4 8 BUa;. C+.a;ya;a;ya;aH                 ;dE;GyRa;m,a
+
+4.8 Length of the Earth’s shadow
+
+                                           ñÍ È
+      .=+a;va;BUa;}ya;nta:=M Kea;Sua :pa;a: å
+                                           *:;   îå ÁM Ka;tRua;a;na:jRa+:=E H
+                                               Å *+                             Á Á 15   ÁÁ
+
+      &+.tMa Ba;ga;ea;l+.a;va;Sk+:}Ba;a;t,a BUa;. C+.a;ya;a;dE;GyRa;ya;ea:ja;na;m,a           Á
+
+      ravibhūmyantaram . khes.u paṅtighnam. khartunirjaraih. || 15 ||
+      hr.tam
+           . bhagolavis.kambhāt bhūcchāyādairghyayojanam |
+      The distance of separation between the Earth and the Sun multiplied by 1050 and divided
+      by 3360 is the length of the chāyā, the Earth’s shadow, in yojanas.
+
+    In Fig. 4.3, S and E refer to the centres of the Sun and the Earth respectively. C
+represents the tip of the Earth’s shadow in the shape of a cone. The length of the
+shadow from the centre of the Earth is nothing but the height of the cone denoted by
+lc in the figure. It is given to be
+
+                                                                                d2s × 1050
+                                                                       lc =                .                                             (4.21)
+                                                                                   3360
+
+
+
+
+                     B
+                                                                                     A
+
+                                                                                                       θ                           C
+                     S
+                                                                                     E
+
+
+
+                                                                                                                   lc
+
+
+Fig. 4.3 Determination of the length of the Earth’s shadow.
+
+
+  This may be understood as follows. Considering the similar triangles AEC and
+BSC, we have
+                                                                                AE   AE
+                                                               tan θ =             =                                                     (4.22)
+                                                                                EC    lc
+

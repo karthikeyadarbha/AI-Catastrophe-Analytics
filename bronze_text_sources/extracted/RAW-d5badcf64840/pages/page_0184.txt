@@ -1,0 +1,89 @@
+3.3 Correcting the east–west points                                                                                                    137
+
+                                                                        K (sin δ2 − sin δ1 )
+                                                          ∆=                                 .                                       (3.10)
+                                                                               cos φ
+
+In other words, the true east point E ′ is the point on the circle which is at a distance
+∆ from the line E ′′W ′ (see to (ii) in Fig. 3.2a). The true east–west line is E ′W ′ . The
+point E ′ would be to the north (south) of E ′′ , depending upon whether the Sun has
+northward (southward) motion.
+   Now we present the detailed discussion on the necessity for this correction and
+how it is to be implemented as given in Yukti-dı̄pikā:
+    ta:a;a;ya;na;va;Za;a;t,a .sa;Ea;}ya;ya;a;}ya;ya;ea;gRa;. C+.ta;ea .=+veaH                                     Á
+
+    .sa;ma;pUa;va;Ra;pa:=e .~ya;a;ta;Ma C+.a;ya;a;g{ea nea;;ma;Nq+.le                      ÁÁ
+
+    :pra;vea;Za;a;na;yRa;tsa;ma;ya;k
+                                   Ò +:a; / / 
+                                         a;nta;Bea;de;na Bea;d;taH                 Á
+
+    ;Æa;Ba;a;k+:a;l+=+a;va;k
+                            Ò +:a; / /
+                                  a;nta;
+                                        a;va;va:=+ea;tTea :P+.le x
+                                                                  k+:tea                                  ÁÁ
+
+    Za;k+.a;a k+:pa;a;ya;tMua ta:a .sa;ma;pUa;va;Ra;pa:=+ //////
+                                                            a;~Ta;a;taH                                   Á
+                                                 ñÍ
+    I+.;ma;Nq+.l+.nea;Æa;ma;~Ta;C+.a;ya;a;g{a;a;*:
+                                                 ç Åu +.l+.va;gRa;taH                  ÁÁ
+
+            ñÍ ñÍ
+    ta;. C+.öÅ
+            *:+.ç
+                *:Åu +.l+.va;ga;Ra;Q.a;a C+.a;ya;a;k+:NRa;pa;dM Ba;vea;t,a                      Á
+            öÅ
+
+    C+.a;ya;a;k+:NRa;h;tMa k+:a;l+.a;d
+                                     õ ;ta;ya;a;pa;k
+                                                   Ò +:ma;a;nta:=+m,a                                ÁÁ
+
+    l+.}ba;k
+           e +:na h:=e++:b.DMa ta;d
+                                   õx :ea kÒ +:a; / / 
+                                                  a;nta:jMa :P+.l+.m,a                                         Á
+
+
+    .tea;na;a;ya;na;va;Za;a;ea;yMa :pra;a;. ya;Ma C+.a;ya;a;g{a;ma:a tua                  ÁÁ
+
+                                  ãÉa;a;t,a C+.a;ya;a;g{Ma va;a;Ta;ma;Nq+.le
+    A;ya;na;v.ya;tya;ya;a;t,a :pa;(                                                                                         Á
+
+    .sa;ma;pUa;va;Ra;pa:=M yea;na C+.a;ya;a;g{a;a;d
+                                                  õ ;ta;yMa Ba;vea;t,a        ÁÁ
+
+                              å
+                    õ ;ta;ya;~.pxa;M .sUa:Ma :pra;a;ga;pa:=M ta;taH
+    C+.a;ya;a;g{a;a;d                                                     Á
+
+                                                                                                                                10
+    .sa;ma;a;ta;yRa;gga;tMa .sUa:Ma ta;taH     .~ya;a;t,a d;Æa;[a;Na;ea:a:=+m,a                                      ÁÁ
+
+    Because of the northward and southward movement (ayana) [of the Sun], the tips of the
+    shadow of the Sun on the desired circle may not be exactly along the east–west [direction].
+    Since the difference [from the exact east–west] is due to the difference in the declinations of
+    the Sun at the times of entry and exit, once this difference (vivarotthaphala) is calculated,
+    it would then be possible to determine the exact east–west direction.
+    The square of the tip of the shadow on the circumference of the desired circle [measured]
+    in aṅgulas, added to the square of the śaṅku in aṅgulas, is stated to be the [square of] the
+    chāyākarn. a (shadow-hypotenuse).
+    Let the chāyākarn. a (shadow-hypotenuse), multiplied by the difference in declinations cal-
+    culated at the two different instants, be divided by the lambaka. The result obtained is due
+    to [the change in] declination (krāntijaphala)11 [to be applied] in that circle.
+    With that [result] depending upon the ayana, the tip of the shadow has to be shifted towards
+    the east. If the ayana happens to be otherwise (vyatyayāt), then the tip of the shadow has
+    to be shifted to the west. It is only then (atha) that the two tips of the shadows on the circle
+    represent the exact east-west direction.
+    Then the line passing through the two tips of the shadows [obtained after the corrections]
+    will represent the east–west direction. The line that is exactly perpendicular to this will then
+    represent the north–south direction.
+10 {TS 1977}, pp. 188–9.
+11 The word kÒ+:a; / / 
+                  a;nta:ja;P+.l should be considered as an example of ma;Dya;ma;pa;d;l+.ea;a;pa;sa;ma;a;sa, the
+
+                                                             a;nta;Bea;d;a;t,a .ja;a;ya;ma;a;nMa :P+.l+.m,a; which
+vigraha of which should perhaps be done as follows – kÒ+:a; ////
+means the result that is obtained because of the change in the declination.
+

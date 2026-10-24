@@ -1,0 +1,58 @@
+1.6 Definition of an intercalary month                                                                                                                                                                                       19
+
+contrast to the modern calendar, where the day and the year are based on the position
+of the mean Sun.
+
+
+Lunar year with an adhimāsa
+
+In Fig. 1.6, A0 refers to the amāvāsyā just preceding the Mes.a saṅkrānti that marks
+the beginning of a solar year. Similarly, A12 marks the amāvāsyā just before the
+next Mes.a saṅkrānti. By definition, a lunar year is the time period between these
+two amāvāsyās. It is evident from the above definition that a lunar year always
+commences before the solar year.
+   Usually there will be one saṅkrānti between two amāvāsyās. But as men-
+tioned earlier, because of the non-uniform motion of the Sun and the Moon, dur-
+ing the course of a lunar year it may so happen that no saṅkrānti occurs between
+two amāvāsyās. In other words, there are two amāvāsyās occuring within a solar
+month. Such a situation is depicted in Fig. 1.7, wherein Śrāvan.a happens to be the
+solar month in which two amāvāsyās occur.
+
+
+                                                                                                   Solar Year
+
+
+
+
+Mı̄na           Mes.a            Vr..sabha          Mithuna             Karka.            Sim
+                                                                                            . ha      Kanyā        Tulā
+                                                                                                                                    Vr.ścika      Dhanus            Makara            Kumbha            Mı̄na           Mes.a
+
+
+
+        Cait.           Vaiś.               Jye.             Ās.ā.            Śrā.      Bhād.       Āśvi.           Kār.        Mārga.            Pus.ya            Māgh.            Phāl.           Cait.
+
+                                                                             Adhika      Nija
+          Cait.            Vaiś.              Jye. Ās.ā                  Śrāvan.a Śrāvan.a Bhād. Āśvi.                      Kār.        Mārga. Pus.ya                  Māgh.                Phāl.
+
+
+
+
+                                                                                      A lunar year with 13 months
+
+Fig. 1.7 A lunar year including an adhikamāsa.
+
+
+   The lunar year shown in Fig. 1.7 has 13 lunar months instead of the normal
+12. The extra month is called an adhikamāsa (adhika = excess). Conventionally,
+the name of the adhikamāsa is the same as the name of the solar month with
+two amāvāsyās. The ‘true’ (= ni ja) lunar month with the same name follows
+this adhikamāsa. In the figure depicted, since it is the solar Śrāvan.a which has
+two amāvāsyās we have marked the lunar month following the Ās.ād.ha-māsa as
+Adhika-śrāvan.a and the month following that as Nija-śrāvan.a.
+   Further, it may be mentioned here that generally an adhikamāsa is considered
+inauspicious and no festivals are observed during that period. With this in mind,
+sometimes the adjectives mala (inauspicious) and śuddha (auspicious) are used in-
+stead of adhika and nija. As far as the pattern of occurrence is concerned, generally
+one observes that an adhikamāsa occurs after 33 months and the cycle repeats al-
+

@@ -1,0 +1,120 @@
+17. 5.1
+
+Visibility corrections
+‘1. Akgadrkkarma
+
+‘Multiply the R sine of the latitude of the local place
+by the Moon’s Jatitude and divide (the resulting product)
+by the R sine of the colatitude: (the result is the
+aksadrkkarma for the Moon). When the Moon is to the
+north (of the ecliptic), it should be substracted from the
+Moon’s longitude in the case of the rising of the Moon
+and added to the Moon’s longitude in the case of the
+setting of the Moon; when the Moon is to the south (of
+the ecliptic), it should be added to the Mcon’s longitude
+(in the case of the rising of the Moon) and subtracted
+from the Moon’s longitude (in the case of the setting of
+the Moon). (35)
+
+विक्षेपज्यां क्षपाभर्तुरक्षज्याक्षुण्णविग्रहाम्‌ ।
+लम्बकेन हरेल्लब्धं विशोध्यं तत्स्फुटेन्दुतः ॥ १ ॥।
+
+17. 5. 2.
+
+उदये सौम्यविक्षेपे देयमस्तमये सदा |
+व्यस्तं तद्याम्यविक्षेपे कार्य स्यादुदयास्तयोः ।। २ ॥
+(Bhaskara I, LBh., 6. 1-2)
+
+_Multiply the R sine of the Moon’s latitude by the
+R sine of the (local) latitude and divide (the product)
+by the R sine of the colatitude. Whatever is thus
+obtained should be subtracted from the Moon’s longitude
+in the case of the rising of the Moon (i.e., in the eastern
+hemisphere) and added to that in the case of the setting
+of the Moon (i.e., in the western hemisphere), provided
+that the Moon’s latitude is north. When the Moon’s
+latitude is south, the above correction is applied reversely
+in the cases of rising and setting (both). (1-2). (KSS)
+
+17. 5. 8. विषुवच्छायागुणितो विक्षेपो रविहूतः शशिन्युदये ।
+उत्तरतो विश्लेषो याम्ये योज्योऽस्तगे व्यस्तम्‌ ।। २ ॥
+| (Deva, KR, 5.2)
+
+:: Multiply the Moon’s latitude by the equinoctial
+midday shadow and divide (the product obtained) by
+12; (the result is the dksa-drkkarma for the Moon). In
+the case of moonrise, subtract it from or add it to the
+Moon’s longitude according as the Moon’s latitude is
+north or south. In the case of moonset, the law of
+addition and subtraction is just the reverse.’ (2). (KSS)
+
+आयनदक्कमं
+17. 5. 4. विक्षेपापक्रमगुणमुत्क्रमणं विस्त रार्धकृतिभक्तम्‌ |
+उदगृणधनमुदगयने दक्षिणगे धनमृणं याम्ये ।। ३६ ॥।
+(Aryabhata I, ABh., 4. 36)
+
+1 That is:
+Moon's dksa-dtkkarma= Moon’s latitude x Moon's latitude x cquinoctial midday shadow midday shadow
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 244
+
+ii. Ayanadrkkarma
+` Multiply the R versed sine of the Moon’s (tropical)
+longitude (as increased by three signs) by the Moon’s
+latitude and also by the (R sine of the Sun’s) greatest
+declination and divide (the resulting product) the by
+square of the radius. When the Moon’s latitude is
+north, it should be subtracted from or added to the
+Moon’s longitude, according as the Moon’s ayana is
+north or south (i.e. according as the Moon is in the six
+signs beginning with the tropical sign Capricorn or in
+those beginning with the tropical sign Cancer); when
+the Moon’s latitude is south, it should be added or
+subtracted, (respectively). (36). (KSS)
+
+17. 5. 5. बरिराश्यूनोत्क्रमक्षुण्णां तत्कालक्षिप्तिमाहताम्‌ ।
+रन्त्या परमया भूयो हरेद्‌ व्यासदलस्य ताम्‌ ।। ३ ।।
+
+कृत्या लब्धकला: शोध्या विक्षेपायनयोदिशोः |
+तुल्ययोव्येत्यये क्षेप्यं शीतांशोस्तत्फलं सदा ।। ४ ॥।
+(Bhaskara I, LBh., 6. 3-4)
+
+Multiply the (Moon’s) instantaneous latitude by the
+R versed sine (of the Moon’s longitude) as diminished
+by three Signs and then by the R sine of the (Sun’s)
+greatest declination. and divide that (product) by the
+square of the radius. The resulting minutes of arc
+should be subtracted from the longitude of the Moon
+when the latitude and ayana (of the Moon)? are of like
+In the contrary case, they should always
+(3 4). (KSS)
+
+directions.
+be added to the longitude of the Moon.
+
+17. 5. 6. एवं कमंक्रमात्‌ सिद्धो दुष्यतेऽन्तरितः शशी ।
+भागैरदादशभिः सूर्याद्‌ व्यभ्रे नभसि निर्मले । ५।।
+
+(Bhaskara I, LBh., 6. 3-5)
+
+When the Moon obtained by applying these (two
+visibility) corrections is found to be twelve degrees (of
+time) distant from the Sun, she shall be (just) visible
+in clear cloudless sky. (3). (KSS)
+
+17. 5. 7. विक्षेपो राशित्नययुतशशिजीवाहतोऽद्विगुणशैलः' ।
+लब्धो विक्षेपायनसमदिणि शोध्योऽन्यत्र विक्षेपः ।। ३ ।।
+(Deva, KR, 5.3)
+
+Multiply the Moon’s latitude by the R sine of the
+Moon’s longitude as increased by 3 signs and divide by
+737: the result (which is known as the dyana-drkkarma)
+should be subtracted from the longitude of the Moon,
+if the Moon’s latitude and ayana are of like directions.
+In the contrary case, it should be added.2 (3). (KSS)
+
+1 The Moon’s 4yana is north or south according as the Moon is
+in the half-orbit beginning with the tropical (sdyana) sign Capri-
+corn or in that beginning with the tropical (sdyana) sign Cancer.
+
+2For the rationale, see KR: KSS, 9. 73.

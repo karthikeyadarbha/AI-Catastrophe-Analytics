@@ -1,0 +1,60 @@
+4.15 The time of the first and the last contact                                                                 275
+
+a day). This is done for the node also (but applied in reverse, as its motion is retro-
+grade), whose longitude is required for the computation of Moon’s latitude. From
+the relative positions of O, X and A freshly determined, the first half-duration is
+again calculated. This is the second approximation to it. The iteration procedure is
+carried on till the successive approximations to the half-durations are not different
+from each other to a desired level of accuracy.
+   The procedure is the same for computing the second half-duration (moks.akāla),
+except that the positions of the Sun and Moon at the time of the moks.a (release) are
+obtained by adding their motions during the second half-duration to their values at
+the instant of opposition.
+
+
+  .
+4 15 ; //////
+      a;~Ta;tya;Da;Ra;Bya;Ma
+                                                å
+                                              .~.pa;ZRa;ma;ea;[a;Ea
+
+
+4.15 The time of the first and the last contact from the
+     half-duration
+        å
+      .~.pa;ZRa; / / /
+                a;~Ta;  a;ta;d;lM Za;ea;DyMa :pa;va;Ra;nta;a;a;d;ta:=+t,a ;Æa;[a;pea;t,a   Á
+
+        å
+      .~.pa;ZRa;ma;ea;[a;Ea tua ta;Ea .~ya;a;ta;Ma ma;Dyea .~ya;a;t,a :pa:=+ma;g{a;hH           Á Á 27   ÁÁ
+
+      sparśasthitidalam. śodhyam . parvāntāditarat ks.ipet |
+      sparśamoks.au tu tau syātām . madhye syāt paramagrahah       . || 27 ||
+      The half-duration of contact (sparśasthitidala) has to be subtracted from the instant of
+      opposition and the other one [the half-duration of release] must be added. The two [values
+      obtained] are the times of contact and release of the eclipse. The maximum obscuration
+      (paramagraha19 ) is at the middle [of the eclipse].
+
+   If tm be the instant of opposition, then the beginning and ending moments of the
+eclipse, which are referred to as the sparśakāla (instant of first contact) (tb ) and the
+moks.akāla (instant of release) (te ) respectively, are given by
+
+                                                                                tb = tm − ∆ t1
+                                                              and               te = tm + ∆ t2 ,              (4.40)
+
+where ∆ t1 and ∆ t2 are the first and the second half-durations of the eclipse deter-
+mined by iteration. It was mentioned earlier (section 4.13) that in general these two
+durations will not be equal.
+   It is further stated here that the instant of maximum obscuration the parama-
+grāsakāla, t p , is exactly in between the sparśakāla and the moks.akāla. That is,
+
+                                                                             ∆ t1 + ∆ t2
+                                                                t p = tb +
+                                                                                  2
+                                                                             ∆ t1 + ∆ t2
+                                                                      = te −             .                    (4.41)
+                                                                                  2
+
+
+19 More commonly referred to as the paramagrāsa.
+

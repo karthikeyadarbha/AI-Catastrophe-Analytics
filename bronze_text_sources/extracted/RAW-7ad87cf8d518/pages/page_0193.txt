@@ -1,0 +1,120 @@
+149 । 13... PLANETS
+
+karna by a single application of the process (as taught in
+stanza 47). (55)
+Direct and retrograde motions of a planet ।
+
+Having applied to the longitude of the sighrocca half
+the difference between the true and mean longitudes (of
+a planet) positively or negatively, depending upon
+(whether) the mean longitude (of the planet is greater
+or less than the true longitude), determine whether the
+motion of the planet is vakra or ativakra or whether it is
+the end of the vakra motion. (56)
+
+The true longitude of the planet having been subtracted
+from the longitude of the (corrected) sighrocca, when the
+difference is 4 signs, the planet is about to take up vakra
+(retrograde) motion; when 6 signs, it is in ativakra
+(maximum retrograde) motion ; and when 8 signs, it soon
+abandons the regressive path.
+
+Rate of motion
+
+The difference between the true longitudes of a planet
+computed for (sunrise on) the day to elapse (i.e., today)
+and for (sunrise on) the day elapsed (i.e., yesterday) is
+the (true) daily motion (of the planet for the day
+elapsed). (57). (89)
+
+--प्रहमन्दोच्च॒शी प्रोच्चज्या:
+13. 12, 32. वस्वीशा' दशबाहवो-'ऽम्बरधृतिः'
+‘are? ^रसलत्यश्विनो'
+मन्दांशा, मनु-शैल-शैल-युग-गो-
+TRA: स्वमान्दा गुणाः ।
+शघ्या ‹रामशराः' शाशाद्धूदहना'
+“भूपा'-स्तिवरगेषवो'
+नन्दाश्च' क्षितिजज्ञजीवभुगुज-
+च्छायासूतानां क्रमात्‌ ।। १ ॥।
+बेद-क्षी-त्दु-यमा-ब्धि भिमुदुभवां
+दोर्ज्या क्रमेणाहतां
+व्यासार्धेन, भजेद्‌ गुणा: फलयुता
+हीनौ ज्ञभुग्वो: स्फुटाः |
+ह्विद्वी-न्दु-द्वि-कु-भिहँतां चलभवां
+दोर्ज्या भजेत्‌ त्रिज्यया
+सर्वे शीघ्रभवाः फलेन रहिताः
+स्पष्टाः स्युरेवं गुणाः ।। २ ॥
+(Lalla, SiDhVr., 3. 1-2)
+—Apogees and Anomalies
+
+The apogees of Mars, Mercury, Jupiter, Venus and
+Saturn are, respectively, 118°, 210°, 180°, 90°, and 236°.
+
+The (circumferences of their manda epicycles divided
+by 44 or) mandagunakas are 14°, 7°, 7°, 4° and 9",
+respectively.
+
+The (circumference of their Sighra epicycles divided
+by 44 or) Sighragunakas are, respectively, 53°, 31°, 167,
+59° and 9. (1)
+
+12-*
+
+13. 12. 36
+
+Multiply the R sines of the anomalies (mandakendras)
+of Mars, Mercury, Jupiter, Venus and Saturn, respec-
+tively, by 4, 2, 1, 2 and 4 and divide each product by the
+radius (3438). The results added to the mandagunakas
+(see above) of Mars, Jupiter and Saturn, and subtracted
+from those of Mercury and Venus, make them (viz.,
+mandagunakas) more correct.
+
+Multiply the R sines of the Sighrakendras of (the above
+planets), respectively, by 2, 2, 1, 2 and 1 and divide
+each product by the radius. The results subtracted
+from their respective sighragunakas (see above), make
+them more correct. (2)
+
+--मन्दशीध्रक्णेयोरानयनम्‌
+18. 12. 3. दोर्ज्यावर्गविवर्जितत्रिभवन-
+ज्यावगंमूलं भवेत्‌
+कोटिज्या, भूजभाग्वजितनव-
+त्यंशोत्थजीनाथवा |
+स्पष्टस्वस्वगुणाहते “खवसुभि"-
+. र्शौःकोटिजीवे हृते
+स्यातां दोफलकोटिसंज्ञकफले
+ताभ्यां श्रुति साधयेत्‌ ।। ३ ॥
+(Lalla, SiDhVr., 3-3)
+
+—Manda and Sighra hypotenuse
+
+The square root of the difference of the squares of the
+R sine of 90" and R sine of an arc, is the R cosine
+(kotijya) of the arc. Or, the R sine of the difference of
+90° and an arc is the R cosine (kofijya) of the arc.
+
+When the R sine and R cosine of the mandakendra and
+the sighrakendra of a planet are multiplied by the planet’s
+corrected mandagunaka and sighragunaka, respectively,
+and divided by 80, the results are, respectively, called
+dohphala and kofiphala. From these the hypotenuse or
+hrti (or karna) should be calculated. (3).
+
+--ग्रहस्फुटानयनम्‌
+13. 12. 3०. मन्दोच्वभागरहितग्रहबाहुमौर्व्या
+संसाध्य बाहुफलमस्य धनुर्दलेन |
+संस्कृत्य मध्यममृणं स्वमवेत्य केन्द्रात्‌
+संशोधयेच्च तदनष्टमतश्चलोच्चात्‌ ।। ४ ॥।
+शेषं भवेत्तु चलकेन्द्रमतो भुजज्यां
+कोटचाह्यां च विदधीत. तयोः फले च ।
+
+कोटीफलेन रहिता सहिता चिभज्या
+कार्या कुलीरमकरादिगते स्वकेनद्रे ।। ५ ॥
+
+तद्रगैबाहुफलवगेसमासमूलं
+
+कर्णो भवेद्‌ भुजफलं गुणितं त्रिमौर्व्या |
+कर्णोद्धृतं कृतधनुः फलमाशुसंज्ं
+
+स्यात्तहलं स्वमथवाणैमनष्टसंजञे ।॥। ६ A

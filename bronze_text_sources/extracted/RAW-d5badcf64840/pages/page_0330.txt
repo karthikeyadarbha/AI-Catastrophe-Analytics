@@ -1,0 +1,57 @@
+4.17 The visibility or otherwise of sparśa and moks.a                                         283
+
+degrees from the orient ecliptic point—which is a point diametrically opposite to
+O—and is therefore called the vitribhalagna, the point which is at 90 degrees from
+the lagna (the orient ecliptic point). The zenith distance of the vitribhalagna (zv )
+will be the same as Z ÔV . That is, ZV = Z ÔV = zv .
+
+
+Projection of the samparkārdha on the vertical
+
+We need to find the projection of the sum of the semi-diameters of the Sun and the
+Moon called the samparkārdha (Sd ) along the vertical to formulate the criteria for
+visibility. It is done in 3 steps: (i) finding the angle between Sd and the ecliptic;
+(ii) finding the angle between Sd and the vertical passing through the shadow; and
+(iii) finding the projection of Sd along the vertical. We explain these steps with
+the help of Fig. 4.10a. This figure is nothing but a section of the celestial sphere
+depicted in Fig. 4.9, redrawn with a different orientation. As in the previous figure,
+X represents the centre of the Moon. OX is the line joining the centres of the shadow
+and the Moon and is called the samparkārdha.
+
+
+Step 1
+
+Let OX make an angle θ with the ecliptic. Then from the triangle AOX we have
+
+                                                       AX  βt
+                                             sin θ =      = ,                              (4.55)
+                                                       OX  Sd
+
+where βt is the true latitude of the Moon and Sd the samparkārdha. In the text this
+relation is stated in the form:
+                                        sphut.a-ks.epa × trijyā βt × R
+                       R sin θ =                                =       .                  (4.56)
+                                           samparkārdha           Sd
+From (4.55), the arc θ is found, and it will be used in the succeeding steps.
+
+
+                                                                                    he
+                                                                             n of t
+                                                                       sectio circle
+                                                                               al
+                                                                        vertic
+                 ecliptic       A                O                zv
+
+                            B       ζ
+                                         θ
+
+
+                                X
+             Moon’s orbit
+                                                         shadow
+                        Moon at sparśa
+
+Fig. 4.10a Projection of the sum of the semi-diameters samparkārdha (OX) on the vertical circle
+during the first contact in a lunar eclipse when both the vertical and the samparkārdha are in the
+same direction.
+

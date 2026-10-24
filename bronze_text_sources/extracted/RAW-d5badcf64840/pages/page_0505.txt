@@ -1,0 +1,48 @@
+458                                                                    Coordinate Systems
+
+follows:
+
+                declination (δ ) = X ÔB        (range: 0 − 90◦N/S)
+                hour angle (H) = Z P̂X          (range: 0 − 360◦/24 h W ).         (C.3)
+
+To enable various formulae derived to be valid for both north and south declinations,
+it is convenient to treat δ as an algebraic quantity. δ is positive when it is north,
+and negative when it is south. We can obtain (δ , H) from (a, A) using spherical
+trigonometrical formulae. For instance, considering the triangle ZPX in Fig. C.4,
+where PX = 90◦ − δ , PZ = 90◦ − φ , PZX = A and ZPX = H and applying the
+cosine formula, we have
+
+                cos(PX) = cos(PZ) cos(ZX ) + sin(PZ) sin(ZX ) cos(PZX)
+           or      sin δ = sin φ sin a + cos φ cos a cos A,                        (C.4)
+
+and
+
+              cos(ZX ) = cos(ZP) cos(PX) + sin(ZP) sin(PX) cos(ZPX)
+           or     sin a = sin φ sin δ + cos φ cos δ cos H.                         (C.5)
+
+Now, if a and A are known then δ can be determined from (C.4). Then using (C.5) H
+can be determined. It may be noted that these formulae can be used to obtain (a, A)
+from (δ , H) also.
+   Of the two quantities (δ , H), though δ is independent of the observer—as the
+celestial equator is common to all the observers on the surface of the Earth—H is
+not so. This is because H is defined to be the angle between the prime meridian and
+the meridian passing through the star (measured westwards). Though the latter is
+observer-independent the former is not, as the prime meridian passes through the
+zenith of the observer.
+   To make the coordinates observer-independent, instead of hour angle, right as-
+cension defined by
+
+                 right ascension (α ) = Γ P̂X        (range: 0 − 360◦ E),          (C.6)
+
+is employed. In contrast to the hour angle H which is measured westwards, the right
+ascension is measured eastwards. Here, the point Γ shown in the figure represents
+the point of intersection of the equator and the ecliptic (to be discussed in the next
+subsection), and is observer-independent.
+    Further from Fig. C.4, it is clear that for the object X ,
+
+                          H.A. (X ) + R.A. (X ) = H.A. (Γ ).                       (C.7)
+
+The above equation is valid for any choice of X. In other words, the sum of the hour
+angle and right ascension of any celestial object is always equal to the hour angle of
+the vernal equinox.
+

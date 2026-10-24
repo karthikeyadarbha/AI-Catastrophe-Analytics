@@ -159,6 +159,20 @@ python3 bronze_text_sources/pipeline/build_register.py       # refreshes the sou
 - A file whose bytes changed after registration is refused, so bronze files stay immutable.
 - `register_raw_file.py TXT-nn path` registers a single file. Requires the `jsonschema` package.
 
+### 6. Text extraction (after registration)
+
+Needs `brew install poppler tesseract tesseract-lang` (Sanskrit, Hindi and English packs).
+
+```
+python3 bronze_text_sources/pipeline/extract_text.py --plan   # what would run, changes nothing
+python3 bronze_text_sources/pipeline/extract_text.py --jobs 2 # extract; safe to stop and re-run
+```
+
+Pages with a real text layer are read directly; the rest are OCR'd. Output goes to
+`extracted/<artifact_id>/` (per-page text, `pages.jsonl` with method and confidence, and
+`text.txt`), and one audit entry per file records the tools, languages and settings.
+Quality judgment and IAST conversion belong to the Silver layer.
+
 ## Workflow
 
 ### Ingesting a New Treatise

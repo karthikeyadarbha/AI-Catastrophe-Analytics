@@ -1,0 +1,68 @@
+216                                                     C+.a;ya;a;pra;k+.=+Na;m,a                                      Gnomonic shadow
+
+                                                        Z
+                                    z
+                            S                                                       sectional view of the plane
+                                                                                 passing through zenith and the Sun
+
+                                                                                          SD: śaṅku (R cos z)
+                                z       R
+                                                                                          OD: chāyā (R sin z)
+                                                    z                    W
+                                                                                          OC: chāyā − kot.i (R sin z cos a)
+                                                                                          CD: chāyā − bāhu (R sin z sin a)
+                         D                                  O
+                                            a
+
+                                                C
+                                                                          Z
+                                        E
+                                                                                                        P
+                                                                a
+
+                                           S                             prime vertical
+                                        (Sun)
+                                                                             W
+
+                                                                             O
+                        S                                                                                        N
+                                                D                        C                  horizon
+
+                                                                     E
+
+Fig. 3.29 Celestial sphere, and a sectional view of it to define the chāyākot.i or bhākot.i.
+
+
+                                                   ñÍ
+  .
+3 31 na;ta;a;pa;k
+                Ò +:ma;a;[EaH                   Za;öÅ
+                                                   *:+.a;Za;a;g{ea
+                                                   öÅ
+
+3.31 Determination of the zenith distance and amplitude from
+     the hour angle, declination and latitude (Problem 3)
+
+      na;ta;k+:ea;fa;a h;ta;a dùÅu;a:$ya;a ;a;va;Ba;+:a ;a:a;Ba:ja;a;va;ya;a                Á
+
+
+      .sa;Ea;}ya;ya;a;}ya;a;d;Za;ea;BRUa:$ya;a;yua;ta;ea;na;a l+.}ba;k+:a;h;ta;a           Á Á 74           ÁÁ
+                          ñÍ
+      ;a:a:$ya;a;a;a Za;öÅ
+                          *:+=+a;Za;a;g{a;a;k+:ea;a;fH      dùÅu;a:$ya;a .. a :pUa;vRa;va;t,a       Á
+                             u
+
+      natakot.yā hatā dyujyā vibhaktātribhajı̄vayā |
+      saumyayāmyadiśorbhūjyāyutonā lambakāhatā ||74 ||
+      trijyāptā śaṅkurāśāgrākot.ih., dyujyā ca pūrvavat |
+      The kot.i of the natajyā is multiplied by the dyujyā and divided by the trijyā. Depending
+      upon whether the Sun is to the north or south, the bhūjyā is added to or subtracted from this
+      and the result, multiplied by the lambaka and divided by the trijyā, becomes the śaṅku.
+      The kot.is of the āśāgrā and the dyujyā [are to be obtained] as before.
+
+Here, the zenith distance (śaṅku) and amplitude (āśāgrā) are obtained in terms of
+the hour angle (nata), the latitude (aks.a) and the declination (krānti). That is, z and
+a are obtained in terms of H, φ and δ .
+   In this problem, the expression for the śaṅku is not as complicated as in the
+earlier problems. Even then an intermediate quantity, denoted by the symbol x, is
+

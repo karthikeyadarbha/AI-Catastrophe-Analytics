@@ -1,0 +1,54 @@
+                                ñÍ
+432                         Zxa;ç Å
+                                *:+.ea;a;a;ta;pra;k+.=+Na;m,a                       Elevation of lunar horns
+
+                                                  GB = rm sin β .                                    (8.90)
+
+This point B will be to the north or south of the EW line, depending upon the di-
+rection of the Sun with respect to the Moon at that instant. GB is the depression or
+elevation of the lunar cusps with respect to the Moon’s centre. Similarly the point A
+is marked on the circumference in the direction opposite that of the Sun, such that
+GB = HA.
+   Having marked the points B and A on either side of the EW line, we draw the
+line BA, and a line CD perpendicular to it. CD is called the tiryagrekhā and it is the
+same as the line of cusps.
+
+
+Representation of the illuminated portion
+
+Then we locate a point F on AB such at BF represents the measure of the phase of
+the Moon. Through the points C, F and D we draw a circle. The portion inscribed
+between this circle CFD and the Moon’s disc CW BD is the illuminated portion of
+the Moon as seen by the observer (the shaded portion in the figure). Fig. 8.13(a)
+is the graphical representation of the Moon in the first quarter of the bright phase.
+During the last quarter of the bright phase, the disc will be as shown in (b).
+
+
+           (a)                                                             (b)
+                             E                           Moon’s disc                     E
+
+                 A                                     D                     A                      D
+                                 H                                               F
+
+
+                                         β
+           N                                                     S     N                                 S
+                        M
+ line of                          β      F
+ cusps
+
+                 C        G                          B                       C       G              B
+                                                             illuminated
+                             W                                  portion                  W
+
+Fig. 8.13 Graphical representation of the Moon’s disc (a) during the first quarter of the bright
+fortnight, (b) during the last quarter of the bright fortnight.
+
+
+   If the Sun and the Moon are in different hemispheres, the chāyābāhus will be in
+opposite directions. However, even in this case, the sita should be marked only with
+reference to the Sun’s direction (to represent the bright phase). Even in the bright
+phase, if the dark portion of the Moon has to be represented, it has to be marked
+from the east (point A in the figure). The same process is repeated even for the dark
+fortnight, with the only difference being that, in graphical representation, the bright
+

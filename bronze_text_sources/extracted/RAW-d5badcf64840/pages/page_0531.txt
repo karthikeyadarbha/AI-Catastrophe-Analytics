@@ -1,0 +1,52 @@
+484                                            Derivation of the maximum declination of the Moon
+
+the vernal equinox, viks.epa-pārśva is at V0 and V P would be maximum. Similarly,
+when Rāhu is at the autumnal equinox, viks.epa-pārśva is at V ′ and V P is minimum.
+    The viks.epa-pārśva is in the eastern part of the sphere (or to the east of the
+north–south circle) when Rāhu moves from the vernal equinox to the autumnal
+equinox (or λN is between 0◦ and 180◦). Then the viks.epa-vis. uvat is situated east
+of the equinox, and the viks.epa-calana is to be subtracted (from the longitude of the
+Moon) while calculating the Moon’s declination. Similarly, the viks.epa-vis.uvat is
+situated west of the equinox, when Rāhu moves from the autumnal equinox to the
+vernal equinox (or λN is between 180◦ and 360◦ ), and the viks.epa-calana is to be
+added (to the longitude of the Moon) while calculating the Moon’s declination.
+
+
+
+E.5 Karn
+       . ānayana
+
+
+                                                                      P
+
+                                           K
+
+                              M’               T
+                                                                      U
+                                       ε
+                              M                                       U’
+                         Vo
+                                   V
+
+                                                              I
+
+                                                                  ε
+
+
+
+                                                                      O
+Fig. E.6 The inclination of the Moon’s orbit with the equator.
+
+
+   In Fig. E.6, the points V0 , V , T (the centre of the viks.epa-pārśva-vr.tta), M and
+U have the same significance as in Fig. E.5. MV is perpendicular to the plane of the
+figure. Draw MU ′ from M, perpendicular to the aks.a-dan.d.a, OP. V M is perpendic-
+ular to the plane of the figure and hence to OP, and MU ′ is also perpendicular to OP.
+Hence VU ′ M is a triangle, right-angled at M, and in a plane perpendicular to OP.
+Therefore, VU ′ is perpendicular to OP and is the desired distance, R sin I, between
+V and the aks.a-dan.d.a. Let MM′ be perpendicular to UM ′ , which is the extension
+of UT . The angle between T M ′ and T M is ε . It is clear that MU ′ = M ′U . Therefore
+
+                         M ′U = M ′ T + TU
+                              = MT cos ε + R cosi sin ε
+

@@ -1,0 +1,52 @@
+3.44 Exact udaya and asta-lagnas                                                            247
+
+reverse process. That is
+
+                                 lagna = λs − ∆ θ           (at udaya)
+                                       = λs + ∆ θ           (at asta).                   (3.311)
+
+
+
+                                                   Z
+
+
+                                                                         K
+                                                                             H
+                                                                                 P
+
+                             V
+
+                                     S
+                                          Γ
+                                                           ecl
+          S                                   eq                 ipti                N
+                  horizo                      ua                     c
+                         n                     to  r
+                                                                             L
+                                                       E
+Fig. 3.37 Determination of the prāglagna (orient ecliptic point)–exact method.
+
+
+
+
+Proof:
+
+In Fig. 3.37, K and V represent the pole of the ecliptic and the vitribhalagna re-
+spectively. Let φ be the latitude of the observer and δ the declination of the Sun. In
+the triangle PZS, PS = 90 − δ (with δ −ve) and ZP = 90 − φ . Now, applying the
+cosine formula to this triangle, we get
+
+                           cos ZS = sin φ sin δ + cos φ cos δ cos H.                     (3.312)
+
+Now, in the spherical triangle V ZS, V Z is the part of the vertical drawn form the
+pole of the ecliptic. Hence ZV̂ S = 90. Applying the cosine formula to this triangle,
+we have
+                               cos ZS = cosV S cosZV.                        (3.313)
+Therefore
+                                            cosZS
+                                         cosV S =   .                                    (3.314)
+                                            cos ZV
+By definition, the point V is at 90◦ from the prāglagna L. Hence
+
+                                  cosV S = sin SL = sin(λl − λs ),                       (3.315)
+

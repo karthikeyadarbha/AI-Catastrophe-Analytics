@@ -1,0 +1,53 @@
+F.8 Annexure: Keplerian model of planetary motion                                        529
+
+Āryabhat.ı̄ya-bhās.ya is not really consistent with the cosmological model that he
+clearly enunciates in his later tract Grahasphut.ānayane viks.epavāsanā. It is herein
+that Nı̄lakan. .tha identifies the śı̄ghrocca with the physical mean Sun and also gives
+the relations (F.29a) and (F.29b) between the ratio of the radii of the śı̄ghra epicycle
+and the concentric with the ratio of the Earth–planet and Earth–Sun distances. Since
+the size of śı̄ghra epicycles have already been fixed (see the tabulated values of radii
+of śı̄ghra epicycles both in traditional planetary theory and in Nı̄lakan. .tha’s model
+in Table F.3), there is no longer any freedom to introduce a separate new hypothesis
+for the determination of the śı̄ghrocca–planet distances.
+    Therefore, Nı̄lakan.t.ha’s relations (F.32) and (F.33) for the planetary distances
+(however revolutionary they may be in relation to the traditional planetary models)
+are not consistent with the cosmological model definitively stated by Nı̄lakan.t.ha in
+Grahasphut.ānayane viks.epavāsanā. In fact, once the śı̄ghrocca of all the planets
+is identified with the physical mean Sun, the planetary distances get completely
+determined by the dimensions of the śı̄ghra epicycles which are related to the ratios
+of the mean Sun–planet and Earth–Sun distances. The true Earth-planet distances in
+yojanas would then be given by the following:
+
+                             kaks.yāvyāsārdha of the Sun ×śı̄ghra-karn
+                                                                         . a [ext.]
+          Sphut.a-kaks.yā =                                                           (F.34)
+                                       Radius of śı̄ghra epicycle
+                             kaks.yāvyāsārdha of the Sun ×śı̄ghra-karn
+                                                                         . a [int.].
+          Sphut.a-kaks.yā =                                                           (F.35)
+                                                 Radius
+
+
+     The above relations follow from the fact that the mean orbit of the Sun is the
+śı̄ghra epicycle in the case of the exterior planet, while it would be the concentric in
+the case of the interior planet.
+     It would be interesting to see whether any of the later works of Nı̄lakan.t.ha
+(which are yet to be located) or any of the works of later Kerala astronomers deal
+with these implications of the cosmological model of Nı̄lakan.t.ha for the calculation
+of planetary distances.
+
+
+
+
+F.8 Annexure: Keplerian model of planetary motion
+
+The planetary models described above can be appreciated better if we understand
+how the geocentric coordinates of a planet are calculated in Kepler’s model. The
+three laws of planetary motion discovered by Kepler in the early seventeenth cen-
+tury, which form the basis of our present understanding of planetary orbits, may be
+expressed as follows:
+1. Each planet moves around the Sun in an ellipse, with the Sun at one of the foci.
+2. The areal velocity of a planet in its orbit is a constant.
+3. The square of the orbital period of a planet is proportional to the cube of the
+   semi-major axis of the ellipse in which it moves.
+

@@ -1,0 +1,57 @@
+ 146                                 EPJHAT SAMHITA.                             [CH. SO.
+
+            In all 24 varieties beginning with the several parts o£
+ B.         Now comparing these with the 24 varieties already
+ given, it will be found that the two lists are identically the
+ same. So that 4 substances mixed in the proportion of                               1,   2
+ 3,     4 parts each,          give us only           24 mixtures, and not 96.
+ Therefore,            number of mixtures is 24 X 1820=
+                   the total
+ 4S680 and not 90 X 1820 or 174720 as stated by the author.
+ It    is   strange that Utpala, the commentator, has not noticed
+ the error.
+
+            As two of the       16    substances       do not enter into the
+ mixtures in 2, 3 and 4 parts, we will find the actual num-
+ ber of        varieties     under the conditions given                         a point
+ which the author has omitted.                  Keeping aside the two sub-
+ stances, the           number of sets of four substances out of 14 is
+ the    number          of combinations         of 14       things taken 4 at             a
+time.
+
+                            14 X 13 X      12   X—
+                                                 11
+                    1
+      This IS equal to
+                        .
+                                                           = Tooii
+                                                             1001             f
+                                                                         As before
+                                                                         A.
+
+
+                               lx 2X3X4
+                                                  ;                  .
+
+               ^
+each set wdll give us 24 mixtures.                         The   total        number on
+mixtures therefore is lOOl X 24                  = 24024             (I).
+
+     Again the                 number      of    3     substances             out of 14
+14 X 13 X 12
+—               ——          ==364.    We will now find out the number of
+    1x2x3
+varieties of mixtures,           which each           set of 3 substances will
+
+give us, taking them             in 2, 3    and 4 parts.           Let the letters
+A, B, C, denote the 3 substances and the figures 2, 3, 4
+denote        the parts.      The number required is the number of
+ways in which the              figures 2, •-, 4 can be written under the
+
+letters A,B,C, This is the number of permutations of 8 things
+
+taken all together           — 1 X 2X3 =              6.    I'herefore the total
+number of mixtures of 3 substances out of 14 = 364 X 6 =
+2 1S4. Adding to each of these mixtures one part of Dhanya
+WQ get 2184 mixtures of 4 substances.         (II).              —
+

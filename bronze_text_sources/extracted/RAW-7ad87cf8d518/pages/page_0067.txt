@@ -1,0 +1,123 @@
+27 4. VIEWS AND
+
+The circumference of the earth is 3200 yojanas. When
+situated on the equator the Sun is visible from pole to
+pole at all latitudes, (making the day and night equal).
+(18)
+
+The middle of the Earth, (the North pole is meant
+here,) is north of Ujjain by 586 2/3 yojanas. It is north
+of Lanka by 800 yojanas.1 (19). (TSK)
+
+भूव्यासपरिधी
+4. 10. 3. योजनानि शतान्यष्टौ भूकर्णो द्विगुणानि तु |
+तद्गतो दशगुणात्पदं भूयरिधिभेवेत्‌ ।। ५८ ॥
+(SaSi., 1.58)
+Earth: Diameter and Circumference
+
+Twice eight hundred yojanas is the diameter of the
+Earth: the square root of ten times the square of that is
+the Earth’s circumference. (58). (E. Burgess)
+4.10.4. ` खखखशरा ' लम्बहता व्यासार्धहृताः स्फुटकुपरिणाहः ।
+
+(Brahmagupta, KK, 2.1.62)
+
+Multiply 5000 by the 96 of the colatitude of the place
+and divide the product by the रद. The result is the
+correct circumference of the Earth at that place. (6a)
+(BC)
+लङ्कातः उज्जयिनी
+4. 10. 5: ` नवनिधिदन्ता ' लड्कावन्त्यो-
+
+मध्ये कुपरिधिरष्टचाप्ता ।। ३३०४ 1
+(Deva, KR, 1.33 a-b)
+Ujjayini from Lanka
+
+3299 (yojanas) is the Earth’s circumference; this
+divided by 16 gives the distance between Lanka and
+Avanti (or Ujjayini.) (33. a-b) (KSS)
+
+4. 10. 6. प्रोक्तो योजनसंख्यया कुपरिधिः 'सप्ताङ्खनन्दाब्धयस्‌'
+तद्वासः कुभुजङ्गसायकभुवः' 'सिद्धांशकेनाधिकाः |
+पृष्ठक्षेत्रफलं तथा भुगगुणविशच्छराष्टाद्रयो"
+भूमेः कन्दुकजालवत्‌ कुपरिधिव्यासाहतेः प्रस्फुटम्‌ I
+(Bhaskara II, SiSi., 2.2.52)
+
+The circumference of the Earth sphere is said to be
+4967 yojanas. Its diameter is 1581 1/24 yojanas. The
+surface area thereof is 7,85,034 square yojanas, for it is
+obvious that, as in the case of a spherical ball, the
+product of the Earth’s circumference and its diameter
+gives its surface area. (52). (KVS)
+
+4. 10. 7. प्रोक्तो योजनसंख्यया कुपरिधिः | सप्ता ङ्गनन्दाग्धय “-
+स्तद्व्यासः कुभुजज्भसायकभुवो 5थ प्रोच्यते योजनम्‌ |
+याम्योदक्युरयोः पलान्तरहतं भूवेष्टनं भांश ET
+तद्धक्तस्य पुरान्तराध्वन इह जञेयं समं योजनम्‌ ।।१।1
+
+1 The distance in latitude from Lanka to Ujjain is 24’ and from
+Ujjain to the North pole is 66९. Thus 66 x 8 8/9 == 586 2/3, and
+90 x 8 8/9 = 800).
+
+CONCEPTS 4.10.9
+
+लम्बज्यागुणितो भवेत्‌ कुपरिधिः स्पष्टस्तिभज्याहृतो
+
+यद्रा द्वादशसंगुणः स विषुवत्कर्णेन भक्तः स्फुटः ।। २ ॥
+(Bhaskara IT, SiSi., 1.1.7.1)
+
+The circumference of the Earth’s globe is 4967 yojanas;
+d x 360
+cx 8
+०९ is the difference in the latitudes of two places on the
+same terrestrial meridian in degrees, ¢ the circumference
+of the Earth’s globe given above and d the distance
+between the two places.) (1)
+
+its diameter 1581. (A _yojana is equal to + where
+
+The equatorial circumference of the earth multiplied
+by cos @ and divided by R, or multiplied by 12 and
+divided by the hypotenuse of the right angled triangle
+formed by the gnomon and the equinoctial midday
+shadow thereof, (hereafter called equinoctial hypo-
+tenuse), gives the circumference of the Earth parallel
+to the equator and passing through the locality (here-
+after called the rectified circumference).1 (2). (AS)
+
+4. 10. 8. भूगोलः खेषुदिग्‌"व्यासो
+भमध्ये व्योम्न्यः स्थितः ।। १४२ ।।
+(Nilakantha, SiDar., 14 a)
+
+The terrestrial sphere is 1050 yojanas in diameter and
+it stands in the sky in the centre of the celestial sphere,
+as the lowest point. (142). (KVS)
+
+भूपरिध्यानयनम्‌
+
+4. 10. 9. समयाम्योदक्स्थौ देशौ ज्ञात्वा तयोः पलज्ये च ।
+योजनसंख्यां च तयोमेध्ये तैराशिकं ततः कायम्‌ ।।१२॥
+
+अक्षद्रयान्तरांशेदेशद्रयमध्ययोजनानि यदि ।
+लभ्यन्ते चक्रांशैः कानीति स्याद्‌ भुवः परिधिमानम्‌ ।।
+
+अथवाक्षद्रयविवरजभागैस्तन्मध्ययोजनानि यदि |
+चरिभसममेरुपलांभैस्तदा कियन्तीति भूपरिधिपादः ।।१४।।
+(Par., Gola. D, 3.12-14)
+
+Earth’s circumference
+
+Having fixed upon two places situated exactly north
+and south, determine their latitudes and the number of
+yojana-s between them. Then apply the rule of three:
+If the distance between the two places is caused by their
+difference in latitudes, how much (will the distance be)
+for the degrees in a circle (३.९, 360°)? The result will
+be the circumference of the Earth. (12-13)
+
+Or, if the difference in degrees of the two latitudes are
+the yojanas between them, how many will the yojanas be
+for 90° which is the latitude of Meru? This will give a
+quarter of the circumference of the Earth. (14). (KVS)
+
+1 For explanation and rationale, see SiSi: AS, pp. 83-89.

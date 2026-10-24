@@ -1,0 +1,51 @@
+314                                                    .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                 Solar eclipse
+
+Here we are actually interested in finding the difference between the lunar and solar
+parallaxes. For this, we first consider the parallax of the Sun. The factor λ̇s in (5.16)
+represents the daily angular motion of the Sun. Hence the expression for the parallax
+in longitude of the Sun (ls ) becomes
+
+                                                      λ̇s × sin z cos zv × sin(λs − λv )
+                                           ls =                  ×                       .                   (5.17)
+                                                          15               sin z
+Here the longitude of the Sun decreases due to the parallax when λv > λs , as is
+evident from Fig. 5.4 (S′ is west of S). Hence we have λs − λv as the argument of
+the sine.
+   Similarly, the parallax in longitude of the Moon (lm ) is given by
+
+                                                      λ̇m × sin z cos zv × sin(λs − λv )
+                                          lm =                   ×                       ,                   (5.18)
+                                                          15               sin z
+
+where λ̇m is the daily angular motion of the Moon. Here we have taken the Moon
+also to be at S as it is a solar eclipse, and λm = λs . For finding the correction to the in-
+stant of conjunction, the relevant quantity is actually the difference in the parallaxes
+in longitude of the Sun and the Moon, which is given by
+
+                                                                (λ̇m − λ̇s )
+                                         lm − ls =                           × coszv sin(λs − λv ).          (5.19)
+                                                                    15
+
+When this is divided by λ̇m − λ̇s , it gives the result in time units of days. The result
+when further multiplied by 60 gives the difference in lambana in nād.ikās. Thus the
+difference in lambana in nād.ikās is
+
+                                                  lm − ls = 4 × coszv sin(λs − λv ).                         (5.20)
+
+Actually this incorporates the sign also, as
+
+                                                     lm − ls = +ve                        (λs > λv ),        (5.21)
+
+and should be subtracted from the instant of opposition to obtain the true parvānta;
+and
+                           lm − ls = −ve      (λs < λv ),                      (5.22)
+so that the magnitude of lm − ls should be added to the instant of opposition to
+obtain the true instant of conjunction. In Fig. 5.4, (lm − ls ) is deflected westwards
+in longitude owing to parallax. Hence, the Moon is lagging behind the Sun at the
+calculated instant of conjunction and the true instant of conjunction is later. From
+now onwards, l stands for lm − ls , which is the difference in lambanas of the Moon
+and the Sun. In fact an iterative procedure is prescribed for obtaining tm . This is
+indicated by the statement
+
+   mua;hu:=+pyea;vMa :pa;va;Ra;nta;ma;a;va;Zea;Sa;yea;t,a   Á
+

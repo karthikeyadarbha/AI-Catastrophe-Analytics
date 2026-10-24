@@ -1,0 +1,57 @@
+C.2 Locating an object on the celestial sphere                                      459
+
+The ecliptic system
+
+It has been known from ancient times that the Sun traces out a closed path on the
+celestial sphere each year. This apparent path of the Sun in the background of the
+stars is called the ecliptic. The system of coordinates which makes use of the ecliptic
+as the fundamental reference plane is known as the ecliptic system. In this system,
+two angles called the celestial longitude and the celestial latitude, or simply the lon-
+gitude and the latitude, are used to specify the location of an object on the celestial
+sphere. These are defined as (see Fig. C.5).
+
+                  latitude (β ) = X ÔB           (range: 0 − 90◦N/S)
+                longitude (λ ) = Γ K̂X            (range: 0 − 360◦/24 h East).    (C.8)
+
+  Here K is the pole of the ecliptic. β is positive when it is north, and negative
+when it is south.
+
+                                                  Z (zenith)
+                    (north celestial
+                         pole) P
+
+                                ε
+                                                       X (star)
+                           K
+                         (pole of the                            β
+                           ecliptic)                                     B
+
+                                            E                        λ
+                                                                     ε
+                                                                             S
+               N                                 O
+                          horizo                                     Γ
+                                 n
+                                                       W
+
+                                              ial
+                                           est
+                                                            ic
+                                                  r
+                                        cel uato
+                                                           ipt
+                                            eq
+                                                        ecl
+
+Fig. C.5 Celestial latitude and longitude in the ecliptic system.
+
+
+   Because the axis of rotation of the Earth is tilted (by roughly 23.5◦ ) with respect
+to the plane of its orbital motion, the ecliptic, which is the path of the Sun on the
+celestial sphere, is a circle which is inclined with respect to the celestial equator.
+This inclination, denoted by ε , is known as the obliquity of the ecliptic. The ecliptic
+and the celestal equator inersect at two points known as the vernal equinox and
+autumnal equinox. The Sun’s motion on the ecliptic is eastwards. At the vernal
+equinox Γ , it moves from south to north, or its declination changes sign from − to
++.
+

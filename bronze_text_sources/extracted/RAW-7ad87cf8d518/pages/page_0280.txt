@@ -1,0 +1,123 @@
+16. 32. 1
+
+धीकोटिदं सत्करणं प्रसिद्धं
+
+श्रीश्रीपतिः सारतरं चकार ।। ७ ।।
+(Sripati, Dhikofi, 7.1-7)
+
+—Sripati
+Time of apparent conjunction
+
+In the case of an eclipse of the Sun, the time of
+conjunction of the Sun and the Moon becomes apparent
+when lambana (i.e. correction for parallax in longitude)
+is applied to it. (1)
+
+In the first, second, third and fourth yamardhas, the
+lambana is negative and its values are 3} ghafis, 3 ghatis,
+2 ghatis, and 1 ghafi respectively. In the four subsequent
+yamardhas, beginning with the fifth, the Lambana is
+positive and its values are 1 ghaft, 2 ghatis, 3 ghatis and
+31 ghatis respectively. (2)
+
+Moon’s true latitude
+
+When the lagna, i.e. the point of ecliptic lying on the
+eastern horizon, is) in Pisces or Aries, the value of nati
+(i.e. correction for parallax in latitude) is 39’; in Taurus
+or Aquarius it is 34’; in Gemini or Capricorn, it is 27;
+in Cancer or Sagittarius, it is 18’; in Leo or Scorpio, it is
+10’; and in Libra or Virgo it is 4’. The direction of
+nati here (i.e. in this work) is always south.
+
+When the Moon’s latitude and nati are of like
+directions, they are to be added together; when of
+unlike directions, their difference is to be taken. What-
+ever is thus obtained is the Moon’s true latitude. (4)
+
+First and last contacts etc.
+
+33 minutes minus the Moon’s (true) latitude is the
+measure of the eclipse of the Sun. The Sun’s diameter
+is (roughly) equivalent to the Moon’s diameter (already
+stated).
+
+1089 is here the value of the square of the sum of the
+diameters of the eclipsed and eclipsing bodies. The
+duration of the eclipse is obtained as in the case of a
+lumar eclipse. (5)
+
+The measure (of the diameter) of the Moon being
+(at times) greater (than that of the Sun), in the case ofa
+solar eclipse too, total obscuration of the Sun is possible.
+
+The times (of first contact and separation, or of
+immersion and emersion) should be obtained with the
+help of the time of conjunction as corrected for lambana
+and the duration (of the eclipse or totality). (6)
+
+The position of the Sun’s separation (from the Moon
+is the same as that of the Moon’s (first) contact (with
+the Shadow) ; and the position of (the Sun’s first) contact
+
+1 Yamardha is a unit of time which is equivalent to one-eighth of
+the day measured from sunrise to sunset. The first yamardha be-
+gins at sunrise and the eighth yamardha ends at sunset. ॥
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 236
+
+(with the Moon) is the same as that of the Moon’s
+separation. (from the Shadow).
+
+This is the situation in a solar eclipse.
+
+This excellent Karana (i.e. calendaric work), which
+is entitled Dhikoti and is highly condensed is composed
+by Sri Sripati. (7). (KSS)
+
+--ग्रहलाघवम्‌
+लस्बनसस्कारः
+16. 33. 1. लग्नं दर्शान्ते व्रिभोनं पुथक्स्थं
+
+तत्‌ कान्त्यंबैः संस्कृतोऽक्नो नतांशाः ।
+तदृद्वि्टचंशो वगितश्चेद्‌ द्विकोध्वो-
+
+ऽधोऽसौ saa: खण्डितस्तद्युतः स: ।। १ ॥
+सार्को हारः स्यात्‌ त्रिभोनोदयाकं-
+
+विश्लेषां शा शांशहीनघ्नशक्रा: ।
+हाराप्ताः स्याल्लम्बनं नाडिकादयं
+
+तिथ्यां स्वर्णं विद्रिभेऽरकाधिकोने ।। २ ॥।
+
+‘fay 'निध्नविलम्बनं कलास्तत्‌
+सहितोनस्तिथिवद्‌ व्यगुः शरोऽतः |
+अथ षड़गणलम्बनं लवास्ते-
+्युगवित्रिभतः पुननेतांशाः ।। ३ ॥
+नतिः, शरश्च ।
+दशहूतनतभागोनाहता्टेन्दव,स्तद्‌-
+रहितसधृतिलिप्तः षड्भिराप्तास्त एव ।
+स्वदिगिति नतिरेतत्संस्कृतः सोऽडगुलादिः
+स्फुट इषुरमुतोऽत स्यात्‌ स्थितिच्छन्नपूवम्‌ ।। ४ ॥।
+ग्रहणकालः
+स्थिति'रस ह॒तिरंशा वित्रिभं तैः पृथक्स्थं
+रहितसहितमाभ्यां लम्बने ये तु ताभ्याम्‌ |
+स्थितिविरहितयुक्तः संस्कृतो मध्यदशेः
+क्रमश इति भवेतां स्पशेमुक्त्योस्तु कालौ WY
+
+मददिवं मीलनोन्मीलने स्तौ
+ग्रासो नादेश्योऽङगुलाल्पो रवीन्द्रः ।
+वर्ण:
+धूम्रः कृष्ण: पिङ्गलोऽल्पाधेसव-
+ग्रस्तक्चन्द्रोऽकंस्तु कृष्णः सदैव ।। ६ ।।
+इष्टभ्रासः । ।
+इष्टं द्विघ्नं छन्नक्षुण्णं स्पर्शान्तयान्तर्नाडीभक्तम्‌ ।
+रूपार्धेनोपेत॑ विद्यादिष्टे कालेऽकंस्य ग्रासम्‌ ॥। ७ tt
+(Ganesa, GL, 6.1-7)
+—Grahalaghava
+Parallax in Longitude and Latitude
+
+Find the lagna at the end of new moon and subtract
+from it 90°. Keep it separate. Find the declination
+
+1 For elacidation and rationale see GL:RCP, II, pp. 1-15.

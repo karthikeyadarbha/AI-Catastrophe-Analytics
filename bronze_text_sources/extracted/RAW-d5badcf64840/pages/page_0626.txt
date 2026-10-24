@@ -1,0 +1,58 @@
+Index                                                                                            579
+
+pāta 391, 503                                       Ptolemy 401, 512
+phase of the Moon 421, 422                              planetary model of 512
+Pillai, Suranal Kunjan xxxi                          Purān.as xxxv
+pin
+  .d. ajyā 56–61                                    pūrn. imā 12, 13
+Pingree, D. 528                                      Pūrn . imānta system 13, 14
+planet(s) 5, 7                                       pūrvapaks.a 10
+   day 85, 87                                        Putumana Somayājı̄ xxxiv
+   duration of the day of 85
+   initial positions at the beginning of             quadrant 49
+       Kaliyuga 43–45
+   scheme of correction 119
+   Sun distance 123                                  Rāhu 372, 479
+planetary distances 435, 436                            at the autumnal equinox 481, 482
+Planetary hypothesis 524                                at the summer solstice 481, 482
+planetary latitudes xxxi, 503                           at the vernal equinox 480
+   method of calculation in Tantrasaṅgraha             at the winter solstice 480, 481
+       511–513                                       Rājā Śaṅkara Varman xxxiv
+planetary longitudes                                 Raju, C. K. 487
+   computation of, for Mars, Jupiter and Saturn      Rāma-navamı̄ 11
+       509, 510                                      Ramasubramanian, K. 487
+   computation of, for Mercury and Venus 510,        rāśi 11, 17, 18, 37, 50, 52
+       511                                              in the context of the orient ecliptic point
+   four-step process for, in Tantrasaṅgraha                 238, 239
+       503                                              durations of risings, at the equator 156
+planetary model                                         durations of risings, at ones own place 156,
+   Copernican 512                                            157
+   in Islamic tradition 512                             rising times of, at Laṅkā and at one’s own
+   of Nı̄lakhan.t.ha xxxix                                   place 153, 154
+   Nı̄lakhan.t.ha’s modification of 26, 436,         Rāśigolasphut.anı̄ti xxxiv
+       488, 508                                      rāśikūt.a 480
+   Ptolemy’s 512                                     Rās..triya pañcāṅga 463
+   rationale for the revised 513–515                 rate of motion of the planet
+planetary orbit xxxix                                   actual or true xl
+planetary revolutions in a Mahāyuga 24, 25             average or mean xl
+Plofker, Kim 487                                     ravibhūmyantara 335
+prabhā 234, 237                                     Rcosine 51
+prāglagna 239, 240, 246–248                            of the latitude 142, 144
+prān. a xxxviii, 8, 9, 79, 196, 197                    obtaining the desired Rcosine 64–68
+   of ascensional difference 76                      reduction to ecliptic xxxiv
+   pertaining to visibility in a lunar eclipse 281   reduction to observation xlv
+prān. akalāntara 79, 249–251, 259                  right ascension (R.A.) 77, 78, 457, 458
+prān. aliptā 79                                       alternative expression for 154, 155
+prathamā 12                                            expression for 78
+prathama-sphut.a-bhukti 290, 291                        of the mean Sun (RAMS) 82
+pratiman   . .dala 99, 492                              of the Sun 77–79
+pratipad 12                                          Rsine 51
+prativr.tta 99                                          computation of 53, 54
+pratyagbhrama 4                                         computation of tabular values 56–60
+pravaha 4, 7, 133                                       finding more accurate values of 70–72
+pravaha-māruta/vāyu 6, 7                              of the latitude 142
+prime meridian 457                                      of latitude, more accurate value of 144
+prime vertical 152                                      length of the arc from 68, 69
+precession of equinoxes xlii, 15, 173, 460–462          obtaining the desired Rsine 64–68, 74
+   in Br.hatsam   . hitā 461, 462                      value for a small arc 73
+

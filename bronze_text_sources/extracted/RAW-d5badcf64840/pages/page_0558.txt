@@ -1,0 +1,62 @@
+F.4 Nı̄lakan.t.ha’s revised planetary model                                                                              511
+
+                                     r0  1          1
+                                        = ,h                     i                               (for Mercury, Venus).
+                                     R   6 14 + |R sin(θ0 −θm )|
+                                                                             240
+
+It may be recalled that the aviśis..ta-manda-karn.a K is to be calculated using the
+Mādhava formula (F.15). The śı̄ghra correction giving the true planet θ is given by
+                                                      
+                            rs        K
+        R sin(θ − θs ) =                  R sin(θms − θs )
+                            R        Ks
+                                                                   r         1
+                                                                       s
+       where       Ks = [R sin(θms − θs )2 + {R cos(θms − θs ) +         K}2 ] 2 (F.28)
+                                                                      R
+                r      [31 − 2| sin(θms − θs )|]
+                   s
+                       =                                  (for Mercury)
+                  R                   80R
+                r      [59 − 2| sin(θms − θs )|]
+                   s
+                       =                                 (for Venus).
+                  R                   80R
+Note that in the above two-step process the aviśis..ta-manda-karn.a K shows up
+in the śı̄ghra correction. In his discussion of the geometrical picture of planetary
+motion in the Āryabhat.ı̄ya-bhās.ya, Nı̄lakan.t.ha presents the two-step process as the
+planetary model for all the planets. This has also been the approach of Yuktibhās.ā.
+
+
+
+F.4.3 Planetary latitudes
+
+In the seventh chapter of Tantrasaṅgraha, Nı̄lakan.t.ha gives the method for calcu-
+lating the latitudes of planets, and prescribes that for all planets, both exterior and
+interior, the latitude is to be computed from the manda-sphut.a-graha.
+          å
+   ma;nd;~.Pu +.f;a;t,a .~va;pa;a;ta;ea;na;a;t,a Ba;Ea;ma;a;d;a;na;Ma Bua:ja;a;gua;Na;a;t,a Á
+                        È
+   :pa:=+ma;[ea;pa;a;na. îå Á
+                        *+;a .~ya;a;t,a [ea;pa;ea Y;ntya;(ra;va;Na;ea:;d
+                                                                       Äâx ;taH Á Á
+                                                                                    24
+
+   The Rsine of the manda-sphut.a of the planet Mars etc., from which the longitude of its
+   node is subtracted, is multiplied by the maximum latitude and divided by the last hypotenuse
+   (the śı̄ghra hypotenuse of the last step). The result is the latitude of the planet.
+
+    This is as it should be, for in Nı̄lakan. .tha’s model the manda-sphut.a-graha (the
+manda corrected mean longitude) coincides with the true heliocentric longitude for
+both exterior and interior planets. In this way, Nı̄lakan. .tha, by his modification of
+the traditional Indian planetary theory, solved the problem, long-standing in Indian
+astronomy, of there being two different rules for calculating the planetary latitudes.
+    In the above verse, Nı̄lakan.t.ha states that the last hypotenuse that arises in the
+process of computation of longitudes, namely the śı̄ghra-karn.a Ks , is to be used as
+the divisor. In Āryabhat.ı̄ya-bhās.ya, he identifies this as the Earth–planet distance
+(the bhū-tārāgraha-vivara). There, Nı̄lakan.t.ha has also explained how the compu-
+tations of true longitude and latitude get modified when latitudinal effects are also
+
+24 {TS 1958}, p. 139.
+

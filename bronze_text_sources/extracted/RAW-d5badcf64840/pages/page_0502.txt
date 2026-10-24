@@ -1,0 +1,54 @@
+C.2 Locating an object on the celestial sphere                                               455
+
+                     rotation of the               Ζ (zenith)
+                     celestial sphere
+
+
+
+                            P
+
+
+
+
+                                   rotation of      O (observer)
+                                    Earth
+                                                  Earth
+                                        horizon
+
+
+                                                                           Q
+
+
+
+
+Fig. C.2 The celestial sphere for an observer in the northern hemisphere with latitude φ .
+
+           Coordinate    Fundamental        Poles       Coordinates
+            system        plane/circle     of circle    and notation used
+           Horizontal       Horizon      Zenith/nadir Altitude and azimuth
+                                                              (a, A)
+           Equatorial Celestial equator Celestial poles Declination and right ascen-
+                                                        sion/hour angle
+                                                           (δ , α ) or (δ , H)
+            Ecliptic      Ecliptic      Ecliptic poles Celestial latitude and longi-
+                                                        tude (β , λ )
+Table C.1 The different coordinate systems generally employed to specify the location of a celes-
+tial object.
+
+
+
+different coordinates and the fundamental reference circles employed for specifying
+a celestial object.
+
+
+The horizontal system
+
+In this system, which is also known as the alt-azimuth system, the horizon is taken
+to be the fundamental reference place. In Fig. C.3, the great circle passing through
+the zenith and the north celestial pole P intersects the horizon at N and S, the north
+and the south points. E and W are the east and the west points, which are 90◦ away
+from the north and the south points. These four points together represent the four
+cardinal directions for an observer.
+   The circles passing through the zenith and perpendicular to the horizon are called
+vertical circles and the vertical passing through E and W is called the prime vertical.
+

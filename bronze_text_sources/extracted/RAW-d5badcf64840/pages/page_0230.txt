@@ -1,0 +1,55 @@
+3.18 Locus of the tip of the shadow of the gnomon                                         183
+
+                                                        E
+
+
+
+                                      P(x,y)
+
+
+                                               ch
+                                                āyā
+
+
+
+                  N                                                                S
+                                          M                 O
+
+
+
+
+                                                            W
+
+Fig. 3.19 To show that the curve traced by the tip of the shadow is a hyperbola.
+
+
+
+x is negative whereas y is positive. |x| and |y| are the chāyābhujā and chāyākot. i,
+whereas                                  p
+                                  OP = x2 + y2 ,                               (3.108)
+is the chāyā (shadow). Now, the coordinates of the tip of the shadow, x and y, are
+given by
+
+                                      x = K sin z cos A = 12 tanz cos A
+                         and          y = K sin z sin A = 12 tanz sin A.               (3.109)
+
+Earlier we showed that
+                                                                sin δ
+                             −K sin z cos A = 12 tan φ − K
+                                                                cos φ
+                                                               12 sin δ
+                                                 = 12 tan φ −             .            (3.110)
+                                                              cos z cos φ
+Therefore,
+                                                                    12 sin δ
+                                               −x = 12 tan φ −
+                                                                   cos z cos φ
+                                                        12 sin δ
+                        or          x + 12 tan φ =               sec z
+                                                         cos φ
+                                                                         cos φ
+                               or       12 sec z = (x + 12 tan φ )             .       (3.111)
+                                                                         sin δ
+                 p
+From (3.109),        x2 + y2 = 12 tanz. Also,
+

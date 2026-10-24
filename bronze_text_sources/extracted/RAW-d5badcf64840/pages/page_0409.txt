@@ -1,0 +1,82 @@
+362                                                            v.ya;ta;a;pa;a;ta;pra;k+.=+Na;m,a                                        Vyatı̄pāta
+
+   In a passing remark the text also mentions that: ‘The Rcosine of the true decli-
+nation will be the day-radius (dyujyā) for those residing in the viks.epaman. .dala’.
+Here, the term viks.epaman. .dala refers to the declination circle of the Moon whose
+radius is given by
+                                             q
+                      dyujyā = R cos δm = R2 − (R sin δm )2 .                 (6.12)
+
+
+
+  .
+6 4 I+.nd;eaH              :pra;k+:a:=+a;nta:=e+Na kÒ +:a;ntya;a;na;ya;na;m,a
+
+
+6.4 Determination of the declination of the Moon by another
+    method
+
+      A;Ta;va;a kÒ +:a; / / 
+                       a;nta:=+a;nea;ya;a :pa:=+k
+                                                Ò +:a;ntya;a
+                                                                      3 ;a;va;Da;ea:=+a;pa           ÁÁ 6            ÁÁ
+                                 Èå
+      :pa:=+ma;[ea;pa;k+:ea;a;f. î
+                                *+ÁM ;Æa:ja;na;Ba;a;ga;gua;NMa h:=e+t,a        Á
+
+      ;a:a:$ya;ya;a [ea;pa;vxa:ea Y;~ya na;a;Byua;. "C+.ya I+.h;a;pya;tea                      ÁÁ 7           ÁÁ
+
+      :pa;a;ta;~ya .sa;a;ya;na;~ya;a;Ta d;eaH k+:ea;a;f:$yea o+.Bea h;tea                        Á
+
+      ;Æa;[a;ya;a :pa:=+ma;ya;a ;a:a:$ya;a;Ba;e .~ya;a;ta;Ma .. a ta;tP+.le                               ÁÁ 8              ÁÁ
+
+      A;ntya;dùÅ;au:$ya;a;h;tMa ta:a k+:ea;a;f:jMa ;a:a:$ya;ya;a h:=e+t,a                              Á
+
+
+      na;a;Byua;. "C+.yea . a ta;t,a .~va;Na mxa;ga;k+:k+.a;Ra;a;d :pa;a;ta:ja;m,a                           ÁÁ 9                  ÁÁ
+
+      ta;d
+         â õâ ;a;hu;P+.l+.va;gERa;k+.a;mUa;lM kÒ +:a; / / 
+                                                      a;ntaH     :pa:=+a ;a;va;Da;eaH        Á
+
+                   È
+      ;a:a:$ya;a. î
+                  *+å ÁM d;eaH P+.lM Ba;M ta;ya;a . a;l+.na;ma;a;ya;na;m,a                      Á Á 10                   ÁÁ
+
+      .jUa;k+:a;k
+                Ò +:ya;a;a;d;gea :pa;a;tea .~va;Na ta;t,a .sa;a;ya;nea ;a;va;Da;Ea                   Á
+
+      ta;d
+         â õâ ;a;hu:$ya;a h;ta;a kÒ +:a;ntya;a ta;d;a :pa:=+ma;ya;a .~va;ya;a                        Á Á 11                    ÁÁ
+
+                                                     å
+      ;a:a:$ya;a;a;a;pa;k
+                          Ò +:ma:$yea;nd;eaH       .~.Pu+.f;a ta;a;tk+:a;a;l+.k+:a Ba;vea;t,a                                   Á
+
+      athavā krāntirāneyā parakrāntyā vidhorapi || 6 ||
+      paramaks.epakot.ighnam    . jinabhāgagun   . am. haret |
+      trijyayā ks.epavr.tte ′sya nābhyucchraya ihāpyate || 7 ||
+      pātasya sāyanasyātha doh   . kot.ijye ubhe hate |
+      ks.iptyā paramayā trijyābhakte syātām   . ca tatphale || 8 ||
+      antyadyujyāhatam   . tatra kot.ijam  . trijyayā haret |
+      nābhyucchraye ca tat svarn     . am. mr.gakarkyādi pātajam || 9 ||
+      tadbāhuphalavargaikyamūlam       . krāntih. parā vidhoh. |
+      trijyāghnam . doh.phalam  . bhaktam   . tayā calanamāyanam || 10 ||
+      jūkakriyadige pāte svarn  . am. tat sāyane vidhau |
+      tadbāhujyā hatā krāntyā tadā paramayā svayā || 11 ||
+      trijyāptāpakramajyendoh    . sphut.ā tātkālikı̄ bhavet |
+
+      Otherwise the [true] declination of the Moon may be obtained from its maximum declina-
+      tion. The Rsine of 24 (degrees) multiplied by the Rcosine of maximum inclination is divided
+      by the trijyā. The quantity obtained is called the nābhyucchraya of the ks.epavr.tta.
+      The Rsine and the Rcosine of the sāyana longitude of the node, multiplied by the maximum
+      deflection [of the Moon’s orbit] and divided by the trijyā, will be those phalas [i.e. the
+
+3 In another reading of the text, we find the term .~å.Pu+.f;kÒ+:a;a;nta
+                                                                     //// instead of :pa:=+k        //// Á That the latter
+                                                                                             Ò +:a;a;nta
+
+is correct gets confirmed from the procedure and formulae given in the text. The commentator
+Śan.kara Vāriyar has also adopted the reading :pa:=+kÒ+:a;a;nta
+                                                              //// Á
+

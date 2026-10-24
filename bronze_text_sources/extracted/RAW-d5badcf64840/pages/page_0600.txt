@@ -1,0 +1,40 @@
+Glossary                                                                         553
+
+natikalā             nati in minutes.
+natilambanaliptā     Rcosine of parallax in celestial longitudes in terms of minutes
+                      of arc.
+natiyoga              Sum of two parallaxes in celestial latitude.
+natyantara            Difference between parallaxes in celestial latitude.
+nemi                  Circumference (of a circle).
+nı̄ca                 The closest point in the pratiman.d.ala from the centre of the
+                      kaks.yāman.d.ala.
+nı̄coccaman.d.ala     See ucca-nı̄ca-vr.tta.
+nimı̄lana             Immersion (in eclipse).
+niraks.a-deśa        (Place having) zero latitude; equatorial region.
+niraks.a-ks.itija     Equatorial horizon.
+niraks.a-rekhā       Terrestrial Equator.
+niraks.odaya          Rise of an object for an equatorial observer.
+nirayan.a             Without motion; sidereal or with respect to a fixed stars in
+                      ‘nirayan.a longitude’.
+nr.cchāyā           See śaṅkucchāyā.
+ojapada               Odd quadrants (the first and the third).
+pada                  (1) Square root (2) Terms of a series (3) Quarter (4) Quadrant
+                      of a circle.
+padı̄kr.ta            When the square root is obtained.
+paks.a              Fortnight (bright or dark half of the lunar month consisting
+                    of 15 tithis).
+palaprabhā/palabha Equinoctial shadow.
+paṅkti               Column; ten (number and place).
+paramagrāsa          Maximum in an eclipse obscuration.
+paramagrāsakāla   Instant of maximum obscuration in an eclipse.
+para/parama-krānti See antyakrānti.
+paramāntarāla       Maximum distance of separation.
+paramāpakrama        Greatest declination.
+para/paramaśaṅku Rsine of greatest altitude, that is, Rsine of meridian altitude.
+paramasvāhorātra Longest day in the year.
+paribhraman.a         A complete revolution of a planet along the zodiac with ref-
+                      erence to a fixed star.
+paridhi               See nemi.
+pari-lekha/lekhana Graphical or diagrammatic representation.
+pārśva           Side; surface.
+

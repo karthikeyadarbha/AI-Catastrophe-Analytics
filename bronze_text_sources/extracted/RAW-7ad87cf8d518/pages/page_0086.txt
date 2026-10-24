@@ -1,0 +1,101 @@
+6. संख्यानम्‌ — NUMERATION
+
+संख्यानस्य अनिवायंता
+
+6. 1. 1. लौकिकं वैदिके वापि तथा सामयिकेऽपि यः ।
+व्यापारस्तत्र सर्वत्र संख्यानमुपयुज्यते 11 & ॥
+
+बहुभिविप्रलापैः कि त्रैलोक्ये सचराचरे ।
+यत्किञ्चिद्‌ वस्तु तत्सवं गणितेन विना नहिं ।। १६ ॥
+(Mahavira, Ganitasdrasatgraha, 1.9, 16)
+
+Need of numerals for calculation
+
+In worldly life or Vedic matters, or even in religious
+practices, whatever be the dealings, everywhere enume-
+ration is essential. (9)
+
+Why say much. In the three worlds, living or
+nonliving, whatever is to be transacted, that cannot be
+done without calculation. (16). (KVS)
+
+6. 2. 1. स्थानात्‌ स्थानं दशगुणमेकस्माद्‌ गुण्यते द्विज । ।
+(Visnu Purana, 749 6, ch, 3, Verse 4)
+
+Oh brahmana! from one place to the next one, the
+(KVS)
+
+places are multiples of ten.
+दशगुणाः संख्याः
+8. 3. 1. 'एकं दश च शतं च age त्वयुतनियुते तथा प्रयुतम्‌ ।
+HTS च वृन्दं स्थानात्‌ स्थानं दशगुणं स्यात्‌ I
+(Aryabhata I, ABh., 2.2)
+Decimal numbers
+Eka (unit’s place), Daga (tens place), Sata (hundreds
+place), Sahasra (thousands place), Ayuta (ten thousands
+place), Niyuta (hundred thousands place), Prayuta
+(millions place), Koti (ten millions place), Arbuda
+(hundred millions place), and Vrnda (thousand millions
+
+place) are, respectively, from place to place, each ten
+times the preceding. (2) (KSS)
+
+6. 3. 2. एकं दश च शतं चाथ सहस्रमयुतं क्रमात्‌ ।
+नियुतं प्रयुतं कोटिरर्बृदं वृन्दमप्यथ ।। ५।1
+
+खर्वो निखववंश्च महापद्मः शङ्कुश्च वारिधिः |
+अन्त्यं मध्यं परार्धं च संख्या दशगुणोत्तराः ॥ ६ ॥
+(Sankara Varman: Sadratnamald, 1. 5-6)
+
+Eka (1), Daga (10), Sata (100), Sahasra (1000), Ayuta
+(10,000), Niyuta (or Lakh, 10°), Prayuta (10%), Koti
+(107), Arbuda (108), Vrnda (109), Kharva (1010),
+Nikharva (10!), Mahapadma (1012), Sanku (103),
+Varidhi (1014), Antya (1015), Madhya (1916) and
+
+Parardha (1077) are numbers, each tenfold of the
+previeus. (5-6) (KVS)
+
+6. 3. 3. इमा म अग्न इष्टका धेनवः सन्तु--एका च दश च, दश च
+शतं च, शतं च सहस्रं च, सहस्रं चायुतं चायुतं च नियुतं च, नियुतं च
+प्रयुतं चार्बुदं च न्यर्बुदं च, समुद्रश्च मध्यं चान्तश्च पराधेश्चैता मे अग्न
+इष्टका धेनवः सन्त्वमुत्रामुष्मिंल्लोके । |
+(27-78, 17. 2)
+
+O Agni, may these (sacrificial) bricks be mine own
+milch-kine: one and a ten, a ten and a hundred, a
+hundred and a thousand, a thousand and a ten thou-
+sand, a ‘ten thousand and a hundred thousand, a
+hundred thousand and, a million, a ten million, a
+hundred million, a thousand million, a ten thousand
+million, a hundred thousand million, a million million
+or billion. May these bricks be mine miJch-kine in
+yonder world and in this world.+ `
+
+6. 8. 4 एका च मे तिश्च मे, तिस्रश्च मे पञ्च च मे, पञ्च चमे
+सप्त चमे, सप्तचमेनवचमे, नवचम एकादश चम, एकादश
+च मे त्रयोदश च मे, तयोदश च मे पञ्चदश च मे, पञ्चदश च मे सप्तदश
+चमे, सप्तदश च मे नवदश चमे, नवदश च म एकविशतिश्च म, एक-
+विशतिश्च मे त्रयोविशतिश्च मे, त्रयोविशतिश्च मे पञ्चविशतिश्च मे,
+पञ्चविशतिश्च मे सप्तविशतिश्च मे, सप्तविशतिश्च मे नवविशतिश्च
+मे, नवविशतिश्च म॒ एकतिशच्व म, एकविशच्च मे त्रयस्त्रिंशच्च मे
+यज्ञेन कल्पन्ताम्‌ ।। ~
+॥ (27 $, 18.24)
+
+May my one and my three, my 3 and 5, my 5 and 7,
+my 7 and 9, my 9 and 11, my 11 and 13, my 13 and 15,
+my 15 and 17, my 17 and 19, my 19 and 21, my 21 and
+23, my 23 and 25, my 25 and 27, my 27 and 29, my 29
+and 31, and my 31 and my 33 prosper by sacrifice.
+
+6. 3..5. चतस्रश्च Asta मे, ऽष्टौ चमे द्वादश चमे, द्वादश च
+मे षोडश च मे, षोडश च मे विशतिश्च मे, विशतिश्च मे चतुविशतिश्च
+मे, चतुविशतिश्च मेऽष्टाविशतिश्च मे, ऽष्टाविशतिश्च मे द्रातिशच्च मे,
+द्वात्रिशच्च मे षट्तिशच्च मे, षट्तिशच्च मे चत्वारिंशच्च मे, चत्वारि-
+शच्च मे चतुश्चत्वरिशच्च मे, चतुत्वारिशच्च मेऽष्टाचत्वारिशच्च मे
+यज्ञेन कल्पन्ताम्‌ ।।
+
+| (YV-VS, 18.25)
+
+1 Similar lists occur also elsewhere in the Veda, e.g., YV-TS
+4.4.11; Kathaka Samhita, 17.10; Maitrayaniya Samhita, 2.18.14.

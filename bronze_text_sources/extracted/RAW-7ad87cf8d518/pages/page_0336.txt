@@ -1,0 +1,133 @@
+22. 7.4
+
+the Moon and the Sun may occur (a little) before
+or after the time of new moon, on account of parallax.
+
+(14) (KVS)
+
+मध्याहूलग्नं दुक्छेपलग्ने च
+22. 7. 4. मध्यलभ्नं नताल्लङ्कोदयैद्यूनाधिको रविः |
+दृक्‍क्षेपलग्नं प्राग्लग्नं हीनं राशित्रयेण च ।। १५ ॥
+सध्यज्या
+मध्यलग्नापमाक्षज्याघधनुषीर्योगभेदतः |
+मध्यज्या, मध्यदृज्या सा, तच्छडकुर्मध्यसंज्ञित: ॥॥ १६ ॥
+दृक्क्षेपशडकुः
+दु कक्षेपशडकुरपि स एव त्रिज्याहतो भवेत्‌ ।
+मध्यलग्नविहीनप्राग्लग्नदोर्ज्याविभाजितः ॥। १७ ॥
+
+मध्यशड्कु्मध्यलग्नहरिजान्तरजीवया । ।
+यदि कस्विज्ययेति स्याच्‌ छढ्ुंदुक्क्षेपसंज्ञितः ।। १८ ।।
+
+तस्य छाया हि दुक्क्षेपजीवा खापममध्यगा |
+छायाकणेस्य सा कौोटिर्‌, दुग्गतिज्या च तद्भुजा ।। १६ ।।
+(Para., Grahananyadya., 15-19)
+
+Meridian ecliptic point and Nonagesimal
+, The point of the Ecliptic on the Meridian (Madhya-
+lagna or Madhyahna-lagna, M) is the longitude of the Sun
+(8S) reduced or increased by the segment (SM) of the
+ecliptic got from the Nata-nadikas (i.e., time from the
+True noon by using the Lankodayapranas).1 (15 ab)
+
+The Nonagesimal (Drkksepalagna) (D) is the Orient
+Ecliptic point (L) minus three Signs. (15cd)
+Sine of the Meridian Ecliptic Point
+
+The Sine of the Point of the Ecliptic on the Meridian
+(Madhya-jya or Madhyahna-jya, MZ) is got by the (proper)
+addition or subtraction of the declination of the Madhya-
+lagna (ME), and the arc of the Sine latitude, te., the
+latitude (ZE).? It is actually the Madhyadrgjya (Sine
+Zenith distance of the Madhyalagna). The (Mahé-)
+Sanku pertaining to it (#.e., Cos. ZM) is termed the
+Madhya-(Sanku). (16)
+Drkksepasanku
+
+The Drkksepasanku (i.e., the Mahasanku pertaining to
+the Nonagesimal, i.e., Qos. ZD) is this (Madhyasanku)
+multiplied by Trijya and divided by the Sine of the
+Madhyalagna-minus-Praglana (Sin. ML).3 (17)
+
+1 In the forenoon, taking the position of the Sun as the Udaya-
+lagna, calculate the segment of the ecliptic corresponding to the
+Natanddikas at that time using the Lankodayapranas, (i.e., Lankarasi-
+mana), and subtract it from the longitude ofthe Sun. In the after-
+noon, since the Madhyalagna is greater than the longitude of the
+Sun, the corresponding segment is added to it.
+
+2 That is, the Sine of the angle got from the sum or difference of
+the declination of the Madhyalagna (ME) and the latitude (ZE) is
+called Madhyajya.
+
+3 Since the spherical triangle MDZ is right angled.
+
+Cos. MZ Cos. MZ Cos. MZ
+Cos. DZ =
+
+Cos.DM~ Sin. (90—DM) ¬ Sin. ML
+as given in the verse. ॥
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 292
+
+The Drkksepa-(fanku) is derived by the proportion: If
+the Madhyasanku is (got) by the Sine of Madhyalagnar7
+horizon (i.e., ML), (what will it be) by Trijyd. (18)
+
+Its Mahacchaya is (equal to) the Sine at the Nonagesi-
+mal of the arc between the Zenith and the Ecliptic (DZ).
+(It will be the altitude for the hypotenuse whichis the
+(Graha-mahé-\cchaya (i.e., Sin. SZ); Sine Drggati (i.¢.,
+Sine of the intervening segment on the ecliptic, SD) is
+
+the base for it. (19) (KVS)
+दुग्यतिज्या
+22. 7. 5. दुकक्षेपज्यावगहीनच्छायावगेपदं ततः |
+
+प्रोच्यते दृग्गतिज्येति दुग्भेदोत्था गतियेतः ।। २० ॥
+दृम्भेदजो यतः क्षेपो दुक्क्षेपज्येति सोच्यते ।
+
+छायावशाद्धि wast, भवेद्‌ दुग्ज्या ततोऽत्र सा । २१॥
+शून्यं खमध्ये, हरिजे भूव्यासा्धमितो ` भवेत्‌ ।
+
+दुग्भेदों निजकक्ष्यायाम्‌, अन्तरालेऽनृपाततः ।। २२ ॥
+द्रष्ट्रभूमध्ययो: खेटस्योन्नती वृत्तयोस्तु ये |
+
+दुग्भेदोऽपि तयोभेंदो, द्रष्ट्रमध्ये चाप्यधः ।। २३ ॥।
+
+लम्बनं यद्यपि छायावशाद्‌ दुष्टं तथापि च ।
+
+सिद्धयते दुग्गतिज्यातस्तद्‌, दुक्क्षेपगुणान्नतिः ।। २४ ॥।
+
+। (Para , Grahana-nydya., 20-24)
+Sine Drggati
+
+The root of the square of the Drgjya (t.e., Sine Zenith
+
+distance of the planet, 7.e., Sin. ZS) minus the square of
+Sine Drkksepa (Sin. ZD) is called Sine Drggati (Sin. DS).
+Since the difference in longitude due to the difference
+of the position of the observer at the centre and at the
+surface of the Earth (drgbhedotiha gati) is got from this,
+it is called Drggatijya.1 (20)
+
+That (96) from which (the portion of) the latitude
+caused by the Drgbheda (i.e., the difference of view from
+the surface and the centre of the Earth) is obtained is
+called the कद for the Drkksepa. The difference of view
+is in accordance with the Chaya (Sine of the Zenith
+distance). Hence, here, the Drkksepajya is the same as
+Drgjya (Sine Zenith distance) of the Nonagesimal. (21)
+
+The Drgbheda is zero at the zenith. It is equal to
+the radius of the Earth at the horizon, in its own
+orbit (SiSi). In between, it is (SS’), proportionate (to
+the Sine of the Zenith distance, 2 ZCS). (22)
+
+In the case of the altitudes of a planet (5 and S’) in
+the two circles with the observer (E) and the centre of the
+the Earth (C) (respectively, as centres), the difference
+(of the centres) is the Drgbheda (SS’). Viewed from the
+observer as centre, its direction is downwards. (23)
+
+1The sense is dygbhedotthagati-dayaka-jya, since paramalambana x
+drggatijya== actual lambana (in longitude).

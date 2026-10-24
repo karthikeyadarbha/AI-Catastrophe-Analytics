@@ -1,0 +1,123 @@
+228 । 16. ECLIPSES :
+
+west respectively along the circumference in the opposite
+direction! (i.e., towards the north or south according as
+the valana is of south or north direction) ; and in the case
+of a solar eclipse, towards the west and east respectively,
+in its own direction (north or south). (And set down
+points there). (12)
+
+These points should be declared as the points of the
+first and last contacts of the Moon (in the case of a lunar
+eclipse) or of the Sun (in the case of a solar eclipse).
+Then draw lines proceeding from these two points and
+reaching the centre of the circle representing the Moon
+or Sun. (13)
+
+Also draw another line joining the north and south
+cardinal points. Starting from the centre, lay off along
+this line the Moon’s latitude (for the middle of the
+eclipse) in the contrary direction in the case of the Moon,
+and in its own direction in the case of the Sun. (14)
+
+Put down a point there. Taking it as centre and the
+semi-diameter of the eclipsing body as radius draw a
+circle by revolving the compass. As is a portion of the
+Sun or Moon seen intercepted by the eclipsing body in
+the diagram, just so is the (actual) Sun or Moon seen
+eclipsed in the sky during the eclipse. (15-16a)
+
+Path of the eclipsing body
+
+From the centre (of the circle) draw two lines, each
+equal to half the sum of the diameters of the eclipsed
+and eclipsing bodies, towards the east and west, one
+towards the point of the first contact and the other
+towards the point of the last contact. The extermities
+of these lines are the points (denoting the positions of
+the centre of the eclipsing body at the times) of the
+first and last contacts. (The point at the extremity of
+the Moon’s latitude for the middle of the eclipse is the
+third point). (16b-17a).
+
+Now, with the help of these three points construct
+two fish-figures, and keeping one end of a thread at the
+intersection of the head and tail lines of the two fish-
+figures, draw a circular arc (iit. line) through the above
+three points: this is the path of the eclipsing body.
+(17b-18a) .
+
+Now take a thread of length equal to half the sum of
+the diameters of the eclipsed and eclipsing bodies, and
+stretch it from the centre (of the circle towards the east
+and west), as before. Where the other extremity of
+this thread meets the path of the eclipsing body (towards
+the east or west), taking that as centre draw a circle
+with radius equal to that of the Shadow. The point
+where this circle touches the circumference of the Moon,
+
+1 Tn fact, only the viksepa-valana should be ofthe opposite direction;
+the other two valanas should be of their own direction.
+
+16. 23.1
+
+there lies the point of the first or last contact. This is
+how the points of the first and last contacts are seen
+afterwards (in the sky). (16b-20a)
+
+Obscuration at the given time (Ista-grasa)
+
+Diminish (the ghafis of) half the duration of the eclipse
+by the given ghafis, then multiply by the motion-
+difference of the Sun and Moon, and then divide (the
+product) by 60. Add the square of that to the square
+of the Moon’s latitude, and take the square root (of that
+sum). By that (square root) diminish half the sum of
+the diameters of the eclipsed and eclipsing bodies. The
+remainder is the measure of eclipse at the given time.
+(The minutes of half the sum of the diameters of the
+eclipsed and eclipsing bodies) diminished by the minutes
+of the Moon’s latitude give the measure of eclipse at the
+time of the middle of the eclipse. (20b-22a)
+
+Graphical representation of Ista-grasa
+
+Stretch a thread of length equal to the square root
+(obtained in the previous rule) from the centre towards
+the east or west of the Moon, or towards the west or
+east of the Sun (according as the given time relates to the
+first or second half of the eclipse), so as to meet the path
+of the eclipsing body as it stands. At that point draw
+the Shadow. (22)
+
+Method for Ista-grasa ।
+Multiply the angulas of the measure of eclipse at the
+time of the middle of the eclipse by the given time
+(elapsed since the first contact or to elapse before the
+last contact) in ghafis and divide (the product) by (the
+ghatis of) half the duration of thé eclipse: the quotient
+gives the measure of eclipse at the given time, in terms
+
+of angulas. (23). (KSS)
+
+सुं ग्रहणगणनम्‌
+
+पौलिशसिद्धान्तः
+
+लम्बननाडयः ।
+
+16. 23. 1. दिनमध्यमसंप्राप्त्या यावत्या नाडिका व्यतीता वा ।
+ताभ्यः षड्गुणिताभ्यो ज्यात्रिशांशस्तिथेनाम ।। १॥।
+
+नतिसंस्कारः
+पञ्चघ्नात्‌ त्रिघनाप्तादक्षान्मुखपुच्छयोर्धनर्ण तत्‌ ।
+ सशशिचरणापमगुणा धनणेनाडयो धृतिभक्ताः ।। २ ॥
+उदगयने पूर्वाधं धनमृणं दक्षिणे प्राच्याम्‌ ।
+पश्चादूनं तु याम्ये दिगुदगुणं वामतः पुच्छे ।। ३. ॥।
+दिनयातशेषनाडयश्चन्द्रापमसंगुणास्त्वशीतिहूताः ।
+मेषतुलादि ऋणधनं विपरीतं वामतः पुच्छे । ४ ।।
+
+ग्रहणकर्म , ।
+
+राहोः सषट्कृतिकलां हित्वांशं तच्छशाङ्कुविव राशे ; 1
+` ग्रहणं त्रयोदशान्तः शशिनो भानोस्तथाष्टान्तः ।। ५॥।

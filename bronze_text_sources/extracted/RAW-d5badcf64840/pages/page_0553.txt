@@ -1,0 +1,63 @@
+506                                      The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                                           . t.ha
+
+   Za;a;Gra;~va;vxa:a;tua;yMa ta; / / / /
+                                    a;smM        ãÉa:=+ta;ssa;d;a :℄a;Zua;k
+                                             /a;(                         Ò +:Ea .. a Á
+
+     å
+   .~.Pu +.f;yua;a; H    :pra;a;gva;t~ya;a;t,a dx;gBea;dH        :pUa;vRa;va;;
+                                                                              ÂåÅ +vea;a;d;h .. a Á Á
+
+   ;a;kÒ +:ya;tea Y:a ta;a;a;Æa;ma:Ma ZEa;Gra;a;Da v.ya;tya;yea;na ma;nd;ea;ea Á
+                                                         ú                                  19
+   ta; / / / 
+      a;tsa:;d ÄâM ma;a;ndM :pra;a;k     ãÉa;a;. CE+.Gra:ãÁ
+                                   , :pa;(               *.a .sUa;a:=+Æa;BaH :pUa;vERaH ÁÁ
+
+
+
+   Since the rationale for the sphut.avidhi (the scheme of computing the true planet) for the
+   celestial bodies is not clear without the aid of chedyaka (diagrams), we present briefly the
+   way of obtaining the diagrams.
+   For Mars, Jupiter and Saturn, with the centre of the Earth as the centre, the śı̄ghra-kaks.yā-
+   vr. tta (concentric circle) is drawn with the trijyā (R sin 90) as the radius. Then draw the
+   śı̄ghra-pratiman  . .dala (eccentric circle) with its centre located at a distance of the śı̄ghra-
+   antyaphala (maximum śı̄ghra-correction) in the direction of the śı̄ghrocca. The same
+   will be the manda-concentric. From its centre go along in the direction of the mandocca a
+   distance equal to the maximum manda correction, and with this as the centre draw a circle.
+   This is referred as the manda eccentric circle. The planets Mars, Jupiter and Saturn move
+   on this eccentric when reduced to the manda-concentric they are referred to as manda-
+   sphut.a, and when reduced to the śı̄ghra-concentric they are sphut.a (true planets). . . .
+   For Mercury and Venus, the manda-concentric is first drawn with the centre of the Earth
+   as the centre. From that go along in the direction of mandocca a distance equal to the
+   maximum manda correction and with that as the centre draw the manda eccentric circle.
+   The point where the Sun is located on that eccentric is the centre of the śı̄ghra epicycle and
+   the radius of that circle is [not the trijyā but] as enunciated. In that śı̄ghra epicycle, the
+   Mercury and the Venus always move . . .
+
+     The chedyaka procedure enunciated by Parameśvara is illustrated in Figs F.6
+and F.7. In both these figures, O represents the observer, M the mandocca and P
+the planet whose longitude as measured from O is to be determined. In Fig. F.6,
+the circles C1 ,C2 and C3 are all of radius R. The circle C1 , centred around the ob-
+server O, is the śı̄ghra-kaks.yā-man.d.ala or the śı̄ghra-concentric circle. The circle
+C2 which is centred at the śı̄ghrocca S is the śı̄ghra-pratiman.d.ala (śı̄ghra-eccentric
+circle). The distance of separation between these two circles denoted by OS is the
+śı̄ghrāntya-phala, and corresponds to the radius of the śı̄ghra epicycle. It has been
+clearly enunciated by Parameśvara that the śı̄ghra-pratiman. d.ala, denoted by C2
+in the figure, itself serves as the manda-kaks.yā-man.d.ala, or the manda-concentric
+circle. The third circle C3 , which is centred around the mandocca M, is the manda-
+pratiman.d.ala or the manda-eccentric circle. The distance of separation between
+the centers of the manda-concentric and the manda-eccentric circles is equal to the
+radius of the manda epicycle and is also the mandāntya-phala, whose measure
+varies from planet to planet.
+     Parameśvara has depicted the geometrical picture of motion of the interior plan-
+ets also by employing three circles, C1 ,C2 and C3 , as in the case of exterior planets,
+as shown in Fig. F.7. However, here these three circles have completely different
+connotations and, while C1 and C2 are of radius R, C3 is of radius rs , the radius
+of the śı̄ghra epicycle. Here the circle C1 centred around O, is the manda-kaks.yā-
+man.d.ala, or the manda-concentric circle. The circle C2 , which is centred around
+the mandocca M, is the manda-pratiman.d.ala, which serves as the locus for the
+
+19 {AB 1874}, pp. 60-1.
+

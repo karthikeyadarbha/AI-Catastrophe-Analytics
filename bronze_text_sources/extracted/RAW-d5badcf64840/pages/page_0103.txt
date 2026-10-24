@@ -1,0 +1,73 @@
+56                                                   å
+                                                   .~.Pu+.f;pra;k+.=+Na;m,a                                                          True longitudes of planets
+
+  .
+2 3 :pa;a;F+.ta:$ya;a;na;ya;na;m,a
+
+
+2.3 Computation of the tabular Rsines
+
+      ;a;va;a;l+.a;a;d;Za;k+:ea;na;a .$ya;a .=+a;Zya;;Ma;Za;Da;nuaH k+:l+.aH               ÁÁ 3            ÁÁ
+
+      A;a;dùÅ;a:$ya;a;Da;Ra;t,a ta;ta;ea Ba;                      õ;a;Æa;Ba;~ta;taH
+                                             e .sa;a;DRa;de;va;a;a:(                              Á
+
+      tya;e ;a;d                          õ ;ta;a;ya;a .$ya;a .. a ta;dùÅ;au;a;taH
+                õ ;ta;a;ya;Ka;Nq+$ya;a ;a;d                                                            ÁÁ 4           ÁÁ
+
+
+      ta;ta;~tea;nEa;va h;a:=e+Na l+.b.DMa Za;ea;DyMa ;a;d
+                                                         õ ;ta;a;ya;taH            Á
+
+                                               õ ;ta;a;ya;~ta;dùÅ;au;ta;ea gua;NaH
+      Ka;Nq+.a;t,a txa;ta;a;ya;Ka;Nq+$ya;a ;a;d                                                      ÁÁ 5        ÁÁ
+
+
+      txa;ta;a;yaH                    ãÉEa;vMa . a;tua;Ta;Ra;dùÅ;a;aH
+                      .~ya;a;t,a ta;ta;(                                 kÒ +:ma;a;d, gua;Na;aH         Á
+
+      viliptādaśakonā jyā rāśyas..tām   . śadhanuh.kalāh. || 3 ||
+      ādyajyārdhāt tato bhakte sārdhadevāśvibhistatah           . |
+      tyakte dvitı̄yakhan      . d.ajyā dvitı̄yā jyā ca tadyutih . || 4 ||
+      tatastenaiva hāren       . a labdham  . śodhyam  . dvitı̄yatah. |
+      khan  .d
+             . āt tr.tı̄yakhan  .d. ajyā dvitı̄yastadyuto gun  . ah. || 5 ||
+      tr
+       . tı̄yah. syāt tataścaivam     . caturthādyāh. kramād gun    . āh
+                                                                             . |
+      The jyā of one-eighth of the arc, corresponding to a rāśi (expressed) in minutes, is 10′′
+      short of that (length of the arc in minutes). The quantity obtained by dividing the first
+      jyārdha by 233 12 , and subtracting it from the same, is the dvitı̄yakhan      . .dajyā. This added
+      to it (the first jyā) is the second jyā. The result obtained by dividing that (the second jyā)
+      by the same divisor (233 12 ) is to be subtracted from the second khan          . .dajyā. This is the
+                                                                               5
+      tr
+       . tı̄yakhan  . .dajyā. This added to the second is the third gun   . a. From that, the fourth gun .a
+      etc. have to be obtained in order.
+
+   As mentioned earlier, some texts like Āryabhat.ı̄ya and Sūryasiddhānta give the
+table of 24 jyās from which the jyā of any length of arc can be found, as illustrated
+through an example in the previous section. In the verses above, a procedure for
+finding more accurate values of the 24 jyās is described.6 For this, two new terms,
+namely the khan.d.ajyā (Rsine difference) and the pin.d.ajyā (whole Rsine) are intro-
+duced.
+   With reference to Fig. 2.2, they are defined as follows:
+
+                              pin. .dajyā = Pi Ni = Ji                                                                i = 1, 2, . . . , 24,
+                             khan.d.ajyā = Pi+1 Ni+1 − Pi Ni = ∆i                                                          i = 1, 2, . . . , 23.        (2.7)
+
+   The term pin. .dajyā essentially refers to the whole or the tabulated jyā. They are
+24 in number, represented by J1 , J2 , . . . , J24 and are expressed in minutes of arc. The
+last pin. .dajyā, namely P24 N24 = P24 O, is referred to as trijyā, and its length is equal
+to the radius of the circle. The difference between the successive pin. .dajyās are
+referred to as the khan. .dajyās. In these verses the first pin. .dajyā and the procedure
+for generating the successive pin. .dajyās from that are given.
+
+5 The term guna has various meanings. In this verse and in verse 5a, it could be assigned the
+                 .
+meaning rope, in which case it is the same as the word jyā. But in verses 6, 8 etc. of this chapter it
+is used to mean a multiplier (i.e. numerator).
+6
+  In fact, the procedure is the same as in Āryabat.ı̄ya, but for the values of the first jyā (which is
+taken to be 224′ 50′′ instead of 225′ ) and the divisor (which is taken to be 233 12 instead of 225′ ).
+

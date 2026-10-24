@@ -1,0 +1,63 @@
+143                                   BRIHAT SAMHITA.                    [CH. 30.
+
+
+     Form the 4th series form the 3rd thus 1 + 4=5;                 :
+
+
+
+5 + 10=15 15+20=35 ; so that the 4th series, is 1, 5, 15,35...
+                   ;
+
+
+(4)            The number of combinatious, therefore^ of 7
+      and so on.
+tblugs taken 4 together is the last number of the 4thserieSj
+viz., 35.
+
+
+        The above may appear to be a somewhat clumsy                            pro-
+cess.     Bhaskarachariar in his Lilavati (Arithmetic) gives the
+iodentical rule         now found in Western works on Algebra.
+He says Form fractions with tbe figures, say, from 7 to 1
+              :
+
+
+
+for numerators^ and from 1 to 7 for                     denominators thus   :
+
+
+
+
+                                  7    R     4   <5   2  1
+
+                                  T’ 2’ "S’ 4^        57 T*
+
+
+        The number           of       combinations of 7 things taken               2
+together is the product of tbe first two fractions=21.                          The
+number taken 3 together is the product of the first three
+fractions=35. The number taken 4 together is the pro-
+duct of tbe first 4 fractions=35 and so on-                      This process
+is also mentioned in the                   Aphoiisms of Pingala known as
+Chandas Sutra, a very ancient work.
+        23.       Agaru,     Pattra,        Turushka and      Syleya shall be
+mixed in two, three, five and eight parts and Priyangu,Musta,
+Basa and Kesa shall be mixed in five, eight two, and three
+parts.
+
+        24.       Sprikka,    Cinnamon, Tagara and               Mamsi      shall
+be mixed in four, one, seven and six parts ; and Sandal, Na-
+kha, Sreeka, and Kunduruka shall be mixed in seven,                             six,
+
+four, and one parts.
+
+        25.       Each set of four substances may be mixed in                    all
+
+possible ways in the parts mentioned                     — the number    of parts
+
+being always eighteen in the                      case of each mixture.         The
+mixtures form perfumes, ointment, and the like.
+
+        Note.     — As before, each set of four substances              will give
+24 varieties of mixtures-
+

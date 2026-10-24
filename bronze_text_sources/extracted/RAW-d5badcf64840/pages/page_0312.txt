@@ -1,0 +1,61 @@
+4.7 Angular diameters of the Sun and the Moon                                                                                                            265
+
+      In the case of solar eclipse, equations (4.15) and (4.16) take the form
+
+                                                      d2m = EM = OM + OE
+                                                                       R cos θmk
+                                                               = d1m +           ,                                                               (4.18)
+                                                                           2
+and
+
+                                                       d2s = ES = OS + OE
+                                                                        R cos θmk
+                                                                = d1s +           .                                                              (4.19)
+                                                                            2
+It is straightforward to show that these relations are valid even when cos(λs −U ) is
+negative, when O is at a distance |R cos(2λs −U)| from E, in a direction opposite to the
+direction of the Sun.
+    The nomenclature dvitı̄ya-sphuta-yojana-karn. a is introduced in Laghu-vivr.ti
+thus:
+      O;;vMa   kx +:ta;ea   .=+veaH     ;a;ba;}ba;Ga;na;ma;Dya;~ya    ;Ga;na;BUa;ma;Dya;~ya    .. a   A;nta:=+a;lM   ya;ea:ja;na;a;tma;kM            ;
+                                                                                                                                            Ba;va;a;ta
+
+                      å
+      ;a;d
+         õ ;ta;a;ya;~.Pu+.f;ya;ea:ja;na;k+:NRa I+.a;ta ya;a;va;t,a     Á
+
+      Doing so gives the distance of separation between the centres of the solar disc and the Earth
+      in yojanas; in fact, [this is] the dvitı̄ya-sphut.a-yojana-karn. a.
+
+
+
+  .
+4 7 A;k
+      eR +:nd
+            õ ;eaH                    ;a;ba;}ba;k+:l+.a;v.ya;a;saH
+
+
+4.7 Angular diameters of the orbs of the Sun and the Moon in
+    minutes
+
+      ;a;ba;}ba;~ya ya;ea:ja;na;v.ya;a;sMa ;a;va;Sk+:}Ba;a;DRa;h;tMa h:=e+t,a         Á Á 14     ÁÁ
+
+      .~va;BUa;}ya;nta:=+k+:NeRa;na ;a;l+.a;a;v.ya;a;saH        Za;Za;a;na;ya;eaH   Á
+
+      bimbasya yojanavyāsam      . vis.kambhārdhahatam     . haret || 14 ||
+      svabhūmyantarakarn     . ena liptāvyāsah. śaśı̄nayoh. |
+      Let the [linear] diameters of the discs of the Sun and the Moon in yojanas multiplied by the
+      trijyā be divided by their own distances of separation [to obtain] their angular diameters,
+      in minutes.
+
+   Let Ds and Dm be the linear diameters of the Sun and the Moon. The formulae
+for obtaining the angular diameters αs and αm of the Sun and the Moon, from their
+linear diameters, are given to be
+                                                      Ds × R                                            Dm × R
+                                            αs =                             and              αm =             ,                                 (4.20)
+                                                       d2s                                               d2m
+where the denominators refer to the dvitı̄ya-sphut.a-yojana-karn.a of the Sun and
+the Moon whose computation has been described in the previous section.
+   Since the angular diameters αs (αm ) in minutes correspond to a distance R from
+the centre of the Earth, where R is trijyā, whereas the linear diameters Ds (Dm )
+

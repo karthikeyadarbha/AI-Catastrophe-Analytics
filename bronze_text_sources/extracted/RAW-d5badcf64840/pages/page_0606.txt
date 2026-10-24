@@ -1,0 +1,42 @@
+Glossary                                                                        559
+
+ucca                (1) Higher apsis pertaining to the epicycle (manda or śı̄ghra).
+                    Equivalently, the farthest point in the pratiman. .dala from the
+                    centre of the kaks.yāman. .dala. (2) The apogee of the Sun and
+                    the Moon, and the aphelion of the planets.
+ucca-nı̄ca-sūtra   The line joining the higher and lower apsides.
+ucca-nı̄ca-vr.tta   Epicycle: the circle moving up and down with its centre on
+                    the deferent circle (kaks.yāman.d.ala) and which touches the
+                    ucca and the nı̄ca points on the pratiman.d.ala during the
+                    course of its motion.
+udaya               Rising; heliacal rising; rising point of a star or constellation
+                    at the horizon.
+udayajyā           (1) Rsine of the amplitude of the rising point of the ecliptic.
+                    (2) Oriental sine. (3) Rsine of the amplitude of lagna in the
+                    east.
+udayakāla          The moment of rising of a celestial body.
+udayalagna          Rising sign; the orient ecliptic point.
+udayasūtra         The line joining the rising and setting points.
+Ujjayinı̄           City in central India, the meridian passing through which is
+                    taken to be the standard meridian (zero terrestrial longitude)
+                    in Indian texts.
+ujjhitvā           Having subtracted.
+unman. .dala        (1) Six o’clock circle; east-west hour circle; equinoctial
+                    colure; great circle passing through the north and south poles
+                    and the two east-west svastika. (2) Laṅkāks.itija: horizon at
+                    Laṅkā (equatorial horizon).
+unmı̄lana           Opening, emersion in eclipse.
+unnatajyā          Altitude of a planet: Rsine of 90 degrees minus zenith dis-
+                    tance.
+unnataprān.a       The time in prān.as yet to elapse for a planet to set.
+upādhi             Assumption; limiting agent.
+upāntya            Close to the end; penultimate (term).
+upapatti (yukti)    Proof; rationale; demonstration; justification.
+ūrdhva             The topmost, earlier or preceding.
+ūrdhvādhorekhā   Line through the upper and lower points, the vertical.
+utkramajyā         Rversed sine (R(1 − cos θ ), where θ is the angle correspond-
+                    ing to the arc).
+uttara              Northern.
+uttarāyan.a        Northward motion (of the Sun) from winter solstice to sum-
+                    mer solstice.
+

@@ -1,0 +1,137 @@
+65 7. MEASURES. OF TIME. ETC.
+
+upwards. Multiply the lowest by the square of the
+chosen arc and divide by R?. Continue the operation
+through all the expressions above, The last quotient
+will be the versed sine of the chosen arc. (438). (For
+the results see footnote below).1 (438). (KVS)
+
+भोग्यखण्डस्पष्टीकरणम्‌
+7. 18. 7. यातैष्ययोः खण्डकयोविशेषः
+शेषांशनिघ्नो ‘Ta eI तदूनम्‌ |
+युतं गतैष्यैक्यदलं THE स्यात्‌
+्रमोत्कमज्याकरणोऽत्र भोग्यम्‌ ।।
+(Bhaskara IT, Si Si. 1.2.16)
+
+४
+
+Rectification of the next R sine difference
+
+The difference of the previous and the following R
+sine differences being multiplied by the remaining
+degrees and divided by 20, the result is subtracted from
+the arithmetic mean of the two aforesaid differences,
+to obtain the rectified R sine difference.? (16). (AS)
+
+4 R sines of Madhava derived by the above method
+
+No. Are R Sine R sine in decimal Modern value
+1. 2257 224“ 50% 22”° .06540 .06540
+2. 450° 448° 42” 58“ ˆ .13053 -13053
+3. 675° 670’ 40° 11“ “ .19509 .19509
+4. 900° 889’ 45” 15“ “ .25882 .25882
+5. 1125’ 1109. 1” 359“ 32144 .32144
+6. 1350" 1315“ 347 7%” -58268 .58268
+7. 1575’ 1520’ 28“ 35“ “ -44229 44228
+8. 1800’ 1718’ 52” 24%’ -50000 -50000
+9. 2025 1909’ 54” 35“ ˆ 55557 55558
+
+10. 2250" 20927 46” 3°’ -60876 -60876
+
+11. 2475’ 2266’ 39” 50“ “ -65934 -65934
+
+12, 2700 2450 51” 154“ 70711 20711
+
+13. 2925“ 2584" 58“ 6%’ -75184 .75184
+
+14, 3150’ 2727’ 20° 52“ “ -79335 -79335
+
+15. 3375’ 2858’ 22” 55“ “ .83147 .83146
+
+16. 3600 29777 10” 34“ “ .86603 .86603
+
+17. 3825’ 3083’ 13” 17%" .89587 .89688
+
+18. 4050’ 3176’ 3” 50“ ^ -92388 -92388
+
+19. 4275’ 3235’ 18” 22”” -94693 -94692
+
+20. 4500’ 3320’ 36” 30°” -96593 -96593
+
+१1. 4725 32371“ 41” 29“ “ -98079 .98079
+
+22. 4950’ 3408’ 20” 11“ -99144 .99144
+
+23. 5175’ 3450. 25“ 117 “ .99785 -99785
+
+24. 5400° 34377 44” 48“ “ 1.00000 1.00000
+
+R sines in decimal and their modern values have been added
+for the sake of comparison and have been taken from A.K. Bag,
+Mathematics in ancient and medieval India, Varanasi-Delhi, 1979,
+pp. 247-50.
+
+2 This is a formula for interpolation which agrees with what is
+called the ‘quadratic interpolation’ given by Ball in his Spherical
+Astronomy, p. 18, in the form:
+
+y= y' प्र (yl—yo) + oh? ~ ® — 2yl + yo).
+
+For a detailed treatment, see Si $i:AS, pp. 115-18.
+
+7. 18. 10
+
+ज्यातश्चापः'
+7. 18. 8. ज्यासङ्कलितात्‌ क्रमशः शोधितजीवामखिमेखेश्शेषम्‌ ।
+मख्या हतमन्त्याप्तं पूवयुतं तद्भवति चापः ।। ६ ॥
+(Bhaskara I, MBzh., 8.6)
+
+Arc from a given R sine
+
+From the given R sine subtract in serial order (as
+many tabulated R sine-differences as possible) : multiply
+the number of the Rsine-differences subtracted by 225.
+Then multiply the residue (of the given R sine) by 225
+and divide by the current R sine-difference. Add this
+result to the previous one. Thus is obtained the arc
+(corresponding to the given R sine in terms of minutes).
+(6). (KSS)
+ज्यानां चतुविशतिसंख्यानि्देशे कारणम्‌
+7. 18. 9. ननु चतुविशति ज्यार्धानीति कथमेष नियमः, यतः बुहुधा
+fread शक्यते समवृत्तपरिधिपादः । उच्यते--अतर हि भुजाकोटिकणं-
+कल्पनया जीवाखण्डान्युत्पा्न्ते । अतौ यावद्धा खण्डिते परिधौ काष्ठ
+sd च समपरिमाणं भवति तावद्धा खण्डनमेव प्रयोजनवत्‌, ततो न्यूने
+चापे तदनुपातेत ज्याधैसिद्धेः। अतो यावच्चापतुल्यमा्यज्यार्घं भवति
+तावद्धा एव परिधिष्छेत्तव्यः | चतुर्विंशतिधा चापखण्डने कृते प्रथमज्यारधं
+चापं च तुल्यसंख्यं जातम्‌ । अतस्तत्रैव खण्डनं पयंवसितम्‌ |
+(Siryadeva-yajvan, com. on ABh., 2.11: ed. KVS, 9. 50)
+
+Reason to restrict the number of R sines to 24
+
+Now, why should there a be rule that the number of
+R sines (in a quadrant) be restricted to 24, when the
+quadrant of a circle can be divided into any number
+of segments.
+
+To state the reason: Here the R sine segments are
+designed as the basis of sine, cosine and hypotenuse.
+Hence, only that division would be useful according to
+which the segment and R sines are equal in length, for,
+if less, the R sine would be proportionally less. Hence
+the quadrant should be divided in such a manner that
+the first R sine and the corresponding arc are exactly
+equal. When the number of segments in a quadrant
+is 24, the first R sine is equal to the first arc. Hence
+division into segments has been restricted to the said
+number (of 24). (KVS)
+ज्याः (२)--संख्या २४; व्यासार्ध: १२०; चापः ३.४५.
+
+7. 18. 10. षष्टिशतत्रयपरिधेवेगंदशांशात्‌ पदं स विष्कम्भः |
+तदिहांशाशचतुष्कं सम्प्रकल्प्य राश्यष्टभागज्या ।। FU
+
+व्यासाधेस्य कृतेरध्ुवसंज्ञाकृतांशस्ततः स मेषस्य |
+ध्रुवकरणी मेषोना द्वयोस्तु राश्योः पदं ज्याः स्युः RU
+शेषेष्विष्टेषु धनुद्िगुणं पदात्‌ प्रोक्ष्य शेषगुणहीनात्‌ ।
+व्यासस्यार्धाद्वर्ग द्विगृणकरण्यां समायोज्यम्‌ ।। ३ ॥।
+तत्पादोऽभिमता स्याद्‌ ध्रुवा तदूनावशेषपिण्डस्य |
+ध्रुवकरणीदलमध्यधेसंज्ञमन्योऽत्र विधिरुक्तः ।। ४ ॥।

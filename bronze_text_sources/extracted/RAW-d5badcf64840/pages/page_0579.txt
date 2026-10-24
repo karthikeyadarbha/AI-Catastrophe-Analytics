@@ -1,0 +1,51 @@
+532                        The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                             . t.ha
+
+ing the planetary longitudes, as the corrections introduced by these inclinations are
+known to be small. We will consider the longitude of an exterior planet, i.e. Mars,
+Jupiter or Saturn, first and then proceed to discuss separately the same for an interior
+planet, i.e. Mercury or Venus.
+
+                                                                         P’
+                                                            r
+                                                                         R
+                                                   P
+
+
+
+                                               R                θg       θh
+
+                                                       θs
+                                                                     E            Γ
+
+                                                        r
+                                                   θh
+
+                                           S                                  Γ
+
+
+
+
+Fig. F.11 Heliocentric and geocentric longitudes of an exterior planet in Kepler’s model.
+
+
+   The elliptic orbit of an exterior planet P and that of the Earth E around the Sun
+S are shown in Fig. F.11. Here, θh = Γ ŜP is the true heliocentric longitude of the
+planet. θS = Γ ÊS and θg = Γ ÊP are the true geocentric longitudes of the Sun and
+the planet respectively, while r and R are the distances of the Earth and the planet
+from the Sun, which vary along their orbits.
+                 ′                                               ′
+   We draw EP = R parallel to SP. Then, by construction, P P = r is parallel to
+ES. In the previous section (see (F.42)) it was described how θh is computed from
+the mean longitude θ0 , by applying the equation of centre. Now we need to obtain
+the true geocentric longitude θg from the heliolcentric longitude θh . It may be noted
+that
+                       ′
+         E P̂S = PÊP = θg − θh             and             E ŜP = 180◦ − (θs − θh ).      (F.43)
+
+In the triangle ESP,
+
+                       EP2 = R2 + r2 − 2rR cos[180◦ − (θs − θh )],
+                                                                                      1
+               or          EP = [(R + r cos(θs − θh ))2 + r2 sin2 (θs − θh )] 2 .           (F.44)
+

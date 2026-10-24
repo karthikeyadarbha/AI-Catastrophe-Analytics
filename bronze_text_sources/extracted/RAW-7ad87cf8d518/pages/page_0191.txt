@@ -1,0 +1,137 @@
+147 15.
+
+called bhuja, and sine (90°—sighra-kendra) is called kofi.,
+The rule is the same in the case of subtraction from 180”,
+
+(270° and 360°). (4)
+
+The bhuja and kofi must be multiplied by the planet’s
+epicycle of conjunction and divided by 360. Thus
+transferred, they are called bhuja-result and kofi-result
+pertaining to the equation of conjunction. If the sighra-
+madhya 15 mrgadi (i.e. from 270° to 90°), the kofi-result
+is to be added to 120 (i.e. the R of PS) and if the fighra-
+madhya is karkyadi (i.e. from 90° to 270°), the kofi-result
+is to be subtracted from 120. Square this and add it
+to the square of the bhuja-result. Find its square root
+and by it divide (120 >< bhya-result). Find (arc minus
+sine) of this. Subtract half of this from the longitude of
+apsis if the sighra-kendra is from 0° to 180° and add if
+from 180° to 360°. (5-6)
+
+Thus, (half-)rectifying the apogee position, deduct it
+fromthe mean. (The result is to be used as the anomaly
+of the apsis.) Find the bhuja of the anomaly of apsis.
+(As before), get the transferred bhuja-result of the apsis.
+(This is sine equation of the centre). Find its arc-sine
+and add or subtract (appropriately) half this to or from
+the half-rectified longitude of apogee. (7)
+
+Subtract this rectified apogee from the mean (and thus
+get the anomaly of apsis). Find its bkuja. (As before)
+calculate the bhuja-result (which is the equation of the
+centre.) Find its arc-sine and add or subtract (appro-
+priately) the whole of this arc from the mean. The
+result is the rectified mean. (8)
+
+Deduct the rectified mean from the sighra. (The
+anomaly of conjunction is got). As before, calculate the
+arc-sine and add or subtract appropriately the result
+to the rectified mean. The (geo-centric) true planet
+is got. (9)
+
+Difference in the case of Mercury and Venus
+
+All star-planets are (geo-centrically) made true in the
+above manner. But in the case of Mercury, (in addition
+to what has been done above), subtract its apogee from
+the sighra and using the Sun’s epicycle, find the bhya-
+result and apply it to mean Mercury, (which, of course,
+is the same as the Sun’s), with the addition or subtraction
+done as the Sun’s bhuja is additive or subtractive. (10)
+
+In the case of Venus, subtract 67’, constant, from the
+desired mean. (lla). (TSK)
+
+--भास्करः १
+13. 12. 2. स्वमन्दकेन््रसंप्राप्तफलचापाधमिष्यते |
+पदक्रमाद्यथा भानोः स्वमध्ये तद्विधीयते i ४० ॥
+शी घ्रकेनद्रफलाभ्यस्तं विष्कम्भार्धं विभज्यते ।
+
+स्वकर्णेनाप्तचापार्धं कार्य तस्मिन्‌ विपयेयात्‌ ।। ४१ ।।
+
+PLANETS
+
+13. 12. 2
+
+तस्मान्मन्दफलं कृत्स्नं कार्यमिष्टं स्वमध्यमे ।
+एवं भौमाकिजीवानां विज्ञेयाः स्फुटमध्यमाः ।। ४२।।
+
+तद्विहीनचलोत्पन्नफलचापेन संस्कृतः |
+
+SHEET: स्फुटो ज्ञेयः शेषयोरुच्यते विधिः ।। ४३ ॥
+शी घ्रन्यायाप्तचापाधेयुक्तहीनो विपयेयात्‌ ।
+
+मन्दोच्चः स्फुटमध्यस्य कर्ता शी घ्रात्‌ स्फुटं विदुः ।(४४।।
+
+प्रतिमण्डलकर्मापि योज्यमव्र विपश्चिता ।
+मन्दोच्चे पूर्ववत्कुर्याच्छी घ्रोच्चात्तद्विशोध्यते uw ४५ ।।
+
+तदेव केवलं शोध्यं चक्रार्धाच्छोध्य तच्चलात्‌ |
+
+चक्राधं संयुतं चापं THOS च शेषयेत्‌ ।। ४६ ।।
+मन्दकणंः शी घ्रकणेश्च
+
+स्फुटवृत्तगुणां त्रिज्यां हृत्वाऽशीत्या स्वकोटितः 1 `
+
+त्यक्त्वा पदेषु युक्त्वा वा कर्ण: प्राग्वत्‌ प्रसाध्यते ।। ४७ ॥
+
+मन्दोच्चसिद्धतन्मध्यविश्लेषाधेसमन्वितः |
+
+मन्दसिद्धेऽधिके हीने रहितो मध्यमो ग्रह: ।। ४८ ॥
+
+स शीप्रोच्चात्‌ पुनः साध्यः सिद्धयोरन्तरालजम्‌ |
+
+. अर्धीक्षत्य सकृत्सिद्धे पूववत्‌ परिकल्पयेत्‌ ।\ ४६ ।।
+
+एवं कृतस्य भूयोऽपि मन्दसिद्धि समाचरेत्‌ |
+
+मन्दसिद्धस्य तस्यायं विशेषोऽतोऽभिधास्यते ।। ५० ॥
+
+द्विसिद्धमन्दसिद्धस्य द्विसिद्धस्य यदन्तरम्‌ ।
+
+प्राग्वत्तन्मध्यमे कृत्वा शीघ्रसिद्ध: स्फुटो ग्रहः ।। ५१ ॥
+
+एवमाराकिजीवानामाख्यातं प्रतिमण्डलम्‌ ।
+
+शेषयोरप्ययं सम्यगुच्यते यो विधिक्रमः ।। ५२ ॥
+बुधशुक्रौ
+
+शी घ्रोच्चसिद्धतन्मध्यविष्लेषाधंसमन्वितम्‌ |
+
+मध्यान्न्यूनेऽधिके हीनं मन्दोच्चं संस्कृतं विदुः ।। ५३ ॥
+
+बुधभृग्वोः पुनः साध्यं मन्दमेवं स्वकर्मणा |
+
+तेन सिद्धौ चलाद्‌ भूयः स्फुटावेतौ प्रकीतितौ ।। ५४ ॥
+
+कोटेरन्त्यफलं शोध्यं न शुध्येद्‌ व्यत्ययस्तदा |
+
+कार्य: कर्णोऽसकृन्मान्दः सकृत्कणेस्तु शी घ्रजः ।। ५५ ॥।
+
+वक्रगतिः तन्निवृत्तिश्व
+स्फुटमध्यमान्तरदलं मध्यवशादृणं धनं चले कृत्वा ।
+वक्रातिवक्रगमने विज्ञेये तन्निवृत्तिश्च ।। ५६ ॥
+
+शीघ्रोच्चात्‌ स्फटखेचरो निपतितः शेषो यदा राशय-
+raat यदि वक्रगत्यभिमुखः षट्‌ चातिवक्रे स्थितः ।
+अष्टौ चेत्कुटिलं जहाति विहगः पन्थानमाश्वेव स
+त्वैष्यातीतविचारिणोविवरकं भुक्तिर्भवेदाह्विकी: xl
+(Bhaskara I, MBh., 4. 40-57)
+
+True planets—Computation (Bhaskara I)
+
+Calculate half the arc corresponding to the (planet’s)
+mandakendraphala and apply that to the (planet’s) mean
+longitude depending on the quadrant (of the planet’s
+kendra) as in the case of the Sun. (40)

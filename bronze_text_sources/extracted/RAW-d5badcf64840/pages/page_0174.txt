@@ -1,0 +1,54 @@
+2.27 The correction for Mercury                                                   127
+
+                                  OP sin δ θ = PN
+                                             = rs sin(θms − θs )
+                        or        Ks sin δ θ = rs sin(θms − θs )
+                                                                   R
+                         or        R sin δ θ = rs sin(θms − θs )      ,       (2.189)
+                                                                   Ks
+where
+
+        doh.phala = rs sin(θms − θs )
+                    rs
+                  = R sin(θms − θs )
+                    R                                                
+                                                                    K      1
+                   = R sin(θms − θs ) × (31 − 2| sin(θms − θs )|) ×     ×
+                                                                    R     80
+                                              1
+                   = dorjya × sphut.agun.a × .                               (2.190)
+                                             80
+Similarly,
+
+                      kot.iphala = rs cos(θms − θs )
+                                                                    1
+                                    = kot.ijyā × sphut.agun.a ×       .      (2.191)
+                                                                    80
+Adding the arc δ θ obtained thus to the longitude of the mean Sun θs , we obtain the
+true geocentric longitude of Mercury, θ = Γ ÔP = θs + δ θ .
+    In the earlier Indian texts, as was the case also in the Greco-European tradition
+up to Kepler, the equation of centre of the interior planet used to be applied wrongly
+to the mean Sun, which was taken as the mean planet in the case of interior planets.
+It is in Tantrasaṅgraha that the equation of centre is correctly applied to the mean
+heliocentric planet to obtain the true heliocentric planet, for the first time in the
+history of astronomy. We have already commented on this major modification that
+has been introduced for the interior planets in Tantrasaṅgraha, wherein the mean
+heliocentric planet is taken as the mean planet and the specified revolution number
+is noted as its own (svaparyayāh.), and the mean Sun is taken as the śı̄ghrocca for
+all the planets.
+    Now, ignoring the correction due to the eccentricity, the ratio of the Mercury–Sun
+to the Earth–Sun distance may be compared with the ratio rRs given in (2.187):
+
+                   Mercury–Sun distance 31 − 2| sin(θms − θs )|
+                                       =                        .             (2.192)
+                    Earth–Sun distance            80
+It may be noted that this ratio varies between 29               31
+                                                80 = 0.362 and 80 = 0.387, as com-
+pared with the average modern value of 0.387. The factor R in rRs in (2.187) takes
+                                                             K
+
+into account the eccentricity of the planetary orbit.
+   Finally it may be mentioned that here, in calculating the true position of Mer-
+cury, only a two-step procedure is prescribed. The śı̄ghra-phala, however, depends
+on the manda-karn.a and hence the manda-kendra also. Further, it is the iterated
+

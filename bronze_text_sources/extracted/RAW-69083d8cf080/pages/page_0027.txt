@@ -1,0 +1,44 @@
+INTRODUCTION XXVii
+
+though not by all. A proper reading of mathematical texts of Indian origin
+would enable this statement to be corrected. Against the view that the Hindu
+mathematicians “had rules, but apparently no logical scruples” and that there
+is “no evidence that they considered proof at all” might be cited the statement
+of the well-known scholiast of Indian Mathematics, Ganega Daivajiia (fl.
+1507) when he says, towards the beginning of his commentary Buddhivildsini
+on the Lilavati of Bhaskara II (born 1114):
+
+Vyaktevyaktasamjrie yad uditam akhilam nopapattim vind tan-
+
+nirbhranto va rte tam suganakasadasi praudhatam naiti cayam/
+
+pratyaksam drsyate sa karatalakalitadarsavat suprasanna
+
+tasmad agryopapattim nigaditum akhilam utsahe buddhvrddhyai//
+(Introduction, verse 4)
+
+0811648 Daivajiia asserts here that whatever be stated in the vyakta or
+avyakta branches, viz., Arithmetic and Algebra, would not be doubt-free nor
+hailed in the midst of mathematicians without upapatti or proof. And so, he
+intends to supply proofs for the enunciations of theorems, etc. occurring in the
+original. In the same vein, Mallari, the astronomer, (fl. 1578), says in his
+commentry on the Grahalaghava of Ganesa Daivajinia:
+
+Upapatti-vicaranavidhau ganaka mandadhiyo vimohitah//
+tasmad vacmy upapattim asya vimalam tanmohandsaya tam//
+(Introduction, verses 4-5)
+
+Mallari says that dull-witted astronomers are confused over astronomical
+proofs and so he was providing proofs for the elucidation thereof. On the
+untenability of certain other points made by Kline, the attention of interested
+scholars is directed to a well-documented paper on ‘The Methodology of Indian
+mathematicians and its contemporary relevance’ by M.D. Srinivas (PPST
+Bulletin, Madras, No.12, Sept. 1987, 1-35).
+
+5. Sources of Proof
+
+The potential sources of information on traditional proofs, rationales,
+derivations and demonstrations in Indian mathematics and astronomy are
+commentaries on the basic texts. But, as observed earlier, most commentaries
+restrict themselves to the explanation of the words of the texts and do not go
+further. But still there are a certain number of commentaries, like the ones

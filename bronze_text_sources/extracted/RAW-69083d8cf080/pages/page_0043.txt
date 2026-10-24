@@ -1,0 +1,41 @@
+INTRODUCTION xliti
+
+and moon and for the other planets involving the manda and sighra epicycles
+is explained.
+
+In a nut-shell the planetary theory broadly is like this. The earth is the
+centre and the sun and the moon go round the earth. As for other planets,
+with earth as centre, the sighra goes round the earth with the mean motion of
+the sun. The mean planet moves on a circle with the sighra as centre. The
+true planet is on the mandocca circle with the mean planet as its centre.
+Alternatively, the last two circles can be interchanged. This theory is
+advocated by Nilakantha in his commentary on Aryabhatiya, and practically all
+later Kerala authors have followed suit. In fact Ntlakantha tries to say that it
+was the view of Aryabhata also. If sighra is identified with the sun itself, then
+this agrees broadly with the modern theory with the positions of earth and sun
+reversed. On this, see K. Ramasubramanian, M.D. Srinivas and M.S. Sriram.
+Current Science, 66 (May 1994) 784-90.
+
+The rationale for adopting three or four stages of operations to find the
+geocentric longitude of a planet is also explained. This particular aspect has
+been baffling the scholars. It is generally held that the Hindu astronomers
+were not aware that the true geocentric longitude is to be obtained in two
+steps by first applying the manda correction and, using the corrected planet,
+the sighra equation is to be obtained and applied to the once corrected planet;
+therefore they adopted different methods involving three or four stages in
+different ways.2° However, later Kerala works like Sphutanirnaya have clearly
+explained the procedure in two stages correctly. This is not surprising if the
+longitude is arrived at on the basis of the planetary theory described above.
+Nilakantha also, in his commentary on Aryabhatiya, has given a similar
+method.
+
+Then how and why have these three or four stages-method get in? Some
+explanation has been given in some papers. But in the Yuktibhdsa,”! the
+rationale has been expounded beautifully. In short, it is like this. In arriving at
+the sighra correction the ‘mean’ mandakarna is taken instead of the ‘true’
+mandakarna. This is because the tables of sighra-jyds can be constructed only
+on the basis of ‘mean’ mandakarna. Hence a correction becomes necessary for
+the sighra-phala. To achieve this a correction is effected in the ‘true’ manda
+planet in such a way that this correction together with its effect on the tabular
+sighra-phala will compensate for the error in sighra-phala due to the difference
+in mandakarna. The longer commentary on Tantrasangraha also gives this

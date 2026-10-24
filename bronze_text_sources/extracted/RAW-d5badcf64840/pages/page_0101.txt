@@ -1,0 +1,85 @@
+54                                                   å
+                                                   .~.Pu+.f;pra;k+.=+Na;m,a                                                   True longitudes of planets
+
+     liptābhyastattvanetrāptāh. gatā jyāh. śes.atah. punah. |
+     gatagamyāntaraghnācca hr    . tāstattvayamaih  . ks.ipet || 2 ||
+     doh.kot.ijye nayedevam. jyābhyaścāpam   . viparyayāt |
+     By dividing the minutes [of arc] by 225, the number of jyās that have elapsed is obtained.
+     Multiply the remainder by the difference between the (tabular) Rsine values of the elapsed
+     and the next, divide by 225 and add the result to the elapsed jyā, to obtain the bāhu and
+     kot.i. From the jyās the arcs can be obtained by the reverse process.
+
+    As already explained, in Indian astronomical and mathematical works the cir-
+cumference of a circle is taken to be 360◦ = 21600′. Therefore the length of the
+arc corresponding to each quadrant will be 5400′. This length is divided into 24
+equal segments, each segment corresponding to 225′ . In Fig. 2.2, the points Pi (i =
+1, 2, . . . , 24) represent the end points of the 24 segments represented by the arcs
+Pi−1 Pi . The set of jyās, Ji = Pi Ni , (i = 1, 2, . . . , 24) corresponding to the 24 cāpas
+P0 Pi , are explicitly stated in many texts such as Āryabhat.ı̄ya and Sūryasiddhānta.4
+A method for obtaining more accurate values of these tabulated jyās will be pre-
+sented in the next verse.
+    Let Si represent the length of the 24 segments P0 Pi , in minutes of arc and Ji , the
+jyā corresponding to it. That is,
+
+                                                               Si = P0 Pi = i × 225,
+                                              and              Ji = Pi Ni .                   (i = 1, 2, . . . , 24)                                               (2.4)
+
+The above verse gives an interpolation formula to find out the jyā corresponding to
+any length of arc between 0 and 5400′ from the set of 24 jyās listed in Table 2.1
+(page 64). Suppose S is the length of an arc in minutes that lies between Si and Si+1 .
+That is,
+                           S = Si + r,      O ≤ r < 225,                         (2.5)
+where Si = i × 225. Since the jyā corresponding to the nearest arc lengths Si and
+Si+1 on either side of S are known, the jyā corresponding to S is obtained by the rule
+of three. It is given by
+                                            r × (Ji+1 − Ji )
+                              jyā S = Ji +                  .                    (2.6)
+                                                 225
+
+4 The following verses in Sūryasiddhānta (II. 17–22) give the values of the 24 jyās:
+
+
+     ta:va;a;a:(
+                õ;a;na;ea;ñÍ
+                           *:+.a; /
+                           öÅ   a;b.
+                                    /
+                                                                                      ñÍ                ú
+                                        x +:ta;a .+.pa;BUa;Æa;ma;Da:=;Ra;vaH Á Ka;a;öÅ*:+.a;;Ea :pa:ãÁ
+                                     Da;k                                                               *.a;ZUa;nyea;Za;a ba;a;Na:+.pa;gua;Nea;nd;vaH Á Á
+
+                             ú                                                                                                             õ;a;naH Á Á
+     ZUa;nya;l+.ea;. a;na;pa:*.
+                             ãÁEa;k+:a; / / /
+                                       a;ZC+.  dÒ;+.pa;mua;na;a;nd;vaH Á ;a;va;ya;a;ndÒ+a;a;ta;Dxa;ta;ya;ea gua;Na:=+nDra;a;}ba:=+a;a:(
+                                                                                                                                          
+                                                   Éç                            ú                                    ú
+     mua;a;na;Sa;q:a;ma;nea:a;a;a;Na . a;ndÒ+a;a;îå  x +:ta;d;~å:a;k+:aH
+                                                   +;a;k           ò       Á :pa:ãÁ
+                                                                                 *.a;a;;a;va;Sa;ya;a;[a;a;a;Na ku +.êÁ
+                                                                                                                      *+:=+a;a:(
+                                                                                                                               õ;a;na;ga;a;a:(
+                                                                                                                                              õ;a;naH Á Á
+
+                ú                                          ñÍ
+     .=+nDra;pa:ãÁ
+                *.a;a;;k+:ya;ma;aH         va;~va;dò ùÅ;a;öÅ*:+.ya;ma;a;~ta;Ta;a Á kx +:ta;a;;ZUa;nya:$va;l+.na;aH                              îå +:yaH Á Á
+                                                                                                                         na;a;ga;a;a;dÒ+Za;a;Za;va;
+
+               ú                                                çÉ                                                                                   Éç
+     :Sa;f
+         , :pa:ãÁ
+               *.a;l+.ea;. a;na;gua;Na;aH    . a;ndÒ+nea:a;a;a;îå     îå +:yaH Á ya;ma;a;a;dÒ+va;a;
+                                                                +;a;va;                            îå +.$va;l+.na;aH     .=+nDra;ZUa;nya;a;NRa;va;a;îå
+                                                                                                                                                     +;a;yaH Á Á
+                Éç                                   Éç
+     .+.pa;a;a;îå
+                +;a;sa;a;ga:=+gua;Na;aH     va;~va;a;îå  x +:ta;va;
+                                                     +;a;k         îå +:yaH Á :pra;ea;Jaa;ea;tkÒ +:mea;Na v.ya;a;sa;a;Da;Ra;t,a
+
+     .                                                                                                                   o+.tkÒ +:ma:$ya;a;DRa;a;pa;Nq+.k+:aH Á Á
+
+
+The 24 jyā values in the above verses have been given using the Bhūtasaṅkhyā system of repre-
+senting numbers (see Appendix A).
+

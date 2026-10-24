@@ -1,0 +1,83 @@
+3.20 Gnomon when the Sun is on the prime vertical                                                                                                            191
+
+     When the śaṅkvagrā, which changes continuously, becomes equal to the udagarkāgrā,
+     then the Sun reaches the prime vertical.
+
+   When the Sun is on the prime vertical, its azimuth is 90◦ and the mahābāhu is
+zero. Then the śaṅkvagrā is equal to the arkāgrā, as given by (3.125). That is
+
+                                                                         sin φ      sin δ
+                                                          R cos z0              =R
+                                                                         cos φ      cos φ
+                                                                                    sin δ
+                                                        or             R cos z0 = R       .                                                            (3.130)
+                                                                                    sin φ
+
+     ta;d;Ta nyUa;na;ta;a kÒ +:a;nteaH      .sa;Ea;}ya;ta;a k+:Tya;tea Y;[a;taH
+                                                                                        50            Á
+                                                  ñÍ                               51
+     k+:a;ntya;[a;a;na;ya;ma;ea :vea;dùÅ;aH
+     Ò                                         Za;öÅ
+                                                  *:+.g{a;a;k+:Ra;g{a;ya;ea:=+a;pa      ÁÁ
+                                                  öÅ
+
+
+
+     It is only for this to happen [that is, for the Sun to be on prime vertical] that it is stated that
+     the declination has to be north and has to be less than the latitude of the place. [Further,] the
+     condition on the declination and latitude is the same as that on the śaṅkvagrā and arkāgrā.
+
+   While the first half of the above verse is straightforward, the second half needs
+explanation. For this, let us consider the spherical triangle PZS′ in Fig. 3.22. When
+the Sun is not on the prime vertical—as shown at S′ in the figure—the angle PẐS′ 6=
+90. Let us denote this angle by ψ and the zenith distance by z. That is, PẐS′ = ψ
+and ZS′ = z. Now using the cosine formula we have
+
+                                                      sin δ = cosz sin φ + sin z cos φ cos ψ
+                                                     sin δ
+                                     or                     = cosz tan φ + sin z cos ψ .                                                               (3.131)
+                                                     cos φ
+
+This can be written as
+                                                       arkāgrā = śaṅkvagrā + X .                                                                  (3.132)
+In the above expression, since sin z is always positive, the quantity X is positive only
+when ψ < 90◦ . In otherwords, the śaṅkvagrā is less than the arkāgrā only till the
+time when the Sun reaches the prime vertical from its rising.
+
+     .sa;Ea;}ya;k
+                Ò +:a;ntea;yRa;d;a;[ea;Na tua;ya;ta;a .ja;a;ya;tea Ò
+                                                                    k+:ma;a;t,a              Á
+
+     dÒ+
+        u H .sa;ma;ea;pa;a:= ta;d;a ya;a;tya;k  R H .sa;ma;ma;Nq+.l+.m,a               ÁÁ
+           ëÅ                                      ñÍ
+     o+.d;ë
+           *:Á" +:a;ntya;pa;ta;a;ya:a;a .sa;ma;Za;ö
+                                                    *:+.pa;ta;a ta;taH Á
+                                                    öÅ
+                                                                 ñÍ
+     k+:a; / / 
+     Ò    a;ntaH    .sa;Ea;}ya;a;[a;tua;ya;a . ea;t,a .sa;ma;Za;ö
+                                                                 *:Åu +. ///
+                                                                        a;~:a;ma;Ea;a;vRa;k+:a           ÁÁ
+
+
+                             R +:~ya ;a;d;na;ma;Dyea :pra;vxa;a:a;taH
+     .sa;ma;ea;pa;a:=+;a;d;k                                                 Á
+                           ñÍ                                  ñÍ
+                           É ù
+     A;[a;ta;ea nyUa;na;sa;*
+                           Ë +;a;a;ya;aH      ta;~ya;aH     Za;öÅ*:M ta;ta;ea na;yea;t,a        ÁÁ
+                               Á                                   u
+
+
+
+
+50
+     The prose order for this half of the verse is: kÒ+:a;nteaH                                           .sa;Ea;}ya;ta;a   , A;[a;taH nyUa;na;ta;a (.. a) ta;d;Ta
+k+:Tya;tea Á
+51 The reading in the printed edition is: Za;ñÍ
+                                             *:+.k+:Ra;g{a;a;g{a;ya;ea:=+a;pa Á
+                                                                      öÅ
+                                                                      öÅ
+

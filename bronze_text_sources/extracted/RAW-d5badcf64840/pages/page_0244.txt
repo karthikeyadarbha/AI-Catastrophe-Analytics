@@ -1,0 +1,67 @@
+3.25 Hour angle from the samaman
+                               .d. ala-śaṅku                                                                  197
+
+                                                       samaman. .dala-śaṅku × lambaka
+                                       dyuvr.ttajyā =
+                                                                     trijyā
+                                                       R cos z0 × R cos φ
+                          or           R cos δ sin h =                    .                                 (3.144)
+                                                                R
+In Fig. 3.24, considering the spherical triangle PSE, we have SE = 90 − z0 , PS =
+90 − δ , PÊS = 90 − φ and SP̂E = h. Applying the sine formula we get
+
+                                                                sin h    sin PÊS
+                                                                       =
+                                                               sin SE     sin PS
+                                                                         cos z0 cos φ
+                                                     or          sin h =              ,                     (3.145)
+                                                                            cos δ
+which is the same as (3.144). The arc of this (h), converted into prān.as, is added
+to the cara in prān.as represented by the arc ESr′ , to obtain the time elapsed since
+sunrise till the Sun reaches the prime vertical.
+
+
+               ñÍ
+  .
+3 25 .sa;ma;Za;ö
+               *:uÅ +.na;a na;ta;pra;a;Na;aH
+
+
+3.25 Hour angle from the samaman
+                               .d. ala-śaṅku
+             È                 ñÍ
+      l+.}ba. îå Á
+             *+H     .sa;ma;Za;öÅ
+                               *:u H   .saH   dùÅu;a:$ya;a;Ba;+:ea Y;Ta ta;tkx +:a;ta;m,a   Á
+
+                           x +:tea;mRUa;lM . a;a;a;pa;tMa ;a;h na;ta;a;sa;vaH
+      tya;+:a ;a:a:$ya;a;k                                                        Á Á 57       ÁÁ
+
+      lambaghnah samaśaṅkuh sah dyujyābhakto ′tha tatkrtim
+                  .              .   .                        .     |
+      tyaktvā trijyākr
+                       . termūlam
+                                 . cāpitam
+                                          . hi natāsavah. || 57 ||
+      The square of the product of the samaman    . d.ala-śaṅku and the lambaka divided by the
+      dyujyā is subtracted from the square of the trijyā. The arc of the square root of this is the
+      natāsavah ..
+
+The term natāsavah. refers to the hour angle of a celestial object, H, and the nata-
+jyā is R sin H. In the above verse, Nı̄lakan.t.ha gives the expression for the Rsine of
+the hour angle (H) of the Sun when it is on the prime vertical:
+                                              "                                                      2 # 12
+                                               samaman.d.ala-śaṅku × lambaka
+                      nata-jyā = trijyā2 −
+                                                             dyujyā
+                                 "                           # 12
+                                    2      R cos z0 × R cos φ 2
+            or         R sin H = R −                                .                                       (3.146)
+                                                R cos δ
+
+We have already shown in (3.145) that
+                                                                           cosz0 cos φ
+                                                            sin h =                    .                    (3.147)
+                                                                             cos δ
+Since H = 90◦ − h (see Fig. 3.24), we have
+

@@ -1,0 +1,48 @@
+Appendix D
+Solution of the ten problems: a couple of
+examples from Yuktibhās.ā
+
+
+
+
+A ‘declination type’ formula is the only essential ingredient in the solution of all the
+spherical trigonometry problems in Yuktibhās.ā. The problem can be posed thus:
+what is the distance of a point on a great circle from the plane of another great circle
+which intersects it?
+   In Fig. D.1, two circles with a common radius R and a common centre O intersect
+at points X and X ′ . Let i be the angle of inclination between the two circles. It may
+be noted that the maximum separation between the two circles given by CD = Ri
+occurs when CX = DX = 90◦ .
+
+
+                                                                      C
+
+                             X’                             A             Ri
+
+
+
+                                                                    Rχ
+                                                       Rρ
+                                             χ
+                                  O
+                                                                F         D
+                                                 i
+                                                                  B
+                                         X
+Fig. D.1 Measure of the arc connecting two intersecting circles.
+
+
+   Consider a point A on one of the circles such that arc XA = Rρ . Draw a great
+circle arc AB = R χ such that it is perpendicular to the second circle XDX ′ at B.
+Then R sin χ , denoted by AF in the figure, is the perpendicular distance between A
+and the second circle and is given by
+
+                                      R sin χ = R sin i sin ρ .                   (D.1)
+
+It can be easily seen that the above relation reduces to the familiar relation for the
+declination
+                                 sin δ = sin ε sin λ ,                          (D.2)
+
+
+                                                                                    467
+

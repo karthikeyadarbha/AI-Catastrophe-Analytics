@@ -1,0 +1,38 @@
+558                                                                             Glossary
+
+sūryagrahan.a           Solar eclipse.
+sūtra                   (1) Line. (2) Direction. (3) Formula. (4) Aphorism.
+sva(m)                   (1) Addition. (2) Additive quantity.
+svadeśaks.itija         Horizon at one’s place.
+svadeśanata             Meridian zenith distance at one’s place.
+svadeśanatakot. i       Rcosine of svadeśanata.
+svāhorātravr.tta       Diurnal circle.
+svarn.a                  (sva + .r .na) When added or subtracted.
+svastika                 Observer’s zenith.
+tād.ana                 Multiplication.
+tamas                    (1) Shadow cone of the Earth at the Moon’s distance.
+                         (2) Moon’s nodes.
+tārāgraha              Star planets, that is, the actual planets: Mercury, Venus, Mars,
+                         Jupiter and Saturn.
+tatpara                  Angular measure corresponding to one-sixtieth of a second
+                         (vikalā).
+tiryagvr.tta             Oblique or transverse circle; for example, a great circle
+                         passing through the north and south celestial poles is a
+                         tiryagvr.tta of the ghat.ikāman.d.ala (celestial equator).
+tithi                    Lunar day, a thirtieth part of a synodic lunar month, or the
+                         time interval during which the difference in the longitudes of
+                         the Moon and the Sun increases by 12 degrees.
+tithiks.aya              See avama.
+tithyanta                End of a tithi.
+trairāśika             (1) Rule of three. (2) Direct proportion.
+tribhajyā               Rsine of three rāśis, same as trijyā.
+tribhuja                 A three-sided figure; triangle.
+trijyā, trirāśijyā   Rsine 90 degrees. The radius of the circle whose circumfer-
+                         ence is 21600 units, whose value is very nearly 3438 units
+                         (number of minutes in a radian).
+trimaurvikā             See trijyā.
+triśarādi              Set of odd numbers 3, 5, 7, etc.
+Tulā                    Libra.
+Tulādi                  The six signs commencing from Tulā.
+tuṅga                   Apogee or aphelion (literally, ‘peak’, ucca).
+

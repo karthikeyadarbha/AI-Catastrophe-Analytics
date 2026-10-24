@@ -1,0 +1,59 @@
+                               ëÅ
+390                         dx;ë
+                               *:+:mR
+                                  Á   a;pra;k+.=+Na;m,a                                  Reduction to observation
+
+                                                              Z
+
+
+
+
+                                          equator       secondary to the equator
+                                   ic                   passing through the planet
+                                ipt                                                  K
+                             ecl                                                             P
+
+
+
+
+                                                    Γ
+
+                       horizon                                    D                              N
+                                                          E            C
+                                                                  G’   D’
+                                                              L
+
+
+
+
+Fig. 7.1b Āks.a- and āyana-dr.kkarmas when the latitude and the declination both have different
+directions (one positive and the other negative).
+
+
+
+   On the other hand, if the declination and latitude have opposite directions
+(Fig. 7.1b), then the correction has to be applied positively. In the figure, CD′ rep-
+resents the āks.a correction and CD represents the āyana correction. In this case, it
+may be noted that β = G′ D is negative, whereas the declination is positive.
+
+                                        λ ′ = Γ C = Γ D + DC
+                                                  = λ + |x|
+                                                  = λ + |β | |δ ′ |.                                      (7.23)
+
+
+Absence of the dr
+                . kkarma
+
+In Figs. 7.1a and 7.1b, we have depicted the dr.kkarma corrections when the planet
+is rising. Similar corrections have to be applied at its setting. By applying these
+corrections we essentially get the lagna at the time of rising or setting of the planet.
+Since the rising and setting times of the different lagnas have already been discussed
+extensively in Chapter 3, here the whole exercise is meant for finding the rising and
+setting time of the planets.
+   When the planet is on the meridian, the āks.a-dr.kkarma is zero. The formula for
+finding the āks.a-dr.kkarma is given by
+
+                                                         β sin ψ
+                                         a=                           .                                   (7.24)
+                                                    cos θ cos(θ + ψ )
+

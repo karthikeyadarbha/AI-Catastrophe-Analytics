@@ -1,0 +1,55 @@
+F.8 Annexure: Keplerian model of planetary motion                                             533
+
+Also,
+                                      sin(E P̂S) sin(E ŜP)
+                                                =           .                               (F.45)
+                                         ES         EP
+Using (F.43)–(F.44), we have
+
+                                                   r sin(θs − θh )
+              sin(θg − θh ) =                                                    1
+                                                                                     .      (F.46)
+                                 [(R + r cos(θs − θh ))2 + r2 sin2 (θs − θh )] 2
+
+Here (θs − θh ), the difference between the longitude of the Sun and that of the helio-
+centric planet, is known as the ‘solar anomaly’ or ‘anomaly of conjunction’.50 Thus
+(F.46) gives (θg − θh ) in terms of the solar anomaly. Adding this to θh , we get the
+true geocentric longitude θg of the planet.
+
+
+
+F.8.3 Geocentric longitude of an interior planet
+
+
+
+
+                                                   P
+
+
+                                               r
+                                                   θh
+
+                                               S                          Γ
+                                        R
+
+
+
+
+                             θs θ g
+                      E
+                                                                      Γ
+
+
+Fig. F.12 Heliocentric and geocentric longitudes of an interior planet in Kepler’s model.
+
+
+   The elliptic orbit of an interior planet P and that of the Earth E around the Sun are
+shown in Fig. F.12. Here, θh = Γ ŜP is the true heliocentric longitude of the planet,
+which can be computed from the mean heliocentric longitude and the equation of
+centre (see (F.42)). θs = Γ ÊS and θg = Γ ÊP are the true geocentric longitudes of
+the Sun and the planet respectively. As in the case of exterior planets, here too r
+
+50
+  The equivalent of this in Indian astronomy is the difference between the longitude of the manda-
+sphut.a θms and that of the śı̄ghrocca θs , known as the śı̄ghra-kendra.
+

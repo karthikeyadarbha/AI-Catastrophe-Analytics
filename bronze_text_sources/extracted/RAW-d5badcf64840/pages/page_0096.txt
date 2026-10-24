@@ -1,0 +1,50 @@
+Chapter 2
+.~å.Pu+.f;pra;k+.=+Na;m,a
+True longitudes of planets
+
+
+
+
+  .
+2 1 :ke +:ndÒ+l+.[a;NMa :pa;d;l+.[a;NMa .. a
+
+
+2.1 Definition of the anomaly and the quadrant
+
+      .~va;ea;a;ea;na;ea ;a;va;h;gaH   :ke +:ndÒM ta:a .=+a;a;Za:a;yMa :pa;d;m,a   Á
+
+      A;ea:jea :pa;de ga;tEa;Sya;a;Bya;Ma ba;a;hu;k+:ea;f;a .sa;mea Y;nya;Ta;a           ÁÁ 1   ÁÁ
+
+
+      svoccono vihagah . kendram. tatra rāśitrayam
+                                                   . padam |
+      oje pade gatais.yābhyām                  ′
+                              . bāhukot.ı̄ same nyathā || 1 ||
+      The ucca subtracted from the planet is the kendra (anomaly). Three rāśis constitute a
+      pada (quadrant). In the odd quadrants, the bāhu and kot.i [are to be found] from the angle
+      covered and to be covered [respectively]. In the even quadrants it is otherwise.
+
+   The procedure for obtaining the madhyama-graha i.e. the mean longitude of
+a planet from the Ahargan.a, was explained in the previous chapter. Two correc-
+tions, namely manda-sam     . skāra and śı̄ghra-sam. skāra, have to be applied to the
+madhyama-graha to obtain the sphut.a-graha or the true longitude of the planet. In
+these two sam . skāras, to be described later in this chapter, two angles, namely the
+manda-kendra (manda anomaly or mean anomaly) and the śı̄ghra-kendra (śı̄ghra-
+anomaly or anomaly of conjunction or solar anomaly) play important roles. In the
+above verse, the kendras and their sines and cosines (known as bāhus and kot.is)
+pertaining to both the sam . skāras are dealt with. For this, two quantities, namely the
+ucca and the kendra, are introduced.
+
+
+Ucca and kendra
+
+The ucca and kendra essentially refer to the apsis and anomaly respectively. These
+two terms are generally used with the adjectives manda and śı̄ghra and appear in
+the two processes of correction, namely manda-sam    . skāra and śı̄ghra-sam
+                                                                             . skāra.
+
+
+
+
+                                                                                                      49
+

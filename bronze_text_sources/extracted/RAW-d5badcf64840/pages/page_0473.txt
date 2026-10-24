@@ -1,0 +1,53 @@
+                              ñÍ
+426                       Zxa;ç Å
+                              *:+.ea;a;a;ta;pra;k+.=+Na;m,a                                Elevation of lunar horns
+                                 q
+                        ds =          (Kd − |Re cos zs |)2 + (Re sin zs )2 .                                (8.76)
+
+That is, the śaṅkuphala is subtracted from Kd .
+
+
+Difference between the azimuths of the Sun and the Moon
+
+In Fig. 8.9, S and M represent the feet of the perpendiculars from the Sun and the
+Moon on the observer’s horizon. SA and MB are the perpendiculars from the Sun
+and the Moon respectively on the EW line. If zs is the zenith distance of the Sun,
+then
+                             OS = chāyā = R sin zs .                      (8.77)
+If As and Am are the azimuths of the Sun and the Moon, then
+
+                             SA = chāyābāhu = R sin zs sin as ,                                          (8.78)
+
+where as = As ± 90◦ . The ratio of the chāyābāhu to the chāyā multiplied by the
+trijyā gives R sin as . Similarly we find R sin am . Then the sum of or difference be-
+tween the arcs of the two is calculated . That is,
+
+                                                  α = am ∼
+                                                         + a .
+                                                            s                                               (8.79)
+
+We take the ‘+’ sign, when the Sun and the Moon are in different hemispheres, i.e.
+projections of the Sun and the Moon fall on either side of the EW line and the ‘∼’
+when both lie in the north or south. In Fig. 8.9, both are shown to be lying to the
+north. If SA and MB are in different directions, or SA > MB, the projected point S
+
+                                                               Z
+
+
+
+
+                                                                            projection of the
+                                                                            Sun on the horizon
+
+
+                                                    E
+                                                                       M
+                                                        B      am
+
+            N                                                  O                        S
+                                                                       as
+                                 horizon                           A
+
+                                                                            W
+Fig. 8.9 The sum of or difference between the azimuths of the Sun and the Moon.
+

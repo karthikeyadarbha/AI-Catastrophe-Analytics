@@ -1,0 +1,118 @@
+95 10. INSTRUMENTS
+
+(of their oblique ascension). And then set up 2 gnomon
+(on that circle) in such a way that the tip of the shadow
+may fallatthe centre. (46)
+
+Then the degrees of time lying from the end of the
+agra (in the east) up to the foot of the gnomon are the
+degrees of time of the (Sun’s) ascension. These degrees
+of time divided by six, are the ghatis elapsed in the day
+(since sunrise). (47). (KSS)
+
+यष्टियन्त्रम्‌
+10. 15. 1. वृत्तव्यासदलं यष्टिस्तरिज्यांशाङ्गृलसम्मिता ।। ८ tt
+दिडमध्येऽरकन्मिखी धार्या यष्टिः कर्णस्तदुन्नति: ।
+शडकुस्तस्यैव मूलात्तु छाया दिङमध्यगा सदा ॥ £ ।।
+यष्ट्चग्रोदयमध्यांशाः षड्भिर्भाज्या दिने गताः ।
+(Aryabhata 1, ABh.Siddhanta, Q by Ramakrsna
+Aradhya in his com on Sai.)
+
+Yasti-yantra (The graduated tube)
+
+The Yasti-yantra! which is equal in length to the semi-
+diameter of the (perfect) circle, with as many gradua-
+tions of angulas as there are degrees in a radian (i.e. 57),
+should be held at the centre of the circle towards
+the Sun. The yasti then denotes the hypotenuse, its
+elevation denotes the gnomon, and the distance from
+the foot of the gnomon up to the centre of the circle
+always denotes the shadow (of the gnomon.) The
+degrees intervening between the end of the yasti and
+the rising point of the Sun, divided by six, give the
+ghatis elapsed in the day. (8b-10a). (1९88)
+
+17.15. 2. दिडम॑ध्यस्थितम्‌ला यष्टिर्नष्टप्रभा त्रिगुणतुल्या |
+धार्या तदीयलम्बकाष्ठांशा वोदिता भागाः ।। ४८ ।।
+
+यष्टिस्विज्या कर्णो लम्बो ना कृतिविशेषपदमनयोः |
+दृग्ज्या छाया प्राक्परलम्बनिपातान्तरं बाहु: ।। ४६ 11
+प्रागपराभ्रासक्तं सूत्रं शङ्क्वन्तरं हतं सूरये" ।
+षष्टयवलम्बविभक्तं यष्टयवलम्बेन विषुव-्धा ।। ५० i
+सूर्येन्द्रोरिव विवरं ग्रहयोविज्ञाय शङ्करुयष्टिभ्याम्‌ ।
+तदुक्त: पाश्चात्यः प्राच्यः स्यात्‌ सोऽपि हीनेन ।। ५१ ॥
+(Lalla, SiDhVr., 21. 48-51)
+
+Altitude, Zenith Distance and Bahu. Hold the Yasti, equal
+to the radius (of the circle drawn on level ground),
+with its lower end at the centre (of the circle), in such a
+way that it may not cast any shadow (on the ground).
+Then the degrees in the arc corresponding to the per-
+pendicular dropped on the ground from the other end)
+of it are the degrees of the (Sun’s) altitude. (48)
+
+The Yasti, equal to the radius, is the hypotenuse; the
+perpendicular (dropped on the ground from the upper
+end of the Yasfi) is the (great) gnomon (i.e., the R sine
+
+1 The Yasti-yantra resembles a cylindrical stick.
+
+10. 16. 1
+
+of the ‘Sun’s altitude) ; the square root of the difference
+of their squares is the (great) shadow, i.e., the R sine of
+the (Sun’s) zenith distance; and the distance between
+the east-west line and the foot of the perpendicular is
+the bahu. (49)
+
+Equinoctial midday shadow. Multiply the distance
+between the rising-setting line (lit. the line joining the
+ends of the agrds laid off in the east and west) and the
+gnomon by 12 and divide by the perpendicular dropped
+from the tip of the Yasfi. This is how the equinoctial
+midday shadow is obtained from the perpendicular
+dropped from the tip of the Yast. (50)
+
+Distance between two planets and their longitudes. Determine
+the distance between the two planets with the help of
+the gnomon or the Yasti, like that between the Sun and
+the Moon. This added to (the longitude of) the west-
+ward planet gives (the longitude of) the eastward planet
+and the same subtracted from the latter gives the former.
+(51). (KSS)
+
+नलकयन्त्रम्‌
+10. 16. 1. कोटचग्रात्‌ स्वदिशि भुजं निधाय सम्यक्‌
+
+तस्याग्रे नरमथ केन्द्रशडकुःप्रभाग्र ।
+कृत्वा ना नयनमुदग्रकणेगत्या
+
+शडक्वग्ने ग्रहमवलोकयेक्निविष्टम्‌ ।। ४७ ॥।
+विपुलनलकं कणैस्थित्या दुगुच्छितिदीधेया
+स्फुटतरककुप्सिद्धिबेध्वा यथाविधि वंशयोः |
+ग्रहणमुदितं शीतांशु वा ग्रहं च विलोकये-
+wate नलकच्छिद्रेणैवं जले च विलोमतः ।। ४८ ॥।
+(Lalla, SiDkVr., 4. 47-48)
+
+Nalaka instrument
+
+(In the chdydortia or a circle with the shadow as radius,
+mark the north-south and east-west lines. From their
+point of intersection along the east-west line measure
+off the koti of the shadow cast by the planet at the time
+of observation. If the planet is in the eastern hemi-
+sphere, the Kofi must be marked to the west; but to the
+east, if the planet is in the western hemisphere). At the
+extremity of the Kofi draw the bhuja in its own direction.
+Place a bamboo joining the extremity of the bhuja to the
+centre, (to represent the shadow). Connect the point of
+intersection of the bhuja and the shadow to the top of the
+gnomon by a bamboo. Then, the planet will be visible
+along this line on the top of the gnomon (after fixing
+the nalaka instrument).
+
+Then, at the end, fix the nalakayanira on two bamboo
+sticks, so that it (i.e., its hollow) is in the same direction
+as the joining line, and its height is that of the observer’s
+eye. Now, the observer shall look through the imstru-
+ment and he will see in the sky the eclipse, the rising

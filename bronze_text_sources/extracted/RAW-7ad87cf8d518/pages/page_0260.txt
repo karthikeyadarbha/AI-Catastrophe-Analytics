@@ -1,0 +1,121 @@
+16. 15. 1
+
+If the interval (gone or to elapse) is in ghatis, multiply
+the same. by the daily motion of the planet and divide
+by 60. The quotient is to be added to subtracted from
+the position of the planet in minutes or seconds. After
+this correction, the true position of the planet is
+obtained. (1)
+
+At the end point of full or new moon, subtract the
+position of Rahu from that of the Sun. Find the value
+of the bkuja of the Sun. If it is less than 14 degrees, an
+eclipse will occur. In the case of the occurrence the
+eclipse, multiply the bhuja thus got by 11 and divide by
+7. The quotient in engulas give the sara. Its direction
+is the same as that of the Sun minus Rahu. (2)
+
+Subtract 55 minutes from the true daily motion of
+the Sun (x). Take (x/5+10). This in afgulas gives
+the diameter of the Sun. 1/74 of the daily motion of
+Moon gives diameter of Moon in apgulas, (2). Find
+(3y- 3y/11—8). This gives the diameter of Earth’s
+shadow. (3)
+
+The Moon eclipses the Sun, and the Earth’s shadow
+eclipses the Moon. Find the sum of the radii of the Sun
+and the Moon (during the solar eclipse) and that of the
+Moon and the Earth’s shadow (during the lunar eclipse).
+This is termed ménaikya-ardha (half-sum of the diameters).
+Subtract from it the sara obtained earlier. The result
+gives in argulas the position of the eclipsed body (x).
+
+Subtract the angular diameter of the eclipsed body
+from x. The result is called (kha-cchannaka or sarva-
+grasa or (occurring at a total eclipse). (4)
+
+Find the sum of the fara and the sum of the radii of
+the Sun and the Moon. Multiply the result by 10.
+Let it be x. Multiply x by the grasa, the position that
+is eclipsed. And take its square root, (y). Subtract
+2/6 from it. Divide (_y—y/6) by the angular diameter of
+Moon. The quotient gives the duration of eclipse in
+ghatikas. ।
+
+Add the #क्कब to the difference of the radii of the Sun
+and Moon. Multiply by 10. Find the square of its
+product by khagrasa (y). Divide (y--y/6) by the angular
+diameter of the Moon. The result gives marda in
+ghatis. (This is for total eclipse). (5)
+
+The first and last points of contact
+
+When. the position of the Sun with Rahu (Node)
+is less than 12 7485 or 6 rasis, multiply the above bhuja
+by 2, (x). Take the number of palas equivalent to the
+number of degrees in x. Subtract this value from the
+time, ghatis of the middle of the eclipse to get the time
+of first contact; by adding the time of last contact is to
+be had. The process should be reversed if Rahu plus Sun
+is more than 12 व.
+
+INDIAN ASTRONOMY--—A SOURCE-BOOK 216
+
+The process is the same for finding the commence-
+ment and-end of the eclipse. (6)
+
+The end of a tithi is the middle of the eclipse. The
+time of first point of contact is obtained by subtracting
+the sparfa-tithi from this; the time of the last point is got
+by adding its sthitz.
+
+The instants of the commencement and the end are
+obtained in the same manner by taking the nimilana and
+unmilana marda instead of the sthiti. (7)
+
+Eclipsed body at any time
+
+Multiply the desired time in ghatikdés by the value of
+grasa, and divide it by the duration (stithi). Add 1° 25’
+to the quotient. The result in angulas gives the position
+of the eclipse at the desired time. (8)
+
+Valana: deflection
+
+Ayana-valana. In the case of the solar eclipse add 3
+rafis to that of the Sun; in respect of the lunar eclipse
+subtract 3 rasis. Add the ayandmga. Following the
+process to find cara, find the result by using 7, 5 and 1
+as cara-khandas. "That equals ayana-valana. Its direction
+is the same as that of the Sun plus 3 rats (solar eclipse)
+or the Sun minus 3 réfis (lunar eclipse). (9)
+
+Aksa-valana
+
+Divide by 5 the hour angle of the middle of the eclipse
+(madhya-kdla-nata) and the result is in rdgis etc. As in
+verse 9, take 7, 5, 1 as carakhandas and repeat the
+process to find cara (x). Multiply x by the equinoc-
+tical shadow and divide by 5. The result gives
+Gksa-valana. In the case of eastern hour angle it is
+northern and for western hour angle it issouthern. The
+sphuta-valana is the algebraic sum of these two. One-
+sixth of sphufa-valana is called sphuta-valananghri. (10)
+
+The grasa multiplied by 60 is to be civided by the
+sum of the radii. Take the square root of the quotient.
+That equals -grasanghri. In the case of total eclipse,
+replace the sum of the radii by their difference . Then
+kha-grasanghri (kha-channanghri) is obtained.
+
+Draw a circle with any centre, and radius equal to
+(the disc) of the eclipsed body. If the valana is south-
+wards, mark a point equal to valandnghri from the
+southern tip and to the right of the fara; reverse the
+process for northern valanas, i.e. mark the point to the
+left of the northern tip of the fara. The middle point
+indicates the middle of the eclipse.
+
+Total eclipse is in a direction opposite to that of the
+middle. In case it is not a total eclipse, the remainder
+after the middle is in the same direction. (11)

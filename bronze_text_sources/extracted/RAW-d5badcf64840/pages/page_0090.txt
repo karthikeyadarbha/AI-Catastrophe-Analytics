@@ -1,0 +1,77 @@
+1.15 Initial positions at the beginning of the Kaliyuga                                                                          43
+
+    The above correction has to be applied positively to the mean longitude of the
+planet obtained from the Ahargan.a, if the meridian passing through the observer
+lies to the west of the standard meridian; and negatively if it lies to the east of it.
+If θ0 is the mean longitude of the planet obtained from the Ahargan.a, then the
+longitude at sunrise at the observer’s location is given by
+
+                                        θ = θ0 + δ θ                            (the observer is to the west)
+                                        θ = θ0 − δ θ                            (the observer is to the east).                (1.19)
+
+As the sunrise takes place earlier for observers to the east of the prime meridian, and
+later for the observers to the west, the corrections have the signs as indicated above.
+
+
+  .
+1 15 k+:ya;a;a;d;Drua;va;aH
+
+
+1.15 Initial positions at the beginning of the Kaliyuga
+
+      :Sa;q
+          õÅe É +:de;Sva; /
+                         a;b.
+                            /
+                             Da;vea;d;a;~tua ;a;va;a;l+.a;a;a;d ;Drua;va;ea ;a;va;Da;eaH        Á
+
+                          ñÍ             çÉ
+                          öÅ nea:a;a;a;îå
+      :pra;a;Na;a;tya;a;*:+.           +;a;tua;yMa . a;ndÒ+ea;a;ma;Dya;ma;m,a                    Á Á 35    ÁÁ
+
+      .sa;a;sa;a;ga:=+ZEa;le+.n ud;Ba;va;a ;a;l+.a;a;d;ya;ea Y;sxa:jaH               Á
+
+            æ
+      :Sa;a; ÷
+            *MÅò +.Za;a;+:a;a;k+:a Za;ea;Dya;a ;a;va;d;ea .ja;a;vea tua ya;ea:ja;yea;t,a               Á Á 36    ÁÁ
+          ñÍ
+          ïåÅ +:a;k
+      :pa;*        R +:tua;ya;a;l+.a;a;a;d ;Æa;sa;tea .=+a;a;ZaH      :Sa;qM+.Za;k+:aH              Á
+           ÙùÁ
+
+      ;a;va:(õ;a;tua;ya;aH            ãÉa .~vMa na;Ka;a;tya;a;;Ba;va;aH
+                               k+:l+.a;(                                                   Za;neaH         Á Á 37        ÁÁ
+
+      :pa;a;tea tua ma;Nq+.l+.a;. u
+                                  C+;d           x +:a;ta:=+sa;a A;a;pa
+                                     Äâe na;Ka;a;k                                           Á
+
+      s.ad.vedes.vabdhivedāstu viliptādi dhruvo vidhoh. |
+       prān . ātyas..tyaṅkanetrāgnitulyam    . candroccamadhyamam || 35 ||
+       saptasāgaraśailendubhavā liptādayo ′sr         . jah. |
+       .sat.trim . śalliptikā śodhyā vido jı̄ve tu yojayet || 36 ||
+        paṅktyarkatulyaliptādi site rāśih     . s.ad.am . śakāh. |
+        viśvatulyāh  . kalāśca svam. nakhātyas..tibhavāh. śaneh. || 37 ||
+        pāte tu man     .d
+                          . alācchuddhe nakhākr.tirasā api |
+        The correction to the initial position of the Moon [at the beginning of the Kaliyuga] is
+              ′    ′′                                          ′ ′′                                 ′
+        4◦ 45 46 ; of the Moon’s apogee it is 3r 29◦ 17 5 ; of Mars in minutes etc. it is 11r 17◦ 47 ;
+                                                                                   ′
+        For Mercury 36 seconds have to be subtracted. In the case of Jupiter 12◦ 10 has to be added.
+                                             ′                           ′
+        In the case of Venus add 1r 6◦ 13 ; and for Saturn 11r 17◦ 20 [has to be added]; in the case
+                                               ′
+        of the node of the Moon, 6r 22◦ 20 has to be added to the longitude obtained by subtracting
+        the mean longitude from the man                    ◦
+                                             . .dala (360 ).
+
+   The term dhruva refers to the epochal position of the planets, i.e. the mean lon-
+gitudes of the planets at the beginning of a given epoch. The epoch could be the
+beginning of the Kaliyuga, or any other date chosen by the astronomer. In modern
+parlance, the dhruva is the same as the initial value. The mean longitude of a planet
+(madhyama-graha) is obtained by adding the dhruva to the product of the daily mo-
+tion of the planet and the time elapsed (the Ahargan.a) since the epoch. From this,
+the true position (sphut.a-graha) can be calculated by applying sam. skāras (correc-
+tions).
+

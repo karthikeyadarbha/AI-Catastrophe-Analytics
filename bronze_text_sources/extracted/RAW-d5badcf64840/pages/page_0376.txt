@@ -1,0 +1,48 @@
+5.8 Time of sparśa by an iterative process                                         329
+
+where S in the numerator represents the sum of the semi-diameters of the Sun and
+the Moon, and λ̇m − λ̇s in the denominator is the difference in their daily motions
+determined at that instant. This half-duration has to be corrected for the parallax in
+longitude. Thus, the first approximation to the first half-duration is given by
+
+                                  ∆ t11 = δ t1 + (l2 − l11 ).                    (5.57)
+
+Hence, the second approximation to the beginning moment of the eclipse is
+
+                                      tb2 = tm − ∆ t11 .                         (5.58)
+
+At tb2 , once again the deflection from the ecliptic and the parallax in longitude are
+calculated. Denoting them by ne2 and l12 , the half-duration (without parallax cor-
+rection) is calculated using the formula
+                                         q
+                                            S2 − n2e2
+                                  δ t2 =              .                         (5.59)
+                                          λ̇m − λ̇s
+With this, the second approximation to the first half-duration is given by
+
+                                  ∆ t12 = δ t2 + (l2 − l12 ).                    (5.60)
+
+And the third approximation to the beginning moment of the eclipse is given by
+
+                                      tb3 = tm − ∆ t12 .                         (5.61)
+
+The above iterative process must be continued till we get stable values of ∆ t1i to the
+desired accuracy. That is,
+                                  ∆ t1i ≈ ∆ t1 i−1 .                            (5.62)
+When this happens, tbi ≈ tb i−1 = tb . Now, tb is the beginning moment of the eclipse,
+called the instant of first contact.
+
+
+Rationale behind the iterative process
+
+To determine the instant of first contact, the first half-duration is calculated includ-
+ing the effect of parallax and subtracted from the instant of conjunction. However,
+the formula for the half-duration involves the deflection from the ecliptic and the
+parallax in longitude at the instant of first contact, which are not known and are yet
+to be determined. This explains why an iterative process is used. In the first step,
+the deflection from the ecliptic and parallax in longitude are assumed to be the same
+as at tm . From this, the instant of first contact is obtained. In the second step, the
+deflection from the ecliptic and the parallax in longitude are calculated at this ap-
+proximate value of instant of first contact, and from these the instant of first contact
+in the next approximation is determined, and so on.
+

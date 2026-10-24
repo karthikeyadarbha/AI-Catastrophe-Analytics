@@ -1,0 +1,51 @@
+8.5 Distance between the solar and lunar discs                                                         411
+
+                                                  = R(1 − cos ηm ) × cos(90 − θ )
+                                                  = R sin θ × (1 − cos ηm ),                         (8.20)
+
+which is the same as the natı̄s.uphala given in (8.19). Thus we see that the
+natı̄s.uphala is nothing but the projection of MM ′′ along MQ. Now the difference
+between the jyā and the natı̄s.uphala is termed the gun.a. That is,
+
+                                                     gun.a = g = R sin θ − x.                        (8.21)
+
+It can be easily seen that the gun.a is nothing but PQ in Fig. 8.2. Having found PQ,
+SQ′ is determined. The latter is termed the bān.a (U).
+
+                        U = SQ′ = SQ + QQ′
+                                          = R(1 − cos θ ) + PM′′    (as QQ′ = PM ′′ )
+                                                            q
+                                          = R(1 − cos θ ) + (MM ′′ )2 − PM 2
+                                                            q
+                                          = R(1 − cos θ ) + (R(1 − cos ηm ))2 − x2 .                 (8.22)
+
+Substituting for x and simplifying, we get
+
+                                                    U = R(1 − cos ηm cos θ ).                        (8.23)
+
+We have to find the angle S′ ÔM ′ . In order to arrive at it, three quantities—referred
+to as rāśis—are defined. The square root of the sum of the squares of the three
+rāśis gives the exact separation (chord length) between the Sun and the Moon, or
+the bimbāntara. It can be shown that the three rāśis ri , i = 1, 2, 3, defined are noth-
+ing but the sides of the different right-angled triangles considered to arrive at the
+required result. The first rāśi is defined as
+
+                                               r1 = U − R(1 − cos ηs )
+                                                    = R(cos ηs − cos ηm cos θ ).                     (8.24)
+
+In Fig. 8.2,
+
+                                                   S′′ Q′ = SQ′ − SS′′
+                                                             = U − R(1 − cos ηs )
+                                                             = r1 .                                  (8.25)
+
+Thus we see that the first rāśi is one side of the right-angled triangle S′′ Q′ M ′′ .
+    The second rāśi is defined in just one quarter of verse 11 as: ‘antarajyā ca
+yā’. However, the explanation necessary to understand this statement is provided in
+Laghu-vivr.ti, where it is defined as:
+                           x +:ta;a . a;ndÒ+a;k+:Ra;nta:=+a;l+$ya;a ;a;d
+   na;ta;a;Sua;P+.l+.sMa;~k                                           õ ;ta;a;ya;ea .=+a;a;ZaH Á
+
+   The Rsine of the difference of the Sun and the Moon corrected by the natı̄s.uphala is the
+   second rāśi.
+

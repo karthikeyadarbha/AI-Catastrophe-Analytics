@@ -1,0 +1,86 @@
+3.17 Directions from the shadow of the gnomon                                                                                   175
+
+  .
+3 16 na;tya;pa;k
+               Ò +:ma;a;Bya;a;m,a                          A;[aH
+
+
+3.16 Latitude of the place from the zenith distance and
+     declination
+
+      k+:a;ntya;k
+      Ò          R +:na;a;ta;Bea;d;ea Y;[a;ea ya;a;}yea ga;ea;le yua;a;taH              :pua;naH           Á Á 35          ÁÁ
+
+      C+.a;ya;a;ya;a;ma;a;pa .sa;Ea;}yea Y;keR Y;pya;nya;Ta;a .~ya;a;t,a ta;d;nta:=+m,a Á
+
+      krāntyarkanatibhedo ′ks.o yāmye gole yutih. punah. ||35 ||
+      chāyāyāmapi saumye ′rke ′pyanyathā syāt tadantaram |
+      The latitude is the difference between the midday zenith distance and declination when the
+      Sun is in the southern hemisphere. It is the sum [of the two] when the shadow and the Sun
+      are in the northern hemisphere. Otherwise [when the Sun is in the northern hemisphere and
+      the shadow is towards the south], it is the difference between them.
+
+   From (3.83) to (3.85), we get φ = z − δS (Sun in south), φ = z + δN (Sun in north
+and φ > δN ), and φ = δN − z (Sun in north φ < δN ) where z is the midday zenith
+distance.
+
+
+        ñÍ
+  .
+3 17 Za;ö
+        *:Å +.. C+.a;ya;a;taH
+         u
+                                                  ;a;d;ga;va;ga;ma;na;m,a
+
+
+3.17 Determination of the directions from the shadow of the
+     gnomon
+
+      .sa;a;ya;na;a;k
+                    R +:Bua:ja;a:ja;a;va;a :pa:=+ma;kÒ +:a; ////
+                                                            a;nta;ta;a;a;q+.ta;a        Á Á 36              ÁÁ
+
+      l+.}ba;k+:a;a;a;g{a:ja;a;va;a .~ya;a;t,a C+.a;ya;a;k+:NRa;h;ta;a &+.ta;a                  Á
+                           ñÍ
+      ;a:a:$ya;ya;a;g{a;a;çÅ
+                           *:+.lM ya;a;}yea ;a;va;Sua;va;;
+                                                         ÂåÅ +a;yua;tMa Bua:ja;a        Á Á 37              ÁÁ
+                              u
+                                                                  ñÍ
+      .sa;Ea;}ya;a;Ta .sa;Ea;}ya;ga;ea;le Y;a;pa nyUa;na;ma;g{a;a;ç
+                                                                  *:Åu +.lM ya;a;d            Á
+
+
+      Za;ea;Da;yea;a;d
+                     õ ;Sua;va;;
+                               ÂåÅ +a;ya;aH   .sa;Ea;}ya;ea ba;a;hu;~ta;d;a;a;pa .. a     Á Á 38                 ÁÁ
+
+
+      ;a;va;Sua;va;;
+                   ÂåÅ +Ma tya:jea;t,a ta;sma;a;t,a .=+va;a;vua:a:=+gea Y;a;Da;k+:a;t,a              Á
+
+      ya;a;}ya O;;va ta;d;a ba;a;huH                             x +:a;ta;Bea;d;taH
+                                                  ta;. C+.a;ya;a;k                        Á Á 39                 ÁÁ
+
+
+      mUa;lM k+:ea;a;fH         (rua;a;taH    C+.a;ya;a ;a:a;Æa;Ba;~:ya;(rMa Ba;vea;a;d;d;m,a             Á
+
+      Bra;a;ma;a;ya;tva;a;Ta ta;t,a ya;(rMa ya;a;va;. C+.a;ya;a;nua;ga;a (rua;a;taH                      Á Á 40      ÁÁ
+
+      k+:ea;fa;a :pUa;va;Ra;pa:=e :℄ea;yea   , ba;a;hu;na;a d;Æa;[a;Na;ea:a:=e   Á
+
+
+      sāyanārkabhujājı̄vā paramakrāntitād    . itā || 36 ||
+      lambakāptāgrajı̄vā syāt chāyākarn  . ahatā hr.tā |
+      trijyayāgrāṅgulam . yāmye vis.uvadbhāyutam         . bhujā || 37 ||
+      saumyātha saumyagole ′pi nyūnamagrāṅgulam             . yadi |
+      śodhayedvis.uvadbhāyāh. saumyo bāhustadāpi ca || 38 ||
+      vis.uvadbhām                                         ′
+                    . tyajet tasmāt ravāvuttarage dhikāt |
+      yāmya eva tadā bāhuh    . tacchāyākr. tibhedatah. || 39 ||
+      mūlam . kot.ih. śrutih. chāyā tribhistryaśram  . bhavedidam |
+      bhrāmayitvātha tat tryaśram     . yāvacchāyānugā śrutih. || 40 ||
+      kot.yā pūrvāpare jñeye, bāhunā daks.in   . ottare |
+      The Rsine of the sāyana longitude of the Sun multiplied by the maximum declination and
+      divided by the cosine of the latitude of the place is the agrajı̄vā. [This] multiplied by the
+

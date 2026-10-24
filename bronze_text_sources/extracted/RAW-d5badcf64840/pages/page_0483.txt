@@ -1,0 +1,57 @@
+                                                     ñÍ
+436                                              Zxa;ç Å
+                                                     *:+.ea;a;a;ta;pra;k+.=+Na;m,a                                                   Elevation of lunar horns
+
+E is the Earth and P the inner planet (see Fig. 8.15(a)), then the formula given by
+Nı̄lakan. .tha for the Earth–planet distance may be written as
+                                                                                      Ks
+                                                                       EP =              × R p,                                                                 (8.93)
+                                                                                      r
+where Ks is the śı̄ghra-karn.a and r is the svavr.tta-vyāsārdha (radius of the ‘own
+orbit’), which is the same as the radius of the epicycle in the śı̄ghra-sam . skāra in
+the case of Mercury and Venus.
+   As regards the outer planets, the commentator states:
+
+     A;nyea;Sa;Ma    tua   :pra;a;gva;+:b.DMa    k+:[ya;a;v.ya;a;sa;a;Da       .~va;Za;a;Gra;k+:NRa;gua;a;Na;tMa       ;a:a:$ya;ya;a   ;a;va;Ba;+:m,a   - I+.a;ta
+     ;a;va;Zea;SaH   Á
+
+
+
+     The above statement may be written down as
+                                                                                      Ks
+                                                                       EP =              × R p,                                                                 (8.94)
+                                                                                      R
+where EP is the distance in yojanas of the outer planet from the Earth and Ks is the
+śı̄ghra-karn.a as in the earlier formula (see Fig. 8.16). It may be noted that here the
+trijyā, R, appears in the denominator instead of the epicycle radius.
+
+
+
+
+                                                                                            P
+                                         Rp                                                                                                  R                          P
+                                                                                                                             O
+               S                                                                                                     r
+                                                                                                                                             K
+
+                                           Ks                                                           C
+                                                                                                                                           pratiman.d.ala
+                                                                                                                                          (around Sun)
+
+ E                                                                                                                          śı̄ghra epicycle
+                           (a)                                                        (b)                                  (ucca-nı̄ca-vr.tta)
+
+
+
+Fig. 8.16 Ratio of the Earth–planet distance to the planet–Sun distance of an outer planet (a) in
+yojanas, (b) in terms of the epicycle radius.
+
+
+
+
+Note: In these verses Nı̄lakan. .tha has introduced a modification of the tradi-
+tional prescription for planetary distances. According to him the kaks.yā-vyāsārdha-
+yojanas computed from its revolution number according to (8.92), is actually the
+mean śı̄ghrocca–planet distance and not the mean Earth–planet distance. The latter
+is to be found from (8.93) and (8.94).
+

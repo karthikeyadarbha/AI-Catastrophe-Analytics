@@ -1,0 +1,64 @@
+APPENDICES
+
+Meridian ecliptic point
+Meridian Zenith distance
+Midday shadow
+
+Month
+
+Month, additive
+
+Month, lunar
+Multiplicand
+Multiplication
+Multiplication by parts
+Multiplier
+
+Nadir
+
+Negative
+
+Node
+
+Nonagesimal
+
+North
+
+Northern
+
+Northern hemisphere
+Northern progress of the sun
+
+North-south line
+
+मध्यलग्रः
+अवनतिः
+
+मध्याह्च्छाया
+
+मासः
+
+अधिमासः
+
+चान्द्रमासः
+
+गुणनम्‌, गुणः
+
+खण्डगुणनम्‌
+
+गुणः, गुणकारः
+अधोजिन्दुः, अधःस्वस्तिक:
+करणम्‌
+
+पातः, Ug:
+
+दुकृक्षेपलग्रः
+
+उत्तरा
+
+सौम्यम्‌
+
+उत्तरगोलः, उदग्गोलः
+उत्तरायनम्‌
+
+दकषिणोत्तररेखा

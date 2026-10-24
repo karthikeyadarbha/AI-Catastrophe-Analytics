@@ -1,0 +1,122 @@
+257 18. HELIACAL RISING: AND SETTING OF PLANETS
+
+Planet corrected for visibility
+
+Or, multiply the R versed sine of the true longitude
+of a planet increased by 3 Signs by the latitude and
+divide by 8461. Add the quotient in minutes to or
+subtract it from the true longitude of the planet follow-
+ing the rule given above. Multiply the latitude (of
+the planet) by the R sine of the local latitude and divide
+by the R sine of the colatitude. ।
+
+Or, multiply it, (the latitude), by the equinoctial
+midday shadow expressed in afgulas and divide by 12.
+(The result in each case is the visibility correction due
+to the local latitude) or Aksadrkkarmaka. It is called
+Saurika or ‘due to the Sun’. (3)
+
+If the second visibility correction is calculated from a
+northern latitude (of a planet), it should always be
+subtracted from the corrected longitude of the planet
+on the eastern horizon. If, however, it is calculated
+from a southern latitude, it should be added to the same.
+The reverse is the process for the western horizon. The
+planet thus corrected is called Drggraha. ` (4)
+
+Corrected by the two visibility corrections, the Moon,
+Mars, Jupiter and Saturn are heliacally visible when
+separated from the Sun by a kalamga (of ‘degrees of
+time’) of 12°, 17°, 11° and 15°, respectively. Mercury
+and. Venus (are heliacally visible) when in direct motion
+(when separated from the Sun) by a kalarifa of 13° and
+90°, respectively, and, when retrograde, by a kalamhsa
+of 12° and 8”, respectively.
+
+(If the heliacal rising and setting of a planet) on the
+western horizon is considered, the true longitude of the
+Sun and that of the drggraka should each be increased
+by 6 Signs. (5)
+
+(Find the Sun’s true longitude at sunrise or sunset
+and the drggraha whether on the eastern or the western
+horizon, as the case may be). From the lesser of the
+two, find the time to be passed in asus, and, from the
+greater, the time passed. To the sum of the two times
+must be added the times of rising of the intervening
+Signs of the zodiac. The result divided by 60 gives the
+required (व(द or degrees of time of the planet.
+
+Remember that when a planet is separated from the
+Sun by a kalatasa less than its kalamsa for visibility, as
+mentioned above, the planet remains invisible. (6)
+
+Rising and setting corrected by degrees of time
+
+Find the difference expressed in minutes between the
+kalamsa of a planet at any time and the kalathfa for its
+visibility. Divide it by the difference of the true motions
+of the Sun and the planet, if they are moving in the same
+direction, and by the sum, if they move in opposite
+directions. The quotient in days gives the time elapsed
+
+19
+
+or to come (as explained in the next verse). This is.to
+be understood logically. (7)
+
+When the setting of a planet is considered, if the given
+kalamsa for visibility is greater than its calculated दांव,
+know then that the planet has set heliacally before the
+number of days as found above; if the former is less,
+the planet will set after these days. When the rising
+is considered, in the former case, the planet will rise
+after the days calculated, and, in the latter case, the
+planet has risen before the days calculated.1 (8). (BC)
+
+--आ्यभटाधरातिकपक्षः
+18. 5. 2. शुक्रगुरुज्ञाकिकुजा: कालांशैदर्चुत्तरैनेवेसि: |
+दृश्यादृश्या दृक्कमेण। रवेदरदशभिरिन्दुः 11 १॥।
+
+विक्षेपसत्रिराशिज्याधाता दिन्द्रगारिन लब्धकला : ।
+विक्षेपायनसाम्ये शोध्या भेदे ग्रहे क्षेप्पा: ।। २॥
+
+विषुवच्छायागुणिताहिक्षेपाद्‌ द्वादशोद्धृतात्‌ सौम्यात्‌ |
+फलमृणधनं धनणं याम्यादुदयास्तमयलम्ने ।। ३.॥
+
+प्रागूनमाद्यमधिकं पश्चात्लग्नाद्‌ ग्रहोदयोऽस्तमयः |
+षड्भयुतमन्यदुदयेघंटिकाः कृत्वोनमधिकसमम्‌ ।। ४ A
+(Brahmagupta, KK, 1.6. 1-4)
+
+—Aryabhata’s Midnight system
+
+Venus, Jupiter, Mercury, Saturn and Mars, corrected
+by the two drkkarmakalas, become heliacally visible,
+when separated from the Sun by kdlathgas of 9°, 11°, 13°,
+15°, and 17°, respectively. They become invisible,
+when, separated by less. The Moon becomes visible,
+when separated from the Sun by a kélarafa of 12°. (1)
+
+The product of the viksepa of a planet and the sya of
+its longitude, increased by 90°, should be divided by
+371. The minutes thus obtained are called dyana-
+drkkarmakala. These minutes should be subtracted
+from the longitude of the planet if the viksepa and the
+ayana are of the same denomination (that is, if the
+viksepa is to the north, and the longitude of the planet
+increased by 90° is between Mesa and Tuli, or, if the
+viksepa is to the south and the planet increased by 90°
+is between Tula and Mesa. These minutes should,
+however, be added to the longitude of the planet, if the
+viksepa and the ayana are of different denominations. (2)
+
+Multiply the viksepa of a planet by the palabhd at the
+observer’s station and divide by 12. If the viksepa is to
+the north, subtract the result from the longitude of the
+planet on the eastern horizon corrected by the dyana-
+dykkarmakala. Thus is obtained the udayalagna of the
+planet. The previous result should be added to the
+longitude of the planet on the western horizon corrected
+
+हाई detailed exposition and demonstration see SiDhVy:BC, I,
+-58.

@@ -1,0 +1,125 @@
+16. 6. 1
+
+Occurrence
+
+When at the end of a lunar month, the Moon, lying
+near a node (of the Moon), enters the Sun, or, at the end
+० 2 lunar fortnight, enters the Earth’s Shadow, it is
+more or less the middle of an eclipse, (solar eclipse in the
+former case and lunar eclipse in the latter case). (38)
+
+Length of Shadow
+
+Multiply the distance of the Sun from the Earth, by
+the diameter of the Earth and divide (the product) by the
+difference between the diameters of the Sun and of the
+Earth : the result is the length of the Shadow of the Earth
+(i.e. the distance of the vertex of the Earth’s shadow)
+from the diameter of the Earth (i.e. from the centre of
+the Earth). (39)
+
+Earth’s shadow
+
+Multiply the difference between the length of the
+Earth’s shadow and the distance of the Moon by the
+Earth’s diameter and divide (the product) by the length
+of the Earth’s shadow: the result is the diameter of the
+Tamas (i.e., the diameter of the Earth’s shadow at the
+Moon’s distance). (40)
+
+Half-duration
+
+From the square of half the sum of the diameters of
+that (Tamas) and the Moon, subtract the square of the
+Moon’s latitude, and (then) take the square root of the
+difference ; the result is known as half the duration of the
+eclipse (in terms of minutes of arc). The corresponding
+time (in ghafis etc.) is obtained with the help of the daily
+motions of the Sun and the Moon. (41)
+
+Subtract the semi-diameter of the Moon from the
+semi-diameter of that Tamas and find the square of that
+difference. Diminish that by the square of the (Moon’s)
+latitude and then take the square root of that: the square
+root (thus obtained) is half the duration of totality of
+the eclipse. (42)
+
+Non-eclipsed portion
+
+Subtract the Moon’s semi-diameter from the semi-
+diameter of the Tamas; then subtract whatever is
+obtained from the Moon’s latitude: the result is the part
+of the Moon not eclipsed (by the Tamas). (43)
+
+Measure of the eclipse
+
+Subtract the ista from the semi-duration of the eclipse ;
+to (the square of) that (difference) add the square of the
+Moon’s latitude (at the given time) ; and take the square
+root of this sum. Subtract that (square root) from the
+sum of the semi-diameters of the Tamas and the Moon;
+the remainder (thus obtained) is the measure of the
+eclipse at the given time. (44)
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 200
+
+--आयंभरीयार्धरात्रपक्षः
+
+16. 7. 12. रविचन्द्रौ समलिप्तौ तिथिगतगम्यघटिकाफलोनयुतौ ।
+
+पातोनचन्द्रजीवा विक्षेपो नवगुणेषुहूता ।। १ ॥।
+
+भवदश गुणिते रविशशिगती नखैः" (स्वरजिनै'हैते माने ।
+षष्ट्या भक्तं 'तत्त्वाष्ट गुणितयोरन्तरं तमसः ।\ २ ।।
+
+विक्षेपं संशोध्य प्रमाणयोगाधंतस्तमश्छन्नम्‌ |
+
+सर्वग्रहणं ग्राह्यादधिके खण्डग्रहणमूने ।। ३ ।
+छादयार्धेन च्छादकदलस्य युक्तोनकस्य वर्माभ्याम्‌ |
+विक्षेपृतिं प्रोह्य पदे तिथिवत्‌ स्थितिविमर्दार्धे ।। ४ ।।
+
+भुक्तिः षष्टिहत स्थितिविमदंदलनाडिकागुणाकंन््रोः |
+आदावृणमन्ते धनमसकृत्‌ तेनान्यथा पाते ॥। ५ ।।
+
+वीष्टस्थितिदलविक्षेपलिप्तिकावर्गयुतिपदेनोनम्‌ ।
+मानैक्याध॑ छन्नं मध्ये विक्षेपलिप्तोनम्‌ ।। ६ ।।
+
+तिज्याप्तचापभागैनंताक्षजीवावधादुदग्याम्यै : ।
+पूर्वापरयो: पूर्वा व्रिभयुग्ग्राह्मायनांशैश्च ।। ७ ।।
+(Brahmagupta, KK, 1.4.1-7)
+
+—Kryabhata’s Midnight system
+
+The degrees, minutes and seconds (omitting the Signs)
+in the longitudes of the Sun and Moon should be made
+equal by adding to or subtracting from them their re-
+spective motions during the ghajtkas, which are to pass
+till the parnénta (or time of opposition) or that have
+passed since then, respectively.
+
+Subtract the longitude of the pata! from that of the
+Moon. The ठ of the remainder, multiplied by 9 and
+divided by 5, gives the viksepa of the Moon in minutes. (1)
+
+The true daily motions of the Sun and Moon
+multiplied, respectively, by 11 and 10, and divided by
+20 and 247, give their angular diameters in minutes.
+
+The difference between 8 times the true motion of the
+Moon and 25 times that of the Sun, when divided by
+60, gives the angular diameter of the Earth’s shadow in
+minutes. (2)
+
+When the viksepa of the Moon is subtracted from half
+of the sum of the diameters of the obscuring and the
+obscured bodies, the remainder is the portion obscured
+by the shadow.
+
+If the obscured portion is greater than the ob-
+scured. body, there is total eclipse; if less, there is partial
+eclipse. (3).
+
+Find the sum and difference of the semi-diameters of
+the obscuring and obscured bodies. Subtract the
+
+1 Pata in this chapter is Moon’s Node.

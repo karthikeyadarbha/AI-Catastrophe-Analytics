@@ -1,0 +1,117 @@
+19. 3. 5
+
+अनधिकगमनेऽधिकेऽथ वक्रि- :
+ण्यपि चरितान्तरलिप्तिका गतिघ्नाः ।
+` गतियतिविवरोदधतास्तथैव ,
+स्वफलमृणं .स्वमिते गते च योगे ।। ८ 11 `
+
+धनमृणमथ तद्विलोमगे स्तः
+समकलिकौ समलिप्तिकाद्विपातात्‌ |
+त्निदशगुरुमहीजसूयैजानां ` |
+-भृगुतनयेन्दुजयोस्तथैव शीघ्रात्‌ ।। ६&॥ .
+
+निजमध्यमबाणसडगुणा `
+भुजजीवा कुंखगान्तरोदधृता |
+स शरो भवति स्फुटो रवि-
+ग्रहणोक्त्या नतिसंस्कृतो विधोः ।। १० ।
+
+क्षेपयोवियुतिरेकगोलयो-
+या च भिन्नककुभोर्भवेद्‌ युतिः |
+अन्तरं तदुभयो: प्रकीतितं
+तदलैक्यलघुभेदकारकम्‌ ।। ११ ॥।
+(Lalla, SiDAVr., 11. 1-11)
+—Lalla
+Planetary conjunction
+Find the manda hypotenuse of a planet following the
+method for the fighra hypotenuse. Then multiply it by
+the sighra hypotenuse and divide the product by the
+radius. The wise astronomers say that the quotient is
+the distance between the centre of the earth and the
+planet. (1)
+
+Time of conjunctions
+
+If the diameter of the Moon measured in yojanas is
+divided by 5, 10, 15, 20, and 25, the results are; respec-
+tively, the diameters of Venus, Jupiter, Mercury, Saturn
+and Mars (upon the Moon’s orbit, when they are at
+their mean distances from the Earth). (2)
+
+When the diameter of a planet (expressed in yojanas)
+is multiplied by the square of the radius and divided by
+the product of the distance between the centre of the
+Earth and the planet, and the Moon’s distance from the
+Earth, (both in yojanas), the result is converted into
+minutes of the true angular diameter of the planet. (3)
+
+Or, (when the diameter of a planet) in yojanas is
+divided by 10, the quotient is the mean angular diameter
+in minutes. This again, when multiplied by the radius
+and divided by the distance between the centre of the
+Earth and the planet, gives the true angular diameter
+in minutes. (4)
+
+The latitudes of Mars, (Mercury, Jupiter, Venus and
+Saturn when at their mean distances from the Earth),
+are, respectively, 9, 12, 6, 12 and 12 minutes, each
+
+ultiplied by 10
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 268
+
+4, 2, 8, 6 and 10, each multiplied by 10, are,
+respectively, the degrees (in the longitudes) of the nodes
+(of the above planets). (5)
+
+The nodes of Mars, Jupiter and Saturn become more
+accurate when corrected by adding to their longitudes
+(given above), or subtracting from time, the respective
+Sighraphalas of the planets, according as these are additive
+or subtractive. But the nodes of Mercury and Venus
+become more accurate when corrected by adding to the
+longitudes, or subtracting from them, their respective
+mandaphalas, according as they are additive or sub-
+subtractive! (6).
+
+Time of conjunction and equality of longitudes
+
+If two planets are moving in the same direction,
+divide the difference of their longitudes in minutes by
+the difference of their true daily motions. The quotient
+gives the days elapsed since the conjunction, if the faster
+of the two planets is ahead. If the slower is ahead, the
+conjunction will take place after so many days. (7)
+
+If, again, one planet is direct and the other retrograde,
+divide the difference of thei: true longitudes, expressed
+in minutes, by the sum of their true daily motions. If
+the retrograde planet has the greater longitude, the
+conjunction will take place after the days in the
+quotient; if lesser, the conjunction has taken place. (8)
+
+Multiply the difference between the true longitudes
+of the two planets severally by the true daily motion of
+each planet and divide each product by the sum of
+difference of their true daily motions, as the case may be.
+Add the quotients to the respective longitudes of the
+planets if the conjunction is to take place, and subtract
+if the conjunction has taken place. If the planet is
+retrograde, add the quotient if the conjunction has
+taken place and subtract if it is to take place. Then
+the two planets will have true equal longitudes expressed
+in minutes.
+
+Now, in the case of Mars, Jupiter and Saturn, subtract
+the correct longitudes of their respective nodes from
+their true longitudes when thus made equal. But in the
+case of Mercury and Venus, subtract the correct
+longitudes of their nodes from the longitudes of their
+respective fighroccas at the time when the planets. them-
+selves have true equal longitudes. (9)
+
+Find the R sine of the remainder in each case.
+Multiply it by the greatest mean (geocentric) Jatitude
+of the planet and divide by its distance from the centre
+ofthe Earth. The result is the true (geocentric) latitude
+
+1For mathematical notes see SiDAVr:BC, II. pp. 177-79.

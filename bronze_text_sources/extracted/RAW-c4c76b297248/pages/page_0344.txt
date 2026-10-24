@@ -1,0 +1,54 @@
+Hindu Zodiac and Ancient Astronomy
+(0) Mean motions of the Planets.
+
+We may take Jupiter as an example to illustrate the relationship with Indian astronomy.
+Neugebauer gives the following data: 391 Synodic revolutions = 36 Sidereal rotations =
+427 years. This gives the annual synodic variation in the elongation of Jupiter as 391 x
+360 +427 = 329 38'55".3 = 329.6487119. In the indian traditions, as per SGryasiddhanta
+the annual variation in elongation will be = 329°648333 = 329 38' 54" while Aryabhatiya
+gives 329°.648 = 329 38’ 52".8. The Indian value is a direct consequence of the assumed
+super-conjunction at Yugadi. As regards the above ‘exact’ period, 427 years of Jupiter
+Neugebauer gives the following explanation: +
+
+“Procedure texts enumerate several different periods of Jupiter, the first two of 12 years
+and 71 years which are said to require corrections of +5 and -6 `, respectively, for a
+return to the same sidereal fongitude. Consequently a perfect return should be expected
+after (6 x 12) + (5x 71) = 427 years. This shows how two periods which need less than
+one century of recorded planetary positions, e.g. with respect to fixed stars, were utilized
+to construct a period which should be “exact” for more than four centuries.”
+
+Neugebauer’s explanation may not be correct, as the derivation of even much greater
+“exact periods” did not require observational records of 12 or 71 years. We can find in
+indian astronomy method of determination of such exact periods using observations of
+very short intervals as explained earlier under discussion on Siddhantic astronomy.
+
+Annual synodic variation of planetary longitude can be expressed as the ratio of the solar
+year (Y) to the synodic period (5) of the planet. (Y/S) in degrees automatically represents
+the integral number of synodic revolutions in a smaller Yuga of 360 years.
+
+(v/sy° = Integral number of Synodic revolutions in 360 years = 11360
+
+(Y/SY = 1121600 ; (21600 = 360*60)}
+
+(v/sy = {11295000 ; (12969000 = 360*60*60). The number of sidereal revolutions (१५)
+could be obtained as, say for example: 1\360 = 360 ! 0360 Or 21600 = 21600 ! ॥21600. With
+
+the annual synodic arc of just one year, planetary revolutions of even 1296000 years
+could be derived arithmetically by the above procedure.
+
+According to Saryasiadhanta, Jupiter makes 3955780 Synodic revolutions and 364220
+Sidereal rotations in 4320000 years. i.e., 197789 synodic and 18211 sidereal revolutions
+in 216000 years. This gives the sidereal period as = 4332.320575 ~ very close to the
+value derivable from 36 sidereal revolns in 427 years (427/36 = 11.86111 years =
+4332.374618 if we take the year as 365.25875 days). Aryabhatiya gives 3955776 synodic
+revolutions in 4320000 years. i.e., 20603 synodic revolutions in 22500 years. Sidereal
+period = 22500/1897 = 11.86083289 years = 4332.272174 days. That is, Slryasiddhanta
+and Aryabhatiya respectively gives the synodic periods as 398.8891698 and
+398.8894973 days while the Babylonian exact period of 427 years gives the value as
+398.8887116 days. The difference between the values of Indian and Babylonian
+traditions is negligibly small. While Neugebauer is able only to speculate on the possible
+method of derivation of the Babylonian period, Indian astronomy has preserved a clear-
+
+7 Neugebauer, 0. History of Ancient Mathematical Astronomy, Vol. |, p. 391, New York.
+
+320

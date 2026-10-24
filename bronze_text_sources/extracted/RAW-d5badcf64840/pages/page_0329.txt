@@ -1,0 +1,53 @@
+282                              . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                                 Lunar eclipse
+
+mence close to the sunrise time, then it might not be visible at all. In case it were to
+be visible, even then, only the first contact might be visible and not the last contact.
+Similarly, if the lunar eclipse were to end close to the sunset time, then only the last
+contact might be visible and not the first contact. Here the criteria for the visibility
+of the first contact around sunrise time and the last contact around the sunset time
+are clearly stated.
+
+                                                           Z
+                                                                             vitribhalagna
+
+
+                                                                         V
+
+                        K        vertical passing
+                                through the centre                       zv
+                                of the shadow (O)
+              P
+                                                          E                          Moon at
+                                                                                      sparśa
+                                                                     O
+            N                                 shadow                                              S
+                            horizon
+
+                                                        W     ptic         t
+                                                                       orbi        direction of
+                                                          Ecli                    Moon’s motion
+                                                                      n’s
+                                                                     Moo
+
+Fig. 4.9 Schematic sketch of the celestial sphere, when the first contact in a lunar eclipse is close
+to the sunrise time.
+
+
+   We explain the criteria for visibility with the help of Fig. 4.9. Here, P is the
+celestial pole and K the pole of the ecliptic. NESW represents the horizon. The
+centre of the shadow O lies close to the west point on the horizon and the Moon is
+about to enter into the shadow. In other words, we have depicted the sparśakāla. The
+secondary to the ecliptic passing through K and Z meets the ecliptic at the point V ,
+called the vitribhalagna, and its zenith distance is denoted by zv . For the purposes
+of discussion, in the following O is taken to be on the horizon itself, as it is very
+close to it.
+
+
+Vitribhalagna
+
+When the centre of the Sun is on the horizon, then the centre of the shadow O will
+also be on the horizon. Now the zenith distance of the shadow ZO = 90. Since O is
+also a point on the ecliptic, it will be at 90 degrees from K, the pole of the ecliptic.
+Since ZO = 90 and KO = 90, the point O is the pole of the great circle passing
+through K and Z, which also passes through the vitribhalagna V . Thus, V is at 90
+

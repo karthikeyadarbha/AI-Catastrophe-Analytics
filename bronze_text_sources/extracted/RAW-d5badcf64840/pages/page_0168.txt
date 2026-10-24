@@ -1,0 +1,51 @@
+2.26 The correction for Mars, Jupiter and Saturn                                       121
+
+epicycle. Then θms − θ0 is found from
+
+                              K sin(θms − θ0 ) = −r sin(θ0 − θm )
+                                                   r
+                     or       R sin(θms − θ0 ) = − R sin(θ0 − θm )
+                                                  K
+                                                  r0
+                                               = − R sin(θ0 − θm).                 (2.169)
+                                                   R
+R sin(θ0 − θm ) is the dorjyā, r0 sin(θ0 − θm ) is the doh.phala and θ0 ∼ θms is the ‘arc’
+of the dophala. In the above verses rR0 for Saturn, Mars and Jupiter are specified to
+be
+                                  r0              1      1      39
+                                      (Saturn) = −          =                      (2.170)
+                                   R              8 320 320
+                                    r0            7 + | sin(θ0 − θm )|
+                                        (Mars) =                                   (2.171)
+                                     R                     39
+                                  r0              7 + | sin(θ0 − θm )|
+                      and             (Jupiter) =                      .           (2.172)
+                                  R                        82
+Note that r0 is not constant for Mars and Jupiter, but varies with the manda-kendra,
+θ0 − θm . When θms − θ0 , found from the above equation, is added to θ0 , we obtain the
+manda-sphut.a-graha (manda-corrected planet) θms . The true geocentric longitude
+of the exterior planets is obtained from the manda-sphut.a θms as follows.
+
+
+
+
+                          B
+                                                                             Γ
+      P
+                      K
+
+                                  S
+                    Ks                                 C
+                                           rs                                     Γ
+                              T
+
+
+
+                                                   O
+
+
+
+
+Fig. 2.15 Obtaining the sphut.a-graha (geocentric longitude) from the manda-sphut.a-graha
+(true heliocentric longitude) in the case of exterior planets .
+

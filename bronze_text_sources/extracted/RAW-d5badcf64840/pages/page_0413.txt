@@ -1,0 +1,52 @@
+366                           v.ya;ta;a;pa;a;ta;pra;k+.=+Na;m,a                             Vyatı̄pāta
+
+   In the figure, C and D are points that are 90◦ away from Γ along the equator
+and ecliptic respectively. Let ρ be the arc from C, perpendicular to the Moon’s
+orbit. Considering the triangle QAC, which is right-angled at A, and using the sine
+formula,
+
+                    sin ρ = sin I sin QC
+                          = cos Γ Q sin I                     (Γ Q + QC = 90).                 (6.26)
+
+Let BD = K e be the arc from D, perpendicular to the Moon’s orbit. Considering the
+triangle NBD, which is right-angled at B, and using the sine formula,
+                         e = sin i sin ND
+                     sin K
+                           = cos λn sin i                    (Γ N + ND = 90).                  (6.27)
+
+Let the Moon’s orbit be inclined at an angle ξ to the prime meridian KPY DC. Let
+Y D = x. Therefore, YC = Y D + DC = x + ε . Now considering the triangles Y BD and
+YAC and using the sine formula, we have
+                  e = sin x sin ξ
+              sin K                          and               sin ρ = sin(x + ε ) sin ξ .     (6.28)
+
+Therefore,
+                           sin ρ   sin(x + ε )
+                                 =
+                               e
+                           sin K      sin x
+                                   sin x cos ε + cosx sin ε
+                                 =
+                                             sin x
+                                            cos x
+                                 = cos ε +         sin ε .                                     (6.29)
+                                            sin x
+In the above equation, we would like to express cosx
+                                                   sinx in terms of other known quan-
+tities. From now on, all the intermediate steps till (6.35) are worked out for that
+purpose. Let NY = χ in the triangle NDY , which is right-angled at D. Using the sine
+formula, we have
+                                 sin x = sin χ sin i.                          (6.30)
+Let Y Z be perpendicular to the secondary to the ecliptic passing through N. Consid-
+ering the triangle NY Z which is right-angled at Z, we have
+
+                                    sinY Z = sin χ cos i.                                      (6.31)
+
+Now N K̂Y = 90 − λn. Further,
+
+                              KY = KP + PY
+                                      = ε + (90 − (x + ε ))
+                                      = 90 − x.                                                (6.32)
+
+Considering the triangle KY Z, which is right-angled at Z, we have
+

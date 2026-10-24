@@ -1,0 +1,75 @@
+160                                                   C+.a;ya;a;pra;k+.=+Na;m,a                                                    Gnomonic shadow
+
+   Since the rāśis in the northern and the southern hemispheres are positioned differently (viz.,
+   have declinations with opposite signs) the carakhan    . d.as have to be applied inversely, that
+   is, they have to be subtracted in the north and added in the south.
+   The time interval between the end point [of the rāśi] intersecting the horizon and the
+   6 o’clock circle is the ascensional difference, the cara. The Rsine of it, measured in terms
+   of the dimensions of the diurnal circle, when converted in terms of the dimensions of the
+   equator [by dividing it by Rcosine of the declination] becomes the carajyā.
+
+
+
+Rationale behind the application of the cara
+
+   .sa;Ea;}ya;a;ya;nea tua .sa;Ea;}ya;a;g{Ma .=+a;Za;a;na;Ma ;Æa;[a;a;ta:jea .~va;ke                                 ÁÁ
+
+   ;a;na:=+[a;ea;d;ya;taH     :pra;a;gea;va;ea;de;a;ta .~va;. a:=+a;sua;Æa;BaH        Á
+
+        å                                                             å
+   o+.n}.a;Nq+.l+.Æa;[a;a;ta:ja;ya;eaH        ta:a ta;a;va;a;n}
+                                                              ///////.a;tea Y;nta:=e               ÁÁ
+
+   :pra;va;h;prea:=+Na;a;t,a :pra;a;. ya;Ma o+.ç
+                                               Å +. C+.tkÒ +:a; ////
+                                                                a;nta;ma;Nq+.l+.m,a                               Á
+
+                          å
+   A;a;Da;~tya;vxa:a;sa;}.pa;a;tMa :pra;a;gea;va ku +.+:tea ta;taH                  ÁÁ
+
+       ãÉa;a;de;va;ea;DvRa;vxa:ea;na . a:=+pra;a;Na;a ya;d;nta:=+m,a
+   :pa;(                                                                    Á
+
+                                                                ãÉa:=+a;sua;Æa;BaH
+   ya;a;}ya;a;ya;nea tua ya;a;}ya;a;g{Ma .=+a;Za;a;na;Ma .~vEa;(                                             ÁÁ
+
+   ;a;na:=+[a;ea;d;ya;taH         ãÉa;a;t,a o+.de;a;ta ;Æa;[a;a;ta:jea .~va;k
+                              :pa;(                                         e                   Á
+              ñÍ
+   A;ta;ea l+.öÅ
+              *:+.ea;d;ya;a;sua;ByaH          tya:$ya;ntea .~va;. a:=+a;sa;vaH                           ÁÁ
+
+   .sa;Ea;}yea Y;ya;nea Y;nya;Ta;a ya;a;}yea .~va;ea;d;ya;pra;a;Na;Æa;sa:;d
+                                                                          Äâ ;yea                             Á
+
+   ta;ta A;a;dùÅ;a;nta;pa;d;ya;eaH        ;a;na:=+[a;ea;d;ya;ma;a;na;taH              ÁÁ
+
+   Za;ea;Da;nMa .~va;. a:=+a;sUa;na;Ma :pa;d;ya;ea;mRa;Dya;ya;ea;yRua;a;taH       Á
+                                                                                           35
+
+   In the saumyāyana [when the Sun has a northerly motion], the northern tips of the rāśis
+   rise earlier at the observer’s horizon than at the horizon for an equatorial observer. This
+   difference in the time of rising measured between the observer’s horizon and the 6 o’clock
+   circle is given by the ascensional difference.
+   By the impulse provided by the pravaha wind, the ecliptic which is set into motion, first
+   comes into contact with the circle which is below [that is, the horizon]. Thereafter it comes
+   into contact with the circle which is above [that is, the equatorial horizon], and the time
+   interval between them is the ascensional difference.
+   In the yāmyāyana [when the Sun has southerly motion], the southern tips of the rāśis
+   rise later at the observer’s horizon than at the horizon for an equatorial observer, with the
+   difference in times being equal to the ascensional difference.
+   Hence, for obtaining the duration of rising [of the rāśis] at one’s own place, the ascensional
+   difference is subtracted from the duration of rising at Laṅkā for rāśis in the saumyāyana
+   and otherwise (is added) for those in the yāmyāyana. Thus it is seen that, [for the rāśis]
+   in the first and the last quadrants, the ascensional difference has to be subtracted from the
+   duration of rising at the equator, whereas in the second and the third it has to be added.
+
+   Let αi be the right ascension at the end of the i-th rāśi. Then the time of rising of
+the i-th rāśi at the equator would be
+
+                                           Ti = (αi − αi−1 )                                             (i = 1, 2, . . . , 12).            (3.48)
+
+
+
+35 {TS 1977}, p. 196.
+

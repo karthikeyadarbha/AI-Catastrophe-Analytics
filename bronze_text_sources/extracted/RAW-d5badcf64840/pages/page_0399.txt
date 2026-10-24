@@ -1,0 +1,49 @@
+352                          .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                    Solar eclipse
+
+                        AF < AC = x                     or        śaṅku < x.       (5.139)
+
+In this case, the totality/annularity is not visible. However, in Fig. 5.23(b) where C
+is above the horizon the totality/annularity will be visible. For this to happen,
+
+                          AF > AC                  or           śaṅku > x.         (5.140)
+
+
+Condition on the difference of semi-diameters
+
+The condition for the totality/annularity that will be presented in this section is not
+very different from the one discussed earlier. In fact, the difference is only in the
+details. Here, the difference in the semi-diameters is determined more accurately
+and this is due to the fact that the longitude of the vitribhalagna is found more
+precisely by finding the kālalagna—the procedure for which is discussed in detail
+in Chapter 3. From the kālalagna, the prāglagna (the orient ecliptic point) may
+be determined accurately. With this the vitribhalagna, the dr.kks.epa-jyā and hence
+the parallax in longitude and the deflection from the ecliptic are obtained. After
+obtaining the parallaxes in longitude (ls and lm ) they are applied to the longitudes of
+the Sun and the Moon in order to determine their values more precisely at the true
+sunrise/sunset. That is,
+
+                                         λs′ = λs ± ls                               (5.141)
+                                         λm′ = λm ± lm ,                             (5.142)
+
+where the choice of signs in ‘+’ at sunrise and ‘−’ at sunset. From them, the sepa-
+ration between the discs, d, is calculated:
+                                    q
+                               d = (λm′ − λs′)2 + n2e ,                     (5.143)
+
+where ne is the effective deflection from the ecliptic. If ds and dm are the diame-
+ters of the solar and the lunar discs then the condition given for the visibility of
+totality/annularity may be mathematically represented by
+
+                                                   d m ∼ ds
+                                          d<                .                        (5.144)
+                                                       2
+   The rationale behind the above expression can be understood with the help of
+Fig. 5.24. Here
+                                   p
+                         AX = d = AT 2 + XT 2
+                                   q
+                                 = (λm′ − λs′ )2 + n2e ),               (5.145)
+
+since AT = λm′ − λs′ and XT = ne . Just as in Section 5.10, the condition for visibility
+of totality is
+

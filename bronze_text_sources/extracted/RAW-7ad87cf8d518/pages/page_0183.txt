@@ -1,0 +1,100 @@
+139. 15. PLANETS 15. 8. 1
+Days Vakya , : r : 0 ^ चन्द्रस्फुटः--पञ्चवोधः ।
+245 श्रोवियः प्रियस्य 11 2 22 13. 7. 16. -वाक्यध्रुवैक्यं ह्युदये स्पुटेन्दुः ।। ५२ ॥।
+मञ्जुलम्‌ 0 3 ॐ
+कवेः शक्यम्‌ 0 15 41 वाक्यानयनम्‌ , vere
+हे अभितयवोत्सुक!हीनं `
+4
+248 भवत्‌ TSA 0 2 59 दयुगणं ^रसगैरिकंः' कुलीना ङ्ख " ।
+Method for the verification of the ०045: देवेनद्रैरपि हूत्वा
+'भवेत्सुख'स्य राशीनामर्धं वाक्यं तु मध्यमम्‌ | तच्छिष्टं भवति वाक्यसंख्येन्दोः ॥ १२ ॥।
+आदिवाक्यमुपान्त्यं च भवतीति "भवेत्‌ सुखम्‌" Ul era: ।
+यत्राप्यक्षरसन्देहस्तत्र संस्थाप्य देवरम्‌ (248) | कि 4 विविधं निजवसुरोधं" =
+त्यजेत्तद्गतवाक्यानि, शिष्टं शोध्यं भवेत्‌ सुखात्‌ ॥। तापेनोह्यं कुलस्थनैपुण्यम्‌' ।
+“ Six ragis plus half ‘Bhavet sukham’ (O° 27° 44’) is the "धिगहरलघुसतरोनं' mt
+middle, i.e. 124th vakya. The first vakya, ‘Girnak Sreyal’ =_> a 3
+(0 12° 3’) plus the penultimate sdkya ‘Kaveh Sakyam’ चैतान्‌ हारातः फलः करमशः ।। १२ ॥
+८, 15° 41 ॥ 18 विनि ति Therefore ene हत्वा तेषां योगः 'कौलटभूपालतनय संयुक्तः ।
+re is a doubt regarding the letters of any vdkya, । 4 + नयः र
+deduct its serial number from 248 and take the vdkya देशान्तरविघटीहत रतनभाया न्वित वो सवः वी wi
+corresponding to the remainder ; deduct this vdkya from (Paftcabodha, 5a, 12-14)
+True Moon—Paaicabodha धि
+
+‘Bhavet sukham’. (The doubtful पठ should agree with
+the result). ।
+
+For the 248 ‘Moon sentences’ correct to the seconds
+
+and the rationale of the verification, see K. V. Sarma,
+Computation of True Moon, (Hoshiarpur, 1973), pp. 46-59.
+
+रविस्पुटः--पञ्चबोधः
+13. 7. 15. याताश्च मासा दिवसाश्च नाडयः
+स्वाभीष्टकालावधिकाः कमेण ।
+भवन्ति राश्यंशकलाश्च भानो-
+‘aha fear च कलासु कुर्यात्‌ ।। २ ।
+(Paficabodha, 2)
+True Sun—Pajicabodha
+(The number of) the elapsed (solar) (months counted
+from Mesa), the days, and the nddis up to the chosen
+time, placed in sequential order, form, respectively, the
+rafis, degrees and minutes of true Sun at that time. The
+correction enunciated in the chrongrams beginning
+with yogya shall have to be applied to the seconds.! (2)
+
+4 The seconds corrections yogya etc. are given below:
+
+Days of the month
+1-8 9-16 17-24 25 to end
+Mesa --11 --14 --16 —17
+1२52012 —19 —21 --22 --24
+Mithuna --24 --25 —25 --24
+Kataka —24 —23 --22 - -2)
+Simha > -19 --17 —15 —13
+Kanya --11 —8 — 6 —5
+Tula --1 +1 +3 +5
+OVyécika +6 +8 +9 , +10
+Dhanu +10 +11 +11 +11
+Makara +11 +9 +8 +7
+Kumbha +6 +4 +2 +0
+Mina —2 --4 --7 --10
+
+These corrections have to be applied negatively from the first day
+aft Mina, and positively from the, 9th of Tula, as indicated by the
+
+“The sum of the lunar chronogram and the Dhruva
+(for the derivation of which both, see below), is the true
+Moon at sunrise on the current day. (5a)
+
+Lunar chronogram
+
+Subtract from the current Kali day, the number
+17,41,650, (being the cut off day of this karana text), and
+divide the remainder successively by 12372, 3031 and
+248. The final remainder gives the number of the lunar
+chronogram (vide Moon sentences table under 13.7.14,
+above) for the current day. (12)
+
+Dhruva
+
+With the three quotients (obtained during the previous
+operation) multiply, in order, the three terms 9 27° 48°
+97 447, 17 7° 317 107 16°”, and 0 27° 43’ 287 397.
+To the sum of the products obtained, add the term 1" 6"
+31’ 417 31". (The mean dhruva or the dhruva at the
+Prime meridian, is obtained.) (In order to reduce this
+to the particular place), the term 12° 2° is to be multi-
+plied by the longitudinal correction in vinddikas of the
+place, and the product added to the mean dhruva.
+(12-13). (KVS)
+
+मध्यग्रहः--आनयनोपायाः
+13. 8. 1. पर्ययाहगेणाभ्यासो feat भूदिनैस्ततः ।
+ति लभ्यन्ते पयेयाः शेषा राशिभागकलादयः.।। १५ ।।
+
+minus and plus signs prefixed to the numbers in the table. व to the numbersin the table. For days days
+less than eight, the correction has to be calculated proportionately.
+The correction for any date beyond 8 is the sum of the correction for
+the previous 8-s of the month and the portion for the current 8.
+The proportion for the days beyond 24 has to be done on the basis
+of the number of the remaining days of the month.

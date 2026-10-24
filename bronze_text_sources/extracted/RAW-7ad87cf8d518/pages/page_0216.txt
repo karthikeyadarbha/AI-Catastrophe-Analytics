@@ -1,0 +1,131 @@
+13. 34. 1
+
+(चद्रयः' खा ङ्गनेवाणि' खाब्धयोऽब्ध्यग्निदसखरकाः' |
+‘gare रवेमेन्दं शुक्रवद्‌ वृत्तमेव च ।! २७ ॥। `
+एकविशत्क्षपाभर्तुरधेरात्रे विधीयते |
+
+मन्दशीध्रपाताः
+पातभागाश्च विज्ञेयाः पण्डितैः परिकल्पिताः ।। २८ ॥
+मन्दशी घ्रोच्चयोः क्षेप्यं चक्रार्ध बुधशुक्रयोः ।
+राशित्रयं तु शेषाणां पात्यते पातसिद्धये ।। VEU
+शुक्राकिदेवपूज्यानां भागौ द्वावेव संयुतौ ।
+मन्दपाताच्च शी घ्रोच्चात्‌ सार्धशस्तु कुजज्ञयो: ।। Fo ॥
+
+विबुधानां च सर्वेषां शीघ्रपाताः प्रकीतिताः ।
+विक्षेपानयनम्‌
+
+शोधयित्वा क्रमात्‌ पातान्‌ विक्षेपांशान्‌ प्रसाधयेत्‌ 113.911
+
+योगविश्लेषनिष्पत्तिरेकानेकस्वदिग्वशात्‌ |
+
+विक्षेपः स स्फुटो ज्ञेयो ग्रहस्यैकंस्य कीर्तितः ।। ३२ ॥।
+
+अन्यस्याप्येवमेव स्याच्छेषाः प्रागुक्तकल्पनाः |
+
+एतत्सर्व समासेन तन्तरान्तरमुदाहूतम्‌ । ३३ ॥
+स्फुटमध्यग्रहाः
+
+शीघ्रमन्दोच्चचापाधंसंस्कृतात्‌ स्वीयमन्दतः ।
+
+स्फुटमध्यग्रहाः सवं विशेषः परिकीतितः ।। ३४ ।।
+
+आकाशकक्ष्या ग्रहकक्ष्याश्च
+"वेदाश्िराम'गुणितान्ययुताहतानि
+चन्द्रस्य शून्यरहितान्यथ मण्डलानि 1
+स्वैः स्वैहैतानि भगणैः क्रमशो ग्रहाणां
+कक्ष्या भवन्ति खलु योजनमानदृष्टया ।। ३५ ।।
+(Bhaskara I, 7. 21-35)
+
+Midnight day-reckoning of Aryabhata I
+—Bhaskara I `
+
+The astronomical processes which have been set
+forth above come under the sunrise day-reckoning. In
+the midnight day-reckoning too, all this is found
+to occur; the difference that exists is being stated
+
+(below). (21)
+
+Civil days, Omitted lunar days, Rev. of Mercury and Jupiter
+
+(To get the corresponding elements of the midnight
+day-reckoning, add 300 to the number of civil days (in a
+yuga) and subtract the same ( number) from the number
+of omitted lunar days (in a _yuga); and from the revolu-
+tion-numbers of (the sighrocca of) Mercury and Jupiter
+subtract 20 and 4, respectively. (22)
+
+Diameters of the Earth, the Sun, and the Moon
+
+(In the midnight day-reckoning) the diameter of the
+Earth is (stated to be) 1600 yojanas); of the Sun, 6480
+(yojanas); and of the Moon, 480 (yojanas). (23)
+
+Mean distances of the Sun and the Moon
+The (mean) distance of the Sun is stated to be 6,89,358
+(yojanas) and. of the Moon, 51,566 (yojanas). (24)
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 172
+
+Longitudes of the apogees of the planets
+
+160, 80, 240, 110 and 220 are in degrees the longitudes
+of the apogees of Jupiter, Venus, Saturn, Mars and
+Mercury respectively. (25)
+
+Manda and Sighra epicycles
+
+The manda epicycles (of the same planets) are 32, 14,
+60, 70, and 28 (degrees) respectively; and the sighra
+epicycles are 72, 260, 40, 234, and 132 (degrees) respec-
+tively. The Sun’s apogee and epicycle are the same as
+those of Venus (i.e., 80° and 14° respectively). The
+Moon’s epicycle in the midnight day-reckoning is stated
+to be 31 (degrees). (26-28a)
+Manda and Sighra patas
+
+(The following directions for) the degrees of the
+(manda and. Sighra) patas of the planets as devised (under
+the midnight day-reckoning) should be noted carefully
+by learned scholars. (28b)
+
+Add 180° to the longitudes of the mandoccas (apogees)
+and. Sighroccas (perigees) of Mercury and Venus, and
+subtract 3 Signs from the mandoccas and sighroccas of the
+remaining planets. Then are obtained the longitudes
+of the manda and Sighra patas of the planets. (Also) add
+2 degrees to the longitudes of the manda patas and sigh-
+roccas of Venus, Saturn, and Jupiter; and 14 degrees to
+those of Mars and Mercury. (It should. be noted that)
+the Sighrapdtas have been stated for all the planets
+excepting Mercury. (Mercury does not have a
+Sighra-pata) .
+
+(That is to say, the longitudes of the manda patas of
+Mars, Mercury, Jupiter, Venus, and Saturn ate 21 5,
+41.5°, 72°, 262°, and 152°, respectively; and the longi-
+tudes of the sighra pdtas of Mars, Jupiter, Venus, and
+Saturn are (sighrocca — 88°.5, sighrocca — 88°),
+(Sighroceat+ 182°) and (Sighrocca — 88°), respectively).
+(28b-3 la)
+
+Celestial latitude of a planet
+
+(From the longitude of a planet severally) subtract
+the longitudes of its (manda and Sighra) patas and there-
+from calculate (as usual) the corresponding celestial
+latitudes of that planet. Add them or take their differ-
+ence according as they are of like or unlike directions.
+Then is obtained the true celestial latitude of that
+particular planet. The true celestial latitude of any
+other planet is also obtained in the same way. The
+remaining (astronomical) determinations are the same
+as stated before. This all in brief is the difference of
+this other tantra (embodying the midnight day-reckoning
+of Aryabhata 1). (3109-33)
+
+1 This passage represents rather o!d ideas of Hindu astronomy.
+The conception of manda and Sighra patas does not occur in any other
+work. Our translation agrees with the interpretations given in the
+various commentaries. The translation given by P.C. Sengupta
+in the introduction to his Khapda-khadyaka appears to be wrong.

@@ -1,0 +1,54 @@
+326                              .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                           Solar eclipse
+
+                                                 Z                pri
+                                                                        me
+                                                                             me
+                                                                                rid
+                                                                                      ian
+                          vertical passing through
+                          the actual Sun at the                                     S1
+                          middle of the eclipse                              S ’1
+
+
+                                                                                    S2
+
+                                                                   c     S ’2
+                                                          li   pti
+                                                       ec
+
+Fig. 5.12 The first contact and the middle of a solar eclipse occurring in different hemispheres.
+
+
+
+Magnitudes of different lambanas
+
+Now Si Si′ = li , i = 1, 2, 3. As the effect of parallax increases with the zenith distance
+of the object, it is easily seen that
+
+                          li > li+1             (in eastern hemisphere)
+                          li < li+1             (in western hemisphere).                         (5.51)
+
+Hence the parallaxes in longitude keep decreasing in the eastern hemisphere and
+keep increasing in the western hemisphere, over time. These inequalities are sat-
+isfied in most situations. However, care has to be exercised when either the first
+contact or the last contact happens to be near the time of sunset or sunrise. Such
+‘border-line’ cases are discussed in the verses 19–22a.
+    When the instant of last contact is near the sunrise time, then the madhyakāla
+(instant of conjunction) will definitely be towards the end of the night, and the
+Sun/Moon will be below the horizon (z > 90◦ ). Then R sin z would have a greater
+value at the last contact than in the middle. Hence the parallax in longitude at release
+will be larger than that in the middle. Therefore the second half-duration is given by
+
+                                 ∆ t2′ = S2′ S3′
+                                       = S2 S3 − (S3′ S3 − S2′ S2 )
+                                       = ∆ t2 − (l3 − l2 ).                                      (5.52)
+
+This is the same as (5.46), except that l3 > l2 , so that l3 − l2 must be subtracted from
+∆ t2 .
+    Similarly, when the instant of first contact is near the sunset time, then the mad-
+hyakāla will definitely be towards the beginning of the night. Here again the paral-
+lax in longitude at first contact will be larger than that in the middle. Hence the first
+half-duration is given by
+
+                                 ∆ t1′ = S1′ S2′
+

@@ -1,0 +1,71 @@
+2.13 Durations of the day and the night                                                                                                                             87
+
+                     Lunar day = Sidereal day + Time taken by the earth to
+                                                                                          rotate through XM ′
+                                            = 21600 + XM ′
+                                            = 21600 + Moon’s daily motion (in prān.as).                                                                      (2.92)
+
+Similarly a ‘planet day’ can be defined for other planets also.
+   For finding half of the duration for which a planet is above the horizon, its own
+caraprān.a has to be added to or subtracted from one-fourth of its own ‘planet-day’.
+In Laghu-vivr.ti there is a discussion on this:
+
+   . a;ndÒ+a;deH    :pua;naH   .~vEaH   .~vEaH   . a:=+a;sua;Æa;BaH   o+.+:va;t,a .sMa;~kx +:ta;a;t,a ;a;na:ja;a;h;ea:=+a:a;. a;tua;Ba;Ra;ga;taH   ;a;d;na;a;Da
+
+                                                                                    å
+                                                        ãÉa ta;~ya ;a;na:ja;a;d;na;~.Pu+.f;Ba;ea;ga;pra;a;Na;a;a;Da;k+:. a;k
+   .=+a:ya;Da . a A;va;ga;nta;v.ya;m,a Á A;h;ea:=+a:a;(                                                                   Ò +:k+:l+.a;tua;ya -
+   :pra;ma;a;NaH Á na;nvea;vMa kx +:ta;~ya;a;a;pa I+.nd;eaH ;a;d;na;[a;pa;ya;ea;ma;Ra;na;~ya na .~å.P                                           -
+                                                                                                     u +.f;tva;m,a Á ;a;na:ja;d;eaH P+.l+.k+:l+.a
+
+   ;a;d;na;a A;a;Da;k+:ea;na;tva;sMa;Ba;va;a;t,a, .sa;tya;m,a ; A;ta O;;va ;a;h ta:a .~va;a;d;na;a;nta;a:=+ta;ya;eaH .~.Pu +.f;ya;ea;a;vRa;a;Da-
+                                                                                                                         å
+
+
+   va;t,a kx +:ta;~va;. a:=+pra;a;Na;k+:l+.a;nta:=+ya;eaH       A;nta:=e+Na .. a;k
+                                                                                 Ò +:k+:l+.a .sa;a;h;tea;na ;a;d;na;a;sa;vaH              ;a;kÒ +:ya;ntea Á
+
+   For the Moon and others (planets) their own durations of day and night have to be obtained
+   from the quarter of their true ahorātra corrected for their own carāsus. The duration of
+   their day is [nearly] equal to the sum of the their daily motion in prān
+                                                                           . as plus the number
+   of minutes in 360 degrees. Even after applying this, the duration of the day or night of
+   the Moon [and other planets] would not be correct as it may differ [from the actual value]
+   by its own doh.phala. True; it is only to take this discrepancy into account that the [true]
+   duration of a lunar day in minutes is obtained from the difference in the true positions of
+   the Moon [and other planets], at intervals separated by the durations of their days corrected
+   by caraprān . a etc., added to the number of minutes in 360 degrees.
+
+
+
+Ascensional difference in the case of the Moon and other planets:
+
+It may be recalled that (2.67) gives the expression for finding the caraprān.a in the
+case of the Sun. For the Moon and other planets the procedure to be adopted is stated
+in Laghu-vivr.ti as follows:
+
+   .~va;. a:=+pra;a;Na;a;na;ya;na;ma;a;pa A;mua;nEa;va I+.;kÒ +:a;ntya;a ;a;va;[ea;pa;sMa;~kx +:ta;ya;a C+.a;ya;a;ga;a;Na;tea :pra;d;a;ZRa;ta;m,a            -
+                                         È
+   k+:a; / / 
+   Ò                             ÂåÅ +a. îå Á
+        a;nta:$ya;a ;a;va;Sua;va;;     *+;a ;Æa;[a;a;ta:$ya;a õ
+                                                               d;a;d;Za;ea:;d
+                                                                            Äâx ;ta;a Á
+
+                   È
+   v.ya;a;sa;a;DRa. îå Á
+                   *+;a dùÅ;au:ja;a;va;a;a;a . a;a;a;pa;ta;a;~yua;~. a:=+a;sa;vaH Á Á
+                                                                                          14
+
+   For planets other than Sun the procedure for obtaining their own caraprān. a from the dec-
+   lination corrected for the latitude of the planet has been shown by [the author] himself in
+   [his] Chāyāgan. ita:
+   The sine of the declination multiplied by the vis.uvadbhā and divided by twelve is the
+   ks.itijyā. This has to be multiplied by the trijyā and divided by the dyujyā. The arc of this
+   is the carāsava.
+
+   In Fig. 2.9, S represents the position of the Sun on the observer’s meridian on
+an equinoctial day. Since the motion of the sun takes place along the equator on
+
+14 {CCG 1976}, p. 16.
+

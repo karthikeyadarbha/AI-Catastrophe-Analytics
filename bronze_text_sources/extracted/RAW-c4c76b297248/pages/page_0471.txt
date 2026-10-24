@@ -1,0 +1,51 @@
+Intricacy of Indian Chronology — A Reappraisal
+ Non-Ptolemaic Greek Astronomy in India
+
+He begins his thesis by stating:”"The transmission was certainly very complex. It involved
+many levels and periods of Greek astronomy: adaptations of Babylonian tunar and
+planetary theories; the year length of Hipparchus, an adaptation of his co-ordinate system
+for fixed stars, and his theories of precession and trepidation.... And this transmission
+extended over several centuries; it apparently began in the second century of our era and
+continued till the late fourth or early fifth century. The locations of the recipient Indians
+indicate Western India as the point of entry of these various Greek theories; there exists
+literary, epigraphic, archaeological and numismatic evidence for a massive Greek
+influence on this area in precisely the period of this transmission”.
+
+~—» Interestingly according to his on admission none of the original translations of Greek
+texts into Sanskrit has survived and often sufficient evidence is not available to be very
+confident about particular details in the historical process that led to the creation of the
+astronomy of the Siddhantas.
+
+— After outlining the indian techniques which are traceable to Greek papyri and other
+texts, Pingree has added the comments:
+
+“These techniques as preserved in the Sanskrit texts were certainly not invented in India,
+which lacked the astronomical tradition neceassary for the development. Nor were they
+introduced directly from Mesopotamia since they first appear, in a crude form, in the
+Yavanajataka, which is based on the translation of a Greek text made three-quarters of a
+century after the last dated cuneiform ephemerides was inscribed. The full forms of these
+techniques are found in !ndia only in texts, the Vasistha and the Pauli$a, of the third or
+fourth century which represent translations of Greek texts other than that translated by
+Yavanesvara. The papyri, Geminus, Vettius Valens and the three Sanskrit texts all attest
+to the popularity of this Greco-Babylonian astronomy in the Roman Empire in the first
+three or four centuries of our era”.
+
+Each and every sentence of this paper is designed to facilitate the conciusion of pre-
+‘Ptolemaic Greek sources for the Indian astronomy. One of the most important
+parameters, the anomalous year length of 365.25875 days is described as of Greek
+origin despite being well-known that it is a Babylonian value. Same can be said about the
+Julian year also. Present author is not inclined to dispute that the Siddhantic astronomy
+contains ideas borrowed from Greeks such as epicycie model, trepidation theory etc. But
+the arguments adduced to favor such a conclusion - that India had no astronomical
+tradition or that Vasistha and Paulisa Siddhantas are translations of Greek works etc., are
+alt concoctions aimed to favor a Greek origin. Pingree has tried painstakingly to
+reconstruct Aryabhata’s method of derivation of the integral number of planetary
+revolutions, but such a clumsy procedure based on Greek mean motions was not at all
+required as the present author has shown in a paper published in the 115. The
+difference in the value of solar year employed alone can attest the indigenous
+astronomical tradition of the Hindus, quite distinct from that of Hipparchus and those who
+followed him. Prevalence of the anomailistic solar year in Greek records on the contrary
+
+7 Chandra Hari, K., ‘On the Origin of Kaliyugadi Synodic Superconjunction’
+
+447

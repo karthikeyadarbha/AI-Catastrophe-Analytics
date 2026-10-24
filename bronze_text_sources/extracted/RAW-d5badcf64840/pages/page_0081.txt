@@ -1,0 +1,51 @@
+34                     ma;Dya;ma;pra;k+.=+Na;m,a              Mean longitudes of planets
+
+                                                            = 1881.70969
+Since we are interested in the integral part, we take a     = 1881
+
+No. of lunar months elapsed (including adhimāsas), l       = 61223 + 1881
+                                                            = 63104
+No. of tithis elapsed in the present lunar month, s         = 15+12 = 27
+
+No. of tithis elapsed (including ks.ayatithis), A′          = (63104 × 30) + 27
+                                                            = 1893147
+                                                              1893147 × 25082100
+Number of ks.ayatithis, k (corresponding to A′ )            =
+                                                                  1602999600
+                                                            = 29622.03008
+We round off the above fraction and take k to be            = 29622
+
+Kalyahargan. a is given by, A (= A′ − k)                    = 1893147 - 29622
+                                                            = 1863525
+                                                            = (266217 × 7) + 6
+
+    The remainder 6 implies that the day has to be a Thursday. March 22, 2001
+happens to have been a Thursday, and hence the computed value of the Ahargan.a is
+correct. Thus the number of civil days elapsed since the beginning of the Kaliyuga
+till Phālgun.a-kr.s.n.a-trayodaśı̄, Śaka 1922 is 1863525.
+
+
+Example 2:
+
+Find the Kalyahargan. a corresponding to Nija-ās.ād.ha-kr..s .na-navamı̄, Śaka 1891
+(August 6, 1969 CE).
+
+Number of Kali years elapsed, p                             = 1891 + 3179
+                                                            = 5070
+Number of lunar months elapsed in the present year, q       =3
+
+No. of lunar months elapsed (excluding adhimāsas), m       = (5070 × 12) + 3
+                                                            = 60843
+                                                              60843 × 1593320
+No. of adhimāsas corresponding to m lunar months a         =
+                                                                 51840000
+                                                            = 1870.03
+Since we are interested in the integral part, we take a     = 1870
+
+No. of lunar months elapsed (including adhimāsas), l       = 60843 + 1870
+                                                            = 62713
+No. of tithis elapsed in the present lunar month s          = 15 + 8 = 23
+
+No. of tithis elapsed (including ks.ayatithis), A′          = (62713 × 30) + 23
+                                                            = 1881413
+

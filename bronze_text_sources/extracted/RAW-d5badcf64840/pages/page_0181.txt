@@ -1,0 +1,66 @@
+134                                                         C+.a;ya;a;pra;k+.=+Na;m,a                                  Gnomonic shadow
+
+  .
+3 2 :pUa;va;Ra;pa:=+a;ba;nd
+                          õ ;a;na;ya;na;m,a
+
+3.2 Finding the east–west points
+
+                            å
+      ta;. C+.a;ya;a;g{Ma .~.pxa;Zea;dùÅ;a:a vxa:ea :pUa;va;Ra;pa:=+a;
+                                                                        ÉÎÉ +:ya;eaH   Á
+
+      ta:a ;a;ba;ndU ;a;na;Da;a;ta;v.ya;Ea vxa:ea :pUa;va;Ra;pa:=+a;Æa;Ba;Da;Ea          ÁÁ 2   ÁÁ
+
+      tacchāyāgram
+                   . spr.śedyatra vr. tte pūrvāparāhn
+                                                        . ayoh. |
+      tatra bindū nidhātavyau vr. tte pūrvāparābhidhau || 2 ||
+      The marks on the circle [drawn with the gnomon as the centre], known as the east and the
+      west points, have to be made wherever the tip of the shadow of that (gnomon) grazes the
+      circumference of the circle in the forenoon and the afternoon.
+
+   During the forenoon, the tip of the shadow will be entering into the circle from
+outside, and the point where it intersects the circumference is to be marked as the
+west point. Similarly, during the afternoon, as the tip moves out of the circle, it
+again intersects the circumference, and this point is to be noted as the east point.
+The line joining these two points will represent the exact east–west direction at that
+location, if it is assumed that the declination of the Sun remains constant during
+the day. But since the declination actually varies continuously, there is a need for a
+small correction, which is discussed in the following verse.
+
+
+  .
+3 3 :pUa;va;Ra;pa:=+a;ba;ndu;Za;ea;Da;na;m,a
+
+
+3.3 Correcting the east–west points
+
+                                                                         ñÍ
+      Bea;d;a;t,a :pUa;va;Ra;pa:=+k
+                                  Ò +:a;ntya;eaH      C+.a;ya;a;k+:Na;Ra;ç
+                                                                         *:Åu +.l+.a;h;ta;a;t,a        Á
+
+
+      l+.}ba;k+:a;Ma :pUa;vRa;a;ba;nd;eaH        na;a;tva;a k+:a;ya;eRa Y:a .sa;ea Y;ya;na;a;t,a        ÁÁ 3   ÁÁ
+
+      bhedāt pūrvāparakrāntyoh. chāyākarn  . āṅgulāhatāt |
+      lambakāptam                                    ′      ′
+                   . pūrvabindoh  . nı̄tvā kāryo tra so yanāt ||3 ||
+      The difference in the [Rsine of the] declinations determined in the forenoon and the after-
+      noon7 multiplied by the shadow-hypotenuse and divided by the Rcosine of the latitude of
+      the place (lambaka) has to be applied to the east point and this [the sign of application, ±]
+      depends upon the ayana.
+
+   Consider Fig. 3.2a. The points W ′ and E ′′ on the circle represent the points of
+intersection of the tip of the shadow with the circumference in the forenoon and
+afternoon respectively. If the declination of the Sun were to be constant during the
+course of the day, then W ′ E ′′ would be the west–east line. However, owing to the
+northward or southward motion of the Sun, the declination (δ ) changes. Conse-
+quently, the tip of the eastern shadow point would have been shifted towards the
+south if the Sun has northward motion (δ increases) or north if the Sun has south-
+ward motion (δ decreases). So a correction ∆ (see (ii) in Fig. 3.2a) has to be applied
+to E ′′ in order to obtain the actual east point E ′ . If the change in the declination from
+δ1 to δ2 , then the magnitude of the correction ∆ is stated to be
+7 At those instances when the tip of the shadow grazes the circumference.
+

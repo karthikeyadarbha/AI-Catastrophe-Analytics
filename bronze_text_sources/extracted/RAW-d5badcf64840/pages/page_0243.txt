@@ -1,0 +1,53 @@
+196                                  C+.a;ya;a;pra;k+.=+Na;m,a                                   Gnomonic shadow
+
+   samaman     . .dalaśaṅkuh. lambaghnah. trijyayā hr.tah  . ||55 ||
+   unman  . d.alāt dyuvr  . ttajyā, trijyāghnā dyujyayā hr. tā |
+   taccāpam  . caracāpād   . hyam. gatais.yāsava eva hi ||56 ||
+   The samaman    . .dala-śaṅku multiplied by the lambaka and divided by the trijyā is the
+   dyuvr. ttajyā from the unman   . d.ala. This multiplied by the trijyā and divided by the
+   dyujyā gives the arc corresponding to it, and that added to the cara gives the prān . as
+   elapsed and yet to elapse.
+
+In the above verse the procedure is given for determining the time elapsed since the
+sunrise till the Sun reaches the prime vertical. Consider Fig. 3.24. Here S is the Sun
+on the prime vertical and Sr is the sunrise point. SB is the part of the diurnal circle
+between the 6 o’clock circle and the prime vertical. The desired duration is obtained
+in two steps.
+1. The duration corresponding to the diurnal motion of the Sun between the 6 o’clock
+   circle and the prime vertical, the segment ES′ corresponding to h, and
+2. The duration corresponding to interval between the sunrise point and the 6 o’clock
+   circle, which is the cara (Sr′ P̂E).
+Let BS be the segment on the diurnal circle corresponding to ES′ . The dyuvr.ttajyā
+is the Rsine of h reduced to the diurnal circle, and is thus given by R cos δ sin h.
+
+
+                          prime vertical
+                        ( samaman. .dala ) Z
+
+
+                                                                      H                  6 o’clock
+                                                                                     P    circle
+                                                   z0                     h
+
+                         equa
+                           tor           S
+
+                                S’                       B                                  N
+                                                                                  n
+                                                                 Sr        horizo
+                                           E
+                                                                           diu
+                                                                               r
+                                                   S’r                    circ nal
+                                                                              le
+
+
+
+
+                                                         Z’
+Fig. 3.24 Determination of the time taken by the Sun to reach the prime vertical from its rise at
+the observer’s location.
+
+
+   The expression given for the dyuvr.ttajyā is:
+

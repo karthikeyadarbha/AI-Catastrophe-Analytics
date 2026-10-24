@@ -1,0 +1,65 @@
+3.20 Gnomon when the Sun is on the prime vertical                                                      189
+
+                                                                       sin φ    sin δ
+               or           − R sin z cos A = R cos z                        −R       ,             (3.125)
+                                                                       cos φ    cos φ
+
+                             sin δ                      R cosz sin φ
+where the arkāgrā is Rcos     φ , the śaṅkvagrā is    cos φ     and the mahābāhu or
+chāyā-bāhu is |R sin z cos A|.
+    When the declination is north, it can be seen that the chāyābāhu RF is to the
+south when the śaṅkvagrā Sh F is greater than the arkāgrā, as in Fig. 3.21a, but it
+is to the north when the śaṅkvagrā is less than the arkāgrā, as in Fig. 3.21b. When
+the declination is south, the śaṅkvagrā, arkāgrā and chāyābāhu are all to the south
+as in Fig. 3.21c.
+    The chāyābāhu or chāyābhujā in aṅgulas is given by
+
+                                              chāyābāhu = |K sin z cos A|
+                                                              12 sin z
+                                                           =           cos A .                      (3.126)
+                                                               cos z
+
+Dividing the relation between the mahābhāhu (chāyābāhu), arkāgrā and śaṅkvagrā
+in (3.125) by R cos z and multiplying by 12, we have
+
+                              sin z                       sin δ
+                                    cosA = 12 tan φ − K
+                                    12                                               (3.127)
+                              cosz                        cos φ
+               or chāyābāhu (aṅgulas) = |vis.uvadbhā ± agrajı̄vā (aṅgulas)| . (3.128)
+
+This has been stated earlier.
+
+
+                         ñÍ
+  .
+3 20 .sa;ma;ma;Nq+.l+.Za;ö
+                         *:Å H
+                          u
+
+3.20 Gnomon when the Sun is on the prime vertical
+
+      A;[a:$ya;ea;na;a ya;d;a kÒ +:a; / / 
+                                     a;ntaH   .sa;Ea;}ya;a ta;Ma ;a:a:$ya;ya;a h;ta;a;m,a Á
+                                             ñÍ
+      A;[a:$ya;ya;a ;a;va;Ba:$ya;a;aH    Za;öÅ
+                                             *: u H   .~ya;a;t,a .sa;ma;ma;Nq+.le    Á Á 51    ÁÁ
+
+
+      aks.ajyonā yadā krāntih. saumyā tām . trijyayā hatām |
+      aks.ajyayā vibhajyāptah. śaṅkuh. syāt samaman  . .dale || 51 ||
+      When the declination of the Sun is to the north and it is less than the latitude of the place,
+      then the Rsine of declination multiplied by the trijyā and divided by Rsine of the latitude
+      gives the śaṅku in samaman . .dala [when the Sun is on the prime vertical].
+
+   The term samaman. .dala refers to prime vertical, ZEZ ′ in Fig. 3.22. Let z0 be the
+zenith distance of the Sun with declination δ , when it is on the prime vertical. Then
+the expression for the śaṅku is given to be
+
+                                                                 krāntijyā × trijyā
+                                                        śaṅku =
+                                                                       aks.ajyā
+                                                                 R sin δ × R
+                                       or             R cos z0 =             .                      (3.129)
+                                                                   R sin φ
+

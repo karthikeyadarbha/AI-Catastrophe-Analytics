@@ -1,0 +1,75 @@
+228                                                                   C+.a;ya;a;pra;k+.=+Na;m,a                                                  Gnomonic shadow
+
+       The product of the dyujyā and the natajyā divided by the prabhā [chāyā] becomes the
+       kot.i of āśāgrā. The aks.a is found as stated earlier. Thus we have given the answers to the
+       ten problems.
+
+   These two problems are concerned with finding δ and φ in terms of H, z and a,
+and a and φ in terms of H, z and δ respectively. According to the verses, δ can be
+found in terms of z, a and H, and a can be found in terms of z, H and δ through the
+relation
+                                        R sin z R cos a
+                              R cos δ =                 ,                   (3.250)
+                                           R sin H
+which can also be written as
+                                                                                               R sin H R cos δ
+                                                                          R cos a =                            .                                                 (3.251)
+                                                                                                    R sin z
+Using the spherical triangle PZS (Fig. 3.27), and applying the sine formula, we have
+                                                                                  sin A      sin H
+                                                                                           =       .                                                             (3.252)
+                                                                              sin(90 − δ )   sin z
+
+Since A = (90 + a), the above equation reduces to
+
+                                                                                     sin H    cos a
+                                                                                            =       ,                                                            (3.253)
+                                                                                      sin z   cos δ
+which is nothing but the ratio of equations (3.250) and (3.251). φ is determined from
+z, δ , H and a through (3.238). As δ has been solved in terms of z, H and a, and a
+has been solved in terms of z, H and δ , φ can be found, in each of the problems, in
+terms of the three given quantities.
+
+
+   .
+3 38 I+.;a;d;#C+.a;ya;a
+
+
+3.38 Shadow along any direction
+
+                                                          È                                       63
+                                      õ ;a ta;tk+:ea;a;f. îå Á
+       ;a;d;ga;g{a;a ;a;va;&+.ta;a ya;d                  *+;a :pa;l+.pra;Ba;a                              Á
+
+       ta;tk+:ea;a;f;k+:a ta;ya;eaH                   kx +:tya;eaH     ya;ea;ga;mUa;lM .~va;dx;ggua;NaH Á Á 88            ÁÁ
+
+          ñÍ
+          *:u+.dx;ggua;Na;ya;eaH
+       Za;öÅ                                  kx +:tya;eaH   C+.a;ya;a;k+:Na;eRa yua;teaH     :pa;d;m,a
+                                                                                                         64 Á
+
+          ñÍ                              È
+       Za;öÅ                             îå Áe C+.a;ya;a;k+:NRa;&+.tea .~å.Pu+.fe
+          *:u+. C+.a;yea ;a:a:ja;a;va;a.*+                                                       Á Á 89         ÁÁ
+
+
+       dx;ggua;Na;a;Æa;Ba;h;ta;k
+                               Ò +:a;nteaH                A;[a:$ya;a;a;ea hùÅ:a;pa;kÒ +:maH           Á
+
+            a;nta;dx;ggua;Na;ya;eaH
+       k+:a; / / 
+       Ò                                            k+:ea;a;fH       ;a:a:$ya;a;va;ga;Ra;nta:=+a;t,a :pa;d;m,a        Á Á 90   ÁÁ
+
+
+
+
+                      *+;a, I+.tya:a ta;. C+.b.de;na ;a;d;ga;g{a;a g{a;a;hùÅ:a;a Á :pa:=+ntua o+a:=;a ta;tk+:ea;a;f;k+:a I+.tya:a ta;. C+.b.de;na
+63 A:a ta;tk+:ea;a;f. È
+                       îå Á         Á
+
+:pa;l+.pra;Ba;a   g{a;a;hùÅ:a;a Á         A;nva;ya;~tua          I+.tTMa      - :pa;l+.pra;Ba;a, ;a;d;ga;g{a;a ;a;va;&+.ta;a ta;tk+:ea;a;f. ÈîåÁ*+;a (.. a), ta;tk+:ea;a;f;k+:a
+(:pa;l+.pra;Ba;a-k+:ea;a;f;k+:a) Á Ba;va;ta;a;tya;Dya;a;h;yRa;m,a Á
+64 Prose order: Za;ñÍ
+                   *:+.dx;ggua;Na;ya;eaH                             kx +:tya;eaH   yua;teaH   :pa;dM C+.a;ya;a;k+:NRaH Á
+                                        öÅu
+

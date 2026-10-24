@@ -1,0 +1,69 @@
+186                                             C+.a;ya;a;pra;k+.=+Na;m,a                                Gnomonic shadow
+
+            È                              ñÍ
+            îå Á a Y;Ta;va;a ba;a;hH
+   d;a;d;Za.*+;e
+   õ                                    Za;öÅ
+                                           *:+.na;a ma;h;ta;a &+.taH Á
+                                   u          u
+     ñÍ
+   A;*:
+     çÅu +.l+.a;tma;k+:mea;vMa va;a C+.a;ya;a;Bya;a;ma;Ta;va;a na;yea;t,a     Á Á 50   ÁÁ
+
+
+   aks.ajyāghnānmahāśaṅkoh. śaṅkvagram . lambakāhr.tam |
+   sarvadā daks.in . am
+                       . taddhi yojyamarkāgrayāpi tat || 47 ||
+   yāmye gole mahābāhuh   . saumye cāgradvayāntaram |
+   adhike ′trāpi śaṅkvagre yāmyah. syādanyathottarah  . || 48 ||
+   chāyākarn             ′                ′
+              . ahatah. so pi trijyābhakto ṅgulātmakah. |
+   viparı̄tadigapyes.a pūrvānı̄tasamo ′pi ca || 49 ||
+   dvādaśaghno ′thavā bāhuh. śaṅkunā mahatā hr.tah
+                                                         . |
+   aṅgulātmakamevam    . vā chāyābhyāmathavā nayet || 50 ||
+   The aks.ajyā multiplied by the mahāśaṅku and divided by the lambaka is the śaṅkvagrā
+   and always lies to the south. [If the Sun is] in the southern hemisphere, the arkāgrā has
+   to be added to that (śaṅkvagrā) to get the mahābāhu [and] in the northern the difference
+   between the two agrās [gives the mahābāhu]. Here again, if the śaṅkvagrā is greater than
+   the arkāgrā, then [the mahābāhu] will be to the south, otherwise to the north.
+   This multiplied by the chāyākarn  . a and divided by the trijyā gives the mahābāhu
+   in aṅgulas. Though this (the mahābāhu) obtained is in the opposite direction (the
+   viparı̄tadigapi), it is the same [in magnitude] as the one that was obtained earlier. Oth-
+   erwise, this may be obtained by multiplying the mahābāhu by twelve and dividing by the
+   mahāśaṅku. Thus, this can also be obtained from the shadows measured in aṅgulas.
+
+
+
+                                                     Z                diurnal circle
+                                 φ
+                          9   0−                                                    celestial
+                                             A                 z                     equator
+                 P
+                               90− δ
+
+                                                                       S
+                              Sr                 E                                                           di u
+                                                                                                          cir rna
+                                                                                                             cle l
+                                                     O      Α−90                                     D
+  N                                                                                         S
+                               Sh                                      F                                  G
+                                                     R
+                                                                            rizon               St       W
+                                   St                                  ho
+                                                 W
+
+
+Fig. 3.21a Śaṅkvagrā when the declination is north (+ve) and A > 90◦ .
+
+
+    In Fig. 3.21a, the Sun rises at Sr , moves along the diurnal circle and sets at St .
+If we assume that Sun’s declination δ is constant through the day, Sr St would be
+parallel to the east–west line. From St , draw St G perpendicular to the east–west line
+meeting it at G. St G is the arkāgrā or arkajı̄vā.
+    Now the plane of the diurnal circle is inclined at an angle 90− φ with the horizon.
+From G draw GD perpendicular to the plane of the diurnal circle meeting it at D. Join
+St D, which would be perpendicular to GD. Clearly, DŜt G = 90 − φ and DĜSt = φ .
+St DG is a latitudinal triangle (a right-angled triangle with the latitude as one of the
+

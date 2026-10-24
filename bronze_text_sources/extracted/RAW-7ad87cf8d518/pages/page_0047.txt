@@ -1,0 +1,119 @@
+7 1.
+
+Bhaskara’s correction to Brahmagupta’s
+statement
+
+The statement of Brahmagupta, namely that the arc
+of the Moon’s drk-ksepa will be obtained by the sum or
+difference of that of the Sun with the latitude of the
+vitribha, 1 (Bhaskara) do not accept. I shall give the
+reason why. (1)
+
+At a place where the latitude is 24°, when the
+longitudes of the Sun, the Moon and the Node are all
+180° at the time of sun-rise, the ecliptic occupies the
+position of the prime vertical. (2)
+
+The Moon will not leave the ecliptic even though
+depressed by parallax in longitude. Thus there is no
+parallax in latitude. The vitribha then being in the
+zenith, and its latitude being 44°, the drk-ksepa of the
+Moon according to Brahmagupta’s formula will be 43 ०;
+and therefore the parallax in latitude obtained by the
+adrk-ksepa will be
+
+790'— 35 Resin 44° _ 52’ — 42”
+15 3438 3458
+which is actually not the case. (3). (AS)
+
+>€ 270 = 4’ 8",
+
+ज्योतिश्शास्त्रस्य शोधनात्मकत्वम्‌
+
+1. 14. 1. मानसव्याख्यातापि कश्चिदाह--* ननु पैतामहादिभेदेन
+परस्परविरुद्धाश्च सिद्धान्ता भवन्ति । सिद्धान्तभेदे सति कालभेदः ।
+कालभेदे सति कालाङ्घानि श्रौतस्मार्तलौकिकानि कर्माणि विकलानि
+स्युः । कर्मवैकल्ये सति लोकयात्रोच्छेदः । हा धिक्‌! सङ्कटे महति
+पतिताः स्मः । '"
+
+अतोच्यते-ऋजुमते! स न शोचितव्यः | गृ रुचरणपरिचरणपरैः
+किमिव न ज्ञायते । पञ्चसिद्धान्तास्तावत्‌ क्वचित्काले प्रमाणमेव इत्यव
+गन्तव्यम्‌ | अपि च-यः सिद्धान्तः दशंनाविसंवादी भवति सोऽन्वेषणीयः |
+दर्शनसंवादश्च तदानीन्तनः परीक्कंग्रहणादौ विज्ञातव्यः । ये पुनरन्यथा,
+प्राक्तनसिद्धान्तस्य भेदे सति, ara: परीक्ष्य ग्रहाणां भगणादिसंख्यां
+
+ज्ञात्वा अभिनवसिद्धान्तः प्रणेय इत्यर्थात्‌ ।
+(Nilakantha, Jyotirmimathsa, p. 6)
+
+Testing, verification and revision
+
+A commentator on the Mdnasa (viz. Laghumanasa of
+Mufijala) has lamented: ‘Indeed, the Siddhantas, like
+Paitamaha, differ from one another (in giving the astro-
+nomical constants). Timings are different as the
+Siddhantas differ (i.e. the measures of time at a
+particular moment differs as computed by the different
+Siddhantas). When the computed timings differ, Vedic
+and domestic rituals, which have (correct) timings as a
+component (of their performance) go astray. When
+
+1 For an exposition, see SiSi:AS, pp. 446-48.
+
+ASTRONOMY
+
+1. 14. 2
+
+rituals go astray, worldly life gets disrupted. Alas! we
+have been precipitated into a big calamity.’
+
+Here, it needs to be stated: ‘O faint-hearted, there
+is nothing to be despaired of. Wherefore does anything
+remain beyond the ken of those intent on serving at the
+feet of the teachers (and thus gain knowledge)? One
+has to realise that the five Siddhantas had been correct
+(only) at a particular time. Therefore, one should
+search for a Siddhanta that does not show discord with
+actual observation (at the present time). Such accord-
+ance with observation has to be ascertained by
+(astronomical) observers during times of eclipses etc.
+When Siddhantas show discord, i.e. when an early
+Siddhanta is in discord, observations should be made
+with the use of instruments and the correct number
+of revolutions etc. (which would give results which
+accord with actual observation) found, and a new
+Siddhanta enunciated. (KVS)
+
+यन्त्रेण ग्रहस्फुटशोधनम्‌
+
+1. 14. 2. अनावृतधरातले व्यासार्धाडगुलप्रमाणविस्तारं दुगुच्छितं
+समवृत्तं पीठं पूर्वापरदक्षिणोत्तररेखान्वितं “खखषङ्धघन'विभक्तपरिधि
+कारयेत्‌ | तत्र सवितुरुदयकालेऽस्तकाले च पीठापरपूवैदिशोः स्थित्वा
+तत्पीठपरिधौ अर्धोदितं विवस्वन्तं णडकुच्छन्नं दृष्ट्वा पीटपरिधौ चिह्न
+कुर्यात्‌ । शङ्कुच्छाया च तदन्यतिरिक्तदिक्परिधौ यत्र स्पृशपि तत्रापि
+fag कुर्यात्‌ | मध्याह्लशड्कुच्छायग्रे चिह्न कुर्यात्‌ |
+
+उत्तरगोलस्थेऽकं समपूर्वापरसूत्रे शड्क्वन्तरं स्थापयित्वा तच्छा-
+यायास्तद्रेाप्रवेशकालं प्रतिदिनं उपलक्षयेत्‌ । एवं भगणद्वित्रिभोगकालं
+यावत्‌ पश्येत्‌ । wages: शास्त्रप्रतिपादितदेशेषु दृष्टश्चेत्‌ गणितं
+सम्यगिति ज्ञेयम्‌ | मध्यप्रवेशकालश्च शास्तरोक्तसमश्चेत्‌ तेनापि गणित-
+शुद्धिः । एवं दक्षिणोत्तरमध्यच्छायापरशून्यतावेशादपि गणितस्म्यक्त्वं
+ज्ञेयम्‌ | एवं अकंदक्साधनम्‌ |
+
+एवं द्‌ क्समेनाकंण शशिसंयोगं शास्त्रीयगणितसिद्धं ग्रहणगत-
+दृक्साम्येन दृष्टं चेत्‌ चन्द्रोऽपि eRe: | तेनेन्दुना गणितसिद्धसमागमो
+
+भौमादीनां दुक्समश्चैत्‌ तेऽपि स्फुटाः |
+(557ए०वे८ए७ Yajvan, Com. on ABh., 4. 48)
+
+Verification of computed planets
+
+In an open spot construct a perfectly circular platform
+of desired radius in argulas, raised to the height of the
+eye, with the east-west and north-south lines drawn
+through the centre and 21,600 equal divisions (of
+seconds) marked on its circumference. Then, at
+sunrise and sunset, stand (in turn) at the west and east
+sides of the platform and observe the half-risen and
+half-set Sun, respectively, and mark their positions on
+the circumference as indicated by the gnomon (fixed at
+the centre of the circle).

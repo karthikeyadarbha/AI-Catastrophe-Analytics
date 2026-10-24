@@ -1,0 +1,118 @@
+145 13.
+
+the planet’s (true) sighra epicycle and divide (each
+product) by 80: the results are the bahuphala and
+kotiphala. (14cd)
+
+The kotiphala should be subtracted from 300 or added
+to 300, according as the planet is in the second and third
+(Sighra anomalistic) quadrants or in the first and fourth
+(Sighra anomalistic) quadrants. Add the square of that
+(difference or sum) to the square of the bahuphala, and
+take the square root (of the resulting sum): this (square
+root) is known as the (planet’s) hypotenuse. (15)
+
+Multiply the bahuphala by 300 and divide by the
+(planet’s) hypotenuse : and obtain the arc corresponding
+to the resulting R sine. (Apply half of the minutes in
+this arc to the corrected mean longitude of the planet,
+positively or negatively, according as the planet is in the
+half orbit beginning with the Sighra anomalistic Sign
+Aries or in that beginning with the fighra anomalistic
+sign Libra). (16)
+
+From that subtract the longitude of the planet’s
+apogee, and then obtain the mandoccaphala, (1.€., the
+bahuphala due to the planet’s apogee), as before, and
+apply the whole of it to the original (uncorrected) mean
+longitude of the planet, depending upon the planet’s
+hemisphere (i.e., negatively or positively, according as
+the planet is in the half orbit beginning with the anoma-
+listic Sign Aries or in that beginning with the anomalistic
+Sign Libra). When the above-mentioned three correc-
+tions have been applied to the planet, it is called the
+‘true-mean planet’. (17)
+
+Subtract the true-mean longitude of the planet from
+the longitude of its own sighrocca: this is the true Sighra
+anomaly. From this (true séghra anomaly) calculate,
+as before, the bahuphala and the kofiphala. Also find the
+hypotenuse by using the method stated above. Then
+obtaining the karnaphala, apply (the whole of) it (to the
+true-mean longitude of the planet) positively or nega-
+tively, according as the planet is in the northern or
+southern hemisphere (i.e., in the half orbit beginning
+with the fighra anomalistic Sign Aries or in that begin-
+ning with the sighra anomalistic Sign Libra). This is
+how the true longitudes of all the planets, Mars etc.,
+
+are obtained.t (18-19). (KSS)
+--वाक्यकरणम्‌
+18. 11. 6. इष्टं दिनं स्वस्वशोध्यहीनं स्वैमेण्डलैह तम्‌ ।
+
+वाक्यं शिष्टात्तदावृत्तौ वाक्योक्तदिवसैः क्रमात्‌ ।। १।।
+
+ज्ञेयं तच्िष्टदिवसगतिलिप्तासमन्वितम्‌ |
+वक्रे हीनं, ग्रहः स्पष्टः, कलादिध्रूवसंस्कृतः ।। २ ॥
+
+PLANETS
+
+1 For the rationale, see KR: KSS, pp. 91-92.
+12
+
+13. 11. 6
+
+कलात्मक Tae ्रुवान्तं नाडिकादिकम्‌ |
+शोध्य, व्यन्त्यं मण्डलं चान्त्याप्तमाव्तेनं गतम्‌ ॥। ३ ।।
+
+'वनाक्षरं तु शुक्रस्य चतुर्थ मण्डल शुवम्‌ |
+संस्कार ध्रुवयो रन्त्यवर्णो हस्वों यदि क्षय: ॥ ४ ॥
+
+मण्डलानां ध्रुवं तत्तन्मण्डलाप्तफलाहतम्‌ |
+तच्छोध्यध्रुवयोभेदे विश्लेषस्त्वन्यथा युतिः ।। ५ ॥
+अधिकस्य वशाच्छेषं स्वमृणं वा ध्रुवं भवेत्‌ ।
+बुधादीनां वर्ण एको वाक्यान्ते संस्कृतिरभवेत्‌ ।। ६ ॥
+
+कुजस्य द्रौ भुगोस्त्वेतौ धनणेध्रुवयोः कमात्‌ |
+ada संख्याभिहिता at: कटपयादिभिः । ७ tt
+भृगोः संस्कारवणस्तु ठा'दिश्चेदधेवर्जित: |
+संस्कारवणगुणिता धुवांशाद्याः कलादयः || ८ ॥
+भ्रुवसंस्कारयोः साम्ये योज्या वाक्येऽन्यथान्यथा ।
+एवं तु संस्कृतं वाक्यं स्पुटमते प्रकीतितम्‌ ।। ६ ॥
+निरन्तरद्विवाक्योत्थस्फुटविश्लेषलिप्तिकाः ।
+दिनान्तरहूता भुकति,वैक्रा पूर्वेऽधिके तयोः 11.१० ॥।
+आद्यवाक्यं विमन्दोच्चं हृतं तदिवसैगेतिः ।
+ग्रहस्तवरेष्टदिवसगतिमेन्दोच्चसंयुता ।। ११ ॥।
+
+ग्रहमन्दोच्चाः
+जायादूय' ‘avers’ नदेय' निर्धनं! ।
+‘gyi’ मन्दोच्चलवाः कूजादितः । ११०७ ॥।
+(VK. 2.1-11A)
+
+True planets—Vakyakarana
+
+From the Kali day for which the planet is desired,
+deduct the respective sodhya given in the tables. Divide
+the remainder by the respective mandalas (any mandala
+or mandalas may be used, and any number of times) and
+note the quotients. Divide the remainder by the
+respective synodic cycle of days. The quotients are the
+cycles gone, and the remainder, the days in the next
+cycle. (i) Find the total dkruva in the manner to be
+given. (ii) Using the mmemonics of that cycle,
+corrected in the manner to be given, take values for the
+maximum number of days that can be done. (ii) Find
+the motion for the remaining days by interpolation.
+Add (i), (ii) and (iii), (iii being deductive if the motion
+is found to be retrograde.) The (unreduced) True
+planet is got. (1-2)
+
+In each mnemonic line belonging to the tables giving
+the fodhya and mandalas, the last three letters give the
+dhruva in minutes, and the others, first the nddtkds and
+then the days. In the case of Venus, and that too in the
+4th mandala alone the last 4 letters give the dhruva. If the
+very last vowel is short, the dhruva is negative, otherwise
+positive. The same criterion of positive and negative
+applies to the correction-letter occurring in the mnemo-
+nics in the cycle-tables. In the sédhya etc. tables, the

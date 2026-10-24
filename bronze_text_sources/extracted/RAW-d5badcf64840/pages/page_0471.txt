@@ -1,0 +1,52 @@
+                             ñÍ
+424                      Zxa;ç Å
+                             *:+.ea;a;a;ta;pra;k+.=+Na;m,a                Elevation of lunar horns
+
+                                                         I1 K1   I1 K1
+                                        tan φ =                =       .                   (8.69)
+                                                         I1 G1   cos z
+Hence,
+                              I1 K1 = śaṅkvagrā = cosz tan φ .                          (8.70)
+When the planet is at G1 , arkāgrā = J1 K1 . We now summarize the relation between
+the chāyābhujā, arkāgrā and śaṅkvagrā.
+
+Case i: Chāyābhujā north, δ north (planet at G1 )
+   In this case,
+
+                                 I1 J1 = J1 K1 − I1K1
+                        chāyābhujā = arkāgrā −śaṅkvagrā.                           (8.71)
+
+Case ii: Chāyābhujā south, δ north (planet at G2 )
+   In this case,
+
+                                 I2 J2 = I2 K2 − J2K2
+                        chāyābhujā = śaṅkvagrā − arkāgrā.                          (8.72)
+
+Further, I2 ÔJ2 = a = A − 90◦.
+
+Case iii: Chāyābhujā south, δ south (planet at G3 )
+
+
+
+                                        I3 J3 = I3 K3 + J3K3
+                        chāyābhujā = śaṅkvagrā + arkāgrā.                          (8.73)
+
+In this case also, I3 ÔJ3 = a = A − 90◦. It is clear that the point I will be north of
+the udaya-sūtra (that is, the śaṅkvagrā is north) only when the planet is below the
+horizon. This is because, the equator and the diurnal circle tilt away from N above
+the horizon, and towards N below the horizon.
+
+
+Calculation of the dr
+                    . kkarn
+                          .a
+
+The term dr.kkarn.a here refers to the distance of the Sun from the observer. This
+can be found from the dvitı̄ya-sphut.a-karn.a, Kd , the distance of the Sun from the
+centre of the Earth, and the zenith distance, zs . In Fig. 8.8, O is the observer and C the
+centre of the Earth, whose radius is Re . S is the Sun below the horizon whose zenith
+distance is zs > 90◦ . Let ds be the dr.kkarn.a of the Sun. The dvitı̄ya-sphut. a-karn.a
+Kd = CS. Hence MC = |Re cos zs |. Considering the triangle OSM,
+
+                        ds2 = OS2
+

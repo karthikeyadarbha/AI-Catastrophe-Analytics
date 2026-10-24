@@ -1,0 +1,58 @@
+6.4 Declination of the Moon by another method                                                                365
+
+where η is the angle of separation between the Moon and the point of intersection
+of its orbit with the equator, along the orbit of the Moon. In the following we pro-
+vide the rationale behind (6.20), (6.21) and (6.22) with the help of Figs 6.3a, 6.3b
+and 6.3c.
+
+
+Derivation of the expression for the parākrānti
+
+While the Yuktibhās.ā derivation of the expression for the parākrānti is given in
+Appendix E, here we derive the same using modern spherical trigonometry.
+
+                                             ε             P
+                                   K
+                                                         90 − λ n
+
+                                                                                           Y
+                                                                                               x
+                                                                               ξ
+                                                                                       B       D
+
+                                                                       Z       A
+                                                                                   i                   ε
+                                                                                           ρ
+                                                                           N
+
+                      equat                                                                        C
+                           or
+                                                     Γ             ε       I
+                                                               I       Q
+                      ecliptic
+
+                                                 t
+                                          orbi            E
+                                    n’s
+                                 Moo
+
+Fig. 6.3a Determination of the parā-krānti, the greatest declination that can be attained by the
+Moon at a given point in time.
+
+
+   In Fig. 6.3a, P is the celestial pole, K the pole of the ecliptic, Γ the vernal equinox
+and N the node of the Moon’s orbit. Let I be the inclination of the Moon’s orbit to
+the equator. Draw a great circle arc Γ E which is perpendicular to the Moon’s orbit
+at E. Considering the triangle Γ EN and applying the sine formula, we have
+
+                                          sin Γ E = sin i sin λn .                                         (6.23)
+
+Here λn = Γ K̂N is the sāyana longitude of the node. Similarly, applying the sine
+formula to the triangle Γ EQ, we have
+
+                                        sin Γ E = sin I sin Γ Q,                                           (6.24)
+
+Hence
+                                       sin I sin Γ Q = sin i sin λn ,                                      (6.25)
+where I is the angle of inclination of the Moon’s orbit with respect to the equator.
+

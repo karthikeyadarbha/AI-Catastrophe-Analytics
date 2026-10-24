@@ -1,0 +1,50 @@
+` INTRODUCTION
+
+The length and the diameter of the Earth’s shadow, of necessity,
+were to be determined and the Indian astronomers had developed
+equations for finding them.
+
+The Indian astronomers attached great importance not only. to
+the detailed calculations concerning the occurrence and the duration
+of the solar and lunar eclipses but also to observe them carefully.
+For instance, Paramegvara has observed and recorded the lunar and
+solar eclipses that occurred during nearly fifty years. (See pp. 13- 15).
+The rites and rituals to be performed during the eclipses, were, how-
+ever, in the realm of the religious texts. Theinscriptional records of
+the eclipses generally mention religious acts, including gifts made by
+rulers and chieftains, following the religious commandments. (See
+below, pp. 239-40). These records, however, have not been studied in
+detail from the astronomical point of view.
+
+Trigonometrical aspects
+
+The Indian astronomers-cum-mathematicians have adopted the
+half-chord (jyardha, terming it generaly 35 94), unlike the Greco-
+Roman astronomers who used the full chord and used certain assumed
+units for the radius, computing the half-chords and the arcs in the same
+units. Thus the Indian half-chords or 196 are R sines. Aryabhata
+I has taken the circumference to be 21,600 units, and the radius
+becomes equal to 3438 units. While this system has been followed
+by many astronomers, others have adopted some different units. For
+example, Varahamihira has adopted 120 units. The half-chord
+values in the former case are 3438’ sin @ and those in the case of the
+latter are 120’ sin 0. (See below, p. 71). In general, the R sines are
+tabulated for intervals of 3° 45’, i.e. twentyfour of them for a quadrant
+(90°) and the methods or the rules for R sin 6, R versine ® etc, are given.
+Such trignometrical computations are required for computing the
+equation of the centre as well as the equation of conjunction, by way
+of solutions of plane and spherical triangles with a view to determining
+the right ascensions, declination, polar latitude, longitudes of planets,
+length of day light, azimuth, zenith distance etc.
+
+Instruments
+
+Indian astronomers, realising the importance of observation,
+had developed several types of instruments for measuring time and for
+astronomical observations. These included different types of gnomon,
+spherical and circular instruments, water instruments etc. Some of
+the instruments, like the Phalaka and the Yasti, were noted for their
+versatility and ingenuity. (See below, sections 9 and 10 on Obser-
+vatories and Instruments, pp. 81-99).
+
+XXXVIi

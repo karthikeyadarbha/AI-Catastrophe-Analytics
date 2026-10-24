@@ -1,0 +1,55 @@
+94                            å
+                            .~.Pu+.f;pra;k+.=+Na;m,a                    True longitudes of planets
+
+given by
+                                                  Ai = li + i.                            (2.108)
+In Table 2.2, the jyā values are listed corresponding to the integral values of the
+difference between the jyā and the arc length, as given in Laghu-vivr.ti. These are
+
+                     Difference       Given         Textual       Computed
+                    D = cāpa–jyā value of jyā value of cāpa value of cāpa
+                     in seconds min sec min              sec    min     sec
+                          1        105 43 105            44     105 43.56
+                          2        133 11 133            13     133 12.42
+                          3        152 26 152            29     152 29.04
+                          4        167 46 167            50     167 49.80
+                          5        180 43 180            48     180 47.34
+                          6        192 02 192            08     192 07.02
+                          7        202 08 202            15     202 14.82
+                          8        211 20 211            28     211 27.12
+                          9        219 47 219            56     219 55.14
+                         10        227 38 227            48     227 46.80
+                         11        234 58 235            09     235 07.98
+                         12        241 52 242            04     242 03.18
+                         13        248 24 248            37     248 35.88
+                         14        254 36 254            50     254 48.90
+                         15        260 31 260            46     260 44.58
+                         16        266 10 266            26     266 24.78
+                         17        271 36 271            53     271 51.12
+                         18        276 48 277            06     277 04.86
+                         19        281 50 282            09     282 07.20
+                         20        286 40 286            60     286 59.10
+                         21        291 22 291            43     291 41.46
+                         22        295 55 296            17     296 14.94
+                         23        300 18 300            41     300 40.26
+                         24        304 36 304            60     304 58.02
+
+
+Table 2.2 Look-up table from which the values of arc lengths of small jyās can be directly written
+down without performing any iteration, when the difference between the jyā and the cāpa is equal
+to integral number of seconds.
+
+
+
+the li s, i = 1 . . . 24 in (2.107), which are listed in the second column. The third
+column gives the sum of columns 1 and 2. The fourth column gives the values of the
+arc length as computed by us using (2.108), which in turn involves the computation
+of the cube root of (2.107), for different values of i (i = 1 . . . 24). In doing so, we
+have also used the exact value of the trijyā (in minutes), that is, R = 21600
+                                                                           2π . Given the
+fact that some approximation in the trijyā value and the extraction of the cube root
+is involved in the computation of arc length, it is remarkable that the value given in
+the text differs at the most by 2′′ from the exactly computed value of the arc length.
+The idea behind listing these 24 jyā values is to avoid the iterative process outlined
+earlier, when the jyā value is small.
+

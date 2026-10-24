@@ -1,0 +1,41 @@
+Hindu Zodiac and Ancient Astronomy
+
+Caksusa Epoch: 8 October 2422 BC, Full moon at 1302 IST, Tuesday, JD:
+837067.813646
+
+Planet Longitudes
+Tropical | Sidereal | Naksatra
+Sun 17531’ | 21206 | Visakha
+
+| Moon | 35640 | 315 Krttika
+
+Mars 22345: | 260°20’ | P.Asadha
+Mercury | 19649 | 23323 | Jyestha
+Jupiter | 114°38 | 15113 | U.Phalguni
+Venus | 15221 | 18856 | Svati (Nistya)
+Saturn | 32146 | 35821 | Revatt
+Rahu 30329 | 340°04’ | U.Bhadra
+
+These positions are in remarkable agreement with the verses cited above. It must be
+noted that even the position of Rahu (stated as in Revati but actually it is in U.Bhadra)
+could be ascertained in 2422 BC with considerable accuracy. The position of Venus is not
+that clear from the verse and we may take it as Nistya the synonym of Svati instead of
+Tisya. Another remarkable aspect is that moon had a northern latitude of 04°06’ and rose
+on that day in rapt conjunction with Kritika (Alcyone: 35°24’, Latitude:04°03’) at 18:19 IST
+on 30° N with the longitude of 35°54’ and latitude 04°14’. It is therefore apparent that the
+rising moon had occulted Alcyone (n-Tauri) and the epochal observation was recorded
+meticulously along with the positions of other planets. ।
+
+Visibility of the occultation in North India - New Delhi
+
+Visibility of the occultation to an observer depends on the relative positions of the Moon’s
+shadow cast by the starlight onto the Earth and the observer. As the computation of the
+actual circumstances of an occultation is (20010८5 planetarium software was used to
+ascertain the visibility. The relevant astronomical details are:
+
+Epoch: 8 October 2422 BC. Moonrise: 1756 LMT.
+
+Right Ascension of moon: 2315039 ; Declination: 02०4448".
+Azimuth: 86°24’38” ; Altitude: - 00°13'27”.
+Longitude: 358°26' ; Latitude:+ 04°11’.
+330

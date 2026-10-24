@@ -1,0 +1,53 @@
+338                            .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                         Solar eclipse
+
+  Let λm be the sāyana (tropical) longitude of the Moon and λl that of the lagna.
+Using them, an intermediate quantity (x) is defined, which in turn is used to define
+another quantity, the bān.a:
+
+                                 x = R ± |R sin(λl − λm)|,                                   (5.87)
+
+where the sign should be ‘+’ when λl − λm > 180 and ‘−’ otherwise. In other
+words, x = R − R sin(λl − λm ). In the measure of radians, x may be written as x =
+1 − sin(λl − λm ). Now, the bān.a is defined as
+
+                                                     x × R cos βt
+                                     bān.a =                     .                          (5.88)
+                                                          R
+Using this bān.a, the śaṅku of the Moon (R cos zm ) is given by
+
+                                         bān.a × dr.kks.epakot.i
+                śaṅku = paraśaṅku −                                                      (5.89)
+                                                 trijyā
+                                     bān.a × R coszv
+               R cos zm = R cos nm −
+                                              R
+                        = R cos nm − x × cos βt × coszv
+                        = R cos nm − R[1 − sin(λl − λm )]cos βt × coszv .                    (5.90)
+
+We now prove the result from spherical trigonometry.
+
+
+Proof:
+
+From (5.85),
+
+                                            cos nm = cos(zv − βt )
+                                             = cos zv cos βt + sin zv sin βt
+               or      cos nm − coszv cos βt = sin zv sin βt .                               (5.91)
+
+Considering the spherical triangle ZAM in Fig. 5.16(a), and applying the cosine
+formula we have,
+
+                      cos ZM = cos ZA cos βt − sin ZA sin βt cos θ ,                         (5.92)
+
+where θ is the angle between the vertical and the secondary to the ecliptic at A. The
+same cosine formula applied to the triangle ZAV yields
+
+                    cos ZA = cos AV cos ZV                        (since ZV̂ A = 90).        (5.93)
+
+Applying the sine formula to the same triangle,
+
+                                        sin ZV     sin ZA
+                                                 =        .                                  (5.94)
+                                       sin Z ÂV   sin 90
+

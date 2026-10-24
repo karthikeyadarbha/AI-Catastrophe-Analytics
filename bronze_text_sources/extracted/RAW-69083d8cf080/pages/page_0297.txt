@@ -1,0 +1,62 @@
+1. TECHNICAL TERMS: SKT.-ENGLISH 243
+
+लम्बननाडिका, (d.w.)
+लम्बनयोजना, (d.w.)
+
+लाटः,
+
+लिप्ता, कला, इलिः, शा.1
+लिप्ताव्यासः, (१.५.)
+वक्रम्‌, X11
+
+वक्रगतिः, (d.w.)
+
+वर्गः, 1.3; 1.8,
+
+वर्गकषत्रम्‌, 1.8.1, ii
+
+वर्गमूलम्‌, 1.9
+
+वर्गवर्ग:, ५.7
+वर्गवर्गसंकलितम्‌ V1.4
+
+वर्गसिकलितम्‌, “1.4; 5.71
+
+वर्गस्थानं, 1.9; शा.6,7
+
+वलनम्‌, XI.6, 7
+वलनद्यसंयोगः, शा.8
+
+वल्लयुपसंहार:, ४.4
+
+Parallax in longitude in terms of nadikds.
+Parallax in terms of yojanas.
+
+A type of Vyatipata, which occurs when Sun
+plus Moon is equal to 180 degrees.
+
+Minute of arc.
+
+Angular diameter in minutes.
+Retrograde motion of a planet.
+Retrograde motion of a planet.
+Square of a number.
+
+Square area, place or space.
+Square root.
+
+Square of squares.
+
+Summation of a series of squares of squares.
+
+Sum of a Series of squares of natural
+
+numbers.
+
+The odd place, counting from the unit's
+
+place.
+Deflection of a planet due to aksa or ayana.
+Sum of aksa and ayana valanas.
+
+A particular kind of operation in Kuttakara.

@@ -1,0 +1,41 @@
+जार GANITA-YUKTIBHASA
+
+complements). Out of these five, if any three are known the problem is to
+find the other two. There will be ten cases to be solved. All these cases are
+taken up and the solutions are derived methodically on the basis of the
+properties of spherical triangles.
+
+This subject is dealt with in Tantrasangraha also, as it should be, and,
+based on this, R.C. Gupta has presented a detailed paper.2> He has however,
+remarked that the rationales of the rules are not given in the work
+(Tantrasangraha) and his paper verifies the rules by the modern formulae.
+However, the rationales are fully documented here in Yuktibhadsa. Essentially
+they involve the application of several declination type formulae to solve a
+particular problem. In fact the rationales are also given in the longer
+commentary on Tantrasangraha, Yuktidipika. After all, Yuktibhdsad and
+Yuktidipika have the same origin.
+
+Lagna and Kalalagna are treated in continuation. The equator cuts the
+horizon of any place at two fixed points, east and west. The ecliptic also cuts
+the horizon at two points but since the position of the ecliptic varies every
+moment these points also vary moment to moment oscillating on either side of
+the east and west points. These two points at east and west are called
+Udayalagna and Astalagna or the rising and setting points of the ecliptic. The
+distance from the First point of Aries to the east point and Udayalagna are
+called the Kdlalagna and Lagna, respectively. This chapter deals with the
+method of calculating these two longitudes. Arriving at the lagna is a
+standard problem in all texts. The procedure followed generally is to find the
+rising times of the twelve signs for the local place and, from the longitude of
+the sun, obtain by interpolation the longitude of the rising point or lagna for
+the desired time. This is bound to be approximate. However, in Yuktibhasa a
+direct method is adopted. First the zenith distance of nonagesimal (Drkksepa)
+is obtained and from that the lagna is arrived at. This method again owes its
+origin to Tantrasangraha.
+
+Chapter XII deals with Eclipses and parallax correction. In the treatment
+of the circumstances of an eclipse there is not much to comment. However,
+we deal with two matters, one the second correction for the moon and the
+other the effect of parallax in longitude and latitude. The second correction
+for the moon which takes the place of the modern Evection plus the deficit in
+the equation of centre of the moon was known in India at least from the 10
+century. There is a detailed paper by K.S. Shukla on this subject®© wherein he

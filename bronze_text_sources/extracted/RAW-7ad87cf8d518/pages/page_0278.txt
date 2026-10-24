@@ -1,0 +1,125 @@
+16. 31. 1
+
+अवनतिः । .
+दशभक्ता तज्जीवा रविशशिनोर्भुक्तिविवरसंगुणिता |
+हृत्वा विद्येषुक्ृतै लैब्धाउवनति: सुसूक्ष्मतरा ।। ७ ।।
+
+विक्षेपस्यावनतेः प्रयुतिवियुतिः समान्यदिशोः |
+एवं स्फुटविक्षेपो दुक्क्षेपज्यां विनाऽपि धिया ॥ ८ it
+
+सम्पकरधिकलायास्तुल्यायां वाऽथवाऽधिकायां वा ।
+स्फुटविक्षेपावनतौ शशिमण्डलं रवेन रुणद्धि ।। ६ ॥
+
+स्थित्यधेस्य शरांश स्पशं लम्बनविशुद्धचन्द्रमसि |
+हित्वा दत्वा मोक्षे शशिविक्षेपस्ततः कार्य: ।। १०॥।
+
+समदिशि वलनचरितयं संयोज्यं भिन्नदिशि तु विश्लेष्यम्‌ ।
+ग्राहक इन्दुग्रहणे. राहुः, सूर्यग्रहे चन्द्र: ।। ११ ॥।
+प्र्रहणमोक्षकालिकविक्षेपादानयेद्वलनान्‌ ।
+युतबिम्बार्ध-प्रग्रहमोक्षस्थित्यधेलिप्तिकाविवरम्‌ ।। १२ ॥।
+
+aited च साग्रं निजविक्षेपस्य कृतिसहितम्‌ |
+
+मूलं ग्राह्यतनुष्नं ग्राह्यग्राहकसमेतवबिम्बहूतम्‌ ।। १३ ॥
+विक्षेपवलनमेतद्विक्षेपसमा दिगस्य स्यात्‌ |
+व्रिभवनरहिताच्चन्द्रात्‌ प्रग्रहणे तैः समन्वितान्मौक्षे ।। १४।।
+बाहुज्यां कृतवेदैहुत्वाऽऽगतमयनवलनं स्यात्‌ |
+कालविनाड्यो चुदलच्िभागभक्तास्तु राशयो ज्ञेयाः ।।१५
+
+राशित्रितयं हित्वा स्पशं मोक्षे च दत्वा दिक्‌ ।
+तद्बाहुज्यां विषुवच्छायोत्थविनाडिकागुणां कृत्वा ।।१६।।
+“रसकृतमुनिगगनेन्दु'भिराप्तं स्यादक्षवलनं तत्‌ |
+लम्बनान्तरसंयुक्ते स्थित्यर्धे विनिदिशेत्‌ स्फुटे ।। १७ ॥
+
+युतबिम्बाधंविक्षेप विश्लेषो ग्रास उच्यते |
+पक्षाग्नि'गुणितो ग्राह्यविम्बभक्तः स्फुटः स्मृतः GSU
+aa: सप्तभिरष्टमं द्विकु लवैभगिं चतुर्थ वदेद्‌
+‘aaa’ eg तृतीय मद्भशशिभि eared गृहीतं रवेः ।
+सर्वं लोकयमै स्त्रिभागरहितं पादोन मज्जभाश्विभि-
+हीनं स्वाष्टमभागतो नवयमै'रिन्दो: तथैकान्वितम्‌ ।।
+(Deva: KR. 3.1-19)
+Karanaratna
+The iterated lambana
+The nddis lying between midday and the end of the
+new moon tithi (parva) are the padas of the iterated
+lambana. When they exceed 15, they are subtracted
+from 30. (1)
+
+(The vinddis of the iterated lambana for 1,2,..., 15
+padas are): 14, 28, 40, 50; 59, 66, 71, 75, 78, 79, 80, 80,
+80, 80, and 80—each multiplied by 3. 2).
+
+Application of Iterated lambana
+
+In the eastern hemisphere (i.e., in the forenoon),
+the parva (i.e., the time of geocentric conjunction of the
+Sun and Moon) should be diminished by the. (vinddis
+of the iterated) lambana and in the western hemisphere
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 234
+
+(i.e., in the afternoon), the parva should be increased by
+the (vinddis of the iterated) lambana. (Thus is obtained
+the time of apparent conjunction of the Sun and
+the Moon).
+
+The longitude of the Moon (for the time of conjunction
+should be diminished or increased in the same way by
+
+` 1/5 of that (lambana in ghatis). From the resulting
+
+longitude (of the Moon) should be calculated the Moon’s
+latitude. (3)
+
+Local latitude
+
+। Divide the equinoctial midday shadow (of the
+gnomon), in terms of vyangulas, by 70 (1+1/3); the
+quotient gives the (local) latitude in terms of nddis. It
+is always south. (4)
+
+Meridian ecliptic point
+
+The time (in ghafis) between midday and the parva (i.e.,
+the time of conjunction of the Sun and the Moon) should.
+be converted into degrees by multiplying it by 6. These
+degrees should be subtracted from the longitude of the
+Sun for the.time of conjunction (if the Sun is) in the
+eastern hemisphere and added to that (if the Sun is) in
+the western hemisphere. The result is (the longitude
+of) the meridian ecliptic point. (5)
+
+Zenith distance of meridian ecliptic point
+
+Diminish the R sine of the longitude of the meridian
+ecliptic point by one-fifth of itself: (the result is the
+declination of the meridian ecliptic point, in terms of
+vinddis.) Take the sum or difference of this (declina-
+tion) and the (local latitude in) vinddis (already obtained
+in vs. 4), according as they are of like or unlike direc-
+tions: (the result is the zenith distance of the meridian
+ecliptic point in terms of vinddis). Its direction is that
+of the greater of the two. (6)
+
+Parallax in latitude
+
+Divide the result (obtained last) by 10, and then find
+the R sine of the quotient. Multiply the R sine obtained
+by the motion-difference of the Sun and Moon and
+divide by 4518; the quotient is the more accurate value
+of the avanti. (7)
+
+Moon’s true latitude
+
+Take the sum or difference of the Moon’s latitude and
+avanati, according as they are of like or unlike directions.
+This is how the Moon’s true latitude is obtained without
+using the drkksepajya, by the application of intellect. (8)
+
+Impossibility of a solar eclipse
+
+When the Moon’s true latitude equals or exceeds
+half the sum of (the diameters of) the eclipsed and
+eclipsing bodies, the Moon’s disc does not hide the
+
+Sun’s disc. (9)

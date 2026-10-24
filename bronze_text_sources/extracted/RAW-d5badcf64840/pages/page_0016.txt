@@ -1,0 +1,49 @@
+Contents Xv
+
+3.21 True longitude of the Sun from the samaganku................ 192
+3.22 Hypotenuse of the shadow from samaganku .................. 193
+3.23 Hypotenuse by a different method......................0..00.. 194
+3.24 Gataisyaprana from samamandala-ganku ............... 195
+3.25 Hour angle from the samamandala-ganku .................. 197
+3.26 Hour angle by another पारल1९त्‌ . . . . .--..---------------------- 198
+3.27 Ksitijya from the samamandala-ganku , - - - --------------- 199
+3.28 The ten problems............ 0... ce cee eee ee eee ee 200
+3.29 Determination of ट धात्‌ H from 6, व 010 क... .....-- +... 202
+3.30 Determination of ट and 6 from क्र, व धात्‌ 6 ..................... 212
+3.31 Determination of ट anda from H, 6 धात्‌ क . ...............------ 216
+3.32 Determination of ट and @ from H, 6 भाव. .................... 217
+3.33 Determination of H and 6 1ण5, 4 का0 $ . ................----- 221
+3.34 Determination of H anda fromz, 6 00 6 . ...............------ 221
+3.35 Determination of H and ¢ from ट, 6 शात 6 . . .. ................- 223
+3.36 Determination of 6 anda from z,H धात्‌ 6 . .................---- 225
+3.37 Determination of 6 and @ and a and @ from the rest.............. 227
+3.38 Shadow along any direction .............. 0.00. cece ee ee eee eee 228
+3.39 Shadow when the amplitude is 45 degrees . . . . . ७. ७७७७७ ७०-७७०---७०७- 232
+3.40 Obtaining the orient ecliptic छुणा[ . . . . ७. ७ ७.७७" ----------- 237
+3.41 Inaccuracy in determining the praglagna . ...................: 240
+3.42 Determination of the kalalagna ......................------ 240
+3.43 Zenith distance of the vitribhalagna..................0 00 eee 242
+3.44 Exact udayaand asta-lagnas . . . . . . ...........--७७--------- 245
+3.45 Determination of the madhyalagna ....................---- 248
+3.46 Determining the madhyalagna without iteration............... 252
+
+4 यन्द्रग्रहणप्रकरणम्‌
+
+Lumar eclipse ...... +++. 255
+4.1 Time of conjunction of the Moon and the Earth’s shadow ......... 255
+4.2 Exact moment of conjunction by iteration ...................... 258
+4.3 Radii of the orbits of the Sun and the Moon..................... 260
+4.4 Radii of the Sun, Moon and the Earth in yojanas............... 260
+4.5 Actual distances of the Sun and the Moon in yojanas ........... 261
+4.6 Second approximation to the radii of the orbits .................. 262
+4.7 Angular diameters of the Sun and the Moon .................... 265
+4.8 Length of the Earth’s shadow............. 0.0... ------- 266
+4.9 Angular diameter of the Earth’s shadow in minutes .............. 267
+4.10 Moon’s latitude and true daily motion ......................00. 268
+4.11 The occurrence and non-occurrence of an eclipse ............... 270
+4.12 The condition for the occurrence of a total eclipse ............... 271
+4.13 The time of half-duration, the first and the last contact............ 272
+4.14 Iteration for obtaining the half duration ............------------ 274
+4.15 The time of the first and the last contact.....................00, 275
+
+4.16 The visibility of the first and the last contact .................... 280

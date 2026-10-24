@@ -1,0 +1,76 @@
+2.4 Another method for obtaining the Rsines                                                                                    63
+
+          ∆ i − ∆i+1 = R [2 sin iα − cos(24α − (i + 1)α ) + cos(24α + (i − 1)α )]
+                     = R [2 sin iα − cos(23 − i)α − cos(23 + i)α ]
+                     = R [2 sin iα − 2 sin23α sin iα ]
+                       2(R − R sin23α )
+                     =                    R sin iα ,                              (2.38)
+                                 R
+which is the recursion relation (2.34) for the khan.d.ajyās given in the text.
+    Commenting on the first line of the tenth verse, evam . sāvayavā jı̄vāh. samyaṅ-
+nı̄tvā pat.het kramāt, Śaṅkara Vāriyar describes the accurate values of the 24
+Rsines—which he attributes to Mādhava—in the following verses:
+
+   (rea;M na;a;ma va;a:=++a;na;Ma ;a;h;ma;a;a;dÒ+veRa;d;Ba;a;va;naH Á
+
+   ta;pa;na;ea Ba;a;nua;sUa;+.:℄a;ea ma;Dya;mMa ;a;va;a:;d
+                                                          Äâ d;ea;h;na;m,a Á Á 1                  ÁÁ
+
+   ;a;Da;ga;a:$ya;ea na;a;Za;nMa k+:M C+.a;Ba;ea;ga;a;Za;ya;a; ////
+                                                                a;}ba;k+:a Á
+
+   mxa;ga;a;h;a:=+ea na:=e+Za;ea Y;yMa va;a:=+ea .=+Na:ja;ya;ea;tsua;k H Á Á 2              ÁÁ
+
+   mUa;lM ;a;va;Zua:;d
+                     ÄâM na;a;l+.~ya ga;a;nea;Sua ;a;va:=+l+.a na:=+aH Á
+                                               ñÍ
+   A;Zua;a:;d
+            Äâ ;gua;a;a . a;ea:=+(ra;aH   Za;öÅu*:+.k+:Na;eRa na;gea:(õ;a:=H Á Á 3   ÁÁ
+
+
+   ta;nua:ja;ea ga;BRa:ja;ea ;Æa;ma:Ma (ra;a;ma;a;na:a .sua;Ka;a .sa;Kea Á
+
+   Za;Za;a .=+a:a;Ea ;a;h;ma;a;h;a:=+ea :vea;ga::℄aH     :pa;a;Ta ;Æa;sa;nDua:=H Á Á 4                    ÁÁ
+
+   C+.a;ya;a;l+.ya;ea ga:ja;ea na;a;l+.ea ;a;na;mRa;l+.ea na;a;a;~ta
+                                                                  ///// .sa;tk
+                                                                              u +:le Á
+                                ñÍ                ñÍ
+   .=+a:a;Ea d;pRa;Na;ma;Bra;a;ç
+                                *:MÅ na;a;ga;~tua;ç Å
+                                                  *:+.na;Ka;ea va;l+.a       ÁÁ 5      ÁÁ
+
+   ;Da;a:=+ea yua;va;a k+:Ta;a;l+.ea;lH       :pUa:$ya;ea na;a:=+a:ja;nEa;BRa;gaH Á
+
+   k+:nya;a;ga;a:=e na;a;ga;va; +:a :de;va;ea ;a;va:(õ;a;~Ta;l+.a Bxa;guaH Á Á 6                    ÁÁ
+
+   ta;tpa:=+a;a;d;k+:l+.a;nta;a;~tua ma;h;a:$ya;a ma;a;Da;va;ea;a;d;ta;aH Á
+
+   .~va;~va;pUa;vRa;a;va;Zua:;d
+                              Äâe tua ;a;Za;;a;~ta;tKa;Nq+.ma;Ea;a;vRa;k+:aH Á Á 7                         Á Á I+.a;ta   ÁÁ
+
+
+
+    Here the values of the 24 Rsines are given up to the thirds in the Kat.apayādi no-
+tation. For instance, consider the first Rsine given by ‘śres..tham                     . ’.
+                                                                   . nāma varis..thānām
+The three words here stand for 22, 50 and 224 respectively. Hence the value of the
+first Rsine is: 224′ 50′′ 22′′′ . The values of the other Rsines are deciphered in a sim-
+ilar manner. These have been arrived at by considering terms up to θ 11 in the series
+expansion of sin θ which was also derived by Mādhava:
+
+                                                             θ 3 θ 5 θ 7 θ 9 θ 11
+                                  sin θ = θ −                   +    −    +   −    + . . ..
+                                                             3!   5!   7!   9! 11!
+
+
+Table of jyās
+
+In Table 2.1, we reproduce the values of jyās corresponding to arc lengths which
+are multiples of 225′ , given in Āryabhat.ı̄ya/Sūryasiddhānta, Tantrasaṅgraha and
+Laghu-vivr.ti (considering more accurate values for the first jyā as well as the divi-
+sor). The values of jyās enunciated by Mādhava are also listed based on the verses
+‘śres..tham                     . . . . ’ cited in Laghu-vivr.ti. In fact, the modern values
+           . nāma varis..thānām
+presented in the last column show that the Mādhava’s values are accurate up to the
+

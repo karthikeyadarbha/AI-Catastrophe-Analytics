@@ -1,0 +1,31 @@
+xxx                                                                                                         List of Tables
+
+      6.1     The different possible cases for the occurrence of vyatı̄pāta. . . . . . . . 371
+      6.2     The names of the 27 yogas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 384
+
+      7.1     Comparison of the textual values of the inclinations of the planetary
+              orbits with the modern ones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 394
+      7.2     Angular separation required for the visibility of the planets. . . . . . . . . 397
+
+      A.1 The Kat.apayādi system of numeration. . . . . . . . . . . . . . . . . . . . . . . . . . 440
+      A.2 A few examples of the Kat.apayādi system of representing numbers. 441
+      A.3 Numbers specified using the Bhūtasaṅkhyā system of representation.442
+
+      C.1 The different coordinate systems generally employed to specify the
+          location of a celestial object. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+      C.2 Sanskrit equivalents for different coordinates and the reference
+          circles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 456
+
+      F.1     The bhagan.as and sidereal periods of the planets. . . . . . . . . . . . . . . . . 498
+      F.2     Comparison of manda epicycle radii and modern eccentricity values. 499
+      F.3     Comparison of rRs , as given in Āryabhat.ı̄ya and Tantrasaṅgraha,
+              with the modern values of the ratio of the mean values of Earth–Sun
+              and planet–Sun distances for the exterior planets and the inverse
+              ratio for the interior planets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 503
+      F.4     Kaks.yāvyāsārdhas (orbital radii) of the Sun and the Moon given
+              by Āryabhat.a. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 523
+      F.5     Kaks.yāvyāsārdhas (orbital radii) of the planets given by Āryabhat.a.524
+      F.6     Kaks.yāvyāsārdhas (orbital radii) of the Sun and the Moon given
+              by Nı̄lakan.t.ha. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 525
+      F.7     Kaks.yāvyāsārdhas (orbital radii) of the planets given by Nı̄lakan.t.ha.526
+

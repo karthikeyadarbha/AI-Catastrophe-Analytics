@@ -1,0 +1,59 @@
+¢ INTRODUCTION . २३,
+
+two sub-versions, represented, respectively, by D and E, have branched
+off from version II at a lower stage in the descent of the manuscripts.
+
+4. Stemma Codicum
+
+An interesting point worth mentioning here is that despite the
+numerous differences that are found in the manuscripts, they all
+preserve a few common haplographical and other omissions (e.g., see
+25.6, 51.11), errors (39. 4, 138. मूलम्‌ 3), corruptions (96.9, 126.3, 180.1)
+and confusions (153.4). All these manuscripts have, therefore, to be
+traced back to a common original which had been defective, at least,
+at these places. This defective archetype has, obviously, to be different,
+and, considerably, removed from the author’s autograph.
+
+Giving due consideration to the individual traits and common
+characteristics of the manuscripts described above, their descent can
+be represented by the following genealogical table :
+
+0 (Author’s original)
+^ (Defective archetype)
+|
+| | |
+><1 Xa (Sources of the versions
+| | I and 1)
+| | |
+s Xe >»६ 8 X27 (Sources of our mss.)
+| | |
+| |
+B
+
+|
+
+x
+|
+
+|
+7
+
+>--><--
+
+Cc E (The present mss.)
+
+2 EDITORIAL PRINCIPLES
+
+The generally accepted principles of textual criticism have been
+sought to be applied carefully in preparing the present critical edition
+ofthe Aryabhatiya and its commentary. While all the manuscripts
+used are complete and present a more or less reliable text, their indi-
+vidual merits and division into versions and sub-versions have been
+given due consideration in the reconstruction of the critical text. The
+broad principles followed in the editorial work might be indicated here.
+
+1. It has already been noted that Version II is a slightly inflated
+form of Version I. The latter, comprising of mss. A, B and C,
+has therefore, been taken to represent the basic text. There, too,.
+after a careful examination of their accuracy, the three manuscripts
+Of this version have been arranged in the descending order of their

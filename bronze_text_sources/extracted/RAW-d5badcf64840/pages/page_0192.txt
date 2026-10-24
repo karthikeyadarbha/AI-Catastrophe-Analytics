@@ -1,0 +1,53 @@
+3.8 More accurate values of the latitude                                                     145
+
+                                                                                       S
+                                 Z
+
+
+                                                                            p
+
+
+                                             z’
+                                                                       d
+                                 O
+
+
+                                         z                                 Re
+
+
+                                     C
+
+
+
+
+Fig. 3.5a The effect of parallax on the measurement of the latitude of the observer.
+
+
+
+                                                  z = z′ − p,                              (3.21)
+
+where p = CŜO is the parallax of the Sun for an observer on the surface of the Earth.
+It is the angle subtended by the radius of the Earth at the centre of the Sun. In other
+words, it is the angle between the direction of the object as seen by the observer O
+and the direction of the object as seen from the Earth’s centre (bhūgola-madhya,
+which is the standard reference point).
+    From the planar triangle COS we have
+                                                         Re
+                                             sin p =        sin z′ .                       (3.22)
+                                                         d
+Since Re ≪ d, p is small and the above equation can be written as
+                                                       Re
+                                                  p=      sin z′ .                         (3.23)
+                                                       d
+When z′ = 90◦ , i.e. the celestial object is on the observer’s horizon—which is the
+tangential plane passing through the observer, and not the centre of the Earth—it is
+easily seen that the correction due to parallax is maximum. It is called the horizontal
+parallax and is given by
+                                             Re
+                                        P= .                                     (3.24)
+                                             d
+Using this in (3.23) we have
+                                      p = P sin z′ .                             (3.25)
+In Indian astronomical texts, the mean value of the horizontal parallax is taken to
+be one-fifteenth of the mean daily motion of the celestial object. This assumption
+

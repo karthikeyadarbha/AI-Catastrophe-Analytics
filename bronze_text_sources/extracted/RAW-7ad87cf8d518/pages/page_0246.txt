@@ -1,0 +1,123 @@
+16. 8.1
+
+ग्राह्यग्राहकदलतत्समासविक्षेपलिप्तिकाच्छेदः ।
+अड्गुललिप्ता तिज्यावलनज्यानां भवेदिष्टः ।। ५॥
+(Brahmagupta, AK, 2.4.1-5)
+
+—Emendation by Brahmagupta
+
+Tf the mandakendra of the Sun or Moon is less than 6
+Signs, the mandaphala of each should be subtracted from
+its mean longitude; if the mandakendra is greater than 6
+Signs, the mandaphala should be added. The result in
+each case will be the corrected longitude.
+
+From these longitudes calculate the time of opposition
+or conjunction, according as it is lunar or solar eclipse.
+Find the natakdla at that time. Multiply the jyd of the
+Sun’s mandakendra by the 96 of the natakdla. Multiply
+the product again by 191 and divide by the square of the
+द्द. Add or subtract the result in seconds, to or from
+the Sun’s corrected longitude, according as it is in the
+western or eastern halfofthe sky. (The result gives the
+correct true longitude.)
+
+Multiply the jy@ of the Moon’s mandakendra by the jyd
+of its natakéla. Multiply the product again by. 499 and
+divide by the square of the tryyé. The result is in
+seconds. If the mandaphala of the Moon is subtractive,
+add or subtract the result to or from its corrected longi-
+
+tude, according as it is in the eastern or western half of
+
+the sky. Ifthe mandaphala is additive subtract the result
+from the corrected longitude of the Moon, whether it is
+in the eastern or western half of the sky. (The result is
+its corrected true longitude.)
+
+The process should be repeated till the longitudes are
+fixed. (1-2)
+
+If the Sun is in the eastern half of the sky, the
+correction to its motion is subttactive, additive, sub-
+tractive and additive, according as its mandakendra is in
+the first, second, third and fourth quadrants, respective ly.
+Tf the Sun is in the western half, the process is reversed.
+
+In the case of the Moon, when it is in the western
+half, the correction to its motion is subtractive, additive,
+subtractive and additive, according as its mandakendra
+is in the first, second, third and fourth quadrants, re-
+spectively. If the Moon is in the eastern half, the
+correction is additive, subtractive, subtractive and addi-
+tive, according as its mandakendra is in the first, second,
+third and fourth quadrants respectively. (3)
+
+In the case of a solar eclipse, add the length of the
+day (on which the eclipse occurs) to its one-quarter.
+Add to the sum the dinagata or the dinasesa, whichever
+is less, and divide by half the length of the day. The
+result is the number of minutes in. an angula on that day.
+
+INDIAN ASTRONOMY--A SOURCE-BOOK 202
+
+(In a lunar eclipse the’ same method must be followed
+using the length of the day of the Moon.)
+
+The breadth of six grains of barley without the husk
+is equivalent to one afgula. (4)
+
+The semi-diameters of the obscuring and the obscured
+bodies, their sum and the viksepa of the Moon are express-
+sed in afgulas, when the number of minutes in these
+lengths is divided by the number of minutes in an argula.
+
+The érijya and the valanajyé are expressed in angulas
+by dividing each by any number. (It is 6 according to
+
+ancient astronomers.) (5). (BC)
+भास्करः १
+16. 9. 12. परवेनाडयो रवौ देयास्ताः सलिप्ता निशाकरे ।
+
+एवं प्रतिपदः शोध्या: समलिप्तादिदृक्षुणा tt १॥।
+'पञ्चवस्विषुरन्धेषुसागरा'स्तिम्मत्रेनसः ।
+कर्ण : 'पवंतशैलाम्निवेदरामा' निशाकृतः ।। २॥
+
+अविशेषकलाकणंताडितौ व्रिज्यया हृतौ ।
+स्फुटयोजनकर्णौ तौ तयोरेव यथाक्रमम्‌ ।। ३ ।।
+
+'पड्क्तिसागरवेदाख्यो' रवे स्तिथिशिखीन्दुजः ।
+व्यासो वसुन्धंरायाश्च "्योमभूतदिशः, स्मृतः ।। ४ ॥।
+
+थोजनव्याससंक्षण्णं विष्कम्भार्धं विभाजयेत्‌ |
+स्फुटयोजनकर्णाभ्यां लिप्ताव्यासौ स्फुटौ तयोः ॥ ५ ॥
+कर्ण: क्षुण्णः सहस्रंशोमंदिनीव्यासयोजनैः |
+मेदिन्यकविशेषेण भूच्छायादैध्य॑माप्यते ।। ६ ।
+
+चन्द्रकणंविहीनेऽस्मिन्‌ भूमिव्यासेन ताडिते ।
+छायादैर्ध्यहते व्यासश्चन्द्रवत्तमसः कलाः ।। ७ ॥
+ह (Bhaskara I, LBA. 4. 1-7)
+
+—Bhiaskara I
+
+Longitudes of the Sun and the Moon
+
+One who wants to obtain (the longitudes of the Sun
+and the Moon when there is) equality in minutes of arc®
+should add as many minutes of arc as there are parvanddis,
+to the Sun’s longitude (at sunrise) and the same together
+with the minutes of arc (of the difference between the
+longitude of the Sun as increased by 6 signs, and the
+longitude of the Moon in the case of opposition, or of
+the difference between the longitudes of the Sun and the
+Moon in the case of conjunction) to the Moon’s longi-
+tude (when opposition or conjunction of the Sun and
+Moon is to occur); similarly, (when opposition or
+conjunction of the Sun and Moon has occurred) one
+
+1 For the explanation ofand proof, see KK:BC,1. pp. 149-51.
+
+2 When the Sun and the Moon are in opposition, their longitudes
+differ by six signs; when they are in conjunction, their longitudes
+are the same. .The minutes, however, are the same. The equality
+in minutes ofarc refers here to the time of opposition or conjunction.

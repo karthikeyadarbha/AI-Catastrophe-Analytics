@@ -1,0 +1,84 @@
+90                                                     å
+                                                     .~.Pu+.f;pra;k+.=+Na;m,a                                                                 True longitudes of planets
+
+   To get the true position of the planet at true sunrise, the equation of centre has to
+be applied to the mean planet at true sunrise. Verse 36 describes how this correction
+has to be implemented in the case of the Moon. The ratio of the mean radius of the
+                                                                              7
+epicycle and the radius of the deferent circle (the trijyā) is taken to be 80   for the
+Moon. Hence according to the text the true longitude of the Moon, θ , is
+                                                            
+                                             7
+                         θ = θ0 − sin−1        sin(θ0 − θm ) ,
+                                            80
+
+where θ0 is the mean longitude of the Moon and θm the longitude of the mandocca.
+  The procedure for obtaining the true longitude of the Moon is explained in the
+commentary as follows:
+
+      . a;ndÒ+ta;du;a;ya;ea:=+a;pa       I+.;dùÅ;au;ga;Na;taH     :Ea:=+a;a;Za;k+:Æa;sa:;d
+                                                                                            Äâe            ma;Dya;mea          :de;Za;a;nta:=+~ya      .=+a;va;d;eaH P+.l+.a;d;a;na;Ma
+
+                                                            x                                                          å
+      a;ya;a;Na;Ma   . a   ga;a;tMa    ;a;va;a;Da;va;t,a   k+:tva;a   .. a;ndÒ+~ya          ma;Dya;taH           ta;n}.a;nd;ea;Ma         ;a;va;Za;ea;Dya    ;a;Za;e   ta;tke +:ndÒe
+
+      Ba;ga;Na;pUa;va;eRa;Dva;Ra;DRa;ga;ta;tvMa . a A;va;Da;a;yRa d;eaH k+:ea;fa;ea:+:Ba;ya;ea:=+a;pa .ja;a;vea .=+a;va;k
+                                                                                                                           e +:ndÒ+ea;+:va;     ÉÎ É +:a;ya;a;t,a Á
+                                                                                                                                            ç Åx +
+
+
+      ta;Ta;a gxa;h;a;tea d;eaH k+:ea;a;f:$yea o+.Bea A;a;pa .sa;a;Æa;Ba;a;nRa;h;tya A;Za;a;tya;a ;a;va;Ba:$ya l+.b.Dea d;eaH k+:ea;a;f;P+.le
+
+                                                                                                                                                                           å
+      .~ya;a;ta;a;m,a Á     ta:a      k+:ea;a;f;P+.l+.~ya        o+.pa;ya;ea;gMa    va;[ya;a;maH Á               d;eaH P+.lM                  ãÉa;a;pa;a;k
+                                                                                                                                       :pua;na;(            x +:tya   ta;n}.a;Dya;mea
+
+      .~va;k
+           e +:ndÒ+Ba;ga;Na;pUa;va;eRa;Dva;Ra;DRa;ga;ta;tva;va;Za;a;t,a         +.NMa            ;Da;nMa      va;a        k+:ya;Ra;t,a Á
+                                                                                                                           u                 O;;vMa     k       ãÉa;ndÒ+ma;Dya;maH
+                                                                                                                                                         x +:ta;(
+
+                  å                                             å
+      .~va;de;Za;~.Pu+.f;a;k+:eRa;d;ya;a;va;a;Da;k H          .~.Pu+.f;ea Ba;va;a;ta Á
+
+      From the deśāntara, as well as the three corrections manda-phala etc. related to the Sun
+      [obtaining the true sunrise time], the mean positions of the Moon and its apogee [at true
+      sunrise time], are obtained from the Ahargan   . a by the rule of three. Then subtracting the
+      apogee from the mean longitude, the manda-kendra of the Moon is determined. Depend-
+      ing upon the quadrant in which the manda-kendra lies, the dorjyā and kot.ijyā have to
+      be found following the procedure that was given for the Sun.
+      The dorjyā and kot.ijyā obtained thus have to be multiplied by 7 and divided by 80 to get
+      the doh.phala and kot.iphala respectively. The use of the kot.iphala will be stated later.
+      The arc corresponding to the doh.phala is applied to the mean planet either positively or
+      negatively depending upon the quadrant in which the kendra lies. These corrections applied
+      to the mean Moon give its true position at the true sunrise at the observer’s location.
+
+
+
+  .
+2 15 .. a:=;$ya;a;d;a;na;Ma                   .. a;a;pa;a;k+.=+Na;m,a
+
+2.15 Finding the arc corresponding to cara etc.
+
+      .$ya;a;. a;a;pa;a;nta:=+ma;a;na;a;ya ;a;Za;;. a;a;pa;Ga;na;a;a;d;na;a            Á
+
+      yua;+:a .$ya;a;ya;Ma ;Da;nuaH          k+:a;ya :pa;a;F+.ta:$ya;a;Æa;Ba;=e+va va;a                   Á Á 37       ÁÁ
+
+      ;a:a;Ka:+.pa;a;;BUa;na;a;ga:+:dÒE H                   x +:a;taH
+                                                    ;a:a:$ya;a;k            .sa;ma;a         Á
+
+                   È
+      O;;k+:a;a;d. îå Á
+                  *+a;a d;Za;a;a;a ya;a ;Ga;na;mUa;lM ta;ta;ea Y;a;pa ya;t,a                             Á Á 38     ÁÁ
+
+                  å
+      ta; / / /
+         a;n}   /.a;ta:$ya;a;sua ya;ea:$ya;aH       .~yuaH         õùÅ;a;a;dùÅ;a;a ;a;va;a;l+.a;a;k+:aH
+                                                              O;;k+:d                                                      Á
+
+      . a:=+d;eaH P+.l+ja;a;va;a;deH         O;;va;ma;pa;Da;nua;nRa;yea;t,a       Á Á 39            ÁÁ
+
+      jyācāpāntaramānı̄ya śis..tacāpaghanādinā |
+      yuktvā jyāyām . dhanuh. kāryam  . pat.hitajyābhireva vā || 37 ||
+      trikharūpās..tabhūnāgarudraih. trijyākr.tih. samā |
+

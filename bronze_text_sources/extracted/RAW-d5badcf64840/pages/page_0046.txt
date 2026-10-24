@@ -1,0 +1,51 @@
+Introduction                                                                           xlv
+
+not exact, is reasonably accurate when the inclination of the orbit with the ecliptic is
+small, which is actually the case (mean value ≈ 5◦ ). The expression for the instanta-
+neous inclination (with the equator) itself is exact, and non-trivial. This is useful in
+the formulation of the criteria for the occurrence of vyatı̄pāta. Further, an iterative
+process for determining the time interval between a desired instant and the middle
+of the vyatı̄pāta is also discussed.
+
+
+ . kkarma (Reduction to observation)
+Dr
+
+This chapter is devoted to Dr.kkarma, or the determination of the visibility of plan-
+ets. For this, the lagna corresponding to the time when the planet is rising or set-
+ting is to be determined. If the planet has a latitude, one needs to determine the
+correction ∆ λ to the longitude λ of the planet in order to find the lagna. The stan-
+dard expression for this in terms of the āks.avalana and āyanavalana is first given.
+Then an exact expression for ∆ λ is given, which is similar to the expression for
+the caraprān.a (ascensional difference), with the latitude of the planet replacing the
+terrestrial latitude of the place, and the zenith distance of the dr.kks.epa replacing the
+Sun’s declination. The criterion for the visibility of the planet is considered next.
+The difference between the kālalagna of the Sun and the planet has to be greater
+than a value specified for each planet for it to be visible. This criterion, specified in
+the text, seems to be purely empirical.
+
+
+ . ṅgonnati (Elevation of the lunar horn)
+Sr
+
+The ‘evection’, which is the second correction (dvitı̄ya-sam   . skāra) for the Moon—
+the first being the manda or eccentricity correction—is discussed in this chapter.
+The true physical distance of the Moon, called the dvitı̄ya-sphut. a-yojana-karn.a is
+calculated taking this correction into account. This is used in the calculation of the
+angular diameter of the Moon’s disc and other quantities.
+    The distance between the centres of the solar and lunar discs and the angular sep-
+aration between them is calculated exactly. This is for an observer on the surface of
+the Earth and includes the effect of parallax. Lengthy as the procedure is, it reveals
+Nı̄lakan.t.ha’s impressive geometrical insights, especially as it amounts to calculat-
+ing the distance between two points in space, as in three-dimensional coordinate
+geometry. The angle of separation determines the lunar phase.
+    Sr.ṅgonnati17 is the elevation of the lunar horn, or the angle between the line of
+cusps and the horizontal plane. The expression for sr.ṅgonnati given here appears to
+be valid only when the Moon is on the horizon. Further, a graphical representation
+of the Moon’s disc, line of cusps etc. also provided in this chapter. The time interval
+between sunset and moonrise is to be determined through an iterative procedure.
+
+
+17 Srṅga is horn and unnati is elevation.
+    .
+

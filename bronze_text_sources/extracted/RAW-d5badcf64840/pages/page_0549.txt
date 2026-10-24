@@ -1,0 +1,54 @@
+502                       The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                            . t.ha
+
+                  AÊS = θms           (manda-sphut.a)
+                  AŜP = θs            (longitude of śı̄ghrocca)
+                  AÊP = θ              (geocentric longitude of the planet).
+
+Again, the śı̄ghra-kendra is defined as the difference between the śı̄ghrocca and the
+manda-sphut.a-graha as in (F.20). Thus, from the triangle EPS we get the same
+formula
+                                                rs sin σ
+                     sin(θ − θms ) =                                  1
+                                                                        ,       (F.21b)
+                                     [(R + rs cos σ )2 + rs2 sin2 σ ] 2
+ which is the śı̄ghra correction given in the earlier Indian texts to calculate the
+geocentric longitude of an interior planet. For the interior planets also, the value
+specified for rRs is very nearly equal to the ratio of the planet–Sun and Earth–Sun
+distances, as may be seen from Table F.3.
+
+                                                            P
+
+                                                                          F
+                                                                rs
+
+                                                                     θs
+                                                                                  A
+                                                            S
+
+
+
+                                                        R
+                                           G
+
+                                                    θ
+                                                 θ ms
+                                                                              A
+                                          E
+
+
+
+
+Fig. F.4b Śı̄ghra correction for interior planets.
+
+
+   Since the manda correction or equation of centre for an interior planet was ap-
+plied to the longitude of the mean Sun instead of the mean heliocentric longitude
+of the planet, the accuracy of the computed longitudes of the interior planets ac-
+cording to the ancient Indian planetary models would not have been as good as that
+achieved for the exterior planets. But for the wrong application of the equation of
+centre, equation (F.21b) has the same form as the formula for the difference be-
+tween the geocentric longitude of an interior planet and the Sun in the Keplerian
+model (see (F.50)), if rRs is identified with the ratio of the planet–Sun and Earth–Sun
+distances.
+

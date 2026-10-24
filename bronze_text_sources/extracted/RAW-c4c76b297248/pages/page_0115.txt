@@ -1,0 +1,49 @@
+True Sidereal Zodiac
+Equinoxes of AD 576 and AD 285 - Initial points of CRC
+
+It is apparent from equation (B) that the mean tropical sun coincided with vernal equinox
+of Ksee3 for the solar year-length of 365.25875 days. As a result of the continued use of
+this extra-long sidereal year the zero point had a progressive movement towards east by
+0.00239 days per year. As Revati (Zeta Piscium) was on the west of the vernal equinox
+of Kage3, the fall of equinox on Revatt in AD 576 was of no consequence to the zero point
+of Siryasiddhanta. Had the equinox on Revati been of any relevance to Siryasiddhanta,
+the year length would have definitely undergone a reduction as can be seen in the
+Brahmasphutasiddhanta of Brahmagupta. In fact, with the solar year of 365.25875 days
+the mean Sun corresponding to the expiry of the Kali year would have coincided with
+Revati only for 1(3339. Polar longitude of Revati as 359°50' available in the extant version
+of SGryasiddhdnta is not compatible with the mathematical implications of the solar year
+of 365.25875 days.
+
+Similar argument holds good for the vernal equinox of AD 285 that fell on the point
+opposite Citra. The solar year of 365.25875 days could never have taken the mean sun
+for the expiry of Kali 3386 to coincide with the respective equinox falling opposite Citra.
+
+In view of the above reasons the so-called Revatipaksa and Citrapaksa schools of
+ayanam$sa have no focus standii in the context of SUryasiddhanta or the ancient
+astronomical tradition of India. The almost zero longitude of २९५३ got incorporated in the
+Siddh&ntic tradition only after the advent of Brahmagupta in the 7 century AD. As
+regards Citrapaksa, the eastward progress of the Siddhantic zero point touched the point
+opposite Citra or vernal equinox of 285AD only towards the end of the 19° century i.e
+near about AD1885. The Siddhantic 20680485 (ephemeris) of this period (for e.g.
+Vakya-pancanga that prevailed over South India) therefore had their zero point falling
+opposite Citra by accident and consequently the modern astronomical tropical longitude
+of sun and the corresponding Siddh&ntic sidereal value had the difference equal to an
+ayanam$a based on Citra’s opposite point. At the end of the 1 9" century and in the
+beginning of 20th century efforts were made in the South, Maharashtra, Bengal etc. to
+switch over from the Siddhantic computations to more accurate modern astronomical
+system. Due to the above reason, the most convenient solution was to define an
+ayanam§Sa that will serve the Siddhantic zero point of AD 1880 (end of 19 ` century) so
+that the prevailing tradition is not disturbed very much
+
+3. Evidence of the Constant Mean Anomaly
+
+Siddhantic tradition had the aphelion/perihetion fixed while the sun marked the fixed zero
+point at Yugadi (Ko). With the fixed aphelion, if the sun was to mark the sidereal fixed
+zero point at the expiry of subsequent Kali-years, the solar year had to be anomalistic. In
+other words, if Sun marked the fixed zero point at Ko, this fixed point must be of a
+constant mean anomaly (as the aphelion remained stationery) and the vernal equinox
+would have coincided with this zero point on attaining the mean anomaly Sun had at Ko.
+On this basis the zero point of the sidereal zodiac implicit in Stryasidhhanta can be
+deciphered on the following lines:
+
+91

@@ -1,0 +1,132 @@
+231 16. ECLIPSES
+
+corrected base. The remaining process (to find the
+-obscured portion at any given time) is the same as that
+in the case of the Moon. है |
+
+Again when the obscured portion is given, and the
+corresponding time is required, follow the process as
+given above. Then multiply this time by the apparent
+duration of the first or second half of the eclipse, as the
+case may be; and, using the corrected latitude, divide
+by the approximately calculated duration. The result
+is the more correct time. This should be subtracted
+from the half duration. Repeat the process till the
+time is fixed.1 (16). (BC)
+
+--महासिद्धान्तः
+
+आयनदृक्‍्कर्स
+
+16. 29. 12. प्राक्‌ शुद्धोन्नतिमुख्ये कमेणि सूयेग्रहाविनोदयजौ ।
+कृत्वा चन्द्रादीनां बाणः साध्योऽस्तजौ पश्चात्‌ ।। १ ॥
+
+दत्तायनजव्यस्तज्योनां गज्यां शरेण संगुणयेत्‌ |
+क्लधज च हरेद्‌ गज्यावर्गेणायनमिदं कलादिफलम्‌ 1
+
+कोटिज्येषुवधो वा जढममभक्तोऽयनेषु दिक्साम्ये |
+शोध्यं खगे त्वसाम्ये योज्यं स्यादायनः खेटः ।। ३ ॥
+„ (481. II, Mahd., 7. 1-3)
+—Mahasiddhanta
+Parallax of longitude
+
+In the operation, (in which the projection of) the
+elevation of the lunar cusps is the main (part), determine
+the latitude of the Moon etc., after finding out (the
+longitudes of) the Sun and the planet, in east at sunrise
+and in west at sunset. (1)
+
+Diminish the radius by the versed sine (vyastajyd) (of
+the planet in a) given progress. Multiply (the remain-
+der) by the latitude (fare) and by 1398, and divide by
+the square of the radius: the result in minutes etc. is the
+correction for ecliptic deviation (@yana).2 (2). (SRS)
+
+Multiply the perpendicular-sine by the latitude (isu)
+and divide by 8455. (The quotient) is to be subtracted
+from (the longitude of) the planet, when the correction
+and the latitude are of the same direction, and added
+when of opposite (direction; the result) is the planet’s
+longitude, as corrected for ecliptic deviation (dyana-
+khefa).8 (3). . (SRS)
+
+4For elucidation and demonstration, see, SiDAVy: BC.,
+II. 131-42
+ॐ For the rationale, see Maha: SRS, II. 130-33.
+3 From the previous verse, the correction for ecliptic deviation in
+sin gr. decl. x (R—versed sine) x latitude
+Ra
+1398 x perpendicular-sine x Jatitude
+हि 1,18,19,844
+__ perpendicular-sine x latitude
+7 8455
+For the rationale, see Maha:SRS, I1. 130-36.
+
+minutes =
+
+approximately. (3)
+
+16. 50. la
+
+आक्षद्क्कमं
+16. 29. 19. विषुवद्‌भाशरघातं प्रहृतं खेटे क्षिपेच्चरे सौम्ये ।
+पश्चाद्‌ याम्ये जह्याद्‌ व्यस्तं प्रागक्षकर्मेतत्‌ ।। ४ ।।
+(ABh. II, Maha, 7.4)
+
+Parallax of latitude
+
+Multiply the equinoctial shadow (visuvadbha) by the
+latitude, and divide by 12; (the result, when the latitude
+is north, is to be added to the (longitude) of) the planet;
+(when the latitude is) south, isto be subtracted in the
+western (hemisphere. The operation is) reverse in the
+eastern (hemisphere). This is the operation for latitude
+
+(aksakarman).1 (4). (SRS)
+दुक्सस्कारः
+16. 29. 1५. दिक्साम्ये विश्लेषोऽकन्दुक्रान्त्योरसाम्य एेक्यं तत्‌ |
+
+व्यकंन्दुज्याक्षज्याहतेः गमोौव्यप्तयाम्यांशैः ॥ ५ At
+संस्कृत्य भजेद्‌ व्यकन्दुज्यातांशेन चन्द्रविम्बघ्नम्‌ |
+पौरे भक्तं वलनं संस्कारवशेन दिग्‌ ज्ञेया ॥ ६ ॥
+(4810. II., Mahd., 7. 5-6)
+Application of parallax
+Of (the sines of) the declination of the Sun and of the
+Moon (take) the difference, (when both are) of the
+same (direction)and the sum, (when they are) of opposite
+(direction) (A). Multiply the sine of the difference (in
+longitudes) of the Moon and the Sun by the sine of
+latitude and divide by the radius. By the quotient in
+degrees, which are south, correct (the above difference
+or sum, A) and divide by one sixth of the sine of the
+difference (in longitude of) the Moon and the Sun.
+(The quotient), multiplied by the diameter of the Moon
+and divided by 12, is the deflection (valana), (whose)
+direction is to be known as the same as the correction
+
+above. (5-6). (SRS)
+
+--भास्करः २
+
+लस्बननती
+
+16. 30. 19. दर्शन्तकालेऽपि समौ रवीन्दू
+
+द्रष्टा नतौ येन विभिन्नकक्षौ |
+क्वर्धोच्छित: पश्यति नैकसूत्रे
+
+तल्लम्बनं तेन नति च वच्मि ॥ १॥
+दर्शान्तलग्नं प्रथमं विधाय
+
+न लम्बनं वित्िभलग्नतुल्ये |
+रवौ तदुनेऽभ्यधिके च तत्‌ स्या-
+
+देवं धनर्ण क्रमतश्च वेद्यम्‌ ।! २॥
+विभोनलग्नं तरणि प्रकल्प्य
+
+तल्लग्नयोयेः समयोऽन्तरेऽसौ ।
+विभोनलग्नस्य भवेद्‌ चुयातः
+
+शडक्वाद्यतस्तस्य चरान्त्यकाैः ।। ३ ॥।
+
+1 For the rationale, see Mahd: SRS, 11. 137-46.

@@ -1,0 +1,55 @@
+256                              . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                        Lunar eclipse
+
+
+                                                      N2 (Ketu)
+
+
+                                                                                    it
+                                                                         ’s    orb
+                                                                    Moon
+                                   Moon                                 i        tic
+                                                                            eclip
+                                                       N1 (Rāhu)
+                            direction of
+                           Moon’s motion
+Fig. 4.1a Schematic representation of the situation of the Moon’s orbit with respect to the ecliptic.
+
+
+
+   The Moon’s orbit is inclined to the ecliptic as shown in Fig. 4.1a. The angle of
+                                                   ◦
+inclination, denoted by i, is taken to be 270′(4 12 ) in most of the Indian astronomical
+texts including Tantrasaṅgraha.2
+
+
+Moon’s nodes and their retrograde motion
+
+The points of intersection of the ecliptic and the Moon’s orbit, N1 and N2 (see
+Fig. 4.1a), are the nodes of the orbit. As the Moon crosses node N1 along the direc-
+tion indicated in figure, it is ascending towards the north celestial pole, and hence
+node N1 is called the ascending node. As it crosses N2 , it is descending towards the
+south pole and hence N2 is called the descending node.
+    In fact, it is these two nodes that are called Rāhu and Ketu in Indian astronomy.
+The nodes themselves are in motion3 and their motion is retrograde. That is, the
+direction of motion of the nodes is the opposite of that of the motion of the Moon,
+Sun and other planets. The time taken by the nodes to complete one full revolution
+is about 6793 days, or 18.6 years.
+
+
+Possibility of a lunar eclipse
+
+The Earth’s shadow always moves along the ecliptic and its longitude will be exactly
+180◦ plus that of the longitude of the Sun. When the Moon is close to the shadow
+and both of them are near a node, then there is a possibility of a lunar eclipse. This
+situation is depicted in Fig. 4.1b, where C represents the chāyā (shadow), and A and
+B are the positions of the Moon before and after the lunar eclipse.
+
+
+
+2 It is known today that the inclination of the Moon’s orbit varies slightly with time, and that its
+
+average value is around 5.1◦ .
+3
+  This motion is mainly due to the variation in the gravitational force on the Moon exerted by the
+Earth, due to its equatorial bulge.
+

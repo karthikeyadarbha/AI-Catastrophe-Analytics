@@ -1,0 +1,123 @@
+16. 13.14
+
+Duration of the eclipse
+
+Subtract the square of the Moon’s latitude from 3136,
+which is the value of the square of the sum of the semi-
+diameters of the Moon and the Shadow (in minutes).
+Then multiply the square root of that (difference) by
+60 and divide by 730: the quotient gives the duration of
+the (lunar) eclipse in nd@dis. 9)
+
+Duration of totality for a total lunar eclipse
+
+Subtracting (the square of) the Moon’s latitude from
+576 (i.e. the square of the difference of the semi-diameters
+of the Moon and the Shadow in minutes)1 and proceed-
+ing as before, are obtained the nadis of half the totality
+(for a total lunar eclipse). (109)
+
+First and last contacts and immersion and emersion
+
+(The time of the middle of the lunar eclipse) being
+diminished by half the duration of the lunar eclipse
+gives the time of first contact: the same being increased
+by half the duration of the lunar eclipse gives the time of
+separation of the Moon from the Shadow (i.e. the time
+of the last contact.)
+
+(The time of the middle of the lunar eclipse) being
+diminished by half of the duration of totality gives the
+time of immersion; and the same increased by half the
+duration of totality gives the time of emersion.
+
+The middle of the eclipse happens to be (approxi-
+mately) at the end of the Parva-tithi (i.e. at the time of
+opposition of the Sun and the Moon).
+
+(The. minutes of) the Moon’s latitude etc. being
+divided by 3 are reduced to afgulas. (10b-11)
+
+When the Moon’s latitude is north, the first contact
+occurs in the east slightly deviated towards the north-
+east; the separation occurs in the north-west; and the
+middle of the eclipse in the north. (12)
+
+When the (Moon’s) latitude is south, the first contact
+occurs in the south-east; the separation in the south-
+west; and the middle of the eclipse, in the south. The
+immersion of the Moon takes place in the west and
+
+emersion, in the east. (13). (KSS)
+--वाक्यकरणम्‌
+
+ग्रहणोपकरणम्‌
+
+16. 14. 18. प्रतिपत्पर्वघटिकाः कला ऋणधनं रवौ ।। ५ ॥
+
+भोग^नीचा"न्तरघ्नास्ताः विकलाः पूवंवद्‌ रवौ ।
+‘Ararat तु भोगे स्युव्यंत्ययात्‌ स समो रविः ।।६॥।
+चन्द्रेण पौणेमास्यन्ते चक्राधेन समन्वितः । `
+
+बिम्बं रवेगंतिकला (मान"ध्ना शधन'भाजिताः ।। ७ ॥। .
+
+३ (€ semi-diameter of the shadow has टला बांटा to be 40
+minutes. ` । ।
+
+‘the Moon plus 6 ragis.
+
+INDIAN ASTRONOMY—A 'SOURCE-BOOK . 214
+
+इन्दोः शस्त्रहता भुक्तिः बिम्बं, तन्माने'ताडितम्‌ |
+अर्धीकृतं तमोबिम्बं aaa’ छादकं विधोः ।। ८ i
+
+पातोनचनद्रबाहुज्या (स्तन "घ्ना क्षेपचापकम्‌ ।
+स्वस्व पुवरां'शसहितं TAT जूकमेषत: ।। & ।।
+(VK, 4. 5b-9)
+—Vakyakarana
+The Ecliptic Elements
+
+Deduct from the Sun’s longitude at sunrise as many
+minutes as the nddis gone in Prathamé, or add as many
+minutes as the nadis to go for the end of the Parva.
+Deduct or add seconds equal to the product of the
+nddis and the excess in minutes of the daily motion
+over 60’. If the daily motion is less than 60’ use the
+defect, and add or deduct, respectively. The longitude
+of the Sun at the end of the Parva is got. This will be
+equal to the longitude of the Moon, if the Parva is
+Amavasy4. If it is Pirnima, this will be equal to
+(5b-7a)
+
+Multiply the Sun’s daily motion in minutes by 5 and
+divide by 9. The angular diameter of the Sun is
+in minutes is got. Divide the daily motion of the Moon
+in minutes by 25. The Moon’s angular diameter is
+‘obtained. The Moon’s angular diameter multiplied
+by 5 divided by 2 and increased by 1, is the diameter in
+minutes of the shadow which hides the Moon (in the
+Lunar eclipse. (7b-8)
+
+Deduct Rahu from the Moon find its bhuja and the
+sine of the bhuja. Multiply this by 6 and add a 2150 part
+of the result. This is the latitude of the Moon in
+minutes. This is positive (i.e. South) if Moon minus
+Rahu is from 6 to 12 radfis and negative (i.e., North)
+if from 0 to 6 72888. (9). (TSK-KVS)
+ग्रहणकर्म
+16. 14. 19. ग्राह्मग्राहकरसंयोगदलं विक्षेपवजितम्‌ |
+शिष्टं ग्रासाङ्गुलं, ग्राह्यादधिके सकलग्रहः 11 १०॥
+ग्राह्य ग्राहकसंयोगदलवर्गाद्‌ विवजितात्‌ |
+विक्षेपवर्गेण पदं हृतं गत्यन्तरांशकंः ।। ११।।
+स्थित्यधंनाडिकास्तद्वद्‌ विमदर्धिं तदन्तरात्‌ |
+स्थित्यधनोनितं पर्व स्पशंकालः प्रकीतितः ।। १२ ॥
+संयुक्तो मोक्षकालः स्यान्मध्यकालः स्वयं भवेत्‌ |
+मीलनाख्यो भवेत्कालो विमदर्धिन वजितः ।। १३ ॥
+उन्मीलनाख्यः संयुक्तः सर्वग्रासे तु ते उभे ।
+विक्षेपाधविनाडीभिवितनांशाभिरूनितौ ।। १४ ॥
+स्पशंमोक्षौ, युतौ युग्मे मीलनोन्मीलने अपि ।
+नत्याकंग्रहण, क्षेपे AIMS पदान्तरम्‌ ।। १५॥।
+
+(VK, 4. 10-15)
+
+1 For worked out examples see VK: TSK-KVS, pp. 278-279.

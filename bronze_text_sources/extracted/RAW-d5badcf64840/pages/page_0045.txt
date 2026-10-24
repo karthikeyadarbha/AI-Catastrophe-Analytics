@@ -1,0 +1,51 @@
+xliv                                                                                  Introduction
+
+                              Z
+
+                                                 p                   M
+                                                     m
+
+                                          dm
+                              O
+                                                     Dm
+                             Re z m
+                              C
+
+
+              Fig. 2 The actual distance of the celestial object from the observer.
+
+
+
+sam. skāra) and ‘evection’ (dvitı̄ya-sam
+                                        . skāra) corrections into account. Then the
+dr.kkarn.a, dm , is given by
+                               q
+                    dm = OM = (Dm − Re cos zm )2 + (Re sin zm )2 ,
+
+where Re is the Earth’s radius, and zm is the geocentric zenith distance of the Moon.
+Then the expression for Moon’s parallax will be
+                                                     Re
+                                  pm ≈ sin pm =         sin zm ,
+                                                     dm
+where zm is calculated exactly by taking the Moon’s latitude into account. A similar
+expression is used in order to take into account the effect of solar parallax also.
+   Thus the parvānta (the instant of conjunction of the Sun and the Moon) is to be
+calculated by taking all these corrections due to parallax and dr.kkarn.a into account.
+Further, the actual distances of the Sun and Moon from the observer are needed to
+find their angular diameters and the latitude of the Moon. Then the criteria for the
+visibility of a partial eclipse and a total eclipse are discussed along the usual lines.
+Mention is also made of an ‘annular eclipse’, when the angular diameter of the Sun
+happens to be more than that of the Moon.
+
+
+Vyatı̄pāta
+
+We have a vyatı̄pāta when the magnitudes of the declinations of the Sun and the
+Moon are equal and their gradients are in opposite directions. This concept seems
+to be peculiar to Indian astronomy. Issues such as the occurrence/non-occurrence of
+vyatı̄pāta, its duration etc. are discussed in detail in this chapter.
+    The exact expression for the declination of the Moon in terms of its longitude and
+latitude is given in the text, perhaps for the first time in Indian astronomy. Further,
+Nı̄lakan. .tha gives an alternative expression for the Moon’s declination in terms of
+the instantaneous inclination of its orbit with the equator. This expression, though
+

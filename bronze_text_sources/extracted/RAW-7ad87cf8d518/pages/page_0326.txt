@@ -1,0 +1,120 @@
+21. 2. 4
+
+sayana-Sun being in (the six Signs) from Aries (कठ)
+or from libra (jitkadi). (32) '
+
+When the sign of all the tbree is the same, (the total
+correction) is their sum; when one is different, (the total
+correction) is the differnce between it and the sum of
+the other two. The vdkyakala-s duly corrected (as
+above) will be the (correct) dhruvakala (True dhruva-
+kala-s). (33-34a) :
+
+Fifteen (suka) nddikas corrected merely by the half-
+ascensional difference will give (the length of) the half-
+day. Those (vékyakala-s) which are less than the length
+of the (full) day (i-e., twice the half-day as found above)
+will fall during daytime and the other (vakyakala-s) will
+fall during night-time. (34b-35a). (KVS)
+
+चन्द्रस्फुट :
+21. 2. 5. तेषु स्वध्रुवयुक्तानि वाक्यानि स्फुटशीतगुः ॥ ३५ ॥।
+ततस्तदन्तरालेषु स भवत्यनुपाततः |
+
+तस्य तत्कालगमनं यतस्तदद्वितयान्तरम्‌ ।। ३६ ॥
+
+इष्टकालस्फुटानयन मार्गान्तरम्‌
+mart निष्टुरं' चैकं fared त्यजन्त्यधः |
+यथोक्तव।क्यसंख्यायां ‘Ga’ ‘gra’ मतोऽन्यथा ।। ३७ ॥।
+
+तदन्तरं निहत्येष्टनाडचा ‘Aa et ततः |
+arnt विदधन््यध्वैमधश्चादावथोदिते ।। ३८ ।।
+
+इष्टकालरविस्फुटम्‌
+विदधीतैवमेवार्कें विदित्वास्य गति स्फुटाम्‌ ।
+तथा तन्मध्यमे कृत्वा कुद्रा तत्स्फुटक्रियाम्‌ ।। ३६ 11
+स्वर्ण स्वोच्चोनमध्याकंककिनक्रादिषट्कजा ।
+कोटिज्या त्माशय SAT गतिमेध्याऽस्य तत्स्फूटा ।। ४० ।।
+तत्फलं वा “जनेना दि गृहीत्वा स्व युगां शयुक्‌ ।
+विदधीत विलिप्तासु तद्वदेव धनक्षयौ ।। ४१ ॥1
+'इष्टाङ्खनासखो नित्यम्‌" “निःशेषमदनातिनुत्‌' ।
+भागमात्रगतेर्भानोः स्पुटद्वयमिदं विदुः ।। ४२ ॥।
+शौरीब नश्शिरो नम्यः' शूली शुष्मिनिकेतन: 1
+इम तन्मध्यमौ sat श्रीमदायैभटोदितौ ।। ४३ ॥।
+
+स्वोच्चतुल्यतनोस्तस्य पुनः शिशुतमा गतिः ।
+निजनीचसमस्यातः परिपूति व्रजत्यसौ ।। ४४ ॥
+श्ुवकालोक्तसंस्कारः सधुवेषु तथेष्यते |
+सूर्यसंक्रमवाक्येषु सृक्ष्मुगतसिद्धये ॥॥ ४५ Ut
+अहूर्गणेऽप्ययं शक्यः कर्तुमुक्तविपयेयात्‌ |
+
+स हि तत्संस्कृतो नित्यं भवत्यरककोदयाद्‌ गतः ।। ४६ ॥।
+"कान्तं कर्म विहीनं सत्‌ प्राक्फलं सदना हतम्‌ |
+्रहुता^नभूल'हीनात्‌ स्वात्‌ 'संसारा'प्तसमन्वितम्‌ tt ४७ ॥।
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 282
+
+हित्वा लिप्तात्मकं राशिषट्काच्छिष्टं विधुन्तुदः |
+वाक्यसंख्यावशाद्‌ वाक्थकारेष्वेषर तदकंवत्‌ । ४८ 11
+(Madhava, Sphuja., 35b-48)
+True Moon
+The sum of the (relevant) vdkyas (Moon-sentences)
+and the (relevant) dhruvas will give the True Moon-s
+(at those vakyakala-s). The True Moon (for times) in
+between (two vdkyakala-s) will have be calculated by
+interpolation. The Moon’s motion during an interval
+is the difference between the two (relevant) True Moons
+(and hence the said interpolation). (35b-36)
+
+Another method
+
+(Another method to derive the true Moon at any
+desired time is now stated. If the desired time is) later
+(than the vakyakdla nearest to it), some add 22 1 (kathora)
+to the vakyasankhya, and (if the desired time is) earlier,
+subtract from it 220 (nisthura). Or perform the
+operation with 27 (sukha) and 28 (dubkha), applied in
+the reverse order! ` (87)
+
+Multiply the difference, ie., the rate of the daily
+motion of the vakya got, by the desired time, in nadikas,
+and divide the product by 60 (nati). The resullt
+should be added, to the Moon’s longitude (of the relevant
+vakyakala) if (the desired time) is later and subtracted
+ifearlier. (38)
+
+True Sun at desired time
+
+In the case of the Sun, too, (its true position at any
+desired time) can be computed using its true motion.
+Computation of the true Sun can be done also by finding
+the mean Sun (at the time) using its mean motion. (39)
+
+R cosine of the mean Sun-minus-Higher Apsis is to be
+divided by 1550 (atmdsaya) and the result applied to
+the Sun’s mean motion, positively (when it is) in the
+six Signs beginning with Cancer (Karki) and negatively
+in the six Signs beginning with Capricorn (Nakra) 2 The
+true (daily) motion of the Sun is got. (40)
+
+Alternatively, take the reading for Sun-minus-Higher
+Apsis in the Sine Table beginning with janena.2 Add
+
+1 Rationale: Subtraction of 27 from above or addition of 28 from
+below gives the mid-vakya, whose rate is taken as the average for
+theinterval. This rate being for one day or 60 nadikas, the division
+by 60isdone. Addition of 221 is the same as subtraction of 27 and
+subtraction of 220 is the same as adding 28, the total being 248.
+Either can be chosen according to convenience.
+
+2 Rationale: Since the Sun’s equation of centre is proportional to
+the Sun’s Sin manda-kendra, the variation in it causing true daily
+motion is proportionate to the cosine, and, therefore, zero at 90°
+and 270° of kendra.
+
+8 This is the table of the mandajyas of the Sun enunciated in the
+Crahacéranibandhdna of Haridatta (ed. K.V. Sarma, K.S.R. Institute
+Madras, 1954, p. 19):
+
+(1-8) : janena (8), satyena (17), mukhena (25), lingind (33), yavena
+(41), dhavena (49), samena (57), vartanam (64)

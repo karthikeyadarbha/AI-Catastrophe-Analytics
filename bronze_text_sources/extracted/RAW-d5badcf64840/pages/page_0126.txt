@@ -1,0 +1,62 @@
+2.11 Prān
+         . ās of the ascensional difference                                                                                                                             79
+
+                                                  sin λ   sin(90 − δ ) cos δ
+                                                        =              =       ,                                                                                (2.83)
+                                                  sin α   sin(90 − ε )   cos ε
+
+which is the same as the above.
+   As the axis of rotation of the Earth is perpendicular to the equator, the rotation
+angle measured along the equator is related to time and can be expressed in prān.as.
+One prān.a corresponds to one minute of arc along the equator. Since the right as-
+cension is an arc measured along the equator, α is expressed in prān.as.
+   The difference between the longitude of the Sun ⊙ and its right ascension α
+figures in the equation of time described in the next set of verses (see also Ap-
+pendix C). Hence α − ⊙, which is called the prān.aliptā or prān.akalāntara10 is to
+be stored. This is the correction due to the obliquity of the ecliptic. This is explained
+in Laghu-vivr.ti as follows:
+
+   . . . ta:a   l+.b.Da;a    .sEa;va   I+.;k+:ea;a;f:$ya;a Á           ta;Ma   I+.;k+:ea;a;f:$ya;Ma      ;a:a:$ya;ya;a      ;a;na;h;tya       I+.;dùÅ;au:$ya;ya;a
+
+   ;a;va;Ba:$ya    l+.b.DMa    :P+.lM    . a;a;pa;a;ku +:ya;Ra;t,a Á   ta;a    A;kR +:Bua:ja;a;sa;va;ea     Ba;va;a;nta
+                                                                                                                      //// Á   .tea;Sa;Ma   A;kR +:Bua:ja;a;sUa;na;Ma
+
+   ta;tk+:l+.a;na;Ma . a ya;d;nta:=M ta;t,a :pra;a;Na;k+:l+.a;nta:=M na;a;ma Á ta;a;d
+                                                                                    õ ;a;na;ya;ea;ga;mua:a:=;a va;[ya;a;maH Á A;ta o+.M
+
+   A;a;va;na;M tua :pa;a;l+.yea;t,a I+.a;ta Á Á
+
+   What is obtained thus is the is..takot.ijyā. That has to be multiplied by the trijyā and divided
+   by the is..tadyujyā. The arc of the result obtained has to be found and that is known as
+   the arkabhujāsava. The difference between the arkabhujāsava and the Sun’s longitude
+                                                                 11
+   measured in minutes is known as the prān      . akalāntara. The utility of this will be stated
+   later (verse 31). Hence it is stated that this has to be preserved such that it is not lost.
+
+   The great circle passing through EPW is known as the 6 o’clock circle, as the
+hour angle of any object lying on that circle corresponds to six hours. For an equa-
+torial observer, whose latitude is zero, the horizon itself is the 6 o’clock circle and
+the Sun always rises on it. When the latitude of a place is not zero, the Sun does not
+rise on the 6 o’clock circle. In Fig. 2.7,
+
+                                        Ht = Z P̂St = Z P̂W + W P̂St = 90◦ + ∆ α                                                                             (2.84a)
+
+is the hour angle at sunset. It is greater than 90◦ when the Sun’s declination is north
+and would be less than 90◦ when the declination is south. From the spherical triangle
+PZSt , using the cosine formula it can be shown that
+
+                                                                        cos Ht = − tan φ tan δ
+                                                    or                  sin ∆ α = tan φ tan δ .                                                              (2.84b)
+
+
+   Ht expressed in minutes is the time interval in prān.ās between the meridian
+transit of the Sun and sunset. When δ = 0, Ht = 90◦ = 5400 prān.as (6 hours). ∆ α
+10 The terms prāna and kalā here refer to the right ascension and Sun’s longitude expressed in
+                    .
+minutes respectively. Hence the prān . akalāntara is α − ⊙.
+11 It must be noted that Śaṅkara Vāriyar uses the term prānakalāntara instead of
+                                                                         .
+    . aliptikā. Nı̄lakan.t.ha himself has used the term prān
+prān                                                        . akalāntara later in verse 31, where
+he discusses the application of the prān. akalāntara.
+

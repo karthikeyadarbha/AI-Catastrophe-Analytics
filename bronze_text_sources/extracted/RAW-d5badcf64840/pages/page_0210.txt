@@ -1,0 +1,46 @@
+3.11 Big gnomon and the gnomonic shadow                                           163
+
+                        cos z = sin φ sin δ + cos φ cos δ sin θ .              (3.52)
+
+In the following we show that the expression given by Nı̄lakan.t.ha is exactly the
+same as the above equation.
+   For this, we initially need to find out θ as per the procedure in the text. If d
+represents the half-duration of the day, ∆ α the ascensional difference, tr the time
+elapsed since sunrise, and ts the time that is yet to elapse till sunset, then
+
+                           θ = tr − ∆ α        (forenoon)                      (3.53)
+                           θ = ts − ∆ α        (afternoon).                    (3.54)
+
+∆ α is positive when the Sun has a northern declination and negative otherwise.
+Hence the magnitude of ∆ α has to be subtracted from tr or ts for northern declina-
+tions, and added for southern declinations.
+   Having determined θ , it is stated that the zenith distance can be found using the
+relation                                                          
+                                                  R cos φ    R cos δ
+               R cos z = (R sin θ + R sin ∆ α )                        ,       (3.55)
+                                                     R          R
+which reduces to
+                        cos z = (sin θ + sin ∆ α ) cos φ cos δ .               (3.56)
+Considering the spherical triangle, PZS′ , where PZ = 90◦ − φ , ZS′ = 90◦ and Z P̂S′ =
+Ht (the hour angle of the Sun at the sunset), it follows from the cosine formula that
+
+                                cos Ht = − tan φ tan δ .                       (3.57)
+
+Using the fact that Ht = 90 + ∆ α , the above equation reduces to
+
+                                sin ∆ α = tan φ tan δ .                        (3.58)
+
+Substituting for sin ∆ α in (3.56), we see that it reduces to (3.52), showing that the
+expression given by Nı̄lakan.t.ha for mahāśaṅku is nothing but the standard spheri-
+cal astronomical result for the Rcosine of the zenith distance of the Sun at any time
+during the day.
+    The mahācchāyā is defined as the square root of the difference between the
+squares of the trijyā and the mahāśaṅku. Since the mahāśaṅku is R cosz, it is
+obvious that the mahācchāyā is R sin z. The value of the zenith distance obtained
+using (3.55) is for an observer situated at the centre of the Earth. Here it is also
+assumed that the Sun is a point object. To obtain the apparent value of the zenith
+distance (z′ ) for an observer on the surface of the Earth from the theoretical value
+(z), corrections have to be implemented which take into account the effect of solar
+parallax and finite diameter of the Sun. It is precisely these corrections that are
+prescribed in the following verses.
+

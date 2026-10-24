@@ -1,0 +1,130 @@
+245 17. PHASES OF THE MOON
+
+--३. तृतीयं कमं
+17. 5. 8. 'मङ्खलवेदा'श्च कला प्राकृपश्चाज्भागयो: ऋणधनं स्यात्‌ ।
+एथिस्त्िभिविधानैः दशं नयोग्यो भवति चन्द्रः || ४ ।
+(Deva, KR, 5.4)
+iii. The Third correction ।
+
+48 minutes too should be subtracted from the Moon’s
+longitude or added to that according as the Moon is in
+the eastern or western hemisphere. By applying these
+three corrections, the Moon becomes fit for observation
+
+(at sunset).1 (4). (KSS)
+चन्द्रोदयास्तमयकालः
+17. 6. 1. सूर्श्चक्राधेयुतः तदा विलग्नं यदीन्दुरूनोऽस्मात्‌ |
+
+पू्वैमुदेत्यधिकश्चेत्‌ पश्चात्‌ दिवसाधिपास्तमयात्‌ | ५॥।
+
+राश्युदय रानीयात्‌ तत्कालं चन्द्रलग्नतः प्राग्वत्‌ ।
+रात्रौ तु नाडिकाः स्युः क्ेप्यास्त्याज्या दिवाऽभ्युदितैः ।।६।।
+(Deva, KR, 5.5-6)
+Rising and setting of the Moon
+Increase the longitude of the Sun for sunset by 6
+Signs: the result is the longitude of the horizon-ecliptic
+point in the east. If the longitude of the Moon (for
+sunset) is less than that, the Moon rises before sunset;
+if greater, after sunset. (5). (KSS)
+
+The time of moonrise should be obtained from the
+Moon’s longitude, the longitude of the rising point of
+the ecliptic, and the oblique ascensions of the Signs, as
+before. When moonrise occurs in the night (i.e., after
+sunset) the nddis (intervening between the Moon and
+the rising point of the ecliptic) should be added to the
+measure of the day; when moonrise occurs in the day
+(i.e., before sunset) the n@dis (intervening between the
+Moon and the setting point of the ecliptic) should be
+subtracted from the measure of the day: (the result in
+either case is the time of moonrise reckoned since
+(8). (KSS)
+याम्योदग्‌ विक्षेपाद्‌ fagagrearg रविभिरवाप्तांश्ः |
+उदये शशिनो वृद्धिः क्षयो विपयस्तमस्तमये ।। ८ 1
+एवं व्यर्काच्चिन्द्राद्‌ यद्यूना राशयः षडधिका वा |
+तदुदयकालेन दिवा निशि च शशाद्कोदयो वाच्यः ।। & it
+कृत्वैवं क्षयवृद्धी व्यार्काच्चनद्राद्‌ विशोध्य चक्राधेम्‌ ।
+
+शेषोदयकालसमे शशिदिवसान्ते शशी मध्ये ।। १० ।।
+(Varaha, PS, 5.8-10)
+
+sunrise).
+
+17. 6. 2.
+
+Multiply the Moon’s latitude in degrees by the
+equinoctial shadow and divide by twelve. Add the
+
+1 This correction is probably meant to account for the difference
+between the horizontal parallaxes of the Moon and the Sun. 48“
+is evidently the difference between the horizontal parallaxes of the
+Moon and the Sun. For, according to Aryabhata I:
+
+Moon’s horizontal parallax = 52’ 30”
+Sun’s horizontal parallax = 3’ 56”
+
+18-*
+
+17.6.3
+
+resulting degrees to the longitude of the Moon, or
+subtract from it, according as the Moon’s latitude is
+south or north, if the times of daily moonrise is to be
+computed. If the times of daily moonset is to be found,
+reverse the addition and subtraction, (i.e. subtract
+and add respectively). (8)
+
+Subtract the longitude of the Sun from that of the
+Moon corrected thus. Find the time for this segment
+of the ecliptic to rise, after sunrise. By so much time
+after sunrise, the Moon will rise. If this segment is
+less than six rasis, then the moonrise will fall in the
+daytime, if greater, the Moon will rise at night. (9)
+
+In the manner given in verse 8, correct the Moon for
+moonset, deduct the Sun from this corrected Moon, and
+deduct 6 rafis from the remainder. Find the time by
+which the remaining segment will rise, after sunrise.
+This is the time from sunrise when the Moon. will set.
+At the time exactly midway between moonrise and
+moonset, the Moon will reach the meridian, i.¢., will
+
+be at upper culmination). (10). (TSK)
+चन्द्रोदयास्तमथस्फुटकालः
+17. 6. 3. भवनषट्‌कयुतेन विवस्वता
+
+भवति चेत्‌ सदृशो हिमदीधितिः ।
+
+सममृदेति तथास्तमुपेयुषा
+निशि महानमहानपि वासरे ॥ & ॥
+
+शशधरो गृहषट्‌कसमन्वितो
+
+यदि समो रविणोदयमेष्यता ।
+युगपदस्तमुरप॑ति महान्‌ दिवा
+
+निशि लघुः समयोऽत्र च पूवेवत्‌ ।। १० ॥
+
+aay निश्च घटिकाभिरितागताभिः
+
+सडगुण्य भुक्तिमुड्पस्य खषड्‌'विभक्ताम्‌ ।
+कृत्वा ऋरमाद्धनमृर्ण युनिशान्तजस्य
+
+दृक्कमं चापि समयोऽसकृदेव साध्यः ।। ११॥
+
+ऊनो विलम्नादधिकोऽस्तलग्नाद्‌
+दृश्य: शशी स्यात्‌ कृतदुष्टिकर्मा ।
+यथान्तरेऽकंग्रहयोस्तथानयोः
+प्रसाध्यते य: समय: समुन्नतः ।। १२॥।
+(Lalla, SiDhVr., 8. 9-12)
+
+Corrected time for the rising and setting of the
+
+Moon
+If the true longitude of the Moon, (corrected by the
+two visibility corrections), is the same as the true longi-
+tude of the Sun at sunset, increased by 6 Signs, the Moon
+rises at the same time as the Sun sets; if greater, it
+rises after, and if less, it rises before sunset. (9)
+
+1 For the working, see PS: TSK, 5. 8-10.

@@ -1,0 +1,84 @@
+170                                                    C+.a;ya;a;pra;k+.=+Na;m,a                                                   Gnomonic shadow
+                                                                                                                              
+                                                                         R cos z
+                                    tr,s = (R sin)−1                               − R sin ∆ α + ∆ α .                                      (3.79)
+                                                                       cos φ cos δ
+
+It can be seen from Fig. 3.11 that the time that is yet to elapse till sunset, when the
+Sun is in the northern hemisphere, is given by the sum of the arc lengths θ and ∆ α .
+Using the expression for θ obtained from (3.52), we get
+                                                         
+                                        cos z
+                    tr,s = (sin)−1               − sin ∆ α + ∆ α .               (3.80)
+                                     cos φ cos δ
+
+Thus we see that the expression given in the text for determining the time during
+any part of the day is exact.
+
+
+        ñÍ
+  .
+3 14 Za;ö
+        *:Å +.. C+.a;ya;a;taH
+         u
+                                                å
+                                              .~.Pu+.f;sUa;ya;Ra;va;ga;ma;na;m,a
+
+
+3.14 Determination of the true Sun from the shadow of the
+     gnomon
+
+      k+:a;ntya;[a;. a;a;pa;ya;ea;ga;a;a Bea;d;a;d
+      Ò                                           õ ;a ya;a;}ya;sa;Ea;}ya;ya;eaH               Á Á 25               ÁÁ
+                                                                å
+      .ja;a;va;a ma;Dya; / /
+                         a;nd;na;. C+.a;ya;a ta;ta;ea va;a;k
+                                                           R +:~.Pu +.fM na;yea;t,a             Á
+
+      ma;Dya;a;k
+               R +:na;ta;Ba;a;gea;ByaH        .~va;a;[a;Ba;a;ga;a;n,a ;a;va;Za;ea;Da;yea;t,a            Á Á 26            ÁÁ
+         ñÍ
+      Za;*:+.
+         öÅ ea:+:d;gga;ta;a Ba;a . ea;t,a ya;a;}ya;k
+                                                     Ò +:a; ////
+                                                           a;nta;a;hR ;a;Za;Sya;tea                 Á
+
+                                  ãÉa;ea;na;a na;ta;Ma;~ta;a;hR ;a;va;Za;ea;Da;yea;t,a
+      .~va;a;[a;Ba;a;ga;a;a;ta;a;(                                                          Á Á 27            ÁÁ
+           ëÅ
+      o+.d;ë
+           *:Á" +:a; / / 
+                    a;nta;~ta;d;a ;a;Za;;a na;tya;[a;yua;a;ta:=+nya;d;a              Á
+
+         ê
+      ta:*.
+         êÁaa;a ;a:a:$ya;a;h;ta;a Ba;+:a kÒ +:a;ntya;a :pa:=+ma;ya;a .=+veaH                         Á Á 28           ÁÁ
+
+      d;ea:$ya;Ra ta;a;a;pa;mea;va .~ya;a;t,a .sa;Ea;}yea ga;ea;le Y;ya;nea Y;a;pa .. a Á
+                                                      æ
+      .=+a;va;~ta:a;a;ya;nea ;Æa;Ba;ea .=+a;a;Za;Sa:öÅ*:M ta;dU;a;na;ta;m,a   Á Á 29         ÁÁ
+                                                          æ
+      ya;a;}yea ga;ea;le Y;ya;nea . a;a;a;pa .=+a;a;Za;Sa:öÅ*:+.yua;tMa .=+a;vaH Á
+
+      ta;d
+         U ;nMa ma;Nq+.lM Ba;a;nuaH         ya;a;}ya;~Tea .. a;ea:a:=+a;ya;Nea           Á Á 30          ÁÁ
+
+      krāntyaks.acāpayogācca bhedādvā yāmyasaumyayoh. ||25 ||
+      jı̄vā madhyandinacchāyā tato vārkasphut.am     . nayet |
+      madhyārkanatabhāgebhyah      . svāks.abhāgān viśodhayet ||26 ||
+      śaṅkorudaggatā bhā cet yāmyakrāntirhi śis.yate |
+      svāks.abhāgānnatāśconā natām. starhi viśodhayet ||27 ||
+      udakkrāntistadā śis..tā natyaks.ayutiranyadā |
+      tajjyā trijyāhatā bhaktā krāntyā paramayā raveh   . ||28 ||
+      dorjyā taccāpameva syāt saumye gole ′yane ′pi ca |
+      ravistatrāyane bhinne raśis.at.kam   . tadūnitam ||29 ||
+      yāmye gole ′yane cāpi raśis.at.kayutam  . ravih.|
+      tadūnam . man  . d.alam
+                             . bhānuh. yāmyasthe cottarāyan    . e ||30 ||
+      Depending upon whether the Sun is in the southern or the northern hemisphere, the sum
+      of, or the difference between, the latitude [of the place] and the declination [of the Sun]
+      is found. The Rsine of this angle is a measure of the length of the midday shadow. The
+      position of the true Sun can be obtained from this also.
+      Subtract the latitude of the place from the zenith distance of the Sun at the noon. If the
+      shadow [at noon] lies to the north of the śaṅku, then the remainder gives the southern
+

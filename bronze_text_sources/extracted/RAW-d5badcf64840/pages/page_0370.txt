@@ -1,0 +1,64 @@
+5.7 Application of lambana in finding the half-duration                                             323
+
+   is same, then the difference in parallaxes in longitude must be added to the half-duration.
+   If they (the hemispheres) are different, then the sum of the parallaxes in longitude must
+   be added to the half-duration. The parallaxes in longitude gradually decrease in the eastern
+   hemisphere, whereas they gradually increase in the western hemisphere.
+   When the reverse is the case [that is, the successive parallaxes in longitude are increasing in
+   the western hemisphere and decreasing in the eastern], then the difference in the parallaxes
+   in longitude must be subtracted. When the last contact is close to sunrise, then the parallax
+   in longitude at release is greater. Then the madhyakāla is in the night and the parallax in
+   longitude in the middle has to be subtracted from that at release.
+   The difference must be subtracted from the instant of last contact. Similarly when the first
+   contact is close to the sunset, because the parallax in longitude at first contact is greater than
+   that (in the middle), the difference has to be subtracted from the madhyakāla.
+
+   Here the corrections to the half-durations of the eclipse due to parallax in lon-
+gitude are discussed. Let l1 , l2 and l3 be the parallaxes in longitude (see Section
+5.3) calculated at the first contact, the middle and the moks.akālas. The expressions
+for the half-durations (see (5.47) and (5.48)) can be understood with the help of
+Fig. 5.10. Here S1 , S2 and S3 are the positions of the Sun on the ecliptic without
+
+
+                    apparent Sun’s path              Z
+
+
+                                    S3
+                                     S ’3
+                                            S2      di
+                                             S ’2
+                                                     ur
+                                                         na
+                                                         lm
+                                                                ot
+                      M                             S1          io
+                                                                 n
+                        oo
+                                                                           ecliptic
+                                                         S ’1
+                          n’
+                           sm                                        (actual Sun’s path)
+                               ot
+                               io                                                          N
+             S
+                                 n
+
+
+                                                   E
+                     apparent Moon’s path due to parallax
+
+Fig. 5.10 The first contact, the middle and the last contact of a solar eclipse occurring in the eastern
+hemisphere.
+
+
+parallax at the first contact, the middle and the last contact. S1′ , S2′ and S3′ are the
+projections of the apparent positions of the Sun along the ecliptic including the ef-
+fect of parallax. We will clarify the meanings of Si and Si′ shortly.
+
+                                    Si Si′ = li          i = 1, 2 & 3,                           (5.43)
+
+are the parallaxes in longitude at the first contact, the middle and the last contact. In
+the absence of parallax, let ∆ t1 and ∆ t2 be the first and second half-durations. They
+are given by
+                         ∆ t 1 = S1 S 2    and      ∆ t 2 = S 2 S3 .              (5.44)
+

@@ -1,0 +1,45 @@
+Concepts of Astronomy
+
+In these expressions w is the obliquity of the earth’s axis (= 23°.4329111 for J2000) and A
+is the celestial longitude of the ecliptic point for which the rising time is required. A for the
+boundaries of each sign is obtained by adding multiples of 30° to the ayanaméa of the
+epoch. For J2000 A for the initial point of Mesa will be 24०3509" and additions of 30
+yields other boundaries. Sidereal interval can be converted to civil time by dividing it with
+1.00273790935 and vice versa. Sidereal time for the local mean noon of any date may be
+found as A /15 where J is the tropical mean longitude of Sun for 1200 LMT.
+
+e Orbital Motion of the Planets
+
+As brought out by Kepler the planets move round the sun in elliptical orbits having the
+sun at a focus. The point of the orbit closest to the sun is called perihelion while the
+farthest point is referred to as aphelion and these are the extremities (apsides) of the
+major axis (apsidal line) of the orbit. The longitudes of the apsides are the apparent
+ecliptic longitude of the sun in transit of these points. All planets have their apsides and in
+the case of Moon, they are respectively called as perigee and apogee in the orbit round
+the earth. Perihelion and aphelion are the vertices of fast and slow motion respectively.
+
+Sidereal Positions of the Nodes and Apsides for J2000
+
+Tropical | Synodic
+
+Object Perihelion | Aphelion | Node | Inclination’ period period
+
+Earth 78°21’ | 258°21' (33525 0°  (365.24219
+
+Moon 58०46 | 138०46' 10011 5०8 7.32158 9.53059
+Mercu 52°59 | 132°52 [23°45'| 70 (67.96843 [115.8775
+Mars 311928 | 131°28° | 24०58 | 1°51’ (686.92971 (779.9361
+
+Jupiter 349°45' | 169045' |75°53’| 1719 4330.59576398.8840
+Venus 406°59' | 286"%9 | 5206 | 3°24 @224.69543 [583.9214
+Saturn 68°28’ 248°29° |89°05’| 2729 (10746.9404378.0919
+
+Planets have their quickest motion at the perihelion and they are slowest at the aphelion
+At the Nodes they move over the ecliptic to either south or north attaining maximum
+iatitudes at 90° away from the Nodes. A conjunction in latitude and longitude between two
+objects may cause occultation that may or may not be visible at a particular place
+Computation of visibility of occultation is complex as in the case of solar eclipses.
+
+O
+
+473

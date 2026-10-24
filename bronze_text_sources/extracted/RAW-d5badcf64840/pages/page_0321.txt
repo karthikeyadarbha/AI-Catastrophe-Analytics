@@ -1,0 +1,77 @@
+274                                                    . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                                      Lunar eclipse
+
+clearly there is a necessity for an improvised technique. What is prescribed in the
+text is an iterative procedure for finding the half-duration. As a first approximation,
+the latitude known at the instant of opposition is taken to be β and ∆ t0 is determined.
+The iterative procedure to be adopted is described in the following verses.
+
+
+  .          -
+4 14 ; //////
+                      å
+      a;~Ta;tya;DRa .~.pa;ZRa;ma;ea;[a;a;Na;a;ma;a;va;Zea;SaH
+
+
+4.14 Iteration for obtaining the half-duration, and the time of the
+     first and the last contact
+                      Èå     å
+       a;~Ta;tya;DRa. î
+      ; ///         *+ Áe .~.Pu +.fe Bua;+:a :Sa;a;a;ea Ba;a;nua;. a;ndÒ+ya;eaH              Á Á 23           ÁÁ
+
+                                                             å
+      Za;ea;Da;yea;t,a .sa;ma;a;l+.ea;nd;Ea .sUa;ya;Ra;a .~.pa;a;a;ZRa;k+:a;vua;Ba;Ea       Á
+
+      .~va;Bua;a;+:ma;nya;Ta;a :pa;a;tea ta;d;a ta;a;tk+:a;a;l+.k+:a;kx +:ta;aH              18    Á Á 24              ÁÁ
+
+        å
+                       ãÉa :pua;naH
+      .~.pa;ZeRa;nd;ea;(              [ea;pa; / / / 
+                                             a;~Ta;tya;Da ta;
+                                                             ç Å +a;taH    Za;Za;a       Á
+
+                                                     ãÉa;l+.tva;a;d;dx;[ua;Na;a
+                            x +:t,a k+:a;ya;Ra ;a;na;(
+      :pra;a;gva;de;va;a;sa;k                                                         Á Á 25         ÁÁ
+
+      ; ///
+       a;~Ta;tya;DRa;ga;a;ta;ma;keR +:nd
+                                       õ ;eaH   ;Æa;[a;va;a ta;Ea ma;Ea;Æa;[a;k+:Ea na;yea;t,a           Á
+
+      A;nya;t,a .sa;va .sa;mMa ma;ea;[ea ; / / / 
+                                          a;~Ta;tya;DRa;~ya;a;a;va;Zea;Sa;Nea                 Á Á 26          ÁÁ
+
+      sthityardhaghne sphut.e bhuktı̄ .sas..tyāpte bhānucandrayoh. || 23 ||
+      śodhayet samaliptendau sūryācca spārśikāvubhau |
+      svabhuktimanyathā pāte tadā tātkālikı̄kr    . tāh. || 24 ||
+      sparśendośca punah. ks.epasthityardham       . tadgatih. śaśı̄ |
+      prāgvadevāsakr  . t kāryā niścalatvadidr.ks.un . ā || 25 ||
+      sthityardhagatimarkendvoh        . ks.iptvā tau mauks.ikau nayet |
+      anyat sarvam    . samam   . moks.e sthityardhasyāviśes.an    . e || 26 ||
+      The true daily motions of the Sun and the Moon (the bhuktis) multiplied by the half-
+      duration and divided by 60 and subtracted from the positions of the Sun and the Moon [at
+      the parvānta] give their positions at the time of contact (the spārśika). In the case of the
+      node, its daily motion [has to be applied] in the reverse manner. Then [are obtained] the
+      values at that time (of contact).
+      From the position of the Moon [and the node and shadow] obtained at the time of contact,
+      again the latitude, the half-duration and the [daily] motions [are computed]. The Moon
+      [and others] are to be obtained iteratively by one who is interested in their steady values
+      (niścalatva-didr.ks.un. ā). By adding the distance traversed by the Sun and the Moon in
+      half-duration [to their longitudes at the parvānta], their longitudes at the time of release
+      are to be obtained. For finding the half-duration of release iteratively, everything else is the
+      same.
+
+   The positions of the Sun and the Moon at the time of contact are obtained by
+subtracting their motions during the first-half duration from their values at the in-
+stant of opposition. The motion of the Sun/Moon is obtained by multiplying their
+true daily motion (λ̇s , λ̇m ) by the half duration—the first approximation of which
+has been found as given by (4.39)—and dividing by 60 (the number of nād.ikās in
+
+18 The reading in the published text ({TS 1958}, p. 105) is: .sa;d;a                                             x +:ta;Ea Á This
+                                                                                            ta;a;tk+:a;a;l+.k+:a k
+
+reading seems to be incorrect, and hence it has been corrected. The commentary Laghu-vivr.ti—
+which runs as: O;;vMa kx+:ta;aH a;ya;eaY;a;pa .tea ta;a;tk+:a;a;l+.k+:a Ba;va;a;nta
+                                                                                 //// —is also in consonance with the
+
+correction implemented above.
+

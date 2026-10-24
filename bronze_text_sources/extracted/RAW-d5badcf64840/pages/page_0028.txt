@@ -1,0 +1,11 @@
+List of Figures                                                                                                xxvii
+
+    F.9  Nı̄lakan.t.ha’s cosmological model showing the five planets moving
+         in eccentric orbits around the mean Sun. . . . . . . . . . . . . . . . . . . . . . . . . 522
+    F.10 Elliptic orbit of a planet around the Sun. . . . . . . . . . . . . . . . . . . . . . . . . 530
+    F.11 Heliocentric and geocentric longitudes of an exterior planet in
+         Kepler’s model. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 532
+    F.12 Heliocentric and geocentric longitudes of an interior planet in
+         Kepler’s model. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 533
+    F.13 Heliocentric and geocentric latitudes of a planet in Kepler’s model. . . 534
+

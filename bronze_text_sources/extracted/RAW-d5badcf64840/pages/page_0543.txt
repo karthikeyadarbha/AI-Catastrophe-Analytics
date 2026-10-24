@@ -1,0 +1,63 @@
+496                                   The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                                        . t.ha
+
+   Mādhava of Saṅgamagrāma, the renowned mathematician and astronomer of
+the 14th century, by carefully analysing the geometry of the problem, came up with
+a brilliant method of finding the aviśis..ta-manda-karn.a without performing an iter-
+ative process, which is explained in the next section.
+
+
+
+F.1.4 Mādhava’s formula for the aviśis..ta-manda-karn
+                                                      .a
+
+Mādhava’s procedure for determining the aviśis..ta-manda-karn.a involves finding
+a new quantity called the viparyaya-karn. a or viparı̄ta-karn.a. The term viparı̄ta-
+karn.a literally means ‘inverse hypotenuse’, and is nothing but the radius of the
+kaks.yāvr.tta when the manda-karn.a is taken to be the trijyā, R. The following
+verses from Tantrasaṅgraha (II, 43–44) present the way of obtaining the aviśis..ta-
+manda-karn.a proposed by Mādhava that circumvents the iterative process.
+
+   ;a;va;~txa;a;ta;d;l+.d;eaH P+.l+. x
+                                    k+:a;ta;a;va;yua;a;ta;pa;dM k+:ea;a;f;P+.l+.a;va;h;a;na;yua;ta;m,a Á
+
+   :k
+    e +:ndÒe mxa;ga;k+:a;k                                     x +:ta;ea Ba;vea;t,a k+:NRaH Á Á
+                          R +:ga;tea .sa Ka;lu ;a;va;pa;yRa;ya;k
+
+   .tea;na &+.ta;a ;a:a:$ya;a;kx +:a;taH   A;ya;a;a;va;a;h;ta;ea Y;a;va;Zea;Sa;k+:NRaH    .~ya;a;t,a      Á
+
+
+
+   The square of the doh.phala is subtracted from the square of the trijyā and its square root
+   is taken. The kot.iphala is added to or subtracted from this depending upon whether the
+   kendra (anomaly) is within six signs beginning from Karki (Cancer) or Mr.ga (Capricorn).
+   This gives the viparyaya-karn     . a. The square of the trijyā divided by this viparyaya-
+   karn . a is the aviśes.a-karn
+                                . a (iterated hypotenuse) obtained without any effort [of itera-
+   tion].
+
+
+
+                                    ucca-nı̄ca-vr.tta                           U           karn.avr.tta
+
+                                                      P
+                                                                                                         kaks.yāvr.tta
+
+                                                 N
+
+                                                       P0                                                           Γ
+
+
+
+
+                                                                          O
+
+
+
+
+                                                                            g
+
+Fig. F.3b Determination of the viparı̄ta-karn
+                                            . a when the kendra is in the first quadrant.
+

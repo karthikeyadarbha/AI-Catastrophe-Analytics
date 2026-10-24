@@ -1,0 +1,67 @@
+248                                                     C+.a;ya;a;pra;k+.=+Na;m,a                                        Gnomonic shadow
+
+where λl and λs are the longitudes of the prāglagna and the Sun respectively. Using
+(3.312) and (3.315) in (3.314), we have
+
+                                                                       cos φ cos δ cos H + sin φ sin δ
+                                       sin(λl − λs ) =                                                 ,                         (3.316)
+                                                                                   cos ZV
+which is the same as (3.308) given in the text, when we identify λl − λs with ∆ θ .
+Moreover, to get the longitude of the prāglagna, we see that we need to add ∆ θ to
+the longitude of the Sun. That is,
+
+                                                                       λl = λ s + ∆ θ .                                          (3.317)
+
+This is exactly the prescription given for finding the prāglagna from the hour an-
+gle (nata), determined for the eastern part of the hemisphere. The astalagna point
+would be to the west of the Sun in the western part of the hemisphere. Clearly,
+the corresponding arc ∆ θ has to be subtracted from Sun’s longitude to obtain the
+astalagna. Thus we see that the procedure described in the text for determining
+prāglagna or astalagna is exact.
+   When the Sun is in the eastern part of the celestial sphere and below the horizon,
+it would be east of the udaya-lagna and H would be measured with respect to
+midnight. Then
+
+                                                    lagna = λs − ∆ θ                                    (at udaya)
+                                                    lagna = λs + ∆ θ                                    (at asta).               (3.318)
+
+The point V is the midpoint of the portion of the ecliptic above the horizon. Its
+longitude will be the average of the prāglagna and astalagna. This is also equal to
+the prāglagna −90◦ , or the astalagna +90◦ . The longitude of V , which is usually
+referred to as the vitribhalagna, is also called dr.kks.epalagna.
+
+
+               Éç
+  .
+3 45 ma;Dya;l+.îå
+               +;a;a;na;ya;na;m,a
+
+3.45 Determination of the madhyalagna
+
+                 çÉ
+      k+:a;l+.l+.îå
+                 +;aM ;a:a:=+a;ZyUa;nMa ma;Dya;k+:a;l+.~ta;taH              :pua;naH     Á
+
+      ;a;l+.a;a;pra;a;Na;a;nta:=M na;a;tva;a ta;d      ãÉa;a;pea tua ya;ea:ja;yea;t,a
+                                                  , d;ea;(                                            Á Á 111       ÁÁ
+
+            ãÉa;a;sUa;n,a na;yea;t,a :pra;a;gva;t,a ta;a;+:a;a;nta:=+mua:;d
+      ta;ta;(                                                               Äâ :=e+t,a        Á
+
+      k+:a;l+.d;ea;DRa;nua;a;Sa [ea;pyMa ta;taH       :pra;a;Na;k+:l+.a;nta:=+m,a        Á Á 112               ÁÁ
+
+      k+:a;l+.d;ea;DRa;nua;a;Sa ;Æa;[a;va;a ta;a;a;pa;ma;a;va;Zea;Sa;yea;t,a      Á
+                çÉ
+      ma;Dya;l+.îå
+                +;aM ta;de;va .~ya;a;t,a ta;tk+:a;le :pra;Ta;mea :pa;de                 Á Á 113           ÁÁ
+                                                            çÉ
+         õ ;ta;a;ya;a;a;d;Sua . a :pra;a;gva;t,a ma;Dya;l+.îå
+      ;a;d                                                  +;a;Æa;ma;h;a;na;yea;t,a              Á
+
+      kālalagnam  . trirāśyūnam
+                                  . madhyakālastatah. punah. |
+      liptāprān
+                . āntaram. nı̄tvā tad doścāpe tu yojayet || 111 ||
+      tataścāsūn nayet prāgvat talliptāntaramuddharet |
+      kāladordhanus.i ks.epyam   . tatah. prān. akalāntaram || 112 ||
+

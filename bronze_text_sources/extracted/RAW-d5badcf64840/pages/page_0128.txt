@@ -1,0 +1,59 @@
+2.12 Planets at sunrise at observer’s location                                                       81
+
+                     å
+   ma;Dya;Bua;a;M .~.Pu +.f;Ma va;a;a;pa h;tva;a . a;kÒ +:k+:l+.a;&+.ta;m,a   Á
+
+                                                                  å
+   .~va;Na k+:a;ya ya;Ta;ea;M ta;t,a v.ya;~tMa va;k
+                                                   Ò +:ga;ta;Ea .~.Pu+.fe      Á Á 32   ÁÁ
+
+   liptāprān. āntaram. bhānoh. doh.phalam       . ca carāsavah. |
+   svarn . asāmyena sam    . yojyā bhinnena tu viyojayet || 28 ||
+   bhānumadhyamabhuktighnam               . cakraliptāhr. tam
+                                                              . phalam |
+   bhānumadhye tu sam        . skāryam   . sphut.abhuktyāhatam    . sphut.e || 29 ||
+   udaksthe ′rke caraprān      . āh. śodhyāh. svam. yāmyagolake |
+   vyastamaste tu sam      . skāryā na madhyāhnārdharātrayoh. || 30 ||
+   yugmaujapadayoh       . svarn   . am . ravau prān . akalāntaram |
+   doh.phalam   . pūrvavat kāryam       . raverebhirdyucārin  . ām || 31 ||
+   madhyabhuktim      . sphut.ām    . vāpi hatvā cakrakalāhr . tam |
+   svarn . am
+            . kāryam  . yathoktam       . tat vyastam  . vakragatau sphut.e || 32 ||
+   The prān. akalāntara, doh.phala (equation of centre) and carāsus, all in minutes, have
+   each to be added or subtracted depending upon their signs. This quantity multiplied by the
+   mean daily motion of the Sun and divided by 21600 has to be applied to the mean Sun, and
+   the same has to be multiplied by the true daily motion of the Sun and applied to the true
+   Sun [to get the longitudes of the mean and the true Sun respectively at the true sunrise at
+   any given location].
+   When the Sun is to the north (has northern declination), then the carāsus have to be applied
+   negatively and when it is to the south they have to be applied positively [this sign convention
+   is to be adopted when the longitude is to be determined at sunrise]. The carāsus have to
+   be applied in the reverse order at the sunset. They need not be applied [for determining the
+   longitude] at midday or midnight.
+   The prān. akalāntara has to be applied positively and negatively in the even and odd quad-
+   rants respectively. The doh.phala has to be applied as discussed earlier. With these quanti-
+   ties (namely prān. akalāntara, doh.phala and carāsus), which are related to the Sun, the
+   mean or true daily motions of the planets are to be multiplied and divided by 21600. These
+   have to be applied positively or negatively as mentioned earlier [when the planet is in di-
+   rect motion] and the application has to be done in the reverse order when the planet is in
+   retrograde motion [to get the mean and true planets at true sunrise].
+
+    In the above verses, Nı̄lakan.t.ha gives the procedure for obtaining the mean or
+true longitudes of the planets at the true sunrise at the observer’s location. The longi-
+tudes obtained from the Ahargan.a give the mean and true positions of the planets at
+the mean sunrise, i.e. when the mean Sun is on the 6 o’clock circle, at the observer’s
+location. To get the positions of the planets at the true sunrise, i.e. when the true Sun
+is on the observer’s horizon, corrections have to be applied.
+    Of the two corrections that need to be applied, one is due to the fact that at
+sunrise the Sun is on the horizon and not on the 6 o’clock circle. The time difference
+between the sunrise and the instant when it is on the 6 o’clock circle (the carāsus)
+has been discussed earlier. Now, when the Sun has a northerly declination, sunrise
+is earlier than its transit across the 6 o’clock circle and carāsavas have to be applied
+negatively. Similarly, when the Sun has a southerly declination, sunrise is after its
+transit across the 6 o’clock circle and the carāsus have to be applied positively. The
+other two corrections are due to the fact that there is a time difference between the
+transits of the mean Sun and the true Sun across the meridian or the 6 o’clock circle.
+In fact, we shall see below that the expression for the sum of these two corrections
+given in the text is the same as the equation of time in modern astronomy (for more
+details refer to Appendix C).
+

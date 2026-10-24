@@ -1,0 +1,53 @@
+                               ëÅ
+388                         dx;ë
+                               *:+:mR
+                                  Á   a;pra;k+.=+Na;m,a                         Reduction to observation
+
+                                                               β sin ψ
+                                 a = CD′ =                                  .                    (7.11)
+                                                          cos θ cos(θ + ψ )
+
+When δ is small, cos δ ≈ 1 and sin ψ = sin φ or ψ = φ . If we also take θ ≈ 0,
+
+                                                   a = β tan φ ,                                 (7.12)
+
+which is the same as (7.1), the formula prescribed in the text.
+
+
+Āyana correction
+
+In order to find the expression for the āyana-dr.kkarma, δ ′ , which is the declination
+of the point on the ecliptic corresponding to λ + 90, i.e. the sāyana longitude of the
+planet increased by 90 degrees, is to be determined. Now, the āyana correction x is
+given to be
+                            x(sec) = β (min) × δ ′ (degrees).                     (7.13)
+If λ is the sāyana longitude of the planet, then it is stated that the āyana corrected
+longitude is given by
+                                     λ ′ = λ ± x,                                 (7.14)
+where the sign ‘−’ is to be chosen if δ ′ and β are in the same hemisphere, and ‘+’
+is to be chosen if they are in different hemispheres.
+
+
+Rationale behind the āyana correction
+
+In the spherical triangle KDP (see Fig. 7.1a), KP = ε , KD = 90. Let K D̂P = θ ′ .
+Also,
+                     PD = 90 − δ , 1   DK̂P = GK̂P = 90 − λ .             (7.15)
+Using the sine formula we have
+
+                                                   sin ε cos λ   sin δ ′
+                                 sin θ ′ =                     =         ,                       (7.16)
+                                                      cos δ      cos δ
+where δ ′ is the declination corresponding to the longitude 90 + λ . When δ is small,
+sin θ ′ = sin δ ′ or θ ′ = δ ′ .
+   We now consider the triangle GDF. Since it is small, we consider it to be planar
+and hence we have
+
+                                              GF = GD sin θ ′
+                                                 = β sin θ ′
+                                                          ≈ β δ ′.                               (7.17)
+
+1
+  We have taken the declination of the point, where the secondary to the ecliptic passing through
+the planet meets the ecliptic, to be δ . This seems to have been the practice.
+

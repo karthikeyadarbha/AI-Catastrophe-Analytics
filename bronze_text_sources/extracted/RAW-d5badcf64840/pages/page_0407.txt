@@ -1,0 +1,53 @@
+360                                    v.ya;ta;a;pa;a;ta;pra;k+.=+Na;m,a                   Vyatı̄pāta
+                                                     ε           P
+                                           K
+
+
+
+
+                                                                                M
+                                                                                    I
+
+                        equa                                                S
+                                                                  N1
+                            tor
+                                                          Γ
+                                           ε                                    G       J
+                        ecliptic
+                                               bit
+                                       ’s or
+                               M   oon
+
+Fig. 6.2a Finding the declinations of the Sun and the Moon.
+
+
+
+   sadiśoh. sam . yutiranayoh. viyutirvidiśorapakramah. spas..tah. |
+   spas..tāpakramakot.irdyujyā viks.epaman    . .dale vasatām || 5 ||
+   ityuktātra sphut.ā krāntih. gr
+                                   . hyatām. golavittamaih. |
+   The Rsine [of the longitude] of the node subtracted from [the longitude of] the Moon,
+   multiplied by the maximum deflection [of the Moon’s orbit] and divided by the trijyā,
+   gives the latitude of the Moon (β ). Let the Rcosine of it also be obtained.
+   Having multiplied the Rsine of the latitude of the Moon (the viks.epajyā) by the cosine
+   of the maximum deflection [of the ecliptic from the equator], and having multiplied the
+   Rcosine of that (the latitude of the Moon) by the [Rsine of the] desired declination [of the
+   Moon determined earlier], the two [products] divided by the trijyā are readily suited for
+   addition or subtraction.
+   If these two are in the same direction then they must be added, and if they are in different
+   directions then their difference must be found. [Now] the true declination [of the Moon is
+   obtained]. The Rcosine of the true declination will be the day-radius (dyujyā) for those
+   residing in the viks.epaman  . d.ala. Let the process of the [determination of] true declination
+   [of the Moon] thus explained be understood by the experts in the spherics.
+
+   Considering the triangle PKM in Fig. 6.2b and applying the cosine formula, we
+have
+               cos PM = cos PK cos KM + sin PK sin KM cos PKM.             (6.5)
+Let λm , β and δm be the longitude, the latitude and the declination of the Moon.
+Then
+                   KM = 90 − β        and      PM = 90 − δm.                 (6.6)
+P and K being the poles of the equator and the ecliptic, the arc PK = ε . Γ is the pole
+of the great circle passing through K and P. Therefore
+
+                         Γ K̂P = 90                      and           PK̂M = 90 − λm.          (6.7)
+

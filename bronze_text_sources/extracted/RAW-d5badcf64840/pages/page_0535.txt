@@ -1,0 +1,53 @@
+488                       The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                            . t.ha
+
+    Nı̄lakan.t.ha Somayājı̄ of Tr.kkan.t.iyūr (c. 1444–1550), a disciple of Parameś-
+vara’s son Dāmodara, carried out a fundamental revision of the traditional planetary
+theory. In his treatise Tantrasaṅgraha, composed in 1500, Nı̄lakan. .tha outlines the
+detailed computational scheme of his revised planetary model. For the first time in
+the history of Astronomy, Nı̄lakan.t.ha proposed that in the case of an interior planet
+(Mercury or Venus), the manda-correction or the equation of centre should be ap-
+plied to what was traditionally identified as the śighrocca of the planet—which, in
+the case of interior planets, corresponds to what we currently refer to as the mean
+heliocentric planet. This was a radical departure from the traditional Indian plan-
+etary model where the manda-correction for an interior planet was applied to the
+mean Sun.4
+    In this way, Nı̄lakan.t.ha arrived at a much better formulation of the equation of
+centre and the latitudinal motion of the interior planets than was available either
+in the earlier Indian works or in the Islamic or the Greco-European traditions of
+astronomy till the work of Kepler, which was to come more than a hundred years
+later. In fact, in so far as the computation of the planetary longitudes and latitudes is
+concerned, Nı̄lakan.t.ha’s revised planetary model closely approximates to the Kep-
+lerian model, except that Nı̄lakan.t.ha conceives of the planets as going in eccentric
+orbits around the mean Sun rather than the true Sun.
+    In his Āryabhat.ı̄ya-bhās.ya, Nı̄lakan.t.ha explains the rationale behind his revi-
+sion of the traditional planetary theory. This has to do with the fact (which was no-
+ticed by several Indian astronomers prior to Nı̄lakan.t.ha) that the traditional Indian
+planetary model employed entirely different schemes for computing the latitudes
+of the exterior and the interior planets. While the latitudes of the exterior planets
+were computed from their so-called manda-sphut.a (which corresponds to what we
+currently refer to as the true heliocentric planet), the latitudes of the interior plan-
+ets were computed from their so-called śı̄ghrocca. Nı̄lakan.t.ha argued that since the
+latitude should be dependent on the deflection (from the ecliptic) of the planet it-
+self and not of any other body, what was traditionally referred to as the śı̄ghrocca
+of an interior planet should be identified with the planet itself. Nı̄lakan.t.ha also
+showed that this would lead to a unified treatment of the latitudinal motion of all the
+planets—interior as well as exterior.5
+    In Āryabhat.ı̄ya-bhās.ya, Nı̄lakan.t.ha also discusses the geometrical picture of
+planetary motion implied by his revised model.6 This geometrical picture, which
+is also stated by Nı̄lakan.t.ha succinctly in terms of a few verses in Golasāra and
+Siddhānta-darpan.a, is essentially that the planets move in eccentric orbits (which
+
+4 It had also been a general feature of all ancient planetary theories in the Greco-European and the
+
+Islamic traditions of astronomy, till the work of Kepler, that the equation of centre for an interior
+planet was wrongly applied to the mean Sun.
+5 In fact, it has been noted in a later text, Viksepagolavāsanā, that Nı̄lakantha pioneered a
+                                                    .                               ..
+revision of the traditional planetary theory in order to arrive at a unified formulation of the motion
+in latitude of both the interior and the exterior planets.
+6 The renowned Malayalam work Ganita-yukti-bhāsā (c. 1530) of Jyesthadeva also gives a
+                                          .                .                    ..
+detailed exposition of the geometrical picture of planetary motion as per the planetary model of
+Nı̄lakan.t.ha outlined in Tantrasaṅgraha.
+

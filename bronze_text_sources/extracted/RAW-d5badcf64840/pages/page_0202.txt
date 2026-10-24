@@ -1,0 +1,52 @@
+3.10 The rising time of rāśis                                                                155
+
+                                              P
+
+
+
+
+                                                                 90           B
+                                                                 _ δ
+
+
+                                             O                                     C
+                                                                       S
+                               M                                  N
+                              M’
+                                                                       N’
+                                             λ             tor
+                                         ε            equa
+                       A                          α
+Fig. 3.9 Obtaining the right ascension α in terms of the declination δ and the longitude λ .
+
+
+
+                                       SM = OS sin λ = R sin λ .                           (3.35)
+
+In the triangle SMN,                              p
+                                         MN =          SM 2 − SN 2 .                      (3.36a)
+Using (3.34) and (3.35) in the above,
+                                                  p
+                                       MN = R         sin2 λ − sin2 δ .                   (3.36b)
+
+We are actually interested in arriving at an expression for the right ascension of
+the Sun which is the arc corresponding to M ′ N ′ , which is AN ′ . Since the triangles
+OM ′ N ′ and OMN are similar, we have
+
+                                             M′N ′   MN
+                                                   =
+                                             ON ′    ON
+                                                             ON ′
+                                  or         M ′ N ′ = MN ×
+                                                             ON
+                                                                R
+                                                      = MN ×         .                    (3.37a)
+                                                             R cos δ
+In fact, M ′ N ′ = R sin AN ′ , where AN ′ is the right ascension (α ) of the Sun. Using
+this and (3.37a), the above relation reduces to
+                                             p                            R
+                           R sin α = R        sin2 λ − sin2 δ ×                .          (3.37b)
+                                                                       R cos δ
+Thus we have arrived at an expression for right ascension of the Sun in terms of its
+longitude and declination as given above in Laghu-vivr.ti. Usually, the longitude of
+

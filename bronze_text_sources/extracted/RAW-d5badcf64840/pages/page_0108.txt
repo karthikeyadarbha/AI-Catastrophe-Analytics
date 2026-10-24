@@ -1,0 +1,53 @@
+2.4 Another method for obtaining the Rsines                                                               61
+
+   one multiplied by two is the gun    . a (multiplier) and the radius is the hāra (divisor). From
+   the ādyajyā [multiplying it with the multiplier and dividing by the divisor], the difference
+   between the first two khan . .dajyās is obtained. With the same multiplier and divisor, and
+   multiplying the multiplier by the second pin     . ajyā, the third pin
+                                                   .d                    . d.ajyā etc., the difference
+   between the successive khan   . .dajyās are obtained. Having thus obtained the jyās with their
+   parts (seconds etc.) they may be tabulated in a sequence.
+
+   Here a procedure for generating the jyā table (table of Rsines) by finding the
+differences of the successive khan. .dajyās is described. As will be seen below, this
+procedure merely involves the knowledge of the first jyā (J1 ) and trijyā. It may be
+recalled that the method described in the previous section (verses 4–6a) essentially
+made use of the following equations for generating the successive pin. .dajyā values
+given in Table 2.1.
+
+                               Ji+1 = Ji + ∆i+1           (0 ≤ i ≤ 23)                             (2.28)
+                                              Ji
+                             ∆i+1 = ∆ i −                  (1 ≤ i ≤ 23),                           (2.29)
+                                             233 12
+where ∆ i and Ji i = 1, 2, . . . , 24, refer to the khan. .dajyās and pin. .dajyās respectively.
+Since ∆ 1 = J1 , is known, all the jyās can be generated using the above equations
+recursively. Equation (2.29) can be rewritten as
+                                                          Ji
+                                        ∆i − ∆ i+1 =            .                                  (2.30)
+                                                         233 12
+
+In the above verses (6–9) the recursion relation which is the basis of (2.30) is stated.
+Here the value of the last jyā (J24 = trijyā), which is the same as the radius of the
+circle, is first stated. Since J1 is already known, with these two jyās (the first and the
+last), the value of the penultimate jyā (J23 ) is found. Then the text defines a gun.a
+or multiplier and a hāra or divisor, using which a recursion relation is formulated;
+making use of this, all the tabular differences of the khan.d.ajyās and hence the values
+of the 24 jyās can be obtained. This method is quite instructive and may be described
+as follows. It has already been noted that the circumference of the circle is taken to
+be 21600. The diameter of this circle is stated to be:
+                                               21600 × 113
+                                        D=                 .                                       (2.31)
+                                                   355
+
+So, essentially, 355
+                 113 = 3.14159 is taken to be the approximate value of π . Using (2.3),
+and the notation α = 225′ = 3.75◦ , we have
+                   p                 p
+                     J24 2 − J1 2 = R sin2 24α − sin2 α
+                                    q
+                                  = (R sin 90)2 − (R sin 3.75)2
+                                     p
+                                  = R 1 − sin2 α
+                                      = R cos α
+                                      = R sin(24α − α )             (24α = 90◦ )
+

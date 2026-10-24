@@ -1,0 +1,41 @@
+548                                                                         Glossary
+
+kapāla              Hemisphere, usually employed with an adjective like prāk
+                     (east), paścima (west), etc.
+karan.a              (1) Period corresponding to half a tithi. (2) Also used to refer
+                     to a class of astronomical texts that choose a recent epoch in
+                     contrast to the siddhantic works that choose the begining of
+                     the kalpa or the kaliyuga as the epoch.
+Karka, Karki         Cancer.
+Karkyādi            Six signs commencing from the sign Cancer.
+kārmuka             Arc of a circle.
+karn.a               (1) Hypotenuse of a right-angled triangle. (2) Radius vector.
+karn.a-vr.tta        Hypotenuse circle: a circle drawn with hypotenuse as the ra-
+                     dius in either the manda or the śı̄ghra correction.
+karn.a-vr.tta-jyā   Rsine in the hypotenuse circle.
+kendra               (1) Centre of a circle (2) Anomaly–The angular separation of
+                     a planet from the mandocca or śı̄ghrocca.
+kendrabhraman.a      Movement (rotational) of the kendra.
+kendrabhukti         Daily motion of the anomaly.
+khagola              Celestial sphere or globe.
+khakaks.yā          See ākāśakaks. yā.
+khamadhya            The centre of the sky; the zenith.
+khan. .dagrahan.a    Partial eclipse.
+khan. .dajyā        The difference between two successive ordinates or Rsines;
+                     essentially the first differential of the jyā.
+khan.d.ajyāntara    The difference of the differences, or the second differential
+                     of the jyā.
+khan.d.ajyāyoga     Sum of Rsine differences.
+khet.a               That which wanders in space (planet).
+kon.a                (1) Corner. (2) Direction in between any two cardinal direc-
+                     tions (north-east, south-west etc.). (3) Angle.
+kon.acchāyā        Corner shadow: shadow corresponding to the instant at which
+                     the planet intersects the kon.avr.tta (see kon.avr.tta).
+kon.aśaṅku         śaṅku considered at the instant at which the planet passes
+                     through the kon.avr.tta (see kon.avr.tta).
+kon.avr.tta          Vertical circle passing through the north-east and the south-
+                     west points, or south-east and north-west points of the hori-
+                     zon.
+kot.i                (1) Adjacent side of a right-angled triangle. complement of
+                     bhujā that is Rcosine. (2) 107 (both number and place).
+

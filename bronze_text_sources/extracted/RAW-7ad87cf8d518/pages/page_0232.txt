@@ -1,0 +1,122 @@
+15. 17. 1
+
+point of ecliptic (lagna). This is how time is obtained
+
+from (the longitude of) the lagna.4 (7). (KSS)
+कालतो लग्नः
+15. 17. 1. लग्नार्थं रविशशिनोरभुक्तलिप्ता निजोदयाभ्यस्ता |
+
+राशिकलाभिलेब्धात्‌ स्वेष्टविनाडीगणात्‌ त्यक्त्वा । १४।।
+
+सम्पूयं वतंमानं राशिमुपर्युदगमात्‌ त्यजेच्छेषात्‌ |
+
+राशिस्तस्मिन्नेव क्षिपेत्‌ तदा भवति लग्नं तत्‌ ।। १५॥।
+(Deva, KR, 4. 14-15)
+
+Lagna from time
+
+To find the longitude of the rising point of the ecliptic
+(proceed as follows): Multiply the untraversed portion
+of the Sign occupied by the Sun or the Moon by that
+Sign’s own time for rising (at the local place) and divide
+by the number of minutes in a Sign (i.e., by 1800); then
+subtract the resulting (vinddis) from the given time, in
+terms of vinddis; then having completed the current
+sign, subtract from the residue (of the vinddis) the times
+of rising of as many succeeding Signs (or part of a Sign)
+as possible and add those Signs (and part of a Sign, if
+any) (to the completed Signs). Whatever is thus ob-
+tained is the longitude of the rising point of the ecliptic
+
+(called lagna). (14-15). (7६88)
+कोणशङ्कु
+15. 18. 1. सूर्याग्राया इष्टसंयोजिताया
+
+वर्गे त्रिज्यावर्गतो लोचनघ्ने ।
+
+त्यक्ते मूलं यत्‌ स शडकरूुविदिकृस्थ-
+स्तत्राक्षाभासडगुणे सूयेभक्ते ॥| ३४ UI
+
+लब्धमिष्टमम्‌ना सहिताग्रा
+प्राग्वदेवमसकृन्नरसिद्धि: । -
+दक्षिणे सवितुरुत्तरगोले-
+ऽग्रज्ययेष्टवियुताद्‌ विधिरेष: ।। ३५ ।॥।
+(Lalla, SiDhVr., 4. 34-35)
+
+R sine altitude in an intermediate direction
+
+When the Sun is in the southern hemisphere and on a
+konavrtta or a vertical circle in an intermediate direc-
+tion, add its R sine amplitude or agrajyd to the assumed
+length of the sankutala or the base of the altitude.
+Square the result, double it and subtract from the square
+of the radius. ‘The square root of the remainder is the
+R sine altitude at that time or fonasaiku. Multiply
+it by the equinoctial midday shadow (at the observer’s
+station) and divide by 12. The result is a more correct
+(base). Add it to the R sine amplitude or agrajyd, and
+repeat the process till the R sine amplitude is fixed.
+When the Sun is in the northern hemisphere, R sine
+
+1 There are 21600 asus, 3600 vinadis and 60 néadis in a sidereal day,
+so that the asus divided by 6 give the vinddis and the vinddis divided
+by 60 give the nagdis. For the Tables, see KR: KSS, pp. 67-68.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK । 188
+
+amplitude should be diminished by the assumed
+(base). This is the णा." (34-35). (BC)
+
+कोणशडकुच्छाया
+15. 19. 1. यदा भवेत्‌ क्रान्तिरुदक्‌ पलाल्पा
+विशेत्‌ तदानीं समवृत्तमकंः ।
+तदुत्थशङ्कोरथ कोणजाद्‌ वा
+छाया च करणश्च यथेष्टशङ्धो; 1 FEU
+(Lalla, SiDhVr., 4.36)
+
+Shadow of R sine altitude in an intermediate
+
+direction
+
+When the Sun’s declination is to the north and is less
+than the latitude (of the observer’s station), the Sun
+enters the prime vertical. From the then R sine altitude
+and from the R sine altitude when the Sun is on the
+konaortta or a vertical circle in an intermediate direction,
+the shadows and their hypotenuses can be calculated.”
+
+(36). (BC)
+
+कोणच्छायातो रविस्फुटः
+15. 20. 1. विदिक्च्छायावर्गाहुलपदमुदक्स्थे नरतले
+पलच्छायायुक्तं रहितमनुदक्स्थे भवति यत्‌ |
+फलं तल्लम्बध्नं श्रुतिहृतमिनापक्रमगुणो
+भवेत्‌ त्रिज्याघ्नोऽसौ जिनलवगुणाप्तो रविगुणः ॥।
+(Lalla, SiDkVr., 4. 40)
+
+True Sun from shadow in intermediate direction
+
+Find the shadow from R sine of the altitude when
+the Sun is on the north-east or north-west vertical
+circle (konasanku), square it and halve the result. Find
+its square root. If the Satkutala or the base is to the
+north, add the result to the equinoctial midday shadow
+(at the observer’s station) and subtract, if it is to the
+south. The result multiplied by R sine of the colatitude
+(of the observers’s station), and divided by the hypo-
+tenuse of the shadow gives R sine of the Sun’s decli-
+nation. This, multiplied by the radius and divided
+by R sine of 24°, gives R sine of the Sun’s longi-
+tude.2 (40). (BC)
+
+शडकुच्छायाविधिः लेखनं च
+15. 21. 1. कतदिग््रहणे वृत्ते रेखां पूर्वापरां यदा छाया |
+प्रविशति सम्यक्छद्णो: सममण्डलगस्तदा सूर्यं :।। ३८ ॥
+
+अग्रा
+इष्टक्रान्तिज्याध्नव्यासशकललम्बकांशमुष्णांशुः ।
+समपूर्वापररेखामतीत्य यात्यस्तमुदयं वा ।। ३९ ॥
+
+1 For demonstration, see SiDAVr: BC, 11. pp. 87-91.
+2 For explanation and rationale, see SiDkVy.: BC, 11, pp. 90-91..
+3 For a demonstration, see SiDhVr.: BC, IT. 94-96.

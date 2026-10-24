@@ -1,0 +1,56 @@
+Hindu Zodiac and Ancient Astronomy
+
+arc minutes in the other direction, whereas the three earlier pyramids of Snofru, Khufu’s
+predecessor, are oriented more westward as they get older. Other pyramids, built
+between 2600 and 2300 BC, confirm this trend, and their orientations form a straight line
+when plotted against time.
+
+How can this puzzle be explained? Because of the Earth’s precession, the celestial north
+pole was exactly aligned between Kochab and Mizar only in the year 2467 BC, and the
+errors in the orientations of earlier and later pyramids faithfully track the slow drift of
+Kochab and Mizar with respect to true north. Because the error in the Kochar-Mizar
+alignment can readily be calculated for any date, the error in each pyramia’s orientation
+corresponds to a specific year. Although each alignment is subject to individual
+measurement errors, the collection of several data points makes the method more robust.
+So it is not preposterous to believe that Spence can calculate dates for pyramid
+construction to within five years or so, considerably better than the 100-year error
+currently accepted for their chronologies”.
+
+Relying on the four shaft angles Bauval too had the conclusion that the Great Pyramid
+was built somewhere between 2475 BC and 2400 BC. Shaft angles versus stars data for
+the epoch of Spence shall be:
+
+Shaft Angle Star ee oan
+King - south 45. -Orionis 45°04’30” | 45°24’06” | Al Nitak
+King- north _ | 32.28 | a-Draconis 131 5636? | 32 1925 | Thuban
+Queen - south| 39°30’ a-Orionis 39°10°31” | 39°22’59”| Sirius
+Queen - north| 39° |B- Ursae Minoris| 39 3011” | 39 16110” | Kochab
+
+Name
+
+It is apparent from the above data that the theory of astronomical orientation of the shafts
+and the Spence’s theory are in mutual agreement even though the former is not precise
+as the latter.
+
+Bauval further recognized that the three pyramids of Giza in relation to Nile has the same
+profile as the three belt stars of Orion relative to the Milky Way as they were in 10450 BC
+in terms of relative position and visual magnitude versus the size of the pyramids. PU &
+NT did agree with the first part of Bauval’s thesis - the attempt of Egyptians to model
+heaven on earth - but chose to describe the dating of the configuration as wishful,
+farfetched and extravagant thinking.
+
+4. Epoch of 10450 BC - Zero of Time?
+
+Orion’s belt is made up of stars 6 [Mintaka], ६ [Al Nilam] and C-Orionis [Al Nitak], which lie
+on the south of ecliptic.
+
+Sidereal Altitude of meridian transit
+Longitude | Latitude |20.8.2467 BC] 1.1.4713 BC
+8 -Orionis | Mintaka | 57°46’35” | -23°33'12” | 45°51°37” | 3336453
+€ -Orionis | Al Nilam | 58 5240" | -24°30'24” | 45°22°37” | 33°12°43”
+-Orionis | Al Nitak | 60°05’53” | -25 1736" | 45°04’30” | 32°59°55”
+4-Scorpii | Shaula 240° | -13. 4717" | 38°46’38” | 51°26’30”
+
+Stars Names
+
+398

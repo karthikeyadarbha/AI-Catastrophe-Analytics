@@ -1,0 +1,56 @@
+                                            ñÍ
+404                                     Zxa;ç Å
+                                            *:+.ea;a;a;ta;pra;k+.=+Na;m,a                                    Elevation of lunar horns
+
+dvitı̄ya-sphut.akarn.a in yojanas, is the distance between the manda-sphut.a and
+the centre of the Earth. The bhujāphala and kot.iphala are given by
+
+                                             CN = x = r sin(λm − λs )
+                                                       R
+                                                     = cos(λs − λu ) sin(λm − λs),
+                                                       2
+                            and             CZ N = y = r cos(λm − λs )
+                                                       R
+                                                     = cos(λs − λu ) cos(λm − λs ).                                                        (8.8)
+                                                       2
+Then, the dvitı̄ya-sphut. akarn.a (the second true distance in yojanas) is given by
+                           q
+          CM1 = Dm = (M1 N)2 + CN 2
+                           q
+                      = (M1CZ + CZ N)2 + CN 2
+                           q
+                      = (manda-karn.a + kot.iphala)2 + bhujāphala2
+                           "                                       2
+                                      R
+                      =       10K + cos(λs − λu ) cos(λm − λs )
+                                      2
+                                                           2 # 12
+                                R
+                            +     cos(λs − λu ) sin(λm − λs)        .            (8.9)
+                                2
+
+As Śaṅkara notes in Laghu-vivr.ti,
+                                   x +:ta;~ya d;Za;gua;a;Na;ta;. a;ndÒ+ma;nd;~å.Pu+.f;k+:NRa;~ya ta;d
+   O;;vMa ta;tk+:ea;a;f;P+.l+.sMa;~k                                                                â õâ ;a;hu;P+.l+.~ya .. a va;gRa;ya;ea;ga-
+                                                                           å
+   mUa;lM I+.n ud;Da:=+ya;ea:=+nta:=M ya;ea:ja;na;a;tma;kM ;a;d
+                                                              õ ;ta;a;ya;~.Pu +.f;k+:NRa I+.tya;TRaH Á
+
+   Thus, it is to be understood that the square root of the sum of the squares of that bāhuphala,
+   and the karn  . a of the manda-sphut.a of the Moon, which is multiplied by 10 and corrected
+   by the kot.iphala, will be the dvitı̄ya-sphut.akarn   . a, which corresponds to the distance of
+   separation between the Earth and the Moon in yojanas.
+
+Now the longitude of the Moon as seen from the centre of the Earth (bhūgola) is
+
+                                                     λm′ = AĈM1
+                                                         = AĈM1′ − M1ĈM1′
+                                                         = AĈz M1 − M1ĈM1′
+                                                         = λm − δ θ .                                                                   (8.10)
+
+In the right-angled triangle CM1 N,
+
+                                                    CN = CM1 sin (CM̂1 N)
+                                                            = CM1 sin (M1CM1′ )
+                                                            = Dm sin δ θ .                                                              (8.11)
+

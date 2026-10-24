@@ -1,0 +1,52 @@
+374                                  v.ya;ta;a;pa;a;ta;pra;k+.=+Na;m,a                   Vyatı̄pāta
+
+U, its declination will be increasing during the next few days till it reaches the
+maximum ε . Having crossed the ayanasandhi, the Sun starts receding away from
+it and its declination starts decreasing. When the Sun is at S2 , again its declination
+will be equal to δm∗ . Between S1 and S2 , the declination of the Sun remains greater
+than δm∗ and hence there will be no vyatı̄pāta.
+
+                                                          P
+
+
+
+
+                                                                           S2
+                                                                                     U
+                         (autumnal equinox) Γ ’                                 S1    M
+
+
+
+                                                                          ε     I
+                                          equator
+                                  ’s   o it
+                                        r b                     Γ (vernal equinox)
+                           Moon
+                     D             tic
+                             eclip
+
+
+
+
+Fig. 6.5b Moon’s orbit having the minimum inclination, I = ε − i, with the ecliptic.
+
+
+    However, the inclination of the Moon’s orbit, which is the same as the maximum
+declination attained by the Moon, does not change significantly. The change in the
+maximum declination from (ε + i) to the minimum value (ε − i), a difference of
+2 × 4.5◦ = 9◦ , takes place in about 9.3 years. This amounts to hardly one degree
+per year or around 5′ per month, whereas the change in the declination of the Sun
+is around 480′ per month. Hence, the change in the inclination of the Moon’s orbit
+over a few weeks is negligible compared with that of the Sun. In the following, we
+make a rough estimate of the duration during which there will be no vyatı̄pāta.
+
+
+Minimum period for which vyatı̄pāta does not occur
+
+In the latter half of the 14th verse and the first half of the 15th verse, the criterion
+for the non-occurrence of vyatı̄pāta is given. From this, the minimum period during
+which vyatı̄pāta does not occur can be estimated. For numerical illustration, we
+choose the limiting case where the maximum declination of the Moon attains its
+minimum value as shown in Fig. 6.5b. In this case δm∗ = 24.0 − 4.5 = 19.5. The
+longitude of the Sun corresponding to this declination is
+

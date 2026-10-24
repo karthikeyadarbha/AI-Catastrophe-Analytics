@@ -1,0 +1,57 @@
+8.11 Dimensions of the orbits of Mars and other planets                                                                                                               435
+
+by them in a yuga, then the total distance covered by each in a yuga is the same, and
+hence
+
+                                                      2π Rm × Nm = 2π R p × N p .                                                                            (8.91)
+
+Thus, the mean radius of each planetary orbit (the kaks.yā-vyāsārdha-yojana) in
+yojanas is
+                                     Rm × Nm
+                               Rp =            .                            (8.92)
+                                        Np
+This has to be used in the calculation of angular differences between the planets, in
+determining their conjunctions, in the calculation of parallax etc., for an observer
+on the surface of the Earth.
+
+
+                                                              P                          deferent circle
+                                        Rp
+
+                               S                                                                                                                   P
+                                                                                                                                      r
+                                                                                                                                O
+
+                                                                                                                    R
+                                                                                        epicycle                                K
+
+
+
+                          (a)                                                            C                                                                 (b)
+   E                                                                         (centre of the deferent)
+
+Fig. 8.15 Ratio of the Sun–planet distance to the Earth–planet distance of an inner planet (a) in
+yojanas, (b) in terms of the epicycle radius.
+
+
+   That the radii obtained from the procedure given in verses 36b and 37a are not
+the orbital radii around the Earth, is clear from the verses that follow it namely 37b
+and 38a. The commentary of this verse runs as follows:
+
+   ;Æa;sa;ta::℄a;ya;ea:+:+:va;d;a;na;a;tMa   k+:[ya;a;v.ya;a;sa;a;DRa;ya;ea:ja;nMa   .~va;Za;a;Gra;k+:NeRa;na       ;a;na;h;tya   Za;a;Gra;vxa:a;pra;Æa;ma;ta-
+                                                                        å
+   .~va;vxa:a;v.ya;a;sa;a;DeRa;na ;a;va;Ba:jea;t,a Á ta:a l+.b.Da;a .~.Pu +.f;k+:[ya;a Ba;va;a;ta Á
+
+   In the case of Mercury and Venus, the radius of the kaks.yā-vr.tta in yojanas has to be
+   multiplied by the śı̄ghra-karn . a and divided by the radius of its own orbit measured in
+   units of the śı̄ghra-vrtta. The result obtained will be the true radius of the orbit.
+
+    What is noteworthy here is the use of the phrase ‘śı̄ghravr.ttapramita-svavr.tta-
+vyāsārdhena’. Particularly, the word sva-vr.tta (‘own’ circle) clearly indicates
+Nı̄lakan.t.ha’s geometrical picture of the motion of the inner planets. According to
+this picture, the epicycle which figures in the śı̄ghra-sam. skāra is the same as the
+orbit of the inner planet.
+    In the procedure for finding the actual distance of the planet from the Earth,
+the kaks.yāvyāsārdha-yojana R p , calculated using (8.92), is not to be taken as the
+mean Earth–planet distance, but instead as the mean śı̄ghrocca–planet distance. If
+

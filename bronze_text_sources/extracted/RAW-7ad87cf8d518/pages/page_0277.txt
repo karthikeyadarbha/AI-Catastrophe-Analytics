@@ -1,0 +1,127 @@
+233 । 16. ECLIPSES
+
+Subtract the sthiti-khanda from the computed time of
+geocentric conjunction; the result will be the approxi-
+mate sparsakéla. This has to be rectified for. parallax
+in longitude as well as the approximate madhyagrahakdla
+of geocentric conjunction to obtain the local sparsakala
+and the local madhyagrahakala. Similarly, the mokaskala,
+the sammilana and the unmilanakalas are to be rectified
+for parallax in Jongitude. (15)
+
+But while effecting this correction for the parallax
+in longitude, the Moon’s latitude also differs for the
+corrected time which, in turn, affects the durations of
+sthiti-khanda, moksa-khanda ctc. Correcting the first
+computed sthiti-khanda, moksa-khanda etc. for this varia~
+tion in the latitude, and subtracting the sthiti-khanda
+from the time of madhya-graha, we have better approxi-
+mation for the sparsa-kdla. Inasmuch as parallax in
+longitude, that in latitude, and the Moon’s latitude vary
+from time to time, and the times of sparfa, madhyagraha
+etc. are affected by them, the process of computation
+proceeds by the method of successive approximation.
+Subtracting the rectified marda-khanda from the rectified
+madhyagrahakala, we have the true  sammilanakdla;
+similarly adding the former to the latter we have the
+true unmilanakéla. (16). (AS)
+
+ग्रहणकमं
+16. 30. 1५. शेषं शशाङ्क द्ुग्रहणोक्तमत्र
+स्फुटेषुजेन स्थितिखण्डकेन |
+हतोऽथ तेनैव हृतः स्फुटेन
+बाहु: स्फुटः स्याद्‌ ग्रहणेऽत्र भानोः ।। १८ ॥
+
+ग्रासाच्च कालानयने फलं यत्‌
+स्फुटेन निघ्नं स्थितिखण्डकेन ।
+स्फुटेषुजेनासकृदुद्धृतं तत्‌
+स्थित्यर्धशुद्धं भवतीष्टकालः ।। १६ 1
+(Bhaskara II, SiSi., 1.6. 18-19)
+
+Computation of the eclipse
+
+The remaining work proceeds on the lines indicated
+in the chapter on ‘Lunar eclipses’ (i.e. the computation
+of the bimba-valana, bhuja, koti and the like is to be done
+as indicated there). The bhuja will be rectified by
+multiplying it by the sthiti-khanda obtained by adopting
+the latitude of the Moon effected by parallax in latitude
+and divided by the sthiti-khanda rectified for parallax in
+
+longitude. (18)
+
+Similarly, given the grdsa, i.e. the magnitude of the
+eclipse, the result found before by verse 15 in the chapter
+on ‘Lunar eclipses’, is to be multiplied by the sthiti-khanda
+rectified for parallax in longitude and divided by that
+obtained adopting the latitude of the Moon effected by
+parallax in latitude, and the result so obtained being
+
+16. 31. 1
+
+subtracted from the sthiti-khanda, we get the ista-kala.1
+(19). (AS)
+
+वलनम्‌
+16°30. 10. युतायनांशोडूपकोटिशिञ्जिनी
+“जिनां 'शमौर्व्या गुणिता विभाजिता ।। २१ ॥
+
+द्युजीवया लब्धफलस्य कार्मुकं
+भवेच्छशाङ्कायनदिक्कमायनम्‌ ।
+
+तयोः पलोत्थायनयोः समाशयो-
+्युतेवियुक्तेस्तु विभिन्नकाष्ठयो: ।। २२ ॥
+
+या शिञ्जिनी मानदलैक्यनिघ्नी
+विज्योद्‌धृता तद्वलनं स्फुटं स्यात्‌ |
+यैरत्क्रमज्याविधिनैतदृक्तं
+सम्यङ न ते गोलगति विदन्ति ।। २३ ॥
+(Bhaskara IT, Si$i., 1.5. 21c-23)
+
+R cos’ >< R sinw
+R cos 0
+
+valana. The direction of this valana is that of the hemi-
+sphere north or south in which the Moon lies.” (21-c 22a)
+
+= R sin 9, where 9 is the ayana-
+
+The R sine of the sum of difference of the two valanas
+according as they are of the same or opposite directions,
+multiplied by the sum of the angular radii of the Moon
+and R&hu, and divided by the radius gives the R sine of
+the Sphuta-valana. Those who said that the valana is
+proportional to the R versine, do not know spherical
+geometry properly.? (22b-23). (AS)
+
+--करणरत्नम्‌
+
+16. 31. 1. पर्वाहद॑लविवरजनाड्यस्त्वविशेषलम्बनपदानि |
+विशच्छिष्टानि तदा पञ्चदशभ्योऽधिकास्तु यदा ॥| १॥।
+
+मनु-रष्टाश्वि-खवेदा-खशर-नवपञ्च-रसषडे-कमुनिः |
+
+शरगिरि-वसूमुनि-नवमुन्य-शीतिरथ पञ्चसु विगुणः ।।२।।
+
+gaat हीनं युतमपरे लम्बनेन पर्व स्यात्‌ |
+
+तद्विषयां शेन तथा चन्द्रस्तस्मात्तु विक्षेपः ।। ३ ॥
+
+विषुवच्छायाव्यडगुलपिण्डं स्व्यं शभागसंयुतया ।
+
+सप्तत्या हृतलब्धं विषुवन्नाड्यः सदा याम्या ।। ४ ॥।
+मध्यलग्नम्‌
+
+दिनदलपर्वविशेषे षड्गुणितेऽशा रवौ विशोध्यास्ते |
+
+पूर्वकपाले पश्चाद्‌ देयाः तन्मध्यलग्नं स्यात्‌ ।। ५ ।।
+
+मध्यविलग्ना जीवा स्वशरांशोना विनाडिकापूर्वेः |
+समदिशि युता विशोध्या भिन्नायामधिकदिग्‌ ग्राह्या 1&1
+
+oa For the rationale, see SiSi:AS, pp. “TFor therationale,see SiSi:AS, pp.438-45. |
+
+2¥For a detailed demonstration and rationale, see अः AS,
+pp. 375-91. — ~ ` ` -
+
+8 For an exposition, see SiSi:AS, pp. 391-92.

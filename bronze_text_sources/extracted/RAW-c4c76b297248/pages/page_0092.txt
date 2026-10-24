@@ -1,0 +1,52 @@
+Hindu Zodiac and Ancient Astronomy
+
+enumeration was started.... Later during Siddhanta Jyotisa times the enumeration started
+with ASvini (a, 6 Arietis) and this is still reckoned to be the first of the naksatras, although
+the vernal point has now receded to the Uttarabhadrapada group, which should
+accordingly be taken as the first naksatra. But the change has not been done because
+the Indian astrologers have failed to correct the Calendar for the precession of equinoxes.
+
+The Chinese start their Hsius (lunar zodiac) with Citra or a -Virginis. This refers probably
+to the time when «a - Virginis was near the autumnal equinoctial point (285 AD.). The
+Arabs start their Manzils with B Arietis (Ash-Sharatani). There has been a good deal of
+controversy regarding the place of origin of the lunar zodiac. Many savants were inclined
+to ascribe the origin of the 27-naksatra system to ancient Babylon, like all other early
+astronomical discoveries. But as far as the authors of this book are aware, there is no
+positive evidence in favor of this view. Thousands of clay tablets containing astronomical
+data going back to 2000 BC, and extending upto the first century AD. have been
+obtained, but none of them are known to have any reference to 27 or 28 lunar mansions.
+
+.. No body has yet been able to refute yet Max Muller's arguments in favor of the
+indigenous origin of the Indian naksatra system given in his preface fo the Rgveda
+Samhita, page xxxv. It should be admitted that the lunar zodiac was pre-scientific. i.e., it
+originated before astronomers became conscious of the celestial equator and the ecliptic,
+and began to give positions of stellar bodies with these as reference planes. The
+naksatras give very roughly the niqght-to-night position of the Moon, by indicating its
+proximity to stars and star groups. Many of the Indian stars identified as naksatras are not
+at all near the ecliptic or the Moon's path, which on account of its obliquity, is contained in
+a belt within + 5° of the ecliptic. Such are for example:
+
+(15) Svati, which is identified with Arcturus (a-Bootis), which has a latitude of 3 1°N.
+(22) Sravana, identified with a, B, y Aquilae, having the latitude of 29N.
+(23) Sravistha, identified with a, 6, y, 5 Delphini, having the latitude of 3F° N.
+
+(24) Parva-Bhadrapada identified with a - Pegasi and some other adjacent stars, a -
+Pegasi having latitude of 19° N.
+
+At one time the brilliant star Vega (a - Lyrae) was also included making 28 naksatras. But
+this has a latitude of 62° N and was later discarded. No satisfactory argument has been
+given for the inclusion of such distant stars in the lunar zodiac...As is apparent from
+Table No. 5, the naksatras are at rather unequal distances, i.e. they rarely follow the ideal
+distance of 13°'/;. This is rather inconvenient for precision time reckoning. We find in the
+Vedariga Jyotisa times an attempt at a precise definition of the two limits of a naksatra,
+which was defined as 800’ (=13°20’) of the ecliptic. The naksatra was named according to
+the most prominent star (Yogatéra) contained within these limits. These are given in Col.
+2 of Table 5.
+
+We do not, however, have any idea as to how the beginnings and endings of the naksatra
+divisions were fixed in India. The prominent ecliptic stars which were used as Yogatéras
+(junction-stars) in pre-Siddhantic period, are not distributed at regular intervals along the
+ecliptic; and so it was found very difficult to include the stars in their respective equal
+
+68
+

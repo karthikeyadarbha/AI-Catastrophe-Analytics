@@ -1,0 +1,129 @@
+179 14. PRECESSION OF THE EQUINOXES
+
+In fact, these polar longitudes and latitudes do change
+if there be ayandmsas. Here in this case, from the polar
+latitudes the celestial latitudes are to be computed in a
+reverse process. (18)
+
+With the half of these celestial latitudes, the dyana-
+drk-karma is to be effected in the reverse proceess to
+obtain the celestial longitudes. After having obtained
+the correct celestial longitudes and celestial latitudes,
+and now, bringing the ayandmsas into the picture,
+compute the correct drk-karma and also rectify the
+celestial longitudes, to obtain the correct polar longi-
+tudes and polar latitudes to compute the moment of
+polar latitudinal conjunction. This case may be taken
+when the cyandmsas are large, otherwise, there will be a
+small difference (which is insignificant). (19-21). (AS)
+
+अयनचलननिणेयः
+14. 5. 1. कल्यन्दात्तिथिषड्भिराप्तमयनं स्याद्राशिभागादिकं
+तद्दोःक्रान्तिजिलिप्तिका ऋणधनं स्याद्‌ गोलतो भास्करे ।
+सौम्याद्‌ दक्षिणतः क्रमाद्‌ दिनदलच्छायाविधौ स्वेदा
+नान्यस्मिन्‌ कूमुदाधिपस्य च तथा मध्यप्रभाया विधौ ।।
+(Deva, KR, 1. 3. 56.)
+
+Computation of Precession
+
+Divide the elapsed Kali years by 615: the result is the
+longitude of the ayana-graha (i.e., solstitial planet) in
+terms of signs, degrees, and so on. The declination, in
+terms of minutes, of that ayana-graha (is the motion of
+the equinoxes. This) should be subtracted from or
+added to the longitude of the Sun, according as the Sun
+is in the northern or southern hemisphere. This correc-
+tion should always be applied while computing the
+midday shadow, but in no other computation. This
+correction should be applied in the case of the Moon
+too while computing the Moon’s meridian shadow. (36)
+(KSS)
+14. 5. 2. अयनग्रहदोःक्रान्ति-
+
+ज्याचापं केन्द्रत्वाद्‌ TAT स्यात्‌ |
+भयनलवास्तत्संस्कृत- |
+
+खेटाद्‌ आयनचराधैपलजानि । १३ ।।
+(ABh. 11, Mahd., 3. 13.)
+
+1For the rationale, see KR: SS, p. 25-26. Here, motion of
+R sine (ayana-graha) x R sin 24°
+
+the equinoxes=arc » R= 300’,
+R
+
+where ayana-graha=Y [615 signs, and Y=number of Kali years
+
+elapsed.
+
+Deva is probably the first in the school of Aryabhata I to have
+given a rule for finding the value of the precession cf the equinoxes.
+He bases his rule on the assumption that the motion of the
+equinoxes is oscillatory, and that its rate is about 477 per annum.
+The modern value is about 50” per annum.
+
+14.5.4
+
+(Find out from) the base (of the longitude) of ayanagraha
+the sine of declination, (and from it the corresponding)
+arc. (This arc) is positive or negative according as the
+kendra (is positive or negative. The degrees of this arc)
+are called, the degrees of precession (ayanalava). From
+the (longitude of a) planet as corrected by these, the
+ecliptic deviation (dyana) and the ascensional difference
+in palas (cardrdhapalajani?) are to be calculated.1 (13).
+(SRS)
+
+14. 5. 3. शगोऽगैकगुणः"युक्शाकात्‌ खाष्टवह्लिनगै gard |
+
+भगणादेः क्रान्तिभागा ऋणस्वं सौम्यदक्षिणाः ।।
+
+अयनांशाः प्रदातव्या लग्ने क्रान्तौ चरागमे |
+
+विच्निभे सच्रिभे याते तथा दुक्कमेपातयोः ।।
+(Amaraja’s comm. on KK 3. 11, Q from
+Trivikrama’s KK-tika, 3. 11)
+
+Add 3179 to (the elapsed) Saka years and divide the
+sum by 7380: the quotient gives (the longitude of the
+ayana-zraha in terms of) revolutions etc. The cor-
+responding declination should be applied (to the
+longitude of the planet) negatively or positively according
+as it is north or south. This motion of the solstice
+(or equinox) should always be applied while calculating
+the Sun’s declination, the Sun’s ascensional difference,
+longitudes of the horizon-ecliptic and meridian- ecliptic
+points and to the computations relating to the visibility
+of the planets and the pata. (KVS)
+
+अजतुलाक्षविवरज्या ।। २४ ।
+
+चरिज्यागुणिता भक्ता परमापक्रान्तिजीवयाऽऽप्तघनुः ।
+देयं ग्रहे यदा भा दक्षिणगोलादिगम्यभादूना ।। २५।।
+
+महती मेषादिगतच्छायातस्त्वन्यथा शोध्यम्‌ |
+पातेऽन्यथा विधेयं चापं तिप्रश्नकमंविधौ 1 २६ ॥।
+
+षड़राश्यन्तरिताद्‌ वा भानुमतोऽभीष्टकालिकात्साध्यम्‌ ।
+अयनचलनं स्वबुद्धया गणकेन हि चापचतुरेण ।। २७ ॥
+(Vatesvara, VSi., 3. 2. 24-27)
+
+14. 5. 4.
+
+Multiply the R sine of the difference between the
+latitudes due to the (séyana and. nirayana) mesddi or
+tuladi by the radius and divide (the resulting product)
+by the R sine of the (Sun’s) greatest declination.
+The arc corresponding to that (is the ayana-calana,
+
+1 The number of revolutions of ayanagraha in a kalpais given in
+L.11-12. From these the positions of ayanagrahy at a given moment
+are to be calculated. (tatsamskytakhegat ayanam drkkarinddi carapalani
+ca sadhyani: (Sudhakara Dvivedi).
+
+The above correction is based on the assumption that the summer
+and winter solstices (and therefore the vernal and autumnal equi-
+noxes) have an oscillatory motion of amplitude 24°, the period of
+one complete oscillation being 7380 years. The rate of motion of
+the equinoxes thus amounts to about 47” per annum, the modern
+value being 50” approximately.

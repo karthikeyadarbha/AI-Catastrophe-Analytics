@@ -1,0 +1,50 @@
+246                         C+.a;ya;a;pra;k+.=+Na;m,a                       Gnomonic shadow
+
+A procedure for obtaining the prāglagna at any point in time during the day was
+described earlier in verses 95–99 of this chapter. In the subsequent verses however
+it was stated that the procedure described then was only approximate. In verses 102–
+6, the method to find two new quantities, namely the kālalagna and the dr.kks.epa
+were given. The concept of the kālalagna is introduced as a prerequisite to arrive
+at the expression for the dr.kks.epa, which in turn is introduced as a prerequisite to
+arrive at the exact expression for the lagna. The procedure for arriving at the exact
+lagna value is now described in verses 107–10. The procedure is as follows.
+    Initially, the hour angle of the Sun (east or west) is found from the half-duration
+of the day. If td is the half-duration of day, then the nata (hour angle) of the Sun is
+given by
+
+                          H = td − time elapsed since sunrise
+                    or         = td − time yet to elapse till sunset.               (3.304)
+
+An intermediate quantity x is defined as
+
+                         x = trijyā − bān.a of nata + carajyā
+                          = R − (R − R cosH) + R sin ∆ α
+                          = R cos H + R sin ∆ α .                                   (3.305)
+
+Then, the jyā of ∆ θ whose arc has to be applied to the Sun to get the lagna is defined
+to be
+                                     x × dyujyā × lambaka
+                          jyā ∆ θ =                           .                 (3.306)
+                                     trijyā × dr.kks.epakot.i
+   Substituting for x in the above expression we have
+
+                               (R cos H + R sin ∆ α ) × R cos δ R cos φ
+                 R sin ∆ θ =                                            ,           (3.307)
+                                           R × R cosZV
+where R cos ZV is the dr.kks.epakot.i at the desired instant. From Chapter 2 ([see
+(2.84) in Section 2.11) we know that sin ∆ α = tan φ tan δ . Substituting for sin ∆ α
+in the above equation and simplifying, we have
+
+                                   R(cos φ cos δ cos H + sin φ sin δ )
+                    R sin ∆ θ =                                        .            (3.308)
+                                                cos ZV
+From the above equation the arc ∆ θ is to be obtained and applied to the Sun to
+get the prāglagna. If λs is the longitude of the Sun, then the prāglagna, which is
+generally referred to as the lagna, is given by
+
+                          lagna = λs + ∆ θ              (at udaya)                  (3.309)
+                                    = λs − ∆ θ          (at asta).                  (3.310)
+
+On the other hand, if we are interested in arriving at the ecliptic points, from unnata
+(the hour angle of the Sun with reference to the midnight), then we need to do the
+

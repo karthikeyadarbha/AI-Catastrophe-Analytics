@@ -1,0 +1,139 @@
+16. 9. 10
+
+From the Moon’s longitude (for the first contact as
+also for the last contact) calculate the Moon’s latitude;
+and from that successively determine the (correspond-
+ing (sthityardha in terms of) nddis, the corresponding
+minutes of arc (of the Moon’s motion), and the longi-
+tude of the Moon, (for the first contact as also for the
+last contact). Repeating this process again and again,
+find the nearest approximations to the (sparsa and
+moksa) sthityardhas. (10-12).
+
+First and the last contacts
+
+Diminish and increase the true time of opposition by
+the (sparfa and moksa) sthityardhas, obtained by the
+method of successive approximations, (respectively):
+then are obtained the times of the first and the last
+contacts. The time of the middle of the eclipse is the
+same as that (of opposition of the Sun and the Moon).1
+
+(13)
+Sparsa and moksa vimardardhas
+The square root of the difference between the squares
+
+of the Moon’s latitude and half the difference between
+(the diameters of) the eclipsed and eclipsing bodies leads,
+
+ग This is how the exact times of the beginning and end of alunar
+eclipse are determined. In practice, however, the exact beginning
+and end of an eclipse are not perceived with the unaided eye. A
+lunar eclipse is seen to begin after a portion of the Moon’s disc is
+already obscured by the shadow. Sankaranarayana tells us how to
+find the times when a lunar eclipse is actually seen to begin and end,
+He says:
+
+“At the beginning, having diminished the sixteenth part of the
+Moon’s diameter from halfthe sum of the diameters ofthe Moon and
+the shadow, (then) having squared it and subtracted from it the
+square of the Moon’s latitude, one should obtain halfthe (apparent)
+duration of the lunar eclipse by the method of successive approxi-
+mations. Or, one should multiply the sixteenth portion of that
+(semi-duration) in minutes by 60 and divide by the difference
+between the daily motions of the Sun and the Moon, and then
+reduce that to vighatis etc. Having thus ascertained the corres-
+ponding time (in vighafis) the apparent instant of the first contact
+should be declared by adding that to the instant of the first contact.
+After that, in order to determine the instant of the last contact, the
+moksa-sthityardha obtained by the method of successive approxima-
+tions should be added to the instant of opposition and the result
+taken, as before, as the instant of the last contact. There also the
+(apparent) time should be announced after diminishing it by one-
+sixteenth (ofthe time corresponding to the moksa-sthityardha). Then
+adding the two sthityardhas (i.e., the sparfa and moksa sthityardhas),
+the sum should be declared, in ghafis etc., to be the duration of the
+eclipse.”
+
+In support of his statement, Sankaranarayana quotes the following
+verse of Acarya Bhatta Govinda:
+
+SaSidehastyarsSonark samparkadalarm yada nater adhikam |
+bhavatt tadendugrahanam na bhavatyal pe ‘rdhasamparke ||
+
+i.e., When half the sum of the diameters of the Moon and the
+shadow diminished by the sixteenth portion of the Moon’s diameter
+is greater than the Moon’s latitude (for the time of opposition),
+then does a lunar eclipse occur (i.e., is observed). When half the
+sum of the diameters of the Moon and the shadow (diminished by
+the sixteenth part of the Moon’s diameter) is smaller, a lunar eclipse
+does not seem to occur (i.e., is not observed).
+
+The statement that the time of the middle of the eclipse is the
+same as that of opposition of the Sun and Moon is only approxi-
+mately true. An accutare expression for the difference between
+the two instants was first given by GaneSa Daivajfia (1520). (KSS)
+
+INDIAN ASTRONOMY-—A SOURCE-BOORK 204
+
+as before, to the determination of the (nearest approxi-
+mation in) nddis of the (sparfa vimarddrdha as also of the
+moksa vimardardha. (14)
+
+Aksa-valana and Ayana-valana
+
+Multiply the R sine of the (local) latitude by the
+R versed-sine of the asus between the times of (the begin-
+ning, middle, or end of) the eclipse and the middle of
+the night or day,! and divide by the radius (i.e., 3438’):
+(the result is the R sine of the aksa-valana). The direc-
+tion of the result (i.e., aksa-valana) is (determined) in the
+following manner :
+
+(If the eclipsed body, at the time of the first or last
+contact, is) in the eastern half of the celestial sphere,
+the directions of the aksa-valana for the eastern and
+western halves of the disc (of the eclipsed. body) (i.e., of
+the sparfa and moksa valanas in the case of the Moon and
+vice versa in the case of the Sun) are north and south,
+(respectively); (if the eclipsed body is) in the western
+half of the celestial sphere, (they are to be taken)
+reversely, (15-16).
+
+Magnitude and direction of the ayana-valana
+
+The R sine of the declination calculated from the
+R versed sine of the kofi of the tropical (sdyana) longitude
+of the Sun or Moon? for that time (i.e., for the beginning,
+middle, or end of the eclipse) (is the R sine of the ayana-
+valana). In the eastern halfof the disc (of the Sun or the
+Moon), the direction (of the ayana-valana) is the same as
+that of the ayana® (of the Sun or the Moon). In the
+western half, the direction is contrary to that of the
+ayana. (17)
+
+Resultant valana
+
+Take the sum of their arcs (i.e., of the aksa-valana and
+ayana-valana (when they are of like directions) and the
+difference when they are of unlike directions. Multiply
+the R sine of that (sum of difference) by the sum of the
+semi-diameters of the eclipsed and eclipsing bodies and
+divide by the radius: this result is the valana. (18)
+
+Corrected valana: sphuta-valana
+
+If the valana (obtained above) is of the same direction
+(as the Moon’s latitude) add it to the Moon’s latitude;
+if it is of the contrary direction, subtract it (from the
+
+1 Night when the eclipse is lunar, and day when the eclipse is
+solar.
+
+9 The Sun is taken when the eclipse is solar, and the Moon is
+taken when the eclipse is lunar.
+
+8 Ayana means ‘‘the northerly or southerly course (of a planet, ११
+The course (ayana) is north or south according as the planet lies in
+the half orbit beginning with the tropical Sign Capricorn or in that
+beginning with the tropical sign Cancer.

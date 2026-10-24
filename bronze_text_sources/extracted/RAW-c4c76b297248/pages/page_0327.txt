@@ -1,0 +1,60 @@
+6.
+
+10.
+
+11.
+
+On the Touchstone of Established Notions
+
+In the Atharvaveda 850 we can find:
+
+a) In XIU.5, XX.25 & XVI.18, numerals 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10 are mentioned
+in the ascending order. These first ten digits assume importance as a class, only
+in the Decimal system.
+
+b) ¥V.16.1.11: The numerais 1, to 11 are mentioned in order, probably to illustrate
+the formulation of the digits above nine.
+
+©) V.15.1.11: Numerals from 1 10 10 and 100 are paired with their multiple by 10 1.6.
+1-10, 2-20, 3-30, 4-40 ... upto 10-100 and 100-1000 are given to illustrate the
+process of deriving higher numbers in the decimal system. Had it been a random
+mention of a few multiples of common use it would have stopped at 10-100,
+rather than progressing on to 100-1000 i.e. a four-digit number cannot be
+expected to have ordinary use in those ancient days.
+
+9) IXX.43.35 gives the multiples of 11 in descending order i.e. 99, 98, 77, 66, 55,
+44, 33, 22 and 11.
+
+Yajurveda XVII.24 and XVII.25 mentions the odd and even numbers in a unique way
+as:
+
+XVHL24: 1,3,3; 5,5; 7,7; ... 29,29; 31,31; & 33.
+XVIH.25: 4,8,8; 12,12; 16,16; 20,20; ... 40,40; 44,44, & 48
+
+We can only speculate as regards the purpose served by these series of numbers.
+Both the series must have certain rationale/process behind it.
+
+Taittirlyasamhita (VII.2.12-17):
+
+1,3,5... upto 99; (1, 3,5... 33 at 1V.3.10 also).
+2,4,6,8...20
+
+4,8,12 ... 20
+
+5, 10, 15 ..- 100
+
+10, 20, 30 ... 100
+
+Pancavimsa-Brahmana (XVIUI.3) and Srautasttras contain the geometrical
+progression:
+24, 48, 96, ... 49152, 98304, 196608, 393216
+
+Satapatha Brahmana (X.5.4.7) gives the sum of the series 3 x (24 + 28 + 32 + 36 +
+40 + 44 + 48) as 756. Brhaddevata (111.13) sums up the series 2 + 3 + 4 + ... 1000 as
+500499.
+
+51085081 gives evidence for the use of arithmetical operations with fractions such
+as: ॥
+72 + 25 = 187 Ve
+
+303

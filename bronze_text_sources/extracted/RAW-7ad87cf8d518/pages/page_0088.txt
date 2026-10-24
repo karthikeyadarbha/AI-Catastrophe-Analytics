@@ -1,0 +1,69 @@
+6.5. 9
+
+only the last consonant counts. The vowel suffixed toa
+consonant, too, is to be ignored, (the digits being written
+from right to left to form the number.)!_ (4) (KVS)
+
+कटपयव्गेभवैरिह पिण्डान्त्यैरक्षररद्धा: ।
+ने-जे शून्यं ज्ञेयं, तथा स्वरे; केवले कथिते ।।
+(Stray verse)
+
+6. 5. 2.
+
+The (ten) digits are denoted by the letters in the
+groups (of ten each) beginning with ka, fa, pa and ya, the
+end letters alone being taken in the case of conjunct
+
+1 This system has been very popular in the southernmost part of
+India, especially in Kerala. The system was prevalent in this part
+of the country at least from the 4th cent. A-D. when the Moon-
+chronograms beginning with gir nah sreyah were composed by a
+Kerala Vararuci who is traditionally ascribed to the said period.
+Aryabhata’s commentator Saryadeva Yajvan refers to this system
+as a pre-Aryabhatan notation. Thus, while commenting on ABh.
+1.2, which sets out the notation newly introduced by Aryabhata, he
+says that the values of the consonants ka etc. is different from their
+values in the kafapadi system, which was already well known
+then. Cf. vargaksaranam sankhyapratipadane katapaditvam nafiayo§ ca
+Sinyatvam api prasiddham. tannirasdrtham kat-grahanam. kat-prabhyty eva
+vargaksaranam sankhya na takarat pakarat ca prabh sti. kat-prabhyti sarvam
+sankhyam pratipidayanti, na tu Rakara-nakarayoh sinyatvam ity arthah.
+(Edn., K.V. Sarma, New Delhi, 1976, 9. 10).
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 48
+
+syllables. Na and fia are to be understood as zero; 80
+also the vowels when standing alone.1_ (KVS)
+
+संख्याविन्यास:---कटपयादिः २ `
+6. 6. 1. कूपात्‌ कटपयपूर्वा वर्णा वर्णक्रमाद्‌ भवन्त्यङ्काः |
+मनौ शून्यं प्रथमार्थे आ छेदे ऐ तृतीयाथं ॥ २॥।
+(ABh. II, 22. 1.2)
+
+Depiction of numbers—Katapayadi (ii
+
+The consonants starting from ka, ta, pa, ya represent
+the numerals from one (riipa) (in succession) in the order
+of the (respective) consonants; fia and na (denote) zero.
+(The chronograms, when) separated (from each other)
+have 4 and ai (at their end) in the nominative (plural)
+and in the instrumental (plural, respectively)*. (2).
+
+(SRS)
+
+1 Alphabetic notation of the numerals
+
+1 2 3 4 5 6 7 8 9 0
+k kh ट gh n ८ ch j jh fi
+t th d dh n t th d dh n
+p ph b bh m
+
+y 7 1 v § 5 $ b 1
+
+2 According to this system, the vowels, whether standing alone
+or in conjunction with consonants, have no numerical significance.
+Each component conjunct of a consonant has a numerical signi-
+ficance. The letters of the chronograms are read from left to
+right, unlike several other systems. The visarga at the end of a
+chronogam is dropped if the latter is followed by a word ora
+chronogram.

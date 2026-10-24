@@ -1,0 +1,129 @@
+13. 17. 1
+
+तवरन्दोः शाकजा लिप्ताः स्वपञ्चांशेन वजिताः |
+
+ग्राह्या, राहोरद्रदशांशहीनास्तुङ्खस्य केवलाः |
+
+विशेषोऽयं दृष्टिसाम्यसिद्धये क्रियतेऽधूना ।। २ ।।
+
+(Paramesvara, Mahabhdaskariya-Bhasya-vyakhya
+on 5.77, edn. pp. 321-22)
+
+A Correction to the Bhatabda correction
+
+A correction by name Sakabda-Samskara, otherwise
+called Vagbhava-samskara is applied by astronomers to the
+(mean positions) of planets as computed according to
+the system of Acarya (Aryabhata). (1)
+
+There, the minutes of the Sakabda correction of the
+Moon should be taken one-fifth less and that of Rahu’s
+correction, one-twelfth less. The correction for the
+Higher Apsis can be taken as it is.
+
+This special correction is done for (making computed
+positions) accord with observed positions. (2). (KVS)
+
+मनुयुगसंस्कारः
+13. 17. 1. वस्वे-के-षु-युग-'घ्नं मनुयुगमर्कादिमध्यमचतुर्णाम्‌ ।
+
+धनमृणमृणमृणमथ कृति गुणितं चक्र-श-भै'लेब्धम्‌ 11 २०
+
+भौमाज़िरश्शनीनां देयमुणं देय मब्धि-नन्‍्द' ह॒ते |
+सितबुधयोहेंयं देयं सप्तहतं बुधस्योक्तम्‌ ।। २१ ॥।
+(Deva, KR, 1. 20-21)
+
+Manuyuga correction
+
+Multiply the number of yugas elapsed since the
+beginning of the (current) Manu by 8, 1, 5 and 4, re-
+spectively, and (treating the products as minutes) apply
+them additively, subtractively, subtractively, and sub-
+tractively to the mean longitudes of the four planets
+beginning with the Sun, (i.e. the Sun, the Moon, the
+Moon’s apogee and the Moon’s ascending node) in their
+respective order. Again, multiply the same ~ (number
+of yugas) by 20 and divide (severally) by 12, 11, and 27
+respectively and (treating the quotients as minutes)
+apply them additively, subtractively and additively to
+the mean longitudes of Mars, Jupiter and Saturn,
+respectively. Divide (the same product of the number
+
+of yugas elapsed and 20) by 4 and 9, respectively, and
+
+(treating the quotients as minutes) apply them. subtrac-
+tively and additively to the mean longitudes of the
+Sighroccas of Venus and Mercury, respectively. In the
+case of the sighrocca of Mercury, multiplication ‘by 7 is
+also prescribed.t (20-21). (KSS)
+
+1 This Manuyuga, correction is found to be discussed also by the
+Kerala astronomer Sankaranarayana (A.D. 869) in his commentary
+on the Laghu-Bhaskariya (2.22) of Bhaskara I. Sankaranarayana
+tells us that some people in his time ascribed this correction to
+Aryabhata I. See also KR: KSS, 9. 16.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 156
+
+कल्पसंस्कारः १
+13. 18. 1. कल्पारम्भगतान्‌ चतुरयुगगणान्‌
+
+गोपादकेनाधिकान्‌
+'लङ्का-क्षेत्र-दशास्य-ता म्रभुज-सद्‌-
+
+धाम-क्लम'ध्नान्‌ हरेत्‌ ।
+भागाद्याप्तफलं क्रमादवितनुजै'-
+
+इचन्द्राद्‌ बुधाराकियुक्‌
+त्वन्योनं तु भटोपदेशजमिदं
+
+कात्‌ पञ्चसिद्धान्तिनाम्‌ ।। १६ ॥
+
+(Deva, KR, 1.19)
+
+Kalpa correction—I
+
+Multiply the number of caturyugas elapsed since the
+beginning of the (current) Kalpa, as increased by 3/4,.
+severally by 13, 26, 158, 26, 84, 7, 59, and 53 and divide
+(each product) by 8064: the quotients obtained, in
+degrees etc., are the (Kalpa) corrections for the Moon
+etc. in the respective order. The corrections for Mercury’s
+Sighrocca, Mars and Saturn are additive and those for
+the other planets are subtractive. This is based on the
+instruction of (Arya)bhata and is applicable to all the
+five siddhantas beginning with the Brahma-siddhénta+ (19)
+(KSS)
+
+कल्पसंस्कारः--२
+13. 18. 2. "खाश्रखार्कँ gar: कल्पयाताः
+समाः ATH भागहारात्‌ पृथक्‌ पातयेत्‌ ।
+यत्तयोरल्पकं तद्द्विशत्याभजे-
+ल्लिप्तिकादं फलं तत्‌ विभिः" सायकंः' ।। ७ ॥
+
+"पञ्चभिः" 'पञ्चभूभिः' कराभ्या
+भानुचन्द्रेज्यशुत्रन्दुतु ड्रेष्वणम्‌ |
+“इन्दुना ‘seat: करा'भ्यां
+‘ee मोमसौम्येन्दुपाताकिषु स्वं क्रमात्‌ ।॥ ८ ।।
+(Bhaskara II, SiSi, 1. 1. 7.7-8)
+
+Kalpa correction—II
+
+The number of years from the beginning of the Kalpa
+divided by 12,000, the remainder, or the difference of
+the divisor and the remainder, whichever is less, is to be
+divided by 200. The quotient in minutes of arc,
+multiplied by 3, 5, 5, 15, 2, respectively, is a negative
+correction in the positions of the Sun, Moon, Jupiter,
+Venus and the lunar apogee and multiplied by 1, 52, 2
+and 4 gives the positive correction in the positions of
+
+५ The Kalpa correction has not been found to occur in any other
+work so far. However, it has been referred to by the Kerala
+astronomer Paramegvara (A.D. 1431). In his commentary on the
+Laghu-Bhaskariya (1.37) of Bhaskara I, he writes: ‘““There are five
+corrections which are to be performed on the basis of time elapsed
+(since some particular epoch). They are: Two Bhatabda corrections,
+Nibandhokta correction, Kalpa correction and Manuyuga correction.
+One should perform that one which makes calculations tally with
+observation.” See also KR: KSS, 9. 15.

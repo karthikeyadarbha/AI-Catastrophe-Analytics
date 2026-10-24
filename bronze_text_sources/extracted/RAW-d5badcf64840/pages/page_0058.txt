@@ -1,0 +1,50 @@
+1.4 Lunar reckoning of time                                                          11
+
+Verses 5–8 in Tantrasaṅgraha are devoted to the description of the Indian calendar.
+To begin with, a paks.a (fortnight) and a cāndramāsa23 (a lunar month) are defined.
+Both these units are primarily based on the motion of the Moon relative to the Sun.
+   The Indian calendrical system is based on the motion of the Sun and the Moon. In
+other words, it is luni-solar in nature, i.e. based on the positions of both the Sun and
+the Moon against the background of different rāśis (zodiacal signs) and naks.atras
+(asterisms) along the ecliptic.
+   The luni-solar nature of the Indian calendrical system is evident from the fact
+that some of the social and religious functions/festivals are celebrated according to
+tithis, naks.atras etc. (which are essentially based upon the motion of the Moon rel-
+ative to the Sun) while others that depend on saṅkrānti, ayana etc., are based on
+the motion of the Sun alone. For instance, festivals like Rāma-navamı̄, Gan.eśa-
+caturthı̄ etc., are based on Moon’s position relative to the Sun, whereas others like
+Makara-saṅkrānti, Vis.u etc., are based on the Sun’s position against the back-
+ground of stars.
+
+
+Lunar month and tithi
+
+
+
+                                                    Sun (in conjunction
+                                                           with Moon)
+
+
+
+                                                  M1
+
+
+
+
+                         śukla-paks.a
+                                                    Earth        kr..sn.a-paks.a
+
+
+
+                                                 M2
+
+
+
+
+Fig. 1.3 Lunar month consisting of bright and dark fortnights.
+
+
+   Both the Sun and the Moon are in continuous motion as seen by an observer
+on the Earth. The angular distance covered by them against the background of stars
+23 A cāndramāsa consists of two fortnights.
+

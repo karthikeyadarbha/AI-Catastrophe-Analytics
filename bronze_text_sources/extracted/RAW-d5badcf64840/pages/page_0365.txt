@@ -1,0 +1,52 @@
+318                                .=+a;va;g{a;h;Na;pra;k+.=+Na;m,a                                          Solar eclipse
+
+                                                              Z
+
+                                                                                  V
+                                                                                                90 − ξ
+                                                                                      V’
+                                                                                  ξ
+                               K
+                                                                                      B    M
+                        secondary to the ecliptic                                              A
+                       passing through the Moon
+
+                                                                                               M’
+              N                                                       eclip                              S
+                            horizon                                         tic
+
+                                                                        parallel to the ecliptic
+                                                                       passing through the Moon
+
+Fig. 5.5 The effect of parallax in the measurement of the Moon’s latitude in a solar eclipse.
+
+
+
+by z′v , the zenith distance of the point V ′ . In arriving at the above expression an
+approximation is involved which can be shown to be very reasonable. Considering
+the triangle KZM in Fig. 5.5 and applying the cosine formula, we have
+
+                    cos KZ = cos KM cos ZM + sin KM sin ZM cos ξ .                                               (5.32a)
+
+This is approximated as
+                                       cos KZ ≈ sin ZM cos ξ ,                                                   (5.32b)
+ where we have used the approximation KM ≈ 90. Actually KM = 90 + βt , where
+βt is the true latitude of the Moon. But since βt is very small during an eclipse—in
+fact, it must be less than around 15′ for an eclipse to occur—it is justified to take
+KM = 90. The same approximation is used in finding KZ. We have
+
+                                            KV ′ = KV + VV ′
+                                                     = 90 + βt
+                                                     = KZ + ZV ′                                                  (5.33)
+
+Therefore KZ = (90 + βt ) − ZV ′ . We make the approximation KZ ≈ 90 − ZV ′ . As
+mentioned earlier, since VV ′ = βt is very small, the approximation is quite good.
+Further, using the notation ZM = z and ZV ′ = z′v = zv ± |βt |, we find
+
+                          cosKZ = sin ZV ′ = sin z′v = sin z cos ξ
+                                                       sin z′v
+                                     or      cos ξ =           .                                                  (5.34)
+                                                        sin z
+Substituting for cos ξ and MM′ in (5.29), we obtain the expression for the Moon’s
+parallax in latitude given by (5.31).
+

@@ -1,0 +1,68 @@
+F.5 Geometrical picture of planetary motion according to Nı̄lakan
+                                                                . t.ha                                                                                      515
+
+   Sun—to the śı̄ghrocca. There is no rationale for this and that it was omitted in Mānasa
+   (Laghumānasa of Mañjulācārya) seems quite reasonable. This approach followed by
+   the earlier ācāryas is also inappropriate because the quantities [that which is used for find-
+   ing the mr.duphala and that to which mr.duphala is applied] belong to different classes
+   (bhinnajāti).
+
+   Therefore, it was proposed by Gārgya (Nı̄lakan.t.ha) that in the manda procedure it is
+   their own mean position [and not the mean Sun] that should be considered as the mean
+   position of Mercury and Venus. The dimension of mandavr.tta should also be taken to be
+   given in terms of the measure of their own orbits (svı̄yakaks.yā-kalābhih.). In the śı̄ghra
+   process, since the orbit of the Sun is larger than their own mean orbit (madhyavr.tta),
+   he also proposed that a simple way of formulating the correction would be by supposing
+   that the mean and the ucca (śı̄ghrocca) and their corresponding orbits (kaks.yāvr.tta and
+   śighravr.tta) are indeed reversed.
+
+
+
+
+F.5 Geometrical picture of planetary motion according to
+    Nı̄lakan.t.ha
+
+In his Āryabhat.ı̄ya-bhās. ya, while commenting on verses 17–21 of the Kāla-
+kriyāpāda, Nı̄lakan.t.ha explains that the orbits of the planets, and the locations
+of various concentric and eccentric circles or epicycles associated with the manda
+and śı̄ghra processes, are to be inferred from the computational scheme for calcu-
+lating the true geocentric longitude (sphut.a-graha) and the latitude of the planets
+(viks.epa).
+
+   ta:a ta;a:=+a;g{a;h;a;Na;Ma   :pua;na:+:a;d
+                                                õ ;yMa   :pa;a:=+a;Da;d
+                                                                       õ ;yMa .. a :pra;d;a;ZRa;ta;m,a Á   ta:a k H   :pa;a:=+a;DaH                   -
+                                                                                                                                        k+:[ya;a;ma;Nq+.l
+
+   :k
+    e +:ndÒ+gaH k+: / / / / /
+                   a;sma;n,   a :pra;de;Zea :pua;na;a:=+ta:=+~ya ; //////
+                                                                                                                                     å
+                                                                    a;~Ta;a;taH I+.tyea;ta;t,a ;a;va;[ea;pa;a;na;ya;na;k+:mRa;Na;a .~.Pu+.f;kÒ +:ma     -
+   va;Za;a;a ;a;na;NeRa;tMua Za;k+.a;m,a Á
+
+
+
+   We have explained that in the case of the tārā-grahas (the five planets) there are two uccas
+   and two epicycles. There, issues such as which epicycle has a centre on the concentric and
+   where the other epicycle is located, can be settled by (analysing) the procedure for finding
+   out the true longitude and latitude of the planet.
+
+
+
+
+F.5.1 Geometrical picture of the motion of the exterior planets
+
+Nı̄lakan. .tha first gives the following general outline of the geometrical picture of
+planetary motion:
+
+   A:a;a;ya;ma;Æa;Ba;sa; / / 
+                         a;nDaH Á k+:[ya;a;ma;Nq+.l+.k
+                                                     e +:ndÒ O;;va Za;a;Gra;pa;a:=+Dea:=+a;pa :k
+                                                                                                 e +:ndÒ+m,a Á ta;tpa;a:=+Da;Ea Za;a;Gra;ea;a;a      -
+   k+:a;nta;pra;de;Zea ma;nd;pa;a:=+a;Da;k
+   Ò                                       e +:ndÒM . a Á O;;vMa :pa;a:=+Da;Ea :pua;na;mRa;nd;ea;a;pra;de;Zea :pra;a;ta;ma;Nq+.l+.ke +:ndÒM .. a Á ta;a
+
+   :pra;a;ta;ma;Nq+.l+.ma;a;k+:a;Za;k+:[ya;a;ya;aH .~va;Ba;ga;Na;a;va;a;Ea;ya;eRa:ja;nEa;~tua;ya;m,a Á ta; /////////
+                                                                                                            a;sma;ea;va g{a;h;a;ba;}ba;Æa;ma;ta;=E H
+

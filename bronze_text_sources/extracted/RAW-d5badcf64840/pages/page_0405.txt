@@ -1,0 +1,61 @@
+358                                                     v.ya;ta;a;pa;a;ta;pra;k+.=+Na;m,a                                                         Vyatı̄pāta
+
+                                                                               Z
+
+
+
+
+                               P                                                                         S
+                                                                                                                  F
+                                                                                             M1
+                                                                                                              A
+                                                         M2
+                                                                         B                       N           equator
+
+                                                                                             Γ
+                                                            Γ
+                                                                                      D               M4
+
+
+
+                                  C
+                                               M3                             ecliptic                  Moon’s orbit
+
+Fig. 6.1 Positions of the Sun and the Moon during vyatı̄pāta.
+
+
+
+Occurrence of lāt.a and vaidhr
+                              . ta
+
+In the Fig. 6.1, Z represents the zenith, P the north celestial pole, Γ the vernal
+equinox and N the ascending node of the Moon’s orbit. The Sun is at S whose
+declination |δs | = SF. M1 , M2 , M3 and M4 correspond to different positions of the
+Moon, which lie in four different quadrants, at which
+
+                                       |δm | = M1 A = M2 B = M3C = M4 D = |δs |.                                                                          (6.2)
+
+Out of these four positions of the Moon—since |δs | is increasing at S—only M2
+and M4 correspond to vyatı̄pāta, as |δM | is decreasing only at these two positions.
+Moreover, it may be noted that when the Moon is at M2 , the ayanas of the Sun
+and the Moon are different but lie in the same hemisphere. Hence it is an instance
+of lāt.a-vyatı̄pāta. On the other hand, when the Moon is at M4 , the ayanas of the
+Sun and the Moon are the same (both are northerly). Hence this is an example of
+vaidhr.ta-vyatı̄pāta.
+   The commentary begins with the following avatārikā: 2
+                                                                        å
+   O;;vMa .=+va;a;nd
+                    õ ;eaH            õ ;yMa dx;gga;ea;l+.a;va;Sa;yMa .~.pa;;ta:=M :pra;d;a;ZRa;ta;m,a Á I+.d;a;na;Ma Ba;ga;ea;l+.a;va;Sa;yMa ta;ya;ea;=e+va
+                             g{a;h;Na;d
+
+   k+:a; / / 
+   Ò    a;nta;sa;a;}ya:ja;a;na;tMa v.ya;ta;a;pa;a;tMa :pra;d;ZRa;a;ya;tua;ma;a;h Á
+
+   Thus the two eclipses of the Sun and the Moon, related to the observer-centred celes-
+   tial sphere (dr.ggola), were clearly demonstrated. Now in order to explain the concept
+   of vyatı̄pāta—that arises owing to the equality of declinations of them [the Sun and the
+   Moon]—related to the geocentric celestial sphere bhagola, [the following] is stated.
+
+
+2 The word avatārikā refers to succinct introductory remarks.
+

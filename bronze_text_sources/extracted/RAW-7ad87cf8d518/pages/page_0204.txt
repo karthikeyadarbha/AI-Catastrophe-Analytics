@@ -1,0 +1,134 @@
+13. 21. 5
+
+(It has been said that) the difference between (the
+longitude of) the Sun derived from the midday shadow
+(of the gnomon at the local place) and that calculated for
+the middle of the day (without the application of the
+longitude correction) (gives the longitude correction for
+the Sun). But that is not so, as to the east and west ofa
+place on the prime meridian (i.e., on the same parallel
+of latitude) the latitude (and therefore the shadow of the
+gnomon) remains the same. (28). (KSS)
+
+--लल्लः
+13. 21. 5. क्रमेण लङ्कोज्जयिनीहिमाचल-
+
+प्रबद्धरेखाविषयेषु मध्यमाः |
+भवन्ति पूर्वापरपत्तनेष्वमी
+
+ततश्च देशान्तरकर्मसंस्कृताः ।। ४२ Ul
+खखामरा' योजनवेष्टनं भुवो
+
+नभः शराध्रक्षितयो'ऽस्य विस्तृतिः ।
+दिवाकरघ्नं पलकणेभाजितं
+
+स्फुटं महीगोलकवेष्टनं भवेत्‌ ।। ४३ ॥।
+कुमध्यरेखाविषयं स्वपत्तना-
+
+दवस्थितं तिर्यग वेत्य योजनम्‌ ।
+स्वकीयततत्यपलांशकान्तरं
+
+'खखामर'घ्नं विभजेत्‌ खषड़गुण: ।। ४४ ul
+पलकृतिरथ यावदरगतो योजनानां
+
+पदमृजु निजधामक्ष्माधंयोरन्तरं स्यात्‌ 1
+ग्रहगतिहतमेतत्‌ स्पष्टभूवृत्त भक्तं
+
+धनमृणमपरैनद्रयोलिप्तिकादि क्षमार्धात्‌ ।। ४५ ।।
+
+(Lalla, 37001. 1. 42-45)
+
+—Lalla
+
+The mean longitude (of the planets calculated above)
+are for places on the meridian line passing through
+Lanka, Ujjayini and Himalaya. When, to these longi-
+tudes are applied corrections for difference in terrestrial
+longitudes, the results are longitudes for places east or
+west (of the meridian line). (42)
+
+The (mean) circumference of the Earth is 3300 yojanas.
+Its diameter is 1050 yojanas. The (mean) circumference
+multiplied by 12 and divided by the hypotenuse of the
+equinoctial shadow (palakarna) of a place, gives the
+corrected circumference of the earth (at that place). (43)
+
+Ascertain the shortest distance in yojanas between a
+place on the meridian line (passing through Lanka)
+
+1 This rule has also been criticised by Sripati, who says:
+
+<‘Whatever is obtained here as the difference between the
+longitudes of the Sun derived from the midday shadow - (of the
+gnomon) and that obtained by calculation (for midday, without
+the application of the longitude correction), when multiplied by
+the (local) circumference of the Earth and divided by the (Sun’s
+daily) motion gives the yojanas of the longitude (i.e., the distance in
+yojanas of the local place from the prime meridian). ‘This is gross
+‘on account of the small change in the Sun’s declination.”
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 160
+
+and the observer’s station. Multiply the degrees in the
+difference of latitudes of these two places by 3300 and
+divide by 360.
+
+Square the result. Subtract it from the square of the
+yojanas (found above). Find the square root. This is
+the distance (in yojanas) between the meridian lines
+passing through the two places.
+
+Multiply it by the mean daily motion ofa planet and
+divide by the corrected. circumference of the earth. The
+result in minutes should be added (to the mean longi-
+tude of a planet) for places to the west of the meridian
+line of Lankd and subtracted for places to the east.
+(44-45) (BC)
+
+---करणरत्नम्‌
+13. 21, 6. देशान्तरघटीक्षुण्णा मध्या भुक्तिः खचारिणाम्‌ ।
+षष्ट्या भक्तं ऋणं प्राच्यां रेखायाः पश्चिमे धनम्‌ IR
+(Deva, KR, 1.27)
+
+—Karanaratna
+
+The mean daily motion of a planet multiplied by the
+longitude (of the place) in terms of gkafis and divided by
+60 should be subtracted (from the longitude of the planet
+(if the place is) to the east of the prime meridian and
+added (to the longitude of the planet) if the place is to
+
+the west of the prime meridian. (27). (KSS)
+--पौलिशसिद्धान्तः
+13. 21. 7. यवनान्तजनाडचः सप्तावन्त्यां तिभागसंयुक्ताः ।
+
+वाराणस्यां चिकृतिः साधनमन्यत् वक्ष्यामि ।। १३ ॥।
+
+त्रिकृतिध्नात्‌ खबसु हताद्‌
+योजनपिण्डात्‌ स्वताडिताज्जह्यात्‌ |
+अक्षद्वयविवरक्रति
+मूल्याः षट्कोद्धुता नाडचः ।। १४ ॥
+(Varaha, PS. 3.13-14)
+
+—Pauligasiddhanta
+
+The correction to the time of the longitude of Yavana-
+pura to get the time of the longitude of Ujjaini is 7
+nadikas, 20 vinddikas, and. that of Varanasi is 9 nadikas.
+How to find the correction for other longitudes will be
+given (in the next verse) .2 (13)
+
+५ For the rationale, see SiDAVr: BC, 11., 28-33.
+
+2 What is given here is the difference in time due to difference
+in longitude alone from .Yavanapura of Ujjaini and Varanasi,
+Desantara-nadis, being the difference in time of the occurrence of any
+event due to longitude, the occurrence being earlier by this time if
+the place is East, and later if West. Actually the time difference
+due to longitude for Ujjaini from Yavanapura is nadis 7-38, and for
+Varanasi, nadis 8-50. The Greenwich East longitude of Yavanapura,
+Ujjaini and Varanasi are 30°, 75° 50" and 83°. From this we can
+find the actual time difference: (75°50’—30°)/6 nagis=7-38.;
+(83°—30°) /6 nadis=8-50). But considering the difficulty faced by
+the ancients, in doing this, for want of facilities, the achievement
+of the Siddhanta is commendable.”

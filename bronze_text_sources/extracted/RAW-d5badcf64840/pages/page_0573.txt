@@ -1,0 +1,60 @@
+526                                   The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                                        . t.ha
+
+8. Tantrasaṅgraha does not discuss the corresponding geometrical picture of lunar
+motion, which is however dealt with in detail in Yuktibhās.ā43 .
+   Nı̄lakan.t.ha takes up the issue of planetary distances towards the very end of
+the last chapter (Chapter 8) of Tantrasaṅgraha. Here, he first notes that the mean
+radius of the orbit (kaks.yāvyāsārdha) of each planet is to be found in the same way
+as was prescribed in the case of the Sun in Chapter 4, namely by multiplying the
+kaks.yāvyāsārdha and the revolutions in a Mahāyuga of the Moon, and dividing the
+product by the revolutions of the planet in a Mahāyuga.
+   .=+a;va;va;a;ndÒ+k+:[ya;a;ya;a nea;ya;a;nyea;Sa;Ma ;a;h .sa;a ta;taH Á
+                                                                              44
+
+
+   This is essentially the principle of traditional Indian astronomy that all the planets
+travel equal distances in their orbits in any given period of time, or that they all have
+the same linear velocity. Nı̄lakan.t.ha in fact states this principle explicitly in his
+Siddhānta-darpan.a as follows:
+   g{a;h;ya;ea:ja;na;Bua;a; H
+                                                Èå
+                                                î
+                                 .~ya;a;d, d;Za.*+Áe ;nd;eaH   k+:l+.a;ga;a;taH Á
+                                                                                    45
+
+   The velocity in minutes [per unit time] (kalāgati) of the Moon multiplied by 10 is the
+   velocity of [each] planet in yojanas [per unit time] (yojanabhukti).
+
+   Based on the number of revolutions given in Chapter 1 of Tantrasaṅgraha we
+can calculate the mean orbital radii (kaks.yāvyāsārdha) of all the planets as given in
+Table F.7.
+
+
+                       Planet Revolutions in a Kaks.yā (circum- Kaks.yāvyāsārdha
+                                Mahāyuga ference in yojanas) (radius in yojanas)
+                      Moon                  57753320                            216000      34380
+                       Sun                   4320000                           2887666     459620
+                     Mercury                17937048                            695472     110696
+                      Venus                  7022268                           1776451     282752
+                      Mars                   2296864                           5431195     864465
+                     Jupiter                  364180                          34254262    5452137
+                     Saturn                   146612                          85086604   13542951
+Table F.7 Kaks.yāvyāsārdhas (orbital radii) of the planets given by Nı̄lakan.t.ha.
+
+
+
+  While the values of the kaks.yāvyāsārdha given by Nı̄lakan.t.ha differ only
+marginally from those given in Āryabhat.ı̄ya (see Table F.5), Nı̄lakan.t.ha’s inter-
+43 {GYB 2008}, Section 11.36, pp. 584–7, 786–8, 975–80. It may be of interest to note that the
+
+maximum variation in the distance of Moon due to the second correction in Nı̄lakan.t.ha’s model
+is only of the order of 10% and not the ridiculous figure of around 50% found in the Ptolemaic
+model of evection. Of course, the expression for the second correction given by Nı̄lakan. .tha is
+essentially the same as the one given by Mañjulācārya (c. 932) and is more accurate and elegant
+than the Ptolemaic formulation of evection. See also M. S. Sriram, Planetary and Lunar Models in
+Tantrasaṅgraha and Gan     . ita-Yuktibhās.ā, in Studies in History of Indian Mathematics, ed. by
+C. S. Seshadri, Hindustan Book Agency, New Delhi 2010, pp. 353–89.
+44 {TS 1958}, p. 154.
+45 {SDA 1976}, p. 13.
+

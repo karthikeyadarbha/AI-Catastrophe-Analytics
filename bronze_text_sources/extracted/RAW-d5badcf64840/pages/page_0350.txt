@@ -1,0 +1,54 @@
+4.22 Graphical representation of the eclipse                                                     303
+
+   The first one (east–west line) is the trajectory of the shadow. The one along the direction of
+   deflection [out of the other two] is the trajectory separated from it owing to deflection. Both
+   these trajectories are only instantaneous (tatkālajau).
+   Draw a circle whose radius is the same as that of the Moon along its trajectory [drawn ear-
+   lier]. This must be drawn in the west on the full Moon day and in the east on the pratipad.
+   The shadow must always be drawn at the centre of the circle [on the north–south line], with
+   its centre on its own trajectory. That portion of the Moon which lies outside the shadow is
+   visible. Thus here the horns (hanus) of the Moon and the portion [east or west] in which
+   they lie may be clearly visualized.
+
+
+
+                                               E
+                      Moon
+                                                E
+                                A                           B
+                                                                         shadow
+
+
+
+
+                                                O
+                       N                                             S
+
+
+
+
+                                A’                          B’
+                                                W
+
+                                                W
+
+
+
+Fig. 4.20 Graphical representation of a lunar eclipse based on the calculation of the difference
+between theaks.avalana and the āyanavalana.
+
+
+    The procedure for the graphical representation of a lunar eclipse described above
+is explained with the help of Fig. 4.20. ENW S is a circle centered at O whose radius
+is equal to the ‘separation between the discs’. Here EW should be the east–west
+line, and NS the north–south line. Take a stick of length AB, which is twice the
+valana, and place it along the north–south direction such that A and B are on the
+circumference. AB should be towards the east of NS, on the pratipad (just after the
+instant of conjunction), and towards the west of NS on full Moon day (just before the
+instant of conjunction). Draw EW through E and AA′ and BB′ parallel to this. Then
+EW represents the trajectory of the shadow. AA′ or BB′ represents the trajectory of
+the Moon depending upon the direction of the valana (northwards or southwards
+respectively). It is significant to note that these two trajectories are considered as
+instantaneous. This is because the separations between the discs, the valana etc. are
+all varying continuously.
+

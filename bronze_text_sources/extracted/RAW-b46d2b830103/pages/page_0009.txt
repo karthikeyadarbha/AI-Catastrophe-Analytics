@@ -1,0 +1,57 @@
+Research Article
+
+
+consideration (For the year 100 BC, this ayanamsha places Spica at 29° 07 '32" Virgo). According to them the
+year of coincidence of two zodiacs is 221AD.
+
+Babylonian Kugler, Huber and Mercier Ayanamshas
+In 1900 F. X. Kugler, according to planetary tablets recorded by ancient Babylonians, categorized Babylonian
+star positions into three sets. In set 2 he postulated the position of Spica as at 29° 26 ' of Virgo.
+
+Peter Huber in 1958, reviewed the same planetary tablets in the light of new materials found and concluded that
+the sidereal longitude of Spica was 29° 14 ' Virgo.
+
+Still later in 1977 Raymond Mercier after going through Babylonian star tablets and concepts, used the star
+Zeta Piscium to find the location of star Spica and placed it at 29° 11 ' of Virgo.
+
+
+Dulakara Ayanamsha
+It is interesting to note that Dulakara and Kuglar 2 ayanamshas are almost the same. The year of coincidence of
+Dulakara ayanamsha is 244AD, and according to Kuglar 2 ayanamsha it is 243AD. The raw data for the former
+comes from the work of Hipparchus whereas for the latter it is Babylonian astronomy. Babylonian astronomy is
+older than Greek astronomy. Various claims have been made that Babylonians and Egyptians had discovered
+precession of equinoxes even before Hipparchus. It is possible that Hipparchus' used Babylonian astronomical
+material, including methods as well as observations, to some extent in his studies. Certain historians actually
+believe that Hipparchus' work provides a link between Babylonian and Greek astronomy. Therefore it is not a
+surprise that Kuglar 2 and Dulakara ayanamshas are almost same because the basis of the calculations is
+probably has a similar origin.
+
+Anyhow this is the first time that one can find two ayanamshas calculated using two different techniques giving
+almost the same results. In the presence of supporting evidence from Babylonian Kugler 2 ayanamsha, it is my
+sincere belief that Dulakara ayanamsha is the most precise ayanamsha that has ever been proposed. It is not just
+another ayanamsha but it is THE ayanamsha that everybody has been in search for for centuries. However
+readers need not stop from here but should continue to research on this important topic either to refute/support
+the Dulakara ayanamsha or to come out with a better one.
+
+See the Appendix for a Table of Dulakara Ayanamsa for a period of 120 years, which has been prepared with
+the help of Zet 9.1 free software (yearly rate of precession is not static because Nutation of zodiac has been
+                   **
+taken into account) .
+
+References
+1. http://www.astro.com/swisseph/swisseph.htm
+2. http://groups.yahoo.com/group/ancient_indian_astrology/message/1166
+3. http://wise-obs.tau.ac.il/~eran/Wise/Util/Refraction.html
+4. http://home.windstream.net/overbeck/AyanStat.pdf
+5. http://www.encyclopedia.com/topic/astrolabe.aspx
+6. http://www.hps.cam.ac.uk/starry/hipparchus.html
+7. All the diagrams were copied from Google image search
+
+
+
+
+**
+  Nutation (in longitude) accounts for perturbations in the position of the Vernal Point which is brought about by gravitational impact
+of our Sun and Moon upon the Earth.
+                                                                                                                                     9
+

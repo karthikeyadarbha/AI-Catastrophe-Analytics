@@ -1,0 +1,47 @@
+xiv
+
+Contents
+2.8 Computation of the Rsine value of a small arc................... 73
+2.9 Computation of the desired Rsine .....---------------------. 74
+2.10 True longitude of the अपा... eee ee. 75
+2.11 Pranas of the ascensional difference ,, .. ....७७-"०००००००००००-- 76
+2.12 Planets at sunrise at observer’s location , ....---.-------------- 80
+2.13 Durations of the day and the वाह... ...----------------------. 83
+2.14 Obtaining the प्ल किल्ला... --------------. 89
+2.15 Finding the arc corresponding to cara@etc. --...---------------. 90
+2.16 Obtaining the manda and stghra hypotenuses................. 96
+2.17 Obtaining the iterated hypotenuse , , + ----- 101
+2.18 Another method of obtaining the iterated hypotenuse............. 104
+2.19 Correcting the Sun using the iterated hypotenuse ................ 107
+2.20 Obtaining the mean Sun from the true पा.  .....--------------. 108
+2.21 Another method for getting the mean planet .................... 113
+2.22 Another method for getting the manda-hypotenuse ............. 114
+2.23 Instantaneous velocity of a planet ,....--------------------- 114
+2.24 Finding naksatra and ६2808 . ज 116
+2.25 The scheme of correction for the planets ....................0.. 119
+2.26 The correction for Mars, Jupiter and ऽवा... +... 119
+2.27 The correction for लप्र... +... 124
+2.28 The correction for Venus ... +. eee eee 128
+2.29 The daily motion of the planets . ......---------------------. 129
+छायाप्रकरणम्‌
+61111, 1111 /1 1! 1, ।  । (र 131
+3.1 Positioning the gnomon ,... + ee eee eee 131
+3.2 Finding the east-west points .. . + eee eee 134
+3.3 Correcting the east-west points . ...-- + ---------- 134
+3.4 Fixing the directions in one’s own 0146... --------- 138
+3.5 Equinoctial shadow .......... 0.0 ee eee eee 140
+3.6 Relation between the gnomon, its shadow and the hypotenuse ..... 141
+3.7 Rsine and Rcosine of the latitude . . ....--.-------------------- 142
+3.8 More accurate values of the latitude - ......------------------- 144
+3.9 The prime vertical, the celestial equator and the amplitude at rising . 152
+3.10 The rising time of #द888 . . . . . . . . ७७ 000. eee ee eee eee 153
+3.11 Big gnomon and the gnomonic shadow , ७-०० ००० 161
+3.12 Correction in finding the अवतता... ---------- 164
+3.13 Time elapsed or to be elapsed from the mahaganku ............ 167
+3.14 True Sun from the shadow of the gnomon ...................... 170
+3.15 Motion of equinoxes . . . . . ७. ७» ०० ०००००००००७०० ००७०० ०७७०६» ६०» ७०» ६» -»»- 172
+3.16 Latitude from zenith distance and declination ................... 175
+3.17 Directions from the shadow of the gnomon ..................... 175
+3.18 Locus of the tip of the shadow of the gnomon................... 179
+3.19 Another method for finding the Rsine of the shadow ............. 185
+3.20 Gnomon when the Sun is on the prime vertical .................. 189

@@ -1,0 +1,61 @@
+44                                          ma;Dya;ma;pra;k+.=+Na;m,a                           Mean longitudes of planets
+
+   In specifying the dhruvas of the planets, one observes that there are slight vari-
+ations from text to text. Some of the important Indian astronomical texts such
+as Āryabhat.ı̄ya, Sūryasiddhānta etc. have assumed that the five planets, namely
+Mercury, Venus, Mars, Jupiter and Saturn, and the Sun and the Moon were in
+conjunction with the beginning point of Mes.a-rāśi at the commencement of the
+present Kaliyuga. In other words, their mean longitudes at the beginning of the
+                                 ′
+Kaliyuga are taken to be 0r 0◦ 0 . This is an assumption.48 For instance, the follow-
+ing verses in Sūryasiddhānta specify the dhruvas of the planets at the beginning of
+the Kaliyuga:
+     A; / / / / /
+       a;sma;n,   a kx +:ta;yua;ga;~ya;a;ntea .sa;veRa ma;Dya;ga;ta;a g{a;h;aH            Á
+
+     ;a;va;nea;nd
+                u ;pa;a;ta;ma;nd;ea;a;a;n,a mea;Sa;a;d;Ea tua;ya;ta;a;Æa;ma;ta;aH        ÁÁ
+                            ñÍ
+     ma;k+.=+a;d;Ea Za;Za;a;öÅ
+                            *:+.ea;Ma ta;tpa;a;ta;~tua tua;l+.a;a;d;gaH        Á
+
+                                                                                           49
+                              ãÉa;a;nyea na;ea;+:a;~tea ma;nd;. a;a;a:=+NaH
+     ;a;na:=M+Za;tvMa ga;ta;a;(                                                       ÁÁ
+
+     But for the apogees and nodes, the mean positions of all the planets at the end of the
+                                                                 ′
+     Kr.tayuga were at the beginning of Mes.a rāśi (0r 0◦ 0 ). The apogee of the Moon was
+                                                           ◦
+     at the beginning of Makara (Capricorn) rāśi (270 ) and its node was at the beginning of
+     Tulā (Libra) rāśi (180◦ ). The positions of the nodes and apogees of the other planets are
+     not mentioned [separately], since their rate of motion is very slow.
+
+   Here one may wonder why the verse gives the epochal positions at the end of the
+Kr.tayuga and not at the beginning of the Kaliyuga. The positions at the beginning
+of the Kaliyuga would be the same as the positions at the end of the Kr.tayuga, as
+the planets make an integral number of revolutions in the intervening period. This
+is because the number of revolutions made by the planets in a Mahāyuga is even
+and the combined duration of Tretāyuga and Dvāparayuga is exactly half that of a
+Mahāyuga (see Section 1.9.1).
+
+
+Dhruvas given in Tantrasaṅgraha
+
+In contrast to the dhruvas specified in Sūryasiddhānta, non-zero epochal po-
+sitions (at the beginning of the Kaliyuga) are specified by Nı̄lakan.t.ha in his
+Tantrasaṅgraha. The values given by him are listed in Table 1.7.
+
+
+Need for changing the dhruva
+
+The reason for choosing the epochal positions to be different from those in Sūrya-
+siddhānta and other texts is given in Yukti-dı̄pikā. It is pointed out that the rate
+of motion of the planets might have changed over time, and hence, the epochal
+
+48 It is possible that the astronomers would have arrived at it by doing back-computation. That is,
+
+computing their position by moving backwards in time, based on their present position and rate of
+motion observed by them.
+49 {SSI 1995} (I. 57–8), p. 37.
+

@@ -1,0 +1,55 @@
+3.45 Determination of the madhyalagna                                                             249
+
+   kāladordhanus.i ks.iptvā taccāpamaviśes.ayet |
+   madhyalagnam     . tadeva syāt tatkāle prathame pade || 113 ||
+   dvitı̄yādis.u ca prāgvat madhyalagnamihānayet |
+   The kālalagna deficient by three rāśis (90 degrees) is the madhyakāla. Having obtained
+   the prān. akalāntara in minutes (liptās) from this, it may be added to the arc of the sine of
+   that (the madhyakāla).
+   Once again obtain the asus as before and find the difference in minutes (liptās). This has
+   to be added to the arc of the madhyakāla. From that the prān   . akalāntara [has to be
+   determined].
+   Having applied this to the arc of the madhyakāla, the arc may be found iteratively. This is
+   the madhyalagna at that instant, in the first quadrant. For the second and other quadrants,
+   the madhyalagna may be obtained as earlier.
+
+   The term madhyakāla refers to the right ascension (R.A.) of the point on the
+equator which is situated on the prime meridian. In Fig. 3.38 this point is denoted
+by T . M represents the meridian ecliptic point and Γ the vernal equinox. The mad-
+hyalagna is the longitude of the meridian ecliptic point. Here the vernal equinox is
+shown to lie in the western part of the hemisphere.
+   Let αT be the R.A. of the meridian equatorial point T , and H be the hour angle
+(H.A.) of Γ . By convention, the R.A. is measured along the equator eastward from
+Γ and the H.A. westwards from the prime meridian. From the figure, it is obvious
+that the R.A. of T is equal to the H.A. of Γ . That is, αT = H. By definition, the term
+
+                                                 Z
+                                    T
+                        M
+                                                                    H
+                                                                                 P
+                                                   Γ’
+
+                             ecli
+                              ptic
+
+                                                         W
+                                          eq
+                                            ua                                           N
+          S                                  tor
+                          horizon
+                                                     E
+
+
+
+                                                             Γ
+
+
+
+Fig. 3.38 Determination of the madhyalagna (meridian ecliptic point)—iterative method.
+
+
+kālalagna (L′′ ) refers to the difference in the time interval between the rise of Γ and
+the desired time. This is equal to 90 + αT . Thus, we have the prescription given in
+the text to subtract 90◦ from the L′′ (in angular measure), in order to obtain the R.A.
+

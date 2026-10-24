@@ -1,0 +1,70 @@
+3.22 Hypotenuse of the shadow from samaśaṅku                                                                               193
+
+      d;ea:$ya;Ra;. a;a;pa;sa;ma;ea Ba;a;nuaH    ta;tk+:a;le :pra;Ta;mea :pa;de           Á
+
+                                                                                                       53
+         õ ;ta;a;yea tua :pa;de :vea;dùÅM;a . a;k
+      ;a;d                                        Ò +:a;Da .~ya;a;t,a ta;dU;a;na;ta;m,a       ÁÁ
+
+      When the Sun is in the first quadrant, the longitude of it is equal to the arc of the dorjyā; if
+      it is in the second quadrant, then the longitude is equal to 180 degrees minus the arc.
+
+
+               ñÍ                        ñÍ
+  .
+3 22 .sa;ma;Za;öÅ
+               *:+.eaH                 A;ç
+                                         *:Å +.l+.a;tma;k H
+                                           u
+                                                                        k+:NRaH
+
+
+3.22 Hypotenuse of the shadow from the samaśaṅku in
+     aṅgulas
+
+                                              Èå
+      l+.}ba;a;[a:$yea ;a;va;Sua;va;;     R +î
+                                    ÂåÅ +a;k  *+Áe kÒ +:a; / / 
+                                                          a;nta:ja;a;va;ya;a Ba;e                Á
+                                                        ñÍ                      å
+      .sa;ma;ma;Nq+.l+.gea Ba;a;na;Ea k+:Na;ERa ta;a;va;ç
+                                                        *:Åu +.l+.a;tma;k+:Ea .~.pa;;Ea                    Á Á 53   ÁÁ
+
+
+      lambāks.ajye vis.uvadbhārkaghne krāntijı̄vayā bhakte |
+      samaman  . .dalage bhānau karn
+                                    . au tāvaṅgulātmakau spas..tau ||53 ||
+      The Rcosine and the Rsine of latitude multiplied separately by the vis.uvadbhā and twelve
+      [respectively], when divided by the Rsine of the declination of the Sun give the true hy-
+      potenuse [of the śaṅku] in aṅgulas when the Sun is on the prime vertical.
+
+In Fig. 3.23, S is the Sun on the prime vertical and N is the foot of perpendic-
+ular drawn from the Sun on to the horizon. Z is the zenith and OX the usual
+dvādaśāṅgula-śaṅku (the gnomon described earlier in this chapter, verses 1–3).
+Here ZSE represents the prime vertical.
+   The two expressions for the hypotenuse (CX) prescribed in the verse are:
+
+                                                                         lambajyā × vis.uvadbhā
+                                                                karn.a =
+                                                                                 krāntijı̄vā
+                                                                         aks.ajyā × arka
+                                    and                         karn.a =                    .                             (3.135)
+                                                                            krāntijı̄vā
+The term arka literally means the Sun. In this context it refers however to the num-
+ber 12. Therefore the above expressions for the karn.a reduce to
+                                                                              R cos φ × 12 tan φ
+                                                                         CX =
+                                                                                    R sin δ
+                                                                              R sin φ × 12
+                                             and                         CX =               ,                             (3.136)
+                                                                                 R sin δ
+which are the same. Using the expression for the samaman.d.ala-śaṅku given by
+(3.130), the above equations reduce to
+                                                                                   12 × R
+                                                                     CX =                   .                             (3.137)
+                                                                                   R cos z0
+
+
+
+53 {TS 1977}, p. 15.
+

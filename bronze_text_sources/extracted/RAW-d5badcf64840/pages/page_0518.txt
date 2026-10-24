@@ -1,0 +1,52 @@
+D.1 Problem one: to derive the śaṅku and nata                                              471
+
+The gnomon R cos z is given by
+
+                   R cos z = R cos(i − ρ )
+                           = R(cosi cos ρ + sin i sin ρ )
+                             (kot.i ′ (φ )kot.i ′ (δ ) + R sin φ R sin δ )R
+                           =                                                .             (D.16)
+                                                  R2 sin2 x
+When the declination δ is south and δ > 90◦ − φ , the diurnal circle is below the
+horizon and there is no gnomon. When the northern declination is greater than the
+latitude, midday is to the north of the zenith and the gnomon in the southern direc-
+tion. However, in this case, the gnomon will occur only when the āśāgrā is north,
+i.e. A is north of W .
+    Now from (D.7) and (D.12), kot.i ′ (φ ) reduces to
+
+                                 kot.i ′ (φ ) = R cos φ sin a.                            (D.17)
+
+Similarly, from (D.7) and (D.13)
+                                   q
+                   kot.i ′ (δ ) = R sin2 φ + cos2 φ sin2 a − sin2 δ .                     (D.18)
+
+Hence,
+                                              q
+               R (sin φ sin δ + cos φ sin a       sin2 φ + cos2 φ sin2 a − sin2 δ )
+    R cosz =                                                                          .   (D.19)
+                                   (sin2 φ + cos2 φ sin2 a)
+
+When the declination is north and the planet X is to the north of the prime vertical,
+one can show that z = 180 − (i + ρ ) and we would get
+                                         q
+             R (sin φ sin δ − cos φ sin a sin2 φ + cos2 φ sin2 a − sin2 δ )
+    R cosz =                                                                . (D.20)
+                                (sin2 φ + cos2 φ sin2 a)
+
+When the declination is south, z = i + ρ and we would get (D.19) again where it is
+understood that δ is negative.
+  Thus in all cases
+                                         q
+                            + cos φ sin a sin2 φ + cos2 φ sin2 a − sin2 δ )
+             R (sin φ sin δ ∼
+   R cos z =                                                                . (D.21)
+                                (sin2 φ + cos2 φ sin2 a)
+
+
+  . a-śaṅku (corner shadow)
+Kon
+
+The term kon.a means corner. In this context, it refers to the corner between any
+two cardinal directions, such as north-east, south-west etc. Technically, the kon.a-
+śaṅku or corner shadow occurs when the āśāgrā = 45◦ . In this case, from (D.14)
+

@@ -1,0 +1,50 @@
+2.16 Obtaining the manda and śı̄ghra hypotenuses                                                   97
+
+   Having added the kot.iphala to the radius (vyāsārdha) in the first and the fourth quadrants
+   and having subtracted [the kot.iphala] from it (the radius) in the other two [quadrants] let
+   the square root of the sum of the squares of this and the doh.phala be obtained. This is the
+   karn. a and in the manda process this has to be further iterated upon, but not in the śı̄ghra
+   (cala).
+
+   The method given in the above verse for finding the karn.a can be explained with
+the help of an epicycle model represented in Fig. 2.12a. Here the mean planet P0 is
+assumed to be moving on the deferent circle centred around O, and the true planet
+P is located on the epicycle such that PP0 is parallel to OU (the direction of the
+mandocca). OΓ represents the direction of Aśvini naks.atra (Mes.ādi or first point
+of Aries).
+   In Fig. 2.12a let R and r be the radii of the deferent circle and the epicycle
+respectively. OU represents the direction of the mandocca whose longitude is given
+by Γ ÔU = θm . The longitude of the mean planet P0 is given by Γ ÔP0 = θ0 . θms
+represents the longitude of the manda-sphut.a-graha. It is easily seen that
+
+                                 U ÔP0 = PP̂0 N = θ0 − θm ,                               (2.109)
+
+where (θ0 − θm ) is the manda-kendra. The doh.phala and the kot.iphala are given
+by
+                        doh.phala = PN = |r sin(θ0 − θm )|               (2.110)
+and
+                           kot.iphala = P0 N = |r cos(θ0 − θm )|.                          (2.111)
+Now, the manda-karn.a K is the distance between the planet and the centre of the
+deferent circle. Clearly,
+
+                   K = OP
+                                      1
+                     = (ON)2 + (PN)2 2
+                                                                 1
+                     = (R + r cos(θ0 − θm ))2 + (r sin(θ0 − θm ))2 2 .                     (2.112)
+
+Here, r cos(θ0 − θm ) = ±|r cos(θ0 − θm )| is positive in the first and fourth quad-
+rants and negative in the second and third quadrants. That is why it is stated that
+the kot.iphala has to be added to the trijyā in the first and fourth quadrants and
+subtracted from it in the second and third quadrants.
+   It is also stated that the karn.a K has to be determined iteratively in the manda-
+sam. skāra to obtain the aviśes.a-karn.a (iterated hypotenuse). This is because r in
+(2.112) is not a constant but is itself proportional to K. That is,
+                                                 r0
+                                            r=      K,                                     (2.113)
+                                                 R
+where r0 is the radius of the epicycle whose value is specified in the text. The itera-
+tive procedure to determine K and r is discussed in the next section. In the śı̄ghra-
+sam. skāra, r is fixed for each planet, and no iterative procedure is necessary to find
+K.
+

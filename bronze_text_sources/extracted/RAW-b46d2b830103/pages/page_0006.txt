@@ -1,0 +1,57 @@
+Research Article
+
+
+Hipparchus made extensive observations of star positions, and is credited with the production of the first known
+catalogue of stars. Based on the observation made by Hipparchus on star Spica he concluded that “beginning of
+Aries rises when Spica sets” (1). This sentence was the sole basis of the title of this paper.
+
+It is quite interesting that Hipparchus does not give an exact value to the position of Spica or any other star.
+Rather he recorded the observations he made about the relative position of stars. In his star catalogue he
+recorded the position of a quite large number of stars by comparing the placement of a particular star with
+another point or another star of the sky. He plainly recorded his observations rather than recording the
+speculations on it. Therefore we can take his work as unaltered virgin data which can be safely used for
+experiments. These observations actually inspired the later astronomers like Ptolemy, Isaac Newton and others
+in their experiments.
+
+
+Materials and Method
+
+1. Observations of Hipparchus
+The observation of Hipparchus of interest of this article relates the location of zero point of Aries to star Spica.
+Hipparchus meekly and plainly said that Aries rose when Spica set. Therefore it is needless to say that if the
+location of Spica is known, 0° Aries can easily be speculated. Since Aries has been defined in relation to a star,
+this is the sidereal 0° of Aries. At zero ayanamsha year both sidereal and tropical longitudes coincide.
+Therefore in zero ayanamsha year the tropical longitude of Spica must be as same as sidereal longitude of Spica
+that Hipparchus observed. Tropical longitudes of stars are accessible today through astronomical calculations.
+Therefore the year when tropical longitude of Spica is as same as the sidereal longitude of Spica that
+Hipparchus observed would be the zero ayanamsha year.
+
+
+2. Sun-Jupiter Cycle and Zero ayanamsha year
+To verify the zero ayanamsha year obtained from the observations of Hipparchus I considered Sun-Jupiter
+conjunction cycle and its relationship with zero ayanamsha year proposed by ancient Persian astrologers.
+According to an article circulating in internet “like the Sun and Moon opposition and conjunctions form the
+natural cycle for a month, Jupiter and Sun conjunction/opposition create a natural cycle defining not only a year
+but also the entire precessional cycle of 25800 years”(2). Accordingly at the time of coincidence of two zodiacs
+Sun and Jupiter must be either in conjunction or opposition. Since at vernal equinox Sun is at the beginning of
+Aries, Jupiter should be either in beginning of Aries or Libra.
+
+Calculations
+What was the longitude of Star Spica that was observed by Hipparchus? Since Aries and Libra are opposing
+signs in the Zodiac one might place it on 0°of Libra which is exactly 180° opposite to 0° of Aries. But this is
+wrong.
+
+We must understand that what Hipparchus recorded was just what he perceived with the naked eye probably
+supplemented by simple instruments, such as dioptra and astrolabe, available at that time. It was his
+OBSERVATION or what he saw at night sky while sitting at Rhodos of Greece at latitude of 39°N. It is
+assumed here that Hipparchus made his observations at an altitude of zero i.e. at sea level. Due to atmospheric
+refraction what we see at horizon is not exactly located on a horizontal plane. Light rays bend due to the
+influence of atmosphere and what we see at the horizon is actually a few arc minutes beyond the exact
+horizontal plane (Fig 6). The refractive index depends on environmental temperature and elevation of the object
+from horizon.
+
+
+
+
+                                                                                                                   6
+

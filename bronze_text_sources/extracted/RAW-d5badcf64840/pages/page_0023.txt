@@ -1,0 +1,47 @@
+xxii                                                                                                        List of Figures
+
+       4.1a Schematic representation of the situation of the Moon’s orbit with
+            respect to the ecliptic. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+       4.1b Determination of the instant of conjunction. . . . . . . . . . . . . . . . . . . . . . 257
+       4.2a Computation of the dvitı̄ya-sphut. a-karn.a in a lunar eclipse. . . . . . . . 264
+       4.2b Computation of the dvitı̄ya-sphut. a-karn.a in a solar eclipse. . . . . . . . 264
+       4.3 Determination of the length of the Earth’s shadow. . . . . . . . . . . . . . . . . 266
+       4.4 Determination of the angular diameter of the Earth’s shadow. . . . . . . . 268
+       4.5 Correction to the latitude and daily motion of the Moon. . . . . . . . . . . . 269
+       4.6 The Earth’s shadow and the Moon when there is (a) no lunar
+            eclipse, (b) a total lunar eclipse and (c) a partial lunar eclipse. . . . . . . 271
+       4.7 First and the second half-durations of a lunar eclipse. . . . . . . . . . . . . . 273
+       4.8a Determination of the paramagrāsakāla from the instant of
+            opposition obtained through an iterative process. . . . . . . . . . . . . . . . . . 277
+       4.8b Expression for the time difference between the paramagrāsakāla
+            and the instant of opposition. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279
+       4.9 Schematic sketch of the celestial sphere, when the first contact in a
+            lunar eclipse is close to the sunrise time. . . . . . . . . . . . . . . . . . . . . . . . . 282
+       4.10aProjection of the sum of the semi-diameters samparkārdha (OX)
+            on the vertical circle during the first contact in a lunar eclipse when
+            both the vertical and the samparkārdha are in the same direction. . . . 283
+       4.10bProjection of the samparkārdha (OX) on the vertical circle during
+            the first contact in a lunar eclipse when the vertical and the
+            samparkārdha have different directions. . . . . . . . . . . . . . . . . . . . . . . . . 284
+       4.11 Correspondence between the segment (BO) along the vertical circle
+            and the segment (CO) along the diurnal circle. . . . . . . . . . . . . . . . . . . . 285
+       4.12 Criterion for the visibility of first contact: (a) ignoring the effect of
+            parallax; (b) including the effect of parallax. . . . . . . . . . . . . . . . . . . . . . 288
+       4.13 Projection of the samparkārdha along the vertical when ζ = θ + zv
+            is greater than 90 degrees. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 288
+       4.14 Criterion for the visibility of last contact considering the effect of
+            parallax. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 289
+       4.15 Formula for finding the distance of separation between the centres
+            of the chāyā and the Moon. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 292
+       4.16aThe Rsine of an arc when the arc itself is small. . . . . . . . . . . . . . . . . . . 295
+       4.16bFinding the portion of the Moon obscured at any instant of time
+            during the eclipse. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 295
+       4.17 Schematic sketch to illustrate that the instant of opposition could
+            be different from the paramagrāsakāla. . . . . . . . . . . . . . . . . . . . . . . . . . 297
+       4.18 Determination of the aks.avalana and the āyanavalana. The
+            ecliptic and its secondary through the centre of the chāyā (shadow)
+            are denoted by solid lines, whereas the equator and the meridian
+            passing through the Moon are denoted by dashed lines. . . . . . . . . . . . . 299
+       4.19 Application of the sum of or the difference between the aks.avalana
+            and the āyanavalana. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 301
+

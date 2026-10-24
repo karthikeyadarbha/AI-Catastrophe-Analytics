@@ -1,0 +1,110 @@
+11. पश्चाइम -
+
+पञ्चाङ्गम्‌
+11. 1. 1. नक्षत्र-वार-तिथयः करणानि योगा: ।
+पञ्चाङ्गम्‌ . . . -
+
+(Vidyamadhava, Vidyamadhaviya or Muhirta-darsana)
+The five constituents of the Calendar
+
+The Naksatra (constellation or asterism), Vara (week-
+day), Tithi (Lunar day), Karana and. Yoga constitute the
+five limbs (of the daily calendar). (KVS)
+
+वासराः सू्ैवाराद्यास्तिथयः प्रतिपन्मृखाः ।
+करणं कृमिसिहाद्य योगा विष्कम्भपूरवेकाः ।। ७ ॥
+(Sankaravarman: Sadratnamélé, 2. 7)
+
+11. 1. 2.
+
+(Of the five-faced almanac), the weekdays are Sunday
+and others (being, Monday, Tuesday, Wednesday,
+Thursday, Friday and Saturday).
+
+(The fifteen lunar days of the fortnight are) Pratipad
+and others (viz., Dvitiya, Trtlya, Caturthi, Paficami,
+Sasthi, Saptami, Astami, Navami, Dagami, Ekadadgi,
+Dvadagi, Trayodaéi, Caturdagi and Pajicadadi or Parva,
+being Amavasya at the end of the dark fortnight and
+Parnima or Paurramasi at the end of the bright
+fortnight).
+
+(The eleven) karanas, (four immovable. and seven
+moyable) are Krimi, Simha etc.1
+
+The twentyseven _yogas begin with Viskambha.? (KVS)
+
+नक्षत्रानयनम्‌
+11. 2. 1. ऋक्षं लिप्ताष्टशति व्यर्काच्चन्द्रात्तिथिदिषट्कांगै : ।
+भुक्त्यनुपाताद्‌ वेला रवीन्दुभुक्त्यन्तराच्च तिथेः ।। १६ ॥
+
+(Varaha, PS, 3. 16)
+
+Naksatra computation
+
+For every 800 minutes of arc in the Moon’s longitude
+there is one naksatra (asterismal segment). Deduct the
+Sun’s longitude from the Moon’s. For every twelve
+degrees of the remainder there is one tithi. The time
+of the ending moment of the naksatra should be found
+by proportion using the Moon’s daily motion. The time
+of the ending moment of the tithi should be found by
+proportion using the difference in the daily motions of
+the Sun and the Moon. (16) (TSK)
+
+1 For the list, see below, 11.16.1
+2 For the list, see below, 11.13.1 fn.
+
+CALENDAR
+
+11.2.2. शश्यधंदलं व्रिकृतिघ्नमृक्षमंशस्थिता मुहूर्ताः स्युः |
+व्यकेन्दुदलं “विषया"हतं तिथिस्तद्रदेवोक्तः ।। ७ ॥
+(Varaha, PS, 2. 7)
+Divide the true Moon by 4 and multiply by 9. ` What
+we get in the rast column is the neksatra. What is got
+in the degree column are the muhiirtas. Deduct the
+true Sun from the true Moon, divide the result by 2
+and muhiply by 5. Tithis are obtained in the rast
+column and thirtieths in the degree column. (7). (TSK)
+
+सुक्ष्मनक्षत्रानयनम्‌
+11. 3. 1. स्थूलं कृतं भानयनं यदेतज्‌-
+ञ्योतिविदां संव्यवहारटहेतोः ।। ७१ ॥।
+सूक्ष्मं प्रवक्षयेऽथ मुनिप्रणीतं
+विवाहयात्रादिफलप्रसिद्धचं |
+अध्यर्धभोगानि षडत्र तज्ज्ञाः
+प्रोचूविशाखादितिभध्रुवाणि ।। ७२ ॥
+
+षडधंभोगानि च भोगिरद्र-
+वातान्तकेन्द्राधिपवारुणानि ।
+
+शेषाण्यतः पञ्चदशैकभोगा-
+न्युक्तो भभोगः शशिमध्यभुक्तिः ।। ७३ ।।
+
+सवेक्ष॑भोगोनितचक्रलिप्ता
+
+वैश्वाग्रतः स्यादभिजिद्धभोगः ।
+कलीकृतादिष्टखगाद्िशोध्य
+
+दाख्रादिभोगान्‌ गतभानि विद्यात्‌ ।। ७४ ||
+
+विशुद्धसंख्यानि गतं तु शेष-
+मशुद्धभोगात्‌ पतितं तदेष्यम्‌ |
+गतागते षष्टिगुणे विभक्ते
+ग्रहस्य भुक्त्या घटिका गतैष्या ।। ७५ |!
+(Bhaskara II, SiSi., 1. 2. 71b-75)
+
+Accurate computation of asterisms
+
+The computation of the naksatras done as prescribed
+before, is only approximate. Now I shall give the
+method of obtaining what are called Suksma-naksatras
+as prescribed by the rsis, which are required for noting
+the auspicious occasions regarding marriages, journeys
+etc. (71b-72a)
+
+People who knew about it, have said that the six stars
+Vigakha, Punarvasu, Rohini, and the three Uttaras, viz.
+Uttaraphalguni, Uttarasadha, and Uttarabhadra have
+the duration of one and half stars, i.e. 3/2 >< 790’ 35” =
+1185’ 52”. The six stars Aglesa, Ardra, Svati, Bharani,

@@ -1,0 +1,38 @@
+Tantric Astronomy
+
+| No. of | of | Number of | of Tithi for
+Years Lunations Intercalation
+40 494.75 Krsna (8
+| 80 | 989.5 Sukla (15
+120 1484.25 Sukla (8
+160 1979 Full cycie
+Or,
+| No.of | of | Number of | of Tithi for
+Years 1 (11211005 [Intercalation
+120 1484.25 Sukla (8
+240 2968.5 Sukla (15
+360 4452.75 Krsna(8
+480 5937 Full cycles
+1200 14842.5 Sukla (15
+2400 29685 Full cycles
+4800 59370 Full cycles
+6080 75202 Full cycles
+
+It can be shown by modern astronomical computations that the above table fits in very
+well with the actual luni-solar phenomena. Towards this end a sidereal zodiac is defined
+for the epoch of 4137 BC with the following features:
+
+Fiducial star: Mila of sidereal longitude 240° from “Asvinyadi”.
+Ayanaméa (-4136): 60°
+
+New moon / Sukla pratipada marked the Sirya-samkramam (solar transit) into the
+zodiacal signs of 30° s at 4137 BC and 1944 AD with the details given below
+
+Zodiacal Signs was Solar transit JD After
+: JD for solar Tithi :
+(Sidereal) र BC व 6080* sidereal years.
+transit 4137 B (Moon-Sun)/12 1944 AD
+2 np) 210590.4502 | 29.65:Newmoon | 2431350.3444
+1800 098) 210620.56761 | 0.062; (Sukla-1) | = 2431380.809
+
+129

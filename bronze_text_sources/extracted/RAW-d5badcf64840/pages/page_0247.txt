@@ -1,0 +1,77 @@
+200                                                   C+.a;ya;a;pra;k+.=+Na;m,a                                        Gnomonic shadow
+
+                                                                       aks.ajyā × samaman. .dala-śaṅku
+                             and               arkāgrā =                                                .                    (3.154)
+                                                                                    lambaka
+Or,
+                                      R sin φ × R cosz0               R sin φ × R cosz0
+                  krānti =                             , arkāgrā =                   .                                      (3.155)
+                                              R                            R cos φ
+Substituting for R cos z0 from (3.133), the above equations reduce to
+
+                                                                                                           R sin δ
+                                              krānti = R sin δ , arkāgrā =                                      ,           (3.156)
+                                                                                                           R cos φ
+
+as expected. The ks.itijyā is said to be given by
+                                       q
+                           ks.itijyā = arkāgrā2 − krānti2 .                                                                (3.157)
+
+Substituting for the arkāgrā and the krānti from (3.156), we find
+
+                                                                                  R sin δ R sin φ
+                                                          ks.itijyā =                            .                            (3.158)
+                                                                                      R cos φ
+
+Now, WV is the ascensional difference ∆ α , which is given by
+
+                                                                                                       sin φ sin δ
+                                            R sinWV = R sin ∆ α = R                                                .           (3.159)
+                                                                                                       cos φ cos δ
+
+Hence the ks.itijyā given by (3.157) reduces to the standard form, cos δ × R sin ∆ α .
+
+
+  .           îé a;aH
+3 28 d;Za;pra:(
+
+
+3.28 The ten problems
+
+              ñÍ                                                   ú
+      I+.h Za;öÅ*:+.na;ta;kÒ +:a; / /
+                                  a;nta;
+                                        a;d;ga;g{a;aY;[ea;Sua :pa:ãÁ
+                                                                   *.a;sua   Á
+               u
+
+      d;ya;ea;d
+      õ       õR ;ya;ea:=+a;na;ya;nMa d;Za;Da;a .~ya;a;t,a :pa;=E+ ///
+                                                                  a;~:a;Æa;BaH         Á Á 60        ÁÁ
+             ñÍ
+      .sa;Za;öÅ
+             *:+.va;ea na;ta;kÒ +:a; / /
+                                    a;nta;
+                                          a;d;ga;[a;aH    .sa;na;ta;a;~ta;Ta;a         Á
+
+      A;pa;k
+           Ò +:ma;a;d;ga;g{a;a;[a;a ;a;d;ga;[a;Ea Ò
+                                                  k+:a; ////
+                                                       a;nta;sMa;yua;ta;Ea         Á Á 61        ÁÁ
+
+      ;a;d;ga;[a;a;a;va;a;ta na;a;ya;ntea õ
+                                           d;nd
+                                              õ ;a;BUa;yea;ta;=E+ ///
+                                                                  a;~:a;Æa;BaH     Á
+
+      iha śaṅkunatakrāntidigagrā ′ks.es.u pañcasu |
+      dvayordvayorānayanam    . daśadhā syāt paraistribhih. || 60 ||
+      saśaṅkavo natakrāntidigaks.āh. sanatāstathā |
+      apakramadigagrāks.ā digaks.au krāntisam   . yutau || 61 ||
+      digaks.āviti nı̄yante dvandvı̄bhūyetaraistribhih. |
+      Out of the five quantities śaṅku, nata, krānti, digagrā and aks.a, any two of them can
+      be determined from the other three and this happens in ten different ways. Pairs from the
+      sequences (i) śaṅku, nata, krānti, digagrā and aks.a; (ii) nata, krānti, digagrā and
+      aks.a; (iii) krānti, digagrā and aks.a; (iv) digagrā and aks.a; are [formed and] determined
+      with the other three.
+

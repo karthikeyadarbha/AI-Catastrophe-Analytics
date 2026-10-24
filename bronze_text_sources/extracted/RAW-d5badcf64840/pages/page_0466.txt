@@ -1,0 +1,61 @@
+8.7 The measure of the phase                                                                                       419
+
+                                                                            b×R
+                                                       R sin θ =
+                                                                             K                          
+                                                                                              b×R
+                                                   or            θ = R sin           −1
+                                                                                                             .   (8.57)
+                                                                                               K
+
+This is always applied positively to the angular separation φ obtained earlier. That
+is, the true angular separation is given by
+
+                                                                      φ′ = φ + θ.                                (8.58)
+
+    Note: Here, it is mentioned that this procedure must certainly be adopted in the
+calculation of the phase of the Moon. It is implicit from the use of the word ‘eva’,
+in verse 20a, that it need not be done elsewhere. The significance of φ ′ is explained
+in the following section.
+
+
+  .
+8 7 ;Æa;sa;ta;ma;a;na;m,a
+
+8.7 The measure of the phase
+
+          k+:ma:$ya;a ta;ta;ea g{a;a;hùÅ:a;a k
+      o+.t Ò                                  Ò +:ma:$ya;a .. a .sa;mea :pa;de        Á Á 20        ÁÁ
+
+      ;a;ba;}ba;ma;a;na;a;h;ta;a;d
+                                 , ba;a;Na;a;t,a ;a:a:$ya;a;Q.a;a .. a :pa;d;a;a;d;ke   Á
+                               ïîéå
+                         x +:t=+:
+      ta;
+         ç Åu +Na;a;t,a k           a;a;va;Sk+:}Ba;Ba;+:mea;va ;Æa;sa;tMa .sa;d;a   Á Á 21    ÁÁ
+
+
+      utkramajyā tato grāhyā kramajyā ca same pade || 20 ||
+      bimbamānāhatād bān   . āt trijyād
+                                            . hyā ca padādike |
+      tadgun . āt kr
+                    . tsnavis.kambhabhaktameva sitam       . sadā || 21 ||
+      From that (corrected angular separation between the discs) the Rversine is to be found [in
+      the odd quadrants] and the Rsine in the even quadrants. If φ ′ is greater than a quadrant (90◦ ),
+      then the trijyā is added to the Rsine of the excess; or else the Rversine [is considered].
+      Either of them is multiplied by the the diameter of the disc of the Moon (bimbamāna).
+      The result divided by twice the trijyā (vis.kambha) always gives the measure of the bright
+      phase of the Moon.
+
+   The corrected angular separation between the discs φ ′ , given by (8.58), can also
+be taken to be less than 180◦ . With φ ′ , we have to compute
+
+                                                     utkramajyā = R(1 − cos φ ′ ),                              (8.59)
+
+when φ ′ is in the odd quadrant. On the other hand, the sum of the kramajyā (Rsine)
+and the trijyā, that is,
+
+                                                 R(1 + sin α ),                      (α = φ ′ − 90),             (8.60)
+
+has to be calculated when φ ′ is in the even quadrant.
+

@@ -1,0 +1,60 @@
+6.10 Inauspiciousness of the later half of vis.kambhayoga and others                                                 383
+
+where Dm is the Moon’s diameter in yojanas. As Dm is given to be 315 yojanas,
+
+                                                                        2 × 315
+                                                          αm =                   λ̇m
+                                                                    1050.42 × 15
+                                                                  = 0.04 λ̇m
+                                                                    λ̇m
+                                                                  =     .                                          (6.81)
+                                                                    25
+Using the angular diameters, the half-duration of the vyatı̄pāta is found using the
+formula
+                                        S × 60
+                                 ∆t =            ,                            (6.82)
+                                       λ̇m + λ̇s
+where S is the sum of the semi-diameters of the Sun and the Moon and is given by
+
+                                                                                 d s + dm
+                                                                     S=                   .                        (6.83)
+                                                                                     2
+Let tb , tm and te be the actual beginning, the middle and the ending moment of the
+vyatı̄pāta. Here tm refers to the instant at which (6.1) is satisfied. Then the beginning
+and the ending moments are given by
+
+                                            tb = tm − ∆ t                        and              te = tm + ∆ t.   (6.84)
+
+
+  .
+6 10 ;a;va;Sk+:}Ba;a;a;d;ya;ea;ga;a;ntya;a;Da;Ra;na;Ma                      tya;a:$ya;tva;m,a
+
+6.10 Inauspiciousness of the later half of vis.kambhayoga and
+     others
+
+                                                                 ë+:ya;ea Y;a;pa yaH
+      ;a;va;Sk+:}Ba;a;a;d;Sua ya;ea;gea;Sua v.ya;ta;a;pa;a;ta;a;                     Á
+
+      ta;~ya .sa;a;d;Za;~ya;a;ntya;ma;Da . a;a;pya;a;ta;d;a:+:Na;m,a              Á Á 23        ÁÁ
+
+      vis.kambhādis.u yoges.u vyatı̄pātāhvayo ′pi yah. |
+      tasya saptadaśasyāntyamardham     . cāpyatidārun. am || 23 ||
+      The later half of the seventeenth yoga commencing with vis.kambha, also known as
+      vyatı̄pāta, is extremely inauspicious.
+
+   Analogous to the 27 naks.atras, 27 yogas (see Table 6.2) are defined in Indian
+astronomy. They correspond to intervals of time during which the sum of the longi-
+tudes of the Sun and the Moon increases by 13◦ 20′ . It may be noted from Table 6.2
+that the 17th yoga is called vyatı̄pāta. Perhaps, hereby due to the similarity in name,
+this is also considered inauspicious (particularly its later half).
+   In this context the following verse is quoted in the commentary Laghu-vivr.ti:
+
+                 u ;ya;ea;gea mEa:a;~ya :pa:=+a;Da .sa;}Ba;vea;dùÅ;a;a;d
+      .sUa;yeRa;nd                                                           Á
+
+      .sa;a;pRa;ma;~ta;k+:sMa::℄aH    .~ya;a;t,a ta;d;a d;ea;Sa;ea Y;a;ta;a;na; ///
+                                                                               a;nd;taH      ÁÁ
+
+      Among the yogas of the Sun and the Moon, the later half of Maitra is called Sārpamastaka
+      and that period is considered to be highly inauspicious.
+

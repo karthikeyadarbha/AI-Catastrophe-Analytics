@@ -1,0 +1,50 @@
+296                                                 . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                 Lunar eclipse
+
+                                          grāsa = samparkārdha − bimbāntara.                            (4.91)
+
+The rationale behind this may be understood with the help of Fig. 4.16b. Here O is
+the centre of the shadow. X and X ′ are the centres of the Moon at the beginning of
+the eclipse and at a time t later. At the beginning of the eclipse,
+
+                                                     samparkārdha = OA + AX.                              (4.92)
+
+This is the separation between the discs at the first contact. Hence the grāsa = 0. At
+a time t later, when the Moon’s centre is at X ′ ,
+
+                                                    samparkārdha = OA′ + X ′Y.                            (4.93)
+
+At this instant,
+                                                bimbāntara = OX ′ = OY + Y X ′ .                          (4.94)
+Therefore
+
+                                             grāsa = (OA′ + X ′Y ) − (OY +Y X ′ )
+                                                          = OA′ − OY
+                                                          = A′Y.                                           (4.95)
+
+From the figure it is clear that A′Y is indeed the portion of the Moon which is
+obscured, thereby showing that the expression given by (4.91) is exact.
+
+
+  .
+4 19 g{a;h;Na;~ya A;dx;Zya;tva;a;va;a;~Ta;
+                                      ////// a;taH
+
+4.19 State of the eclipse being invisible
+
+      .~va;. C+.tva;a;t,a :Sa;ea;q+.Za;Ma;Za;ea Y;a;pa g{a;~ta;~. a;ndÒ+ea na dx ;Zya;tea   Á
+
+      ;a;l+.a;a:a;ya;ma;a;pa g{a;~tMa ta;a;[Na;tva;a;a ;a;va;va;~va;taH       Á Á 42        ÁÁ
+
+      svacchatvāt .sod.aśām     ′
+                             . śo pi grastascandro na dr.śyate |
+      liptātrayamapi grastam    . tı̄ks.n
+                                         . atvānna vivasvatah. || 42 ||
+      Because of its brightness, even if one-sixteenth of the Moon is obscured it will not be no-
+      ticed. In the case of the Sun, even if the measure of obscuration is up to 3′ , it may not be
+      noticeable because of its sharpness (brilliance).
+
+   Here it is stated that a lunar eclipse would be visible only if more than one-
+sixteenth of the Moon is obscured. Similarly it is said that a solar eclipse will be
+noticeable only if more than 3′ of the solar disc—which is about one-tenth of the
+solar disc—is obscured. These seem to be empirical criteria.
+

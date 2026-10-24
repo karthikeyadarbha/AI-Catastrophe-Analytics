@@ -1,0 +1,51 @@
+F.7 The problem of planetary distances                                                         523
+
+Nı̄lakan. .thais the clear statement that is found again in these verses that the orbits
+of the interior planets are indeed smaller than the orbit of the Sun (dinakaravalaya).
+
+
+
+F.7 The problem of planetary distances
+
+F.7.1 Planetary distances in traditional Indian astronomy
+
+Unlike the longitudes and latitudes of planets, the planetary distances were not di-
+rectly amenable to observation in ancient astronomy and their discussion was of-
+ten based upon some speculative hypothesis. In traditional Indian planetary theory,
+at least from the time of Āryabhat.a, the mean planetary distances were obtained
+based on the hypothesis that all the planets go around the Earth with the same linear
+velocity—i.e. they all cover the same physical distance in a given period of time.
+    Āryabhat.a, indicates this principle in verse 6 of Gı̄tikāpāda of Āryabhat.ı̄ya,
+where he also mentions that one minute of arc in the orbit of the Moon measures
+10 yojanas (which is a distance measure used in Indian Astronomy). In verse 7 of
+Gı̄tikāpāda he gives the diameters of the Earth, Moon and the Sun in yojanas. The
+number of revolutions of the various planets (see Table F.1) are given in verses 3
+and 4 of Gı̄tikāpāda. Based on these, we can work out the kaks.yā (mean orbital
+circumference) and the kaks.yāvyāsārdha (orbital radii) of the Sun, Moon and the
+various planets as given in Table F. 4.
+
+
+       Planet Diameter Revolutions in   Kaks.yā     Kaks.yāvyā- Radius/Earth-
+             (yojanas) a Mahāyuga (circumference) sārdha (radius)    diameter
+                                             (in yojanas)
+       Earth      1050
+       Moon        315       57753336           216000            34380           65.5
+        Sun       4410        4320000          2887667           459620          875.5
+Table F.4 Kaks.yāvyāsārdhas (orbital radii) of the Sun and the Moon given by Āryabhat.a.
+
+
+
+
+    From Table F.4, we can see that the mean distance of the Moon has been esti-
+mated by the Indian astronomers fairly accurately (the modern value of the mean
+distance of Moon is about 60 Earth radii), but the estimate of the distance of Sun
+is short by a factor of around 30 (the modern value of the mean distance of Sun is
+around 23500 Earth radii).38
+
+38 The ancient astronomers’ estimates of the Earth–Sun distance were all greatly off the mark.
+
+Ptolemy estimated the mean distance of the Sun to be 1210 Earth radii which is low by a factor of
+20. The values given by Copernicus and Tycho were also of the same order. The value estimated by
+Kepler was short by a factor of 6. In 1672 the French astronomer Cassini arrived at a value which
+is within 10% of the actual mean distance.
+

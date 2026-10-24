@@ -1,0 +1,60 @@
+244                              C+.a;ya;a;pra;k+.=+Na;m,a                                      Gnomonic shadow
+
+                                    90
+                                         −φ
+                        Z                                                         Z
+                                      K
+          ε                                                                                       L’’
+                                      ε         P
+      V        tor                                                                                             P
+          equa                                                                                   K ε
+                  ic                                              V
+            eclipt
+                                                                              Γ
+
+
+                                                                                          S
+                                 horizon                                                           horizon
+
+                        Γ, E                                   direction of           E            ecliptic
+               (a)                                           diurnal motion               (b)
+
+Fig. 3.36 Determination of the zenith distance of the vitribhalagna.
+
+
+
+horizon and keeps moving towards the prime meridian along the equator as shown
+in Fig. 3.36(b), the point K also traces a small circle, of radius ε , around the pole of
+the equator P.
+   Consider an instant of time L′′ units after the rise of Γ . At this time, the hour
+angle of K would also be L′′ . That is, K P̂Z = L′′ . Considering the spherical triangle
+KPZ, and applying the cosine formula,
+
+                         cos KZ = cos ε sin φ + cos φ sin ε cosL′′ .                                          (3.301)
+
+Since KV = 90, KZ = 90 ± zv.77 Therefore | cos KZ| = sin zv , and we have
+
+                            sin zv = | cos ε sin φ + cos φ sin ε cosL′′ |                                     (3.302)
+
+where L′′ = L′ + prān.as elapsed after sunrise as defined in the previous section.
+    It may be seen that the above equation is the same as (3.300) prescribed in the
+verses. Comparing (3.302) and (3.300), it is clear that the ‘+’ sign should be taken
+when cos L′′ is positive, i.e. when L′′ is in the first or the fourth quadrants (within 6
+signs beginning from Mr.ga, as stated in the text). Similarly the ‘−’ sign should be
+taken when cos L′′ is negative, or when L′′ is within 6 signs beginning from Karka
+or Capricorn.
+    When we take the ‘+’ sign, L′′ is within the first or the fourth quadrant and
+KZ < 90◦ . Then V is south of the prime vertical, that is, the dr.kks.epa is south.
+Even when we take the ‘−’ sign, when the lambajyā | cos φ sin ε cos L′′ | < cos ε sin φ ,
+cos KZ is positive and KZ < 90◦ . In this case also, the dr.kks.epa is south.
+    However when we take the ‘−’ sign and | cos φ sin ε cos L′′ | > cos ε sin φ , then
+cos KZ is negative and KZ > 90◦ . In this case if we draw a figure as in Fig. 3.36,
+K would be below the horizon and V would be north of the prime vertical, or the
+dr.ks.epa is north. Finally, it is mentioned that
+
+
+
+77
+  In Fig. 3.36, the pole of the ecliptic K is indicated above the horizon and hence KZ = 90 − zv .
+However, it is possible that K is below the horizon, in which case the ‘+’ sign should be taken.
+

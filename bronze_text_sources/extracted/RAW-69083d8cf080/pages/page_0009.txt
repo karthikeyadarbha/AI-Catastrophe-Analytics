@@ -1,0 +1,45 @@
+viii GANITA-YUKTIBHASA
+
+III.10.1), Equinoxes and Solstices (Ait. Br. XVIII.3), the constellations (RV. X.53.3),
+Eclipses (RV V.40.5-9), and Planets (RV 1.105.10). Astronomical activity during
+the Vedic period is emphasized also by the specific mention of several teachers
+and students of the discipline (Tait. Br. III.10.9). Professionalists in the discipline,
+such as Naksatra-darsa (star-gazer) (Yajurveda, Vajasaneyi Samhita, 1.10; Tait.
+Br, Il. 4. 4) and Ganaka (mathematician) (Yajurveda, Vaj. Sam. XXX.20; Tait Br.
+1.4.15) also find mention. In fact, Naksatra_vidya (Astronomy) has been included
+among the subjects which a Vedic student had to learn (Chandogya Upanisad
+(VII. 1. 2. 4). But these and many other passages of the type do not supply any
+explanation or elucidation for the statements, for the reason that these hymns
+were intended primarily for chanting during rituals and sacrifices.
+
+The development of the several disciplines of science in India during the post
+vedic, classical and medieval, periods had been phenomenal, when very substantial
+literature on these subjects had been produced. For example, A. Seidenberg has
+pointed out how the geometry of the Sulba Sitras represents a very high level of
+mathematical achievement which precedes the Babylonian and Greek geometries
+(Agni, The Vedic Ritual of the Fire Altar, ed. By Fritz Staal, 1983, Berkeley). Naturally
+enough, these advances had involved deep thinking, experimentation and the
+divining of newer and newer methodologies. But, here too, practically none of
+the texts explain, step by step, how the new methodologies had been evolved. This
+has been so for two reasons. One, that during the traditional teacher-pupil method
+of teaching the underlying principles and step by step derivation of results would
+be explained orally by the teacher, and, two, that the texts had all to be composed
+in the form of stitras (aphorisms) and karikds (short pithy verses) for ease in
+memorization. The commentaries of the texts come in for help to some extent, at
+times, but most of the commentaries stop with explaining the text proper and do
+not go deeper.
+
+It is here that texts of scientific rationale step in to explain and elucidate the
+underlying principles, explain technical terms and set out the relationships between
+connected matter. The Ganita-yukti-bhdsa, edited here, as noted earlier, is an
+extraordinarily instructive work of this nature. The work is in two Sections,
+devoted, respectively, to Mathematics and Astronomy. The presentation of the
+rationale deals with all aspects, to wit, definitions, concepts, theories, constants,
+computations, demonstration by diagrammatic representation and the like. The
+procedure is highly logical, going step by step, first presenting the fundamentals
+and gradually building up the argument.
+
+The Mathematical Section comprising of Chs. I-VII, is devoted to Arithmetic,
+Geometry, Algebra, Trigonometry and Institute series while the section on
+Astronomy, Chs. VIII-XV, deals with Planetary motions, Sphere of the zodiac,
+Mean and True planets, Precession of the equinoxes, Orientation, Shadow

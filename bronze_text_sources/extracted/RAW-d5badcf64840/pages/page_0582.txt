@@ -1,0 +1,30 @@
+F.8 Annexure: Keplerian model of planetary motion                                 535
+
+   In Fig. F.13, the orbit of the planet P is shown to be inclined at an angle ih to
+                      ′
+the ecliptic. N and N are the nodes of the planetary orbit. PQ is the circular arc
+perpendicular to the ecliptic. Then the heliocentric latitude βh is given by
+                                              PQ
+                                       βh =      .                             (F.51)
+                                              SP
+If λP and λN are the heliocentric longitudes of the planet and the node, it can easily
+be seen that
+
+           sin βh = sin ih sin(λP − λN )      or     βh ≈ ih sin(λP − λN ),    (F.52)
+
+as ih and βs are small. In the figure we have also shown the location of the Earth E.
+The latitude βg (geocentric latitude) as measured from E would be different from
+the one measured from the Sun and is given by
+                                              PQ
+                                       βg =      .                             (F.53)
+                                              EP
+From (F.51)–(F.53), we find that
+                                       SP
+                               βg = βh
+                                       EP
+                                    ih SP sin(λP − λN )
+                                  =                     ,                      (F.54)
+                                            EP
+where EP, the true distance of the planet from the Earth, can be found from (F.44)
+or (F.48).
+

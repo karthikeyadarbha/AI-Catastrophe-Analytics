@@ -1,0 +1,71 @@
+294                                                   . a;ndÒ+g{a;h;Na;pra;k+.=+Na;m,a                             Lunar eclipse
+
+Method 2:
+
+Here again we start with the first approximation to the śara:
+
+                                                                                            (Rθ )2
+                                                                    śara0 =                       .                     (4.87)
+                                                                                             2R
+A better approximation of the śara is given to be
+
+                                                          cāpa2 − 13 (śara0 )2
+                                            śara =
+                                                                 vyāsa
+                                                              "                    2 #
+                                                           1         2     1 (Rθ )2
+                                                        =       (Rθ ) −
+                                                          2R               3     2R
+                                                                             
+                                                              1 2 1 4
+                                                        =R       θ − θ .                                                 (4.88)
+                                                              2!        4!
+
+Since
+                                          θ2 θ4
+                                             −     + O(θ 6 ),
+                                                 (1 − cos θ ) =                 (4.89)
+                                          2!    4!
+it is obvious that this approximation is correct up to fifth-order.
+    There is an interesting discussion on the computation of the śara in the form of
+question and answer in Yukti-dı̄pikā. The student asks:
+   .sUa;[mMa ;a;ba;}ba;a;nta:=M k+:tua gxa;hùÅ:a;tea .$ya;a;Za:=+Ea ya;taH                      ÁÁ
+                                               ñÍ         å
+   na;nva:a na;a;ya;tea ba;a;NaH       k+:Ta;*:+.
+                                               öÅ a:=M .~.Pu +.f;a;nta:=+a;t,a             Á
+
+                    x +:tea;ba;Ra;NaH
+   .sa;ma;~ta:$ya;a;k                       k
+                                                   ïîéå
+                                             x +:t=+:  a;v.ya;a;sa;ea:;d
+                                                                       Äâx ;ta;ea ya;taH             ÁÁ
+                                                                                                          34
+
+   Since, in order to find a more accurate value of the separation between the discs, the śaras
+   corresponding to the two angles were calculated; now, how is it that the śara is calculated
+   from the sphut.āntara? Is it not true that the śara has to be obtained by dividing the square
+   of the Rsine (samastajyākr . ti) by the diameter?
+The teacher replies:
+   .sa;tyMa, ;a;k+: / / / / /
+                   a;ntva;h    k
+                                       ïîéå
+                                 x +:t=+:   a:$ya;a :pra;a;yaH .~va;Da;nua;Sa;a .sa;ma;a                       Á
+
+   g{a;a;hùÅ:a;g{a;a;h;k+:ya;ea;BeRa;d;a;l+.a;a;na;Ma .~va;pa;ta;a;va;Za;a;t,a       ÁÁ
+                                                                                                35
+
+   True. But since the arc is small we take the Rsine of the arc to be the arc itself. The arc is
+   small because the distance of separation in minutes, between the eclipsed and the eclipser,
+   is small.
+
+We know that (see Fig. 4.16a)
+
+                                                                                    θ
+                                      (1 − cos θ ) = 2 sin2
+                                                                                    2
+                                                                                            θ
+                                   R(1 − cos θ ) = 2R sin2
+                                                                                            2
+34 {TS 1977}, p. 273.
+35 {TS 1977}, p. 273.
+

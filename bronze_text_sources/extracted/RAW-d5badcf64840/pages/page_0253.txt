@@ -1,0 +1,49 @@
+206                                  C+.a;ya;a;pra;k+.=+Na;m,a                        Gnomonic shadow
+
+This is valid when the first term in the numerator is greater than the magnitude of the
+second term (X > Y ). When the first term is less than the magnitude of the second
+term (X < Y ), only the +ve sign is to be considered.
+   Moreover, there is no solution for the śaṅku when
+                                     q
+                    R sin δ > K = R2 sin2 φ + R2 cos2 φ sin2 a,                (3.171)
+
+since the term inside the square root in the discriminant becomes negative, and con-
+sequently the solution becomes complex.
+   Case B: When the declination is south (δ < 0)
+                                                    q
+                R2 (− sin φ | sin δ |) + cos φ sin a sin2 φ + cos2 φ sin2 a − sin2 δ
+     R cos z =                                                                        R.
+                                       R2 (sin2 φ + cos2 φ sin2 a)
+                                                                                     (3.172)
+In this case, the magnitude of the first term is less than the second term. If it were to
+be otherwise, there would be no shadow.
+
+
+Proof:
+
+Though the expressions for śaṅku given by (3.170) and (3.172) seem to be involved,
+they can be derived in a straightforward manner by applying the cosine formula to
+the spherical triangle PZS shown in Fig. 3.27(b). Using the formula we have
+
+                                 sin δ = cosz sin φ ± sin z cos φ sin a,                           (3.173)
+
+when S is north or south of the prime vertical, corresponding to A = 90 ∓ a. Now,
+making the substitution cos z = x, we have
+                                        p
+                       sin δ = x sin φ ± 1 − x2 cos φ sin a.              (3.174)
+
+Therefore,                      p
+                               ± 1 − x2 cos φ sin a = sin δ − x sin φ .                            (3.175)
+Squaring the equation and rearranging the terms, we obtain the following quadratic
+equation in x:
+
+ (sin2 φ + cos2 φ sin2 a) x2 − (2 sin φ sin δ ) x + (sin2 δ − cos2 φ sin2 a) = 0. (3.176)
+The roots of the above equation are:
+                           q
+           sin φ sin δ ±    sin2 φ sin2 δ − (sin2 φ + cos2 φ sin2 a)(sin2 δ − cos2 φ sin2 a)
+      x=                                                                                       .    (3.177)
+                                           (sin2 φ + cos2 φ sin2 a)
+
+Simplifying the expression within the square root sign in the above equation, we
+find
+

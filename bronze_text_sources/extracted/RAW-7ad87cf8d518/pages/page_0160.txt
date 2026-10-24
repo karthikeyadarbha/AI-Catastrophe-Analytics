@@ -1,0 +1,92 @@
+12.9.1
+
+Asterism computation according to Paitamaha
+Siddhanta
+
+Now J shall correctly describe the computation of
+naksatras according to the Paitamahasiddhanta. (6b)
+
+Six naksatras ave adhyardhabhogi (that is, each of them
+occupies 14 of 790" 35’, the mean daily motion of the
+moon, along the zodiac); 6 are ardhabhogi (that is, each
+occupies ‡ of 790’ 35’’); and Abhijit has a special exten-
+sion of its own. (7)
+
+Rohiri, Punarvasu, Visakha, Uttara Bhadrapada,
+Uttara Phalguni and Uttarasadha are the six adhyardha-
+bhogi naksatras. Jyestha, Bharari, Svati, Ardra,
+Satabhisaj and Aglesa are the six ardhabhogi. ‘The re-
+maining 15, excluding Abhijit, are samabhogi. Abhijit is
+the twenty-eighth naksatra and its extension is different
+from that of the above 27 naksatras. The extension of
+each naksatra along the zodiac 1s not the same, and not
+generally known to the common people. (8-9)
+
+Multiply the number of minutes in the mean
+motion of the moon by 3/2, $ and 1. The products give,
+respectively, the extension in minutes of an adhyardha-
+bhogi, ardhabhogi and. samabhogi naksatra.
+
+Add together the extensions of all the 27 naksatras.
+Subtract the sum from 21,600. The remainder is the
+extension of Abhijit in minutes.
+
+- Subtract as many extensions of the naksatras as possible,
+beginning with Aévini, from the longitude of a planet
+converted into minutes. (The planet is in the next
+naksatra after having passed the naksatras whose exten-
+sions have been subtracted.) The -remainder 4s. the
+portion of the current naksatra passed by the planet.
+Divide the portions passed and to be passed by the
+planet’s daily motion. The results are, respectively,
+the number of days since the planet entered the current
+naksatra and the number of days the planet will remain
+in that naksatra. (10-11)
+
+INDIAN ASTRONOMY—A SOURCE-BOOK 116
+
+To find the arc corresponding to a given 94, first
+subtract from the क as many tabular differences as
+possible. Multiply the remainder, called vikala, by
+900 and divide the next tabular difference. The result
+gives roughly the arc in minutes corresponding to the
+vikala, as the jyd. Find the bhogyakhanda from this arc
+(see KK. II. 1. 4.). Repeat the process tilll the bhogya-
+khanda is fixed. This will give the correct value of the
+arc in minutes corresponding to the wkala as the jyd
+(and hence the required arc)... (12). (BC)
+
+नक्षत्रदेवता:
+12. 10. 1. अग्निः प्रजापतिः सोमो रुद्रोडदितिबुंहस्पति: |
+सर्पाश्च पितरश्चैव भगश्चैवार्यमापि 7 ।। ३२ A
+
+सविता त्वष्टाथ वायुश्चेन्धाग्नी मित्र एव च |
+इन्द्रो निछतिरापो वै विश्वेदेवास्तथेव च ।। ३३ !।
+
+विष्णुवैसवो वरुणोऽज एकपात्‌ तथैव च |
+अहिर्बुध्नयस्तथा पूषा अश्विनौ यम एव च ।। ३४ ॥।
+
+नक्षत्रदेवता ह्येता एताभियेज्ञकमंणि ।
+यजमानस्य MAMA THAR स्मृतम्‌ ।। ३५ UI
+(YV-VF 32-35; RV-VF 25-28)
+
+Asterisms and presiding deities
+
+Agni (is the presiding deity of Krttika), Prajapati (of
+Rohini), Soma (of Mrgasirsa), Rudra (of Ardra), Aditi
+(of Punarvasu), Brhaspati (of Pusya), Serpents (of
+Aglesa), Pitr-s (of Magba), Bhaga (of Parva-phalguni),
+Aryama (of Uttara~phalguni), Savitr (of Hasta), Tvasta
+(of Citra), Vayu (of Svati), Indragni (of Visakha), Mitra
+(of Anuradha), Indra (of Jyestha), Nirrti (of Mila),
+Apah rey Waters (of Parvasadha), Visvedevah (of Uttara-
+sadha)Varuna (of Satabhisaj), Aja~Ekapad (of Parva-
+Bhadrapada), Ahirbudhnya (of Uttara-Bhadrapada),
+Pisa (of Revati), Agvins (of Aégvini), and Yama (of
+Bharani). People learned in the religious lores say that
+these deity-names are to be used as the sacrificer’s
+(sacrificial) name in sacrifices. (32-35). (KVS)
+
+1 For the rationale, see KK:BC I, 138-39.
+
+3) टन ( of

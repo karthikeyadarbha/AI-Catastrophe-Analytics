@@ -1,0 +1,53 @@
+3.12 Correction in finding the shadow                                                         165
+                                                                
+                                                        R sin z
+                            R cos z′ = R cos z + ∆ θ              ,                       (3.59)
+                                                           R
+                                                               
+                                                        R cos z
+                             R sin z′ = R sin z − ∆ θ             .                       (3.60)
+                                                           R
+
+The second terms in the RHSs of the above equations are the correction factors. The
+quantity ∆ θ occurring here is given by
+
+                                          ∆ θ = ds − p,                                   (3.61)
+
+where ds and p are the semi-diameter of the Sun’s disc (expressed in minutes) and
+its parallax respectively. The parallax of the Sun is given as
+                                                R sin z
+                                           p=           .                                 (3.62)
+                                                 873
+   It is easily seen that (3.59) and (3.60) are nothing but the expressions for cos(z −
+∆ θ ) and sin(z − ∆ θ ) when ∆ θ is small. Hence these equations imply that
+
+                                  z′ = z − ∆ θ = z − ds + p.                              (3.63)
+
+The rationale behind the above expression has been discussed earlier (see section
+3.8) in the context of explaining the procedure for obtaining more accurate values
+of the latitude. The same argument applies here. Owing to the finite size of the Sun,
+the apparent zenith distance gets reduced by the semi-diameter of the Sun. Also,
+there is an increase due to parallax. It has already been shown that
+                                                 R sin z
+                                          p=P            ,                                (3.64)
+                                                   R
+where P is the horizontal parallax. Further, it has been mentioned that
+                                        Daily motion of Sun
+                                 P=                         .                             (3.65)
+                                                15
+The mean daily motion, according to Tantrasaṅgraha, is found39 to be 59′ 8′′ . This
+divided by 15 gives the horizontal parallax, which amounts to nearly 3′ 57′′ . Substi-
+tuting this value of P in (3.64), and taking R = 3438, we get
+                                                R sin z
+                                           p=           .                                 (3.66)
+                                                 872
+39 It is computed as follows. The number of civil days in a Mahāyuga is given by 1577917500.
+
+This when divided by the total number of sidereal years (= 4320000) gives the number of civil days
+per sidereal year, which turns out to be 365.25868056. Since the Sun covers an angle of 360◦ in
+this period, the mean angle covered per day is given by
+
+                                             360
+                Mean daily motion =                  ≈ 0.98560285947 ≈ 59′ 8′′ .
+                                        365.25868056
+

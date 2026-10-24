@@ -1,0 +1,70 @@
+                                                     ñÍ
+418                                              Zxa;ç Å
+                                                     *:+.ea;a;a;ta;pra;k+.=+Na;m,a                                Elevation of lunar horns
+
+    .
+8 6 ;Æa;sa;ta;ma;a;na;a;na;ya;nea                  ;a;ba;}ba;a;nta:=+sMa;~k+:a:=H
+
+
+8.6 The correction to the angular separation for finding the
+    Moon’s phase
+
+                                                            ëÅ
+        ta;d
+           â õâ ;a;hu:$ya;a . a k+:ea;a;f:$ya;a . a;ndÒ+dx ;ëÁ
+                                                            *:+:NRa;ta;a;a;q+.tea          Á Á 17   ÁÁ
+
+                                                   ëÅ
+        Bua:ja;a;k+:ea;a;f;P+.le Ba;e .=+a;va;dx ;ëÁ
+                                                   *:+:NRa;ya;ea:ja;nEaH               Á
+
+        ta;a;Bya;Ma ;a:a;Ba:$ya;ya;a k+:Na;Ra;. C+.a;Gra;nya;a;yea;na d;eaH P+.l+.m,a             Á Á 18    ÁÁ
+
+        . a;a;a;pa;tMa ;Da;na;mea;va;a:a ;a;ba;}ba;a;nta:=+Da;nua;Sya;dH          Á
+
+        k+:k+.eRa;Na;a;d;Ea ;a:a;Ba:$ya;a;ya;Ma .~va;Na k+:ea;a;f;P+.lM ; //
+                                                                           a;tva;h              Á Á 19   ÁÁ
+
+        ;Æa;sa;ta;ma;a;na;a;TRa;mea;vEa;vMa .=+va;a;nd
+                                                      õ ;nta:=+Æa;ma;Sya;tea   Á
+
+        tadbāhujyā ca kot.ijyā candradr.kkarn      . atād.ite || 17 ||
+        bhujākot.iphale bhakte ravidr.kkarn       . ayojanaih. |
+        tābhyām. tribhajyayā karn   . ācchı̄ghranyāyena doh.phalam || 18 ||
+        cāpitam. dhanamevātra bimbāntaradhanus.yadah. |
+        karkyen . ādau tribhajyāyām  . svarn  . am. kot.iphalam  . tviha || 19 ||
+        sitamānārthamevaivam      . ravı̄ndvantaramis.yate |
+        By multiplying the Rsine and Rcosine of the [angular separation between the discs] by the
+        dr.kkarn. a [in yojanas] of the Moon, and dividing by the dr.kkarn       . a of the Sun in yojanas,
+        the bhujā and the kot.iphalas are obtained.
+        From them and the trijyā, the karn    . a may be obtained. From the karn       . a and bāhuphala,
+        by following the procedure discussed in śı̄ghra-sam      . skāra, the arc may be obtained and it
+        must always be applied positively to the angular separation between the discs. [In determin-
+        ing the karn . a] the kot.iphala has to be applied positively or negatively, depending upon
+        whether the argument lies within six signs beginning from Karka or from Mr.ga. It is only
+        for obtaining the phase of the Moon that [this correction to the] angular separation between
+        the Sun and the Moon is required.
+
+   Let φ be the angular separation between the centres of the solar and the lunar
+discs6 and ds and dm be the dr.kkarn.as (distances from the Earth)7 of the Sun and
+the Moon. Then the bāhuphala (b) and the kot.iphala (k) are defined by
+
+                                                                            R| sin φ | × dm
+                                                                         b=
+                                                                                   ds
+                                                                            R| cos φ | × dm
+                                                                         k=                 .                                      (8.55)
+                                                                                   ds
+From these two and the trijyā, the karn.a (K) is found to be
+                                     q
+                                K = b2 + (R ± k)2,                                                                                 (8.56)
+
+where we choose the sign ‘−’ when 270 ≤ φ ≤ 90, and ‘+’ when 90 ≤ φ ≤ 270.
+Then the cāpa (arc) corresponding to the correction is to be determined from the
+śı̄ghra-karn.a-nyāya, that is,
+6 φ should not be confused with the terrestrial latitude.
+7
+  The term dr.kkarn
+                  . a refers to the distance of separation between the observer and the celestial
+body in yojanas.
+

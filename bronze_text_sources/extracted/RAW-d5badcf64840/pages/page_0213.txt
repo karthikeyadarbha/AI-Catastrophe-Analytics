@@ -1,0 +1,65 @@
+166                                               C+.a;ya;a;pra;k+.=+Na;m,a                              Gnomonic shadow
+
+It may be noted that the above expression for parallax differs from the expression
+given in the text (3.62) by only one unit in the denominator.
+   Some of the concepts related to the mahāśaṅku and the mahācchāyā are elabo-
+rated in Yukti-dı̄pikā. We reproduce a few important ones among them in the fol-
+lowing:
+
+
+Definition of mahāśaṅku and mahācchāyā
+
+                        å
+      x ;ma;DyMa g{a;h;~.pxa;M ya;d
+   dÒ+                            õx :Ma :pa;a:=+k+:pya;tea Á
+
+                                                  ñÍ
+   ta:a g{a;h;Æa;[a;a;ta:ja;ya;eaH   A;nta:=M Za;öÅ
+                                                  *: u +.a:=+Sya;tea Á
+                                                                                   40
+                 ãÉa ma;h;a;. C+.a;ya;a na;Ba;ea;ma;Dya;g{a;h;a;nta:=+m,a
+   ta;tk+:ea;a;f;(                                                            ÁÁ
+
+   Conceiving of a circle centred around the observer (dras..t.r-madhyam    . ) and passing through
+   the planet (grahaspr         . ), [the Rsine of the angle of] the separation between the planet
+                         . .s.tam
+   on that [circle] and the horizon is the [mahā]śaṅku. The Rcosine of it is the mahācchāyā,
+   which is the [Rsine of the angle of] separation between the planet and the zenith.
+
+
+                                                                     Z
+
+
+
+                                                                               z
+                           P
+
+
+                                                                                        S
+
+                                                                          X                     mahāśaṅku
+                                                        Y             O                 F
+                               horizo
+                                         n
+                                                                                            G
+
+
+
+                                                         mahācch
+                                                                      āyā
+
+
+
+
+Fig. 3.12 Concept of the mahāśaṅku and the mahācchāyā.
+
+
+We explain the concept of mahāśaṅku and mahācchāyā with the help of Fig. 3.12.
+Here, S is the Sun and F is the foot of perpendicular drawn from the Sun to the
+horizon. The angle OX̂Y = F ŜO = z is the zenith distance of the Sun and OŶ X =
+F ÔS = a = 90 − z is the altitude of the Sun. The triangles OXY and FSO are similar.
+In the triangle OXY , OX represents the usual śaṅku of 12 units in height and OY is its
+shadow, referred to as the chāyā. Since OXY and FSO are similar, SF (= R cos z) and
+FO(= R sin z) are referred to as the mahāśaṅku and the mahācchāyā respectively.
+40 {TS 1977}, p. 198.
+

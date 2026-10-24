@@ -1,0 +1,55 @@
+522                       The traditional Indian planetary model and its revision by Nı̄lakan
+                                                                                            . t.ha
+               rs   mean Sun–planet distance
+                  =                                            (for interior planets).         (F.29b)
+               R    mean Earth–Sun distance
+ where rs is the radius of the śı̄ghra epicycle and R is the radius of the concentric. We
+had noted earlier in Section F.2 that the śı̄ghra-process serves to transform the he-
+liocentric longitudes to geocentric longitudes, precisely because the above relations
+(F.29a) and (F.29b) are indeed satisfied (see Table F.3), even though the traditional
+Indian astronomical texts did not conceive of any such relation between the radii
+of the śı̄ghra epicycles and the mean ratios of Earth–Sun and Sun–planet distances.
+In fact, Nı̄lakan. .tha seems to be the first Indian astronomer to explicitly state the
+relations (F.29a and F.29b), which seems to follow clearly from his identification of
+the śı̄ghrocca of each planet with the physical ‘mean Sun lying on the orbit of the
+Sun’ (dinakara-kaks.yāstha-madhyārka).37
+
+
+
+
+                                                                          Saturn
+                    Jupiter
+
+
+
+
+                                                       Venus
+
+                                        Mercury
+
+
+
+                                                 Sun
+
+
+
+
+                                     O (Earth)                    Mars
+
+
+
+
+Fig. F.9 Nı̄lakan.t.ha’s cosmological model showing the five planets moving in eccentric orbits
+around the mean Sun.
+
+
+   The last two verses above discuss the rationale behind the revised planetary
+model proposed by Nı̄lakan.t.ha and have been dealt with already in Section
+F.4.4. However, what is noteworthy in the context of the cosmological model of
+
+37 As we noted earlier, Nicholas Copernicus also seems to have arrived at the same relation (per-
+
+haps around the same time as Nı̄lakan.t.ha) by identifying the epicycle associated with the so-
+called ‘solar anomaly’ in the Ptolemaic model with the orbit of the Earth around the Sun in the
+case of the exterior planets and with the orbit of the planet itself in the case of the interior planets.
+

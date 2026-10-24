@@ -1,0 +1,136 @@
+105 11.
+
+elapsed, counted from the naksatra Sravistha in the
+regular order. (25)
+
+Yoga and its Naksatra
+
+Divide the parts of the Sun’s naksaira by 9. Multiply
+the remainder by 2. This is termed the partial comple-
+ment for the day’s parts. Add to this the complement
+for the tithi-s, got as quotient, to obtain the total
+complement, to be added to the day’s parts. (26)
+
+Add the total complement to the naksatra parts and
+divide by 11. The result is the day before the completed
+day’s parts, when the naksatra began.
+
+The excess in the rising of the zodiac over the diurnal
+circle in terms of its 124th parts is a third of the number
+of days elapsed in the year, rounding off the fraction
+up to fourteen days in any parva. When (nearly) half
+a zodiac has been found to have risen, add one more part
+and as the second half of the zodiac is (nearly) comple-
+ted, add another one. This result can be obtained by
+extending the navaka rule (already given for the ending
+moments of the parvas, verses 16-17). (27)
+
+Adhimasa
+
+The lunar day is less than the civil day by its 62nd
+part. The civil day is subtractable from the solar day
+(i.e., less than the latter). This defect, combined with
+the defect in the lunar day causes one extra month at
+the end of half-yuga and another.month at the end of
+the full yuga. (37)
+
+Rtu-Sesa
+
+Adding all the half tithi-s occurring after each parva
+of all the parva-s (that pass normally at the rate of 4 per
+parva) we get what is called stu-sesa (that is, the tithi-s
+which remain in the last riu and have to be passed to
+complete it). (41)
+
+Length of day-time
+
+The number of days which have elapsed in the north-
+ward course of the Sun (uttardyana), or the remaining
+days in the southward course (daksindyana), doubled
+and divided by 61 plus 12, is the day-time (in muhirta-s)
+
+of the day taken. (40). (TSK)
+योगः
+11. 13: 1. शशिमित्रैक्यं कृत्वा हत्वाऽष्टशतैस्तु योगभानि स्युः |
+शशिमित्रभुक्तियुत्या हृतशेषे नाडिका HAT: ।। ४५॥।
+(Deva, KR, 1.45)
+Yoga
+
+Add the longitudes of the Sun and the Moon (and
+reduce the sum to minutes) and then divide it by 800:
+the quotient gives the (number of) yoga-naksatras passed
+over. Divide the remainder: and the divisor minus
+
+CALENDAR
+
+11. 14. 1
+
+remainder by the sum of daily motions of the Sun and
+the Moon (in degrees): the results obtained give the
+nddis elapsed and the nédis to elapse (of the current
+
+yoga). (45). (KSS)
+गोलायनसन्धिः
+11. 14. 1. चक्रं चक्राधं च व्ययनांशेऽकंस्य गोलसन्धिः स्यात्‌ |
+
+एवं चिभे च नवमेऽयनसन्धिर्व्ययनभागेऽस्य it २ ।।
+
+अयनांशोनितपातादो :कोटिज्ये लघुज्यकोत्थे ये ।
+
+ते गुणसूरये “रश्वै:' गुणिते भक्ते कृते सूर्य: ।1 ३ ॥
+
+अयनांशोनितपाते मृगकरक्यादिस्थिते द्विषड्‌ रामंः' |
+
+कोरिफलयुतविहीनैर्बाहुफलं भक्तमाप्तां शैः 1 ४ ।।
+
+मेषादिस्थे गोलायनसन्धी भास्करस्योनौ ।
+
+तौ चन्द्रस्य स्यातां तुलादिषड्भस्थिते तु संयुक्तौ ॥ ५।।
+
+गोलायनसन्ध्यन्तं पदं विधोरत्र धीमता ज्ञेयम्‌ ।
+
+रविगोलवदस्पष्टा स्पष्टा क्रान्तिः स्वगोलदिक्‌ शशिनः 11
+क्रान्तिसाम्यज्ञानम्‌
+
+स्वायनसन्धाविन्दोः क्रान्तिस्तत्कालभास्करकान्ते : ।
+ऊना यावत्‌ तावत्‌ कान्त्यो: साम्यं तयोर्नास्ति ।। ७ ॥।
+(Bhaskara 11, 95. 1.12.2-7)
+Gola-sandhi and Ayana-sandhi
+When ihe tropical longitude of the Sun, 1.6. its
+Jongitude measured from the first point of Aries along
+the ecliptic, is equal to 0° or 180°, then the Sun is said
+to be at its gola-sandhi. In other words, when the Sun
+which moves along the ecliptic comes to the celestial
+equator, it will be at the gola-sandm. Similarly, when
+its longitude is 90° or 270°, it is said to be at its ayana-
+sandhi. (2)
+
+Speciality in Moon
+Let the R sine and R cosine of the tropical longitude
+of the Pata (Rahu, the ascending node of the lunar orbit)
+
+1 The yogas, like the naksatras, are 27 in number, and their names
+in the order of their occurrence, are as follows:
+
+1. Viskambha 15, Vajra
+
+2. Priti 16. Siddhi
+
+3. Ayusman 17. Vyatipata
+4, Saubhagya 18. Variyan
+5. Sobhana 19. Parigha
+6. Atiganda 20. Siva
+
+7. Sukarma 21. Siddha
+8. Dhrti 22. Sadhya
+9. Sila 23. Subha
+10. Ganda 24. Sukla
+11. Vrddhi 25. Brahma
+12. Dhruva 26. Indra
+13. Vyaghata 27. Vaidhrta
+
+14. Harsana or Vaidhrti.
+
+It should be noted that in calculating the tithi, naksatra, yoga and
+karana, the precession of the equinoxes is not applied to the longitude
+ofthe Sun. Butin calculating the Vyatipata it is applied.

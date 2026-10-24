@@ -1,0 +1,116 @@
+11. 15. 1
+
+as per the smaller table of R sines when the radius is
+taken to be 120’, be respectively multiplied by 123 and
+7 and divided respectively by 4 and 12. The’ results
+are known as the bdhuphala and kotiphala, respectively.
+According as the tropical longitude of Rahu, (say, A),
+be such that as 270°2AZ90° or 901 /» ८2२70", the
+bahuphala is to be divided by 362+kotiphala. Subtract
+the result from the gola-sandhis and ayana-sandhis of the
+Sun, to get those of the Moon. (3-6)
+
+Occurrence of a pata
+
+If the sphutakranti of the Moon, when it is maximum,
+be less than that of the Sun, then there could be no
+occasion for their declinations to become equal in the
+
+near future! (7). (AS)
+
+व्यतीपातवेधृतौ
+11. 15. 1. सूर्येन्दुयोगे ware व्यतीपातो&्थ वैधृतः ।
+चक्रे च मैत्रपयेन्ते विज्ञेयः सापेमस्तकः ॥॥ २६ ॥।
+(Bhaskara I, LBh., 2. 29)
+Vyatipata and Vaidhbrta
+When the sum of the (true) longitudes of the Sun and
+the Moon amounts to 1212 circle (i.e., 180°), the pheno-
+menon is called (Lédfa)-vyatipdta; when that (sum)
+amounts to a circle, (i.c., 360°), the phenomenon is
+called Vaidhrta- (vyatipdta) ; and when that (sum) extends
+to the end of the naksatra Anuradha (i.e., when the sum
+amounts to 7 signs, 16 degrees, and 40 minutes), the
+phenomenon is called Sérpamastaka-(uyatipata). (29).
+(KSS) । ।
+व्यतीपात-वेधृतगणनम्‌
+पातमध्यकालः
+11. 15. 2. चक्राधेचक्राधिकहीनलिप्ताः
+‘ars गुणा भुक्तिसिमासभक्ताः ।
+भवन्ति नाडयो गतगम्यसंज्ञा-
+स्तात्कालिकौ तौ च तमश्च कुर्यात्‌ ।। २ ॥
+तयोरपि क्रान्तिकलाः समाश्चेत्‌
+तदा भवेन्मध्यमपातकालः |
+कल्प्योऽधिकोऽप्युनक एव चन्द्रः
+स्फुटोऽपमश्चान्द्रमसोऽन्यदिक्स्थः ।। ३ Ut
+सूर्यापमादोजपदोद्धूवाच्चेद्‌
+युग्मादिगश्चान््रमसो लघीयान्‌ ।
+अपक्रम: स्यान्न तदस्ति पात-
+स्तदन्यथात्वेऽपमयोः समत्वम्‌ ।। ४ ।।
+अयुग्मजश्चान्द्रमसोऽपमश्चे-
+दपक्रमाद्‌ भानुमतोऽधिकः स्यात्‌ ।
+समोद्धवो वापि लघुस्तदेतो
+विपातकालो भवितान्यथातः ।। ५ ।।
+
+1 For exposition and the rationale, see SiSi:AS, pp. 521-33.
+
+INDIAN ASTRONOMY—A SOURCE-BOOK _ 106
+
+ऋन्त्योर्युंतिरेकदिक्कयोतिवरं भिन्नदिशोस्तु वैधृते ।
+विवरं समदिक्कयोस्तयोव्येतिपातेऽन्यदिश्ोः समागम: 1
+प्रथमः स तथापरो युतं रहितरिष्टघटीफलेन तैः ।
+गतयोरथवापि गम्ययोविवरं संयुतिरन्यथा तयोः । ७ ॥
+प्रथमेष्टघटीवधेऽमुना fret लब्धघटीमितेऽन्तरे |
+पातः प्रथमे गतागते गतगम्यः प्रथमाख्यकालतः ।। ८ ॥
+
+. तात्कालिकैरसकृदिष्टघटीफलोन-
+युक्तस्तथा प्रथमराशिरनेन भक्तम्‌ |
+मानैक्यमिष्टघटिकाहतमोप्तनाडचयः
+पातस्थितिग्रेहणवत्‌ प्रथमान्त्यकालौ ।। ₹ ॥
+(Lalla, SiDAVr., 12. 2-9)
+
+Computation of Vyatipata and Vaidhrta
+Time of mid-pata
+
+Find the difference in minutes (between the sum of the
+true longitudes of the Sum and the Moon at any given
+time) and 6 Signs or 12 Signs. Multiply it by 60 and
+divide by the sum of the true daily motions of the two.
+The result gives in ghatikds etc. the time elapsed since
+the vyatipdta or vaidhrta took place or to elapse, (accord-
+ing as the sum is greater than 6 or 12 Signs or less).
+Then find the true longitudes of the Sun, the Moon and
+its Node for that time. (2)
+
+At that time, if the true declination of the Moon’s
+centre is equal to the declination of the Sun’s centre,
+both expressed in minutes, the time is called middle of
+pata. (3a-b)
+
+Equality of declination
+
+When the Moon’s true declination is obtained by
+subtracting the mean declination from its latitude, even
+if the true declination is numerically greater than that
+of the Sun, it must be considered as less. (3c-d)
+
+If the Moon’s true declination at the beginning of an
+even quadrant, (that is, at the end of an odd quadrant),
+is less than that of the Sun in an odd quadrant, there is
+no possibility of pata. If, in this case, the Moon’s true
+declination is greater, there is a possibility of the declina-
+tion being equal and hence of pata. (4)
+
+When the true declination of the Moon in an odd
+quadrant is greater or in an even quadrant less than that
+of the Sun, the pata has taken place. In the contrary
+cases, it will take place. (5)
+
+Time of Vyatipata and Vaidhrta
+
+(Find the Sun’s declination and the Moon’s true
+declination at the time when the sum of their true
+longitudes is 6 or 12 Signs). In the case of vaidhrta, find
+the.sum of the declinations, if in. the same direction ; but
+difference, if in opposite directions. In the case of
+vyatipata, find the difference, ifin the same direction, and
+the.sum, if in opposite directions. (6) ।

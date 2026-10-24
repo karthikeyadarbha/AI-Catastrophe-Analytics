@@ -1,0 +1,57 @@
+2.18 Another method of obtaining the iterated hypotenuse                                                                       105
+
+   .tea;na &+.ta;a ;a:a:$ya;a;kx +:a;taH    A;ya;a;a;va;a;h;ta;ea Y;a;va;Zea;Sa;k+:NRaH   .~ya;a;t,a    Á
+
+   I+.a;ta va;a k+:NRaH     .sa;a;DyaH                   x +:de;va ma;a;Da;va;pra;ea; H
+                                            ma;a;nde .sa;k                                  Á Á 44       ÁÁ
+
+   vistr.tidaladoh.phalakr     . tiviyutipadam
+                                             . kot.iphalavihı̄nayutam |
+   kendre mr.gakarkigate sa khalu viparyayakr          . to bhavet karn. ah. || 43 ||
+   tena hr                                    ′
+           . tā trijyākr.tih. ayatnavihito viśes.akarn. ah. syāt |
+   iti vā karn . ah. sādhyah. mānde sakr.deva mādhavaproktah. || 44 ||
+
+   The square of the doh.phala is subtracted from the square of the trijyā and its square root
+   is taken. The kot.iphala is added to or subtracted from this depending upon whether the
+   kendra (anomaly) is within 6 signs beginning from Karki (Cancer) or Mr.ga (Capricorn).
+   This gives the viparyaya-karn     . a. The square of the trijyā divided by this viparyaya-
+   karn . a is the aviśes.a-karn
+                                . a (iterated hypotenuse) obtained without any effort [of itera-
+   tion]. This is another way by which the [aviśes.a]-karn   . a in the manda process can be
+   obtained as enunciated by Mādhava.
+
+   A method to determine the manda-karn.a without an iterative process is dis-
+cussed here. This method is attributed to Mādhava of Saṅgamagrāma, the
+renowned mathematician and astronomer of the 14th century. A new quantity
+called the viparyaya-karn. a or viparı̄ta-karn.a is introduced for this purpose. This
+viparı̄ta-karn.a (‘inverse’ hypotenuse) is nothing but the radius of the kaks.yāvr.tta
+when the manda-karn.a is taken to be the trijyā, R.
+
+                               ucca-nı̄ca-vr.tta                              U               karn.avr.tta
+
+                                                     P
+                                                                                                              kaks.yāvr.tta
+
+                                                N
+                                                                                                                         Γ
+                                                     P0
+
+
+
+
+                                                                          O
+
+
+
+
+Fig. 2.13a Determination of the viparı̄ta-karn
+                                             . a when the kendra is in the first quadrant.
+
+
+   The rationale behind the formula given for viparı̄ta-karn.a is outlined in the
+Malayalam text Yuktibhās.ā, and can be understood with the help of Figs. 2.13a
+and b. In these figures P0 and P represent the mean and the true planet respectively.
+N denotes the foot of the perpendicular drawn from the true planet P to the line
+joining the centre of the circle and the mean planet. NP is equal to doh.phala. Let
+

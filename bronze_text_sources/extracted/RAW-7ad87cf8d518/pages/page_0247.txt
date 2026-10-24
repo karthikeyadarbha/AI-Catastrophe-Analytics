@@ -1,0 +1,125 @@
+203 .. .. 16. ECLIPSES
+
+should subtract the pratipad-nédis (etc. from the longitude
+of the Sun and the Moon). (1)
+
+Mean distances of the Sun and the Moon
+
+4,59,585 is (in yojanas) the (mean) distance of the Sun
+and 34,377 that ofthe Moon. (2)
+
+True distances of the Sun and the Moon
+
+These (above-mentioned mean distances of the Sun
+and the Moon) multiplied by their true distances in
+minutes obtained by the method of successive approxi-
+mations and divided by the radius (i.e., by 3438’) give
+their true distances in yojanas. (3)
+
+Diameters of the Sun, the Moon and the Earth
+The diameter of the Sun is 4410 (yojanas); of the
+Moon, 315 (yojanas) ; and of the Earth, 1050 (yojanas). (4)
+
+Angular diameters of Sun and Moon
+
+_ Multiply the radius (i.e., 3438’) (separately) by their
+diameters in _yojanas-and divide by their true distances in
+yojanas: then are obtained their true (i.e., angular),
+diameters in minutes of arc. (5)
+
+Length of Earth’s shadow
+
+Multiply the Sun’s (true) distance (in yojanas) by the
+diameter of the Earth in yojanas and divide by the differ-
+rence between (the diameters of) the Sun and the Earth.
+Then is obtained (in yojanas) the length of the Earth’s
+shadow. (6)
+Diameter of the Earth’s shadow
+
+This (length of the Earth’s shadow) diminished by the
+(true) distance of the Moon and multiplied by the
+diameter of the Earth and (then) divided by the length
+of the Earth’s shadow gives (in yojanas) the diameter of
+the Earth’s shadow (at the point where the Moon
+crosses it). This should be reduced to minutes of arc
+like (the diameter.of) the Moon. (7). (KSS)
+
+चन्द्रविक्षेप:
+
+16. 9. Ib. - पातोनसमलिप्तेन्दोर्जीवा खत्रिधना हता ।
+कर्णेन हियते लब्धो विक्षेपः सौम्यदक्षिण: ।। ८ ॥
+इन्दुहीनतमोव्यासदललिप्ताविवजिताः ।
+विक्षेपस्य न गृह्यन्ते तमसा शशलक्ष्मणः ।। ६ ।।
+विक्षेपवर्गहीनायाः सम्पकर्धिकृतेः पदम्‌ |
+गत्यन्तरहृतं हत्वा षष्ट्या स्थित्यधेनाडिकाः ।। १० ॥
+स्फुटभुक्तिहिता नाडयः Gea नित्यं समुद्धृताः |
+लब्धलिप्ताः क्षयश्चन्द्रे क्षेपश्च स्पशेमोक्षयोः ।। ११ ॥
+विक्षेपश्चनद्रतस्तस्मान्नाडिका लिप्तिकाः शशी ।
+आवृत्या कर्मणा तेन स्थित्यध॑मविशेषयेत्‌ ॥ १२ ॥
+
+स्थित्यर्धनाविशिष्टेन हीनयुक्ता तिथिः स्फुटा ।
+स्पशंमोक्षौ तु तौ स्यातां पवंमध्यं ग्रहस्य तत्‌ ।। १२ ॥
+
+16. 9. 19
+
+' ग्राह्मग्राहकविश्लेषदलविक्षेपवर्गयो: ।
+विश्लेषस्य पदं प्राग्वद्‌ विमर्दाधस्थ नाडिकाः ।। १४॥।
+
+तिथिमध्यान्तरालानामसूनामुत्कमज्यया ।
+. विषुवज्ज्या हता भाज्या व्रिमौर्व्या लब्धदिक्क्रमः 11941
+
+प्राक्कपाले तु बिम्बस्य पूवेपश्चिमभागयोः |
+उदग्दक्षिणतोऽक्षस्य वलनं पश्चिमेऽन्यथा ।। १६ ।।
+
+तत्कालेन्कंयोः कोटबोरुत्कमज्यापमों गुणः ।
+अयनाद्िम्बपवर्धिं पश्चार्धे व्यत्ययेन दिक्‌ ।। १७ ॥
+
+योगस्तद्धनुषोः साम्ये दिशोभंदे विपयेय: ।
+सम्पर्कार्धहता तज्ज्या तिज्याप्तं वलनं हि तत्‌ ।। १८ ॥।
+
+एकदिक्कं क्षिपेत्‌ क्षेपे विदिक्कं तद्धिशोधयेत्‌ |
+
+वलनं तत्‌ स्फुटं जञेयं सूयाचिनद्रमसो ग्रहे ।। १६ ।।
+सम्पर्कार्धाधिकं तद्धि सङ्ख्यया यत्र लभ्यते |
+सम्पर्कात्‌ सकलाद्धित्वा वलनं तत्र शिष्यते ।। २० tt
+
+असंयुक्तमविश्लिष्टं स्पशंवत्‌ केवलं स्फुटम्‌ ।
+विक्षिप्या ग्रहमध्यस्य तस्य स्याद्‌ व्यस्तदिक्क्रमः ।। २१ It
+
+ भास्करेन्दुतमोव्यासविक्षेपवलनोद्धवाः ।
+अङगुलान्यधिता लिप्तास्ता एव हरिजस्थिते ।। २२ ॥
+
+(Bhaskara 1, LBh., 4. 8-22)
+
+Moon’s latitude
+Multiply the R sine of the difference between the
+longitudes of the Moon, when in opposition with the
+Sun, and its ascending node by 270 and divide (the
+product) by the true distance of the Moon, in minutes:
+the result is the Moon’s (true) latitude north or south. (8)
+
+Moon’s diameter unobscured by the shadow
+
+Diminishing the (minutes of arc of the) Moon’s
+latitude (obtained above) by half of the minutes of arc
+resulting on diminishing the diameter of the shadow by
+that of the Moon are obtained those of (the diameter of)
+the Moon which remain unobscured by the shadow. (9)
+
+Sparsa and moksa sthityardhas
+
+Diminish the square of half the sum of the diameters
+of the Moon and the shadow (samparkardha) by the
+square of the (Moon’s) latitude (for the time of opposi-
+tion of the Sun and Moon) and then take the square
+root (of that). That divided by the difference between
+the (true) daily motions (of the Sun and Moon) and
+multiplied by 60 gives, in nddis, the (first approximation
+to the sparfa or moksa) sthityardha.
+
+(Then) multiply those nadis by the true daily motion
+(of the Moon) and always divide by 60. The resulting
+minutes should then: be severally subtracted from, and
+added to the longitude of the Moon (calculated for the
+time of opposition) to get the longitudes of the Moon for
+the times of the first and last contacts.

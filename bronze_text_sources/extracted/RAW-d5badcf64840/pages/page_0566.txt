@@ -1,0 +1,64 @@
+F.6 Nı̄lakan.t.ha’s cosmological model                                                             519
+
+to be the trijyā, R. Further, since the mandapratiman. .dala, or the manda eccen-
+tric on which the planet moves, is of dimension rs and not R, the (variable) manda
+epicycle r itself is to be scaled by a factor rRs and will be r̃ = r rRs . Correspondingly
+the (iterated) manda-karn.a K will also be scaled to K̃ = K rRs .
+    Nı̄lakan.t.ha presents a clear and succinct statement of the geometrical picture
+of planetary motion for both interior and exterior planets in both Golasāra and
+Siddhānta-darpan.a. The verses from the latter are cited below:
+   g{a;h;Bra;ma;Na;vxa:a;a;a;na ga;. C+.ntyua;a;ga;ta;a;nya;a;pa Á
+
+   ma;nd;vxa:ea ta;d;keR +:nd
+                             õ ;eaH     ;Ga;na;BUa;ma;Dya;na;a;Æa;Ba;k+:m,a Á Á
+
+                                              å
+            R +:ga;a;ta . a;a;nyea;Sa;Ma ta;n}.a;DyMa Za;a;Gra;vxa:a;ga;m,a Á
+   ma;Dya;a;k
+
+   .tea;Sa;Ma ZEa;GryMa Ba;. a;k
+                               Ò +:a;a ;a;va;Æa;[a;Ma ga;ea;l+.ma;Dya;ga;m,a Á Á
+
+   ZEa;Grya;tvea;na ta;dM;ZEaH    .~vMa :pra;ma;a;ya;ea;M :℄a;Zua;kÒ +:ya;eaH Á
+
+   ma;nd;vxa:a;~ya . Ea;va;a:a [a;ya;vxa:;d
+                                            Äâ ;a .~va;k+:NRa;va;t,a Á Á
+                                                                          34
+
+   The [eccentric] orbits on which planets move (the graha-bhraman                . tta) themselves
+                                                                             . a-vr
+   move at the same rate as the apsides (the ucca-gati) on the manda-vr.tta [or the manda
+   epicycle drawn with its centre coinciding with the centre of the manda concentric]. In the
+   case of the Sun and the Moon, the centre of the Earth is the centre of this manda-vr.tta.
+   For the others [namely the planets Mercury, Venus, Mars, Jupiter and Saturn] the centre
+   of the manda-vr.tta moves at the same rate as the mean Sun (madhyārka-gati) on the
+             . tta [or the śı̄ghra epicycle drawn with its centre coinciding with the centre of the
+   śı̄ghra-vr
+   śı̄ghra concentric. The śı̄ghra-vr.tta for these planets is not inclined with respect to the
+   ecliptic and has the centre of the celestial sphere as its centre.
+   In the case of Mercury and Venus, the dimension of the śı̄ghra-vr.tta is taken to be that
+   of the concentric and the dimensions [of the epicycles] mentioned are of their own orbits.
+   The manda-vr.tta [and hence the manda epicycle of all the planets] undergoes increase
+   and decrease in size in the same way as the karn
+                                                  . a [or the hypotenuse or the distance of the
+   planet from the centre of the manda concentric].
+
+    As was noted earlier, the renowned Malayalam work Gan.ita-yukti-bhās.ā
+(c. 1530) of Jyes.t.hadeva also gives a detailed exposition of the above geometri-
+cal picture planetary motion. The expressions for the longitudes for the exterior and
+interior planets obtained from the above pictures are essentially the same as the ones
+in the Keplerian model in (F.46) and (F.50).
+
+
+
+F.6 Nı̄lakan.t.ha’s cosmological model
+
+While discussing the geometrical picture of planetary motion, Āryabhat.ı̄ya-bhās.ya
+as well as Golasāra and Siddhānta-darpan. a consider the orbit of each of the plan-
+ets individually, and they are not put together in a single cosmological model of the
+planetary system.
+   There is of course a remarkable passage in Āryabhat.ı̄ya-bhās.ya (which we have
+cited earlier (see Section F.4.4) while explaining Nı̄lakan.t.ha’s rationale for the re-
+vision of the traditional planetary model) where Nı̄lakan.t.ha explains that the Earth
+34 {SDA 1978}, p. 18.
+

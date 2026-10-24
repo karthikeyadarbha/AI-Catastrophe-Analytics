@@ -1,0 +1,71 @@
+F.7 The problem of planetary distances                                                                                                                                527
+
+pretation of this kaks.yāvyāsārdha and his prescription for the true Earth-planet dis-
+tance in yojanas (the sphut.a-kaks.yā) are indeed very different from what we out-
+lined earlier in connection with the traditional Indian planetary model. Nı̄lakan.t.ha
+presents his prescription for sphut.a-kaks.yā rather tritely in just a single verse of
+Tantrasaṅgraha:
+                    È
+   Za;a;Gra;k+:NRa. îå Á
+                    *+;k+:[ya;a;ya;a;~ta;d
+                                         õx :ea;na ;Æa;sa;ta::℄a;ya;eaH Á
+
+                   å
+   A;a;a;a ;a;h .~.Pu+.f;k+:[ya;a .~ya;a;t,a ta;d
+                                                                                  46
+                                                 õ ;Za;a;+:}ba;na;a;a;d .. a Á Á
+
+   [In the case of Mars, Jupiter and Saturn], the mean radii of their orbits (kaks.yāvyāsārdhas)
+   multiplied by the śı̄ghra-karn  . a [and divided by the trijyā] give the true orbital radii
+   (sphut.a-kaks.yās). In the case of Mercury and Venus their mean orbital radii (kaks.yāvyāsārdha)
+   multiplied by the śı̄ghra-karn . a and divided by the mean radii of their own orbits (tad-
+    . ttas), give the true values of their orbital radii (sphut.a-kaks.yās). And from that the
+   vr
+   lambana etc. [must be calculated].
+
+   The above prescription has been clearly explained by Śaṅkara Vāriyar as fol-
+lows:
+   ;Æa;sa;ta::℄a;ya;ea:+:+:va;d;a;na;a;tMa   k+:[ya;a;v.ya;a;sa;a;DRa;ya;ea:ja;nMa   .~va;Za;a;Gra;k+:NeRa;na     ;a;na;h;tya     Za;a;Gra;vxa:a;pra;Æa;ma;ta-
+                                                                                 å
+   .~va;vxa:a;v.ya;a;sa;a;DeRa;na    ;a;va;Ba:jea;t,a Á   ta:a   l+.b.Da;a   .~.Pu+.f;k+:[ya;a       Ba;va;a;ta Á        A;nyea;Sa;Ma   tua    :pra;a;gva;+:b.DMa
+
+   k+:[ya;a;v.ya;a;sa;a;Da .~va;Za;a;Gra;gua;a;Na;tMa ;a:a:$ya;ya;a ;a;va;Ba;+:Æa;ma;a;ta ;a;va;Zea;SaH Á
+                                                                                                                      47
+
+   In the case of Mercury and Venus, the mean radii of their orbit in yojanas (kaks.yāvyāsārdha-
+   yojana) has to be multiplied by the śı̄ghra-karn    . a and divided by the radius of their own
+   orbit which is the indeed the śı̄ghra-vr
+                                           . tta. The result is the true radius of the orbit (sphut.a-
+   kaks.yā) [in yojanas]. For the other planets (Mars, Jupiter and Saturn) the difference is that
+   the mean radii (kaks.yāvyāsārdhas) [in yojanas] obtained as before and multiplied by
+   their own śı̄ghra [karn
+                          . a] should be divided by the radius of the concentric (the trijyā) [in
+   order to obtain true radius of the orbit in yojanas].
+
+   There is a verse in Golasāra which seems to give a partially similar prescription
+for the case of interior planets:
+                             È
+   .~va;Æa;[a;a;ta;a;va;va:=: î
+                             *+å ÁM ta;dùÅ;a;ea:ja;na;ma;a;pa :k
+                                                               e +:va;l+.a;ntya;P+.l+.Ba;a:$ya;m,a Á Á
+                                                                                                       48
+
+   [For Mercury and Venus] their distance from the Earth (their śı̄ghra-karn    . a) multiplied by
+   their (mean orbit radius in) yojanas is to be divided only by their last śı̄ghra-phala (or the
+   radius of the śı̄ghra epicycle).
+
+   Thus, Nı̄lakan.t.ha’s prescription for the sphut.a-kaks.yā or the true Earth–planet
+distance in yojanas can be expressed as follows:
+
+                               kaks.yāvyāsārdha ×śı̄ghra-karn.a
+            Sphut.a-kaks.yā =                                                                                                      [exterior] (F.32)
+                                               Radius
+                               kaks.yāvyāsārdha ×śı̄ghra-karn.a
+            Sphut.a-kaks.yā =                                                                                                      [interior]. (F.33)
+                                    Radius of śı̄ghra epicycle
+
+
+46 {TS 1958}, chapter 8, verses 37b–38a.
+47 {TS 1958}, p. 155.
+48 {GS 1970}, p. 23.
+
