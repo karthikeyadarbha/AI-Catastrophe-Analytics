@@ -1,29 +1,42 @@
-# Core scientific stack
+# Python libraries for the whole project. Install from the repository root:
+#     python3 -m pip install -r requirements.txt
+# Versions are not pinned; for a frozen, repeatable setup run `python3 -m pip freeze > requirements.lock`
+# once everything works and keep that file with the results.
+
+# --- Core scientific stack (analysis, Gold) ---
 numpy
 pandas
+scipy
 python-dateutil
 pytz
-scipy
 
-# Ephemeris / celestial libraries
+# --- Bronze / Silver pipeline (text extraction audit, rule database) ---
+duckdb          # Silver database (silver_text_rules/pipeline/build_silver.py, Gold runner)
+jsonschema      # validates rules against silver_rule.schema.json
+
+# --- Ephemeris / celestial libraries ---
 skyfield
 jplephem
 pyswisseph
 astroquery
 astropy
 
-# I/O / data formats
+# --- Engine and MCP servers (indic-ganita-engine, astral-mcp-server) ---
+mcp
+pydantic
+
+# --- I/O / data formats ---
 openpyxl
 pyarrow
 
-# Machine learning, clustering & dimensionality reduction
+# --- Machine learning, clustering & dimensionality reduction ---
 scikit-learn
 umap-learn
 pynndescent
 xgboost
 joblib
 
-# Visualisation & interactive notebooks
+# --- Visualisation & notebooks ---
 matplotlib
 seaborn
 folium
@@ -33,14 +46,15 @@ notebook
 ipykernel
 jupyterlab
 
-# Utilities / networking
+# --- Utilities / networking ---
 requests
 tqdm
 
-# Optional (useful but not required for basic runs)
-# - install these if you need them: left commented to avoid mandatory installs
+# Not installable with pip - needed by bronze_text_sources/pipeline/extract_text.py:
+#   macOS:  brew install poppler tesseract tesseract-lang
+#   (provides pdftotext, pdftoppm, pdfinfo and the Sanskrit, Hindi, English OCR language packs)
+
+# Optional, left commented to avoid mandatory installs
 # dask
 # s3fs
 # numexpr
-
-duckdb
