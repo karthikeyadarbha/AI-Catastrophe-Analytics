@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Silver rule",
+  "description": "One rule from a classical text, in the shape Silver holds it. Two kinds share this record: 'computational' rules (how the text calculates something; the engine's 85 records) and 'testable_claim' rules (a statement from the text that can be tested against earthquakes; Experiment 1). Rule IDs keep the form the source system gave them (engine IDs such as TS.1.9.rev are valid).",
+  "type": "object",
+  "required": ["rule_id", "rule_kind", "text_id", "source", "provenance_status", "review"],
+  "additionalProperties": false,
+  "properties": {
+    "rule_id": {"type": "string", "pattern": "^[A-Za-z][A-Za-z0-9._-]*$"},
+    "rule_kind": {"enum": ["computational", "testable_claim"]},
+    "text_id": {"type": ["string", "null"], "pattern": "^TXT-[0-9]{2}$"},
+    "title": {"type": "string"},
+    "statement": {"type": "string", "description": "What the text says, in plain words."},
+    "source": {
+      "type": "object",
+      "required": ["reference"],
+      "additionalProperties": false,
+      "properties": {
+        "reference": {"type": "string", "description": "Chapter and verse as the edition gives them."},
+        "artifact_id": {"type": "string", "pattern": "^RAW-[0-9a-f]{12}$"},
+        "page": {"type": "integer", "minimum": 1},
+        "quote": {"type": "string", "description": "The Sanskrit or English passage, copied from the page text."},
+        "quote_page_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$", "description": "Hash of the Silver page the quote was taken from."}
+      }
+    },
+    "formula": {"type": "string", "description": "Computational rules: the calculation."},
+    "condition": {
+      "type": "object",
+      "description": "Testable claims: the claim as a test the Gold layer can run. Parameters are fixed here, before any test.",
+      "required": ["feature", "operator"],
+      "additionalProperties": false,
+      "properties": {
+        "feature": {"type": "string", "description": "A named feature, e.g. moon_mandala, moon_tithi_class, eclipse_within_days."},
+        "operator": {"enum": ["in_set", "within", "equals", "chi_square_classes", "kruskal_wallis"]},
+        "parameters": {"type": "object"},
+        "frame": {"enum": ["sidereal_lahiri", "tropical", "not_applicable"]}
+      }
+    },
+    "preregistration": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {"file": {"type": "string"}, "test_id": {"type": "string"}}
+    },
+    "implemented_by": {"type": "string"},
+    "provenance_status": {"enum": ["page_cited", "reference_only", "quote_verified"]},
+    "ocr_confidence": {"type": "number", "minimum": 0, "maximum": 100},
+    "review": {
+      "type": "object",
+      "required": ["status"],
+      "additionalProperties": false,
+      "properties": {
+        "status": {"enum": ["unreviewed", "in_review", "approved", "rejected"]},
+        "reviewer": {"type": "string"},
+        "reviewed_at": {"type": "string", "format": "date-time"},
+        "notes": {"type": "string"}
+      }
+    }
+  }
+}

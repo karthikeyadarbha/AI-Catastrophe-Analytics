@@ -1,0 +1,4 @@
+*.duckdb
+*.duckdb.wal
+*.building
+*.building.wal

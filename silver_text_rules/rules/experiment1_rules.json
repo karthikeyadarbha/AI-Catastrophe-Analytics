@@ -1,0 +1,904 @@
+[
+ {
+  "rule_id": "R1.sid",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mandala of the Moon's nakshatra",
+  "statement": "The Moon's nakshatra at the time of the earthquake assigns it one of four types (Anila, Anala, Indra, Varuna).",
+  "source": {
+   "reference": "PT 18.3–18.6"
+  },
+  "condition": {
+   "feature": "moon_mandala",
+   "operator": "chi_square_classes",
+   "parameters": {
+    "classes": {
+     "Anila": [
+      "Svati",
+      "Dhanishta",
+      "Ashwini",
+      "U.Phalguni",
+      "Hasta",
+      "Chitra"
+     ],
+     "Anala": [
+      "Krittika",
+      "Vishakha",
+      "P.Bhadrapada",
+      "Bharani",
+      "P.Ashadha",
+      "Magha",
+      "Pushya",
+      "P.Phalguni"
+     ],
+     "Indra": [
+      "Jyeshtha",
+      "U.Ashadha",
+      "Shravana",
+      "Rohini",
+      "Mrigashira",
+      "Punarvasu",
+      "Anuradha"
+     ],
+     "Varuna": [
+      "Shatabhisha",
+      "U.Bhadrapada",
+      "Revati",
+      "Ardra",
+      "Ashlesha",
+      "Mula"
+     ]
+    },
+    "abhijit": "excluded"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R1 mandala [sid]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R1.trop",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mandala of the Moon's nakshatra",
+  "statement": "The Moon's nakshatra at the time of the earthquake assigns it one of four types (Anila, Anala, Indra, Varuna).",
+  "source": {
+   "reference": "PT 18.3–18.6"
+  },
+  "condition": {
+   "feature": "moon_mandala",
+   "operator": "chi_square_classes",
+   "parameters": {
+    "classes": {
+     "Anila": [
+      "Svati",
+      "Dhanishta",
+      "Ashwini",
+      "U.Phalguni",
+      "Hasta",
+      "Chitra"
+     ],
+     "Anala": [
+      "Krittika",
+      "Vishakha",
+      "P.Bhadrapada",
+      "Bharani",
+      "P.Ashadha",
+      "Magha",
+      "Pushya",
+      "P.Phalguni"
+     ],
+     "Indra": [
+      "Jyeshtha",
+      "U.Ashadha",
+      "Shravana",
+      "Rohini",
+      "Mrigashira",
+      "Punarvasu",
+      "Anuradha"
+     ],
+     "Varuna": [
+      "Shatabhisha",
+      "U.Bhadrapada",
+      "Revati",
+      "Ardra",
+      "Ashlesha",
+      "Mula"
+     ]
+    },
+    "abhijit": "excluded"
+   },
+   "frame": "tropical"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R1 mandala [trop]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R2.sid",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon in a sharp nakshatra",
+  "statement": "The Moon in Ardra, Ashlesha, Jyeshtha or Mula marks harsh events.",
+  "source": {
+   "reference": "PT Ch.14–16"
+  },
+  "condition": {
+   "feature": "moon_nakshatra",
+   "operator": "in_set",
+   "parameters": {
+    "set": [
+     "Ardra",
+     "Ashlesha",
+     "Jyeshtha",
+     "Mula"
+    ],
+    "tail": "upper",
+    "expected_share": "background grid"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R2 Moon sharp group [sid]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R2.trop",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon in a sharp nakshatra",
+  "statement": "The Moon in Ardra, Ashlesha, Jyeshtha or Mula marks harsh events.",
+  "source": {
+   "reference": "PT Ch.14–16"
+  },
+  "condition": {
+   "feature": "moon_nakshatra",
+   "operator": "in_set",
+   "parameters": {
+    "set": [
+     "Ardra",
+     "Ashlesha",
+     "Jyeshtha",
+     "Mula"
+    ],
+    "tail": "upper",
+    "expected_share": "background grid"
+   },
+   "frame": "tropical"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R2 Moon sharp group [trop]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R3",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon in a Rikta tithi",
+  "statement": "Earthquakes fall on Rikta tithis (4, 9, 14 of each 15-tithi cycle).",
+  "source": {
+   "reference": "PT Ch.14–16"
+  },
+  "condition": {
+   "feature": "moon_tithi_class",
+   "operator": "in_set",
+   "parameters": {
+    "set": [
+     4,
+     9,
+     14
+    ],
+    "cycle": 15,
+    "expected_share": "1/5"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R3 Moon in Rikta tithi"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R4",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Near new or full moon",
+  "statement": "Earthquakes fall within one tithi of new or full moon.",
+  "source": {
+   "reference": "PT Ch.14–16"
+  },
+  "condition": {
+   "feature": "moon_tithi_distance",
+   "operator": "within",
+   "parameters": {
+    "tithis": 1,
+    "of": [
+     "new_moon",
+     "full_moon"
+    ],
+    "expected_share": "6/30"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R4 within +/-1 tithi of new/full moon"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R5",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Eclipse within 15 days",
+  "statement": "An earthquake falls within 15 days of an eclipse.",
+  "source": {
+   "reference": "PT Ch.5 (eclipses), 5.4, 5.7"
+  },
+  "condition": {
+   "feature": "eclipse_distance_days",
+   "operator": "within",
+   "parameters": {
+    "days": 15,
+    "eclipse_finder": "own Meeus finder, +/-1.4 d"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R5 eclipse within +/-15 d"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R6",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Eclipse within 7 days",
+  "statement": "An earthquake falls within 7 days of an eclipse.",
+  "source": {
+   "reference": "PT Ch.5 (eclipses), 5.4, 5.7"
+  },
+  "condition": {
+   "feature": "eclipse_distance_days",
+   "operator": "within",
+   "parameters": {
+    "days": 7,
+    "eclipse_finder": "own Meeus finder, +/-1.4 d"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R6 eclipse within +/-7 d"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R7.mars",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mars retrograde",
+  "statement": "The earthquake falls while Mars is retrograde.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "planet_retrograde",
+   "operator": "equals",
+   "parameters": {
+    "planet": "Mars",
+    "value": true
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R7 Mars retrograde"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R7.mercury",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mercury retrograde",
+  "statement": "The earthquake falls while Mercury is retrograde.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "planet_retrograde",
+   "operator": "equals",
+   "parameters": {
+    "planet": "Mercury",
+    "value": true
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R7 Mercury retrograde"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R7.jupiter",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Jupiter retrograde",
+  "statement": "The earthquake falls while Jupiter is retrograde.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "planet_retrograde",
+   "operator": "equals",
+   "parameters": {
+    "planet": "Jupiter",
+    "value": true
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R7 Jupiter retrograde"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R7.venus",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Venus retrograde",
+  "statement": "The earthquake falls while Venus is retrograde.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "planet_retrograde",
+   "operator": "equals",
+   "parameters": {
+    "planet": "Venus",
+    "value": true
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R7 Venus retrograde"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R7.saturn",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Saturn retrograde",
+  "statement": "The earthquake falls while Saturn is retrograde.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "planet_retrograde",
+   "operator": "equals",
+   "parameters": {
+    "planet": "Saturn",
+    "value": true
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R7 Saturn retrograde"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R8.sid",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Jupiter and Saturn in one nakshatra",
+  "statement": "Jupiter and Saturn are in the same nakshatra at the time of the earthquake.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "same_nakshatra",
+   "operator": "equals",
+   "parameters": {
+    "planets": [
+     "Jupiter",
+     "Saturn"
+    ],
+    "value": true
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R8 Jupiter=Saturn nakshatra [sid]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R8.trop",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Jupiter and Saturn in one nakshatra",
+  "statement": "Jupiter and Saturn are in the same nakshatra at the time of the earthquake.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "same_nakshatra",
+   "operator": "equals",
+   "parameters": {
+    "planets": [
+     "Jupiter",
+     "Saturn"
+    ],
+    "value": true
+   },
+   "frame": "tropical"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R8 Jupiter=Saturn nakshatra [trop]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R9",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Planet pair within 3 degrees",
+  "statement": "Any pair of Mars, Mercury, Jupiter, Venus, Saturn is within 3 degrees.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "planet_pair_separation_deg",
+   "operator": "within",
+   "parameters": {
+    "degrees": 3,
+    "planets": [
+     "Mars",
+     "Mercury",
+     "Jupiter",
+     "Venus",
+     "Saturn"
+    ]
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R9 planet pair within 3 deg"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R10",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon near a planet or the Sun",
+  "statement": "The Moon is within 5 degrees of a planet or the Sun.",
+  "source": {
+   "reference": "PT Ch.14–16"
+  },
+  "condition": {
+   "feature": "moon_planet_separation_deg",
+   "operator": "within",
+   "parameters": {
+    "degrees": 5,
+    "bodies": [
+     "Sun",
+     "Mars",
+     "Mercury",
+     "Jupiter",
+     "Venus",
+     "Saturn"
+    ]
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R10 Moon within 5 deg of planet/Sun"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R11.sid",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Sun's season",
+  "statement": "The Sun's position in one of six equal 60-degree seasons from the winter solstice / Dhanishtha start.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "sun_season",
+   "operator": "chi_square_classes",
+   "parameters": {
+    "classes": 6,
+    "width_deg": 60,
+    "start": "winter solstice / Dhanishtha start"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R11 PT season [sid]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R11.trop",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Sun's season",
+  "statement": "The Sun's position in one of six equal 60-degree seasons from the winter solstice / Dhanishtha start.",
+  "source": {
+   "reference": "PT Ch.15, 6–10, 3"
+  },
+  "condition": {
+   "feature": "sun_season",
+   "operator": "chi_square_classes",
+   "parameters": {
+    "classes": 6,
+    "width_deg": 60,
+    "start": "winter solstice / Dhanishtha start"
+   },
+   "frame": "tropical"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R11 PT season [trop]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R12.mag.sid",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mandala versus magnitude",
+  "statement": "Earthquake magnitude differs between the four mandalas.",
+  "source": {
+   "reference": "PT 18.3–18.6"
+  },
+  "condition": {
+   "feature": "moon_mandala_vs_mag",
+   "operator": "kruskal_wallis",
+   "parameters": {
+    "classes": {
+     "Anila": [
+      "Svati",
+      "Dhanishta",
+      "Ashwini",
+      "U.Phalguni",
+      "Hasta",
+      "Chitra"
+     ],
+     "Anala": [
+      "Krittika",
+      "Vishakha",
+      "P.Bhadrapada",
+      "Bharani",
+      "P.Ashadha",
+      "Magha",
+      "Pushya",
+      "P.Phalguni"
+     ],
+     "Indra": [
+      "Jyeshtha",
+      "U.Ashadha",
+      "Shravana",
+      "Rohini",
+      "Mrigashira",
+      "Punarvasu",
+      "Anuradha"
+     ],
+     "Varuna": [
+      "Shatabhisha",
+      "U.Bhadrapada",
+      "Revati",
+      "Ardra",
+      "Ashlesha",
+      "Mula"
+     ]
+    },
+    "response": "magnitude"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R12 mandala vs mag [sid]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R12.depth.sid",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mandala versus depth",
+  "statement": "Earthquake depth differs between the four mandalas.",
+  "source": {
+   "reference": "PT 18.3–18.6"
+  },
+  "condition": {
+   "feature": "moon_mandala_vs_depth",
+   "operator": "kruskal_wallis",
+   "parameters": {
+    "classes": {
+     "Anila": [
+      "Svati",
+      "Dhanishta",
+      "Ashwini",
+      "U.Phalguni",
+      "Hasta",
+      "Chitra"
+     ],
+     "Anala": [
+      "Krittika",
+      "Vishakha",
+      "P.Bhadrapada",
+      "Bharani",
+      "P.Ashadha",
+      "Magha",
+      "Pushya",
+      "P.Phalguni"
+     ],
+     "Indra": [
+      "Jyeshtha",
+      "U.Ashadha",
+      "Shravana",
+      "Rohini",
+      "Mrigashira",
+      "Punarvasu",
+      "Anuradha"
+     ],
+     "Varuna": [
+      "Shatabhisha",
+      "U.Bhadrapada",
+      "Revati",
+      "Ardra",
+      "Ashlesha",
+      "Mula"
+     ]
+    },
+    "response": "depth"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R12 mandala vs depth [sid]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R12.mag.trop",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mandala versus magnitude",
+  "statement": "Earthquake magnitude differs between the four mandalas.",
+  "source": {
+   "reference": "PT 18.3–18.6"
+  },
+  "condition": {
+   "feature": "moon_mandala_vs_mag",
+   "operator": "kruskal_wallis",
+   "parameters": {
+    "classes": {
+     "Anila": [
+      "Svati",
+      "Dhanishta",
+      "Ashwini",
+      "U.Phalguni",
+      "Hasta",
+      "Chitra"
+     ],
+     "Anala": [
+      "Krittika",
+      "Vishakha",
+      "P.Bhadrapada",
+      "Bharani",
+      "P.Ashadha",
+      "Magha",
+      "Pushya",
+      "P.Phalguni"
+     ],
+     "Indra": [
+      "Jyeshtha",
+      "U.Ashadha",
+      "Shravana",
+      "Rohini",
+      "Mrigashira",
+      "Punarvasu",
+      "Anuradha"
+     ],
+     "Varuna": [
+      "Shatabhisha",
+      "U.Bhadrapada",
+      "Revati",
+      "Ardra",
+      "Ashlesha",
+      "Mula"
+     ]
+    },
+    "response": "magnitude"
+   },
+   "frame": "tropical"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R12 mandala vs mag [trop]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "R12.depth.trop",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Mandala versus depth",
+  "statement": "Earthquake depth differs between the four mandalas.",
+  "source": {
+   "reference": "PT 18.3–18.6"
+  },
+  "condition": {
+   "feature": "moon_mandala_vs_depth",
+   "operator": "kruskal_wallis",
+   "parameters": {
+    "classes": {
+     "Anila": [
+      "Svati",
+      "Dhanishta",
+      "Ashwini",
+      "U.Phalguni",
+      "Hasta",
+      "Chitra"
+     ],
+     "Anala": [
+      "Krittika",
+      "Vishakha",
+      "P.Bhadrapada",
+      "Bharani",
+      "P.Ashadha",
+      "Magha",
+      "Pushya",
+      "P.Phalguni"
+     ],
+     "Indra": [
+      "Jyeshtha",
+      "U.Ashadha",
+      "Shravana",
+      "Rohini",
+      "Mrigashira",
+      "Punarvasu",
+      "Anuradha"
+     ],
+     "Varuna": [
+      "Shatabhisha",
+      "U.Bhadrapada",
+      "Revati",
+      "Ardra",
+      "Ashlesha",
+      "Mula"
+     ]
+    },
+    "response": "depth"
+   },
+   "frame": "tropical"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_rules.md",
+   "test_id": "R12 mandala vs depth [trop]"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Passage-level citation taken from the Rule-First report's source register; verse and page not yet matched to the scan."
+  }
+ }
+]
