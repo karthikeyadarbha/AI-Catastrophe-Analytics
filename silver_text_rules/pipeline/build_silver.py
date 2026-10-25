@@ -17,12 +17,12 @@ Tables
   artifacts  one row per registered scan (from the audit log)
   extracts   one row per text extraction run: tools, languages, quality summary
   pages      one row per scanned page: text, method, OCR confidence, flag, page hash
-  rules      engine rule records (kind 'computational') and the 23 pre-registered Experiment 1
-             rules (kind 'testable_claim', from silver_text_rules/rules/experiment1_rules.json,
-             checked against schema/silver_rule.schema.json before loading)
+  rules      engine rule records (kind 'computational'), the 23 pre-registered Experiment 1 rules and
+             the 54 Experiment 2 stage-5 bins (kind 'testable_claim', from rules/experiment1_rules.json
+             and rules/experiment2_stage5_rules.json, checked against schema/silver_rule.schema.json)
   rule_sources  rule -> page links, where the engine record names a PDF page
-  reported_results  what the Rule-First report published for each of the 23 rules; the
-             target Gold must reproduce
+  reported_results  what the studies published for each of those 77 claims (Experiment 2: the committed
+             bin-scan CSV); the target Gold must reproduce
 
 The database file is derived data and is git-ignored. Delete it and run this again.
 """
@@ -177,11 +177,12 @@ def load_rules(con):
     return n
 
 
-def load_experiment1(con):
-    """Load the pre-registered Experiment 1 rules after checking each against the Silver schema."""
+def load_claims(con, rules_name, results_name):
+    """Load pre-registered testable claims and the results the study published for them,
+    after checking each rule against the Silver schema."""
     import csv
     schema = json.loads((SILVER / "schema" / "silver_rule.schema.json").read_text(encoding="utf-8"))
-    src = SILVER / "rules" / "experiment1_rules.json"
+    src = SILVER / "rules" / rules_name
     rules = json.loads(src.read_text(encoding="utf-8"))
     for r in rules:
         try:
@@ -190,7 +191,7 @@ def load_experiment1(con):
             sys.exit(f"{r.get('rule_id')}: not valid against silver_rule.schema.json: {exc.message}")
     texts = {t["id"] for t in json.loads(REGISTER.read_text(encoding="utf-8"))["texts"]}
     for r in rules:
-        if r["text_id"] not in texts:
+        if r["text_id"] is not None and r["text_id"] not in texts:      # null = the report does not say which text
             sys.exit(f"{r['rule_id']}: unknown text {r['text_id']}")
         con.execute("INSERT INTO rules (rule_id, rule_kind, text_id, reference, title, provenance_status, "
                     "review_status, source_file, statement, condition, preregistration) "
@@ -199,12 +200,12 @@ def load_experiment1(con):
             r["provenance_status"], r["review"]["status"], src.relative_to(REPO).as_posix(),
             r["statement"], json.dumps(r["condition"], ensure_ascii=False),
             json.dumps(r["preregistration"])])
-    with (SILVER / "rules" / "experiment1_reported_results.csv").open(newline="", encoding="utf-8") as fh:
+    with (SILVER / "rules" / results_name).open(newline="", encoding="utf-8") as fh:
         rows = [(x["rule_id"], float(x["discovery_p"]), float(x["holdout_p"]), x["holdout_observed"],
                  x["holdout_expected"]) for x in csv.DictReader(fh)]
     ids = {r["rule_id"] for r in rules}
     if {x[0] for x in rows} != ids:
-        sys.exit("reported results do not match the Experiment 1 rule IDs")
+        sys.exit(f"{results_name} does not match the rule IDs in {rules_name}")
     con.executemany("INSERT INTO reported_results VALUES (?,?,?,?,?)", rows)
     return len(rules)
 
@@ -232,7 +233,9 @@ def main() -> int:
                     [(a["artifact_id"], a["text_id"], a["original_filename"], a["sha256"], a["bytes"],
                       a["media_type"], a["registered_at"]) for a in registered.values()])
     n_pages = load_pages(con, extracts)
-    n_rules = load_rules(con) + load_experiment1(con)
+    n_rules = (load_rules(con)
+               + load_claims(con, "experiment1_rules.json", "experiment1_reported_results.csv")
+               + load_claims(con, "experiment2_stage5_rules.json", "experiment2_stage5_reported_results.csv"))
     con.close()
     for suffix in ("", ".wal"):
         Path(str(db) + suffix).unlink(missing_ok=True)

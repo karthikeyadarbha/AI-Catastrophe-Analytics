@@ -56,12 +56,12 @@ def load_silver(db: Path):
     import duckdb
     con = duckdb.connect(str(db), read_only=True)
     rules = con.execute("SELECT rule_id, preregistration, review_status FROM rules "
-                        "WHERE rule_kind='testable_claim' ORDER BY rule_id").fetchall()
+                        "WHERE rule_kind='testable_claim' AND source_file LIKE '%experiment1_rules.json' ORDER BY rule_id").fetchall()
     rep = {r[0]: r[1:] for r in con.execute(
         "SELECT rule_id, discovery_p, holdout_p FROM reported_results").fetchall()}
     con.close()
     if not rules:
-        sys.exit("Silver holds no testable_claim rules. Rebuild it with build_silver.py.")
+        sys.exit("Silver holds no Experiment 1 rules. Rebuild it with build_silver.py.")
     test_of = {rid: json.loads(pre)["test_id"] for rid, pre, _ in rules}
     reviews = sorted({rv for _, _, rv in rules})
     return test_of, rep, reviews

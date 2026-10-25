@@ -1,0 +1,2116 @@
+[
+ {
+  "rule_id": "S5.Moon-circle-PT-corrected.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon in the Vayu circle (PT corrected)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra (corrected list)"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_corrected",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "PT corrected",
+    "nakshatras": [
+     "Ashwini",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     0,
+     11,
+     12,
+     13,
+     14,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT corrected || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-PT-corrected.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon in the Agni circle (PT corrected)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra (corrected list)"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_corrected",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "PT corrected",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha",
+     "P.Ashadha",
+     "P.Bhadrapada"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15,
+     19,
+     24
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT corrected || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-PT-corrected.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon in the Indra circle (PT corrected)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra (corrected list)"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_corrected",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "PT corrected",
+    "nakshatras": [
+     "Rohini",
+     "Mrigashira",
+     "Punarvasu",
+     "Anuradha",
+     "Jyeshtha",
+     "U.Ashadha",
+     "Shravana"
+    ],
+    "nakshatra_indices": [
+     3,
+     4,
+     6,
+     16,
+     17,
+     20,
+     21
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT corrected || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-PT-corrected.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-13",
+  "title": "Moon in the Varuna circle (PT corrected)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra (corrected list)"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_corrected",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "PT corrected",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "Shatabhisha",
+     "U.Bhadrapada",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     23,
+     25,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT corrected || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-PT-as-quoted-in-AS.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Vayu circle (PT as quoted in AS)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra as quoted in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_as_quoted_in_as",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "PT as quoted in AS",
+    "nakshatras": [
+     "Ashwini",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     0,
+     11,
+     12,
+     13,
+     14,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT as quoted in AS || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-PT-as-quoted-in-AS.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Agni circle (PT as quoted in AS)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra as quoted in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_as_quoted_in_as",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "PT as quoted in AS",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha",
+     "P.Bhadrapada"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15,
+     24
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT as quoted in AS || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-PT-as-quoted-in-AS.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Indra circle (PT as quoted in AS)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra as quoted in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_as_quoted_in_as",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "PT as quoted in AS",
+    "nakshatras": [
+     "Rohini",
+     "Mrigashira",
+     "Punarvasu",
+     "Anuradha",
+     "Jyeshtha",
+     "U.Ashadha",
+     "Shravana"
+    ],
+    "nakshatra_indices": [
+     3,
+     4,
+     6,
+     16,
+     17,
+     20,
+     21
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT as quoted in AS || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-PT-as-quoted-in-AS.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Varuna circle (PT as quoted in AS)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Parashara Tantra as quoted in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "moon_circle_pt_as_quoted_in_as",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "PT as quoted in AS",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "Shatabhisha",
+     "U.Bhadrapada",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     23,
+     25,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, PT as quoted in AS || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-Sanskrit.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Vayu circle (BS Sanskrit)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, Sanskrit list"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_sanskrit",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "BS Sanskrit",
+    "nakshatras": [
+     "Ashwini",
+     "Mrigashira",
+     "Punarvasu",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati"
+    ],
+    "nakshatra_indices": [
+     0,
+     4,
+     6,
+     11,
+     12,
+     13,
+     14
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS Sanskrit || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-Sanskrit.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Agni circle (BS Sanskrit)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, Sanskrit list"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_sanskrit",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "BS Sanskrit",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha",
+     "P.Bhadrapada"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15,
+     24
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS Sanskrit || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-Sanskrit.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Indra circle (BS Sanskrit)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, Sanskrit list"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_sanskrit",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "BS Sanskrit",
+    "nakshatras": [
+     "Rohini",
+     "Anuradha",
+     "Jyeshtha",
+     "U.Ashadha",
+     "Shravana",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     3,
+     16,
+     17,
+     20,
+     21,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS Sanskrit || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-Sanskrit.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Varuna circle (BS Sanskrit)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, Sanskrit list"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_sanskrit",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "BS Sanskrit",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "P.Ashadha",
+     "Shatabhisha",
+     "U.Bhadrapada",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     19,
+     23,
+     25,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS Sanskrit || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v1.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Vayu circle (BS English v1)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 1"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v1",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "BS English v1",
+    "nakshatras": [
+     "Ashwini",
+     "Mrigashira",
+     "Punarvasu",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati"
+    ],
+    "nakshatra_indices": [
+     0,
+     4,
+     6,
+     11,
+     12,
+     13,
+     14
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v1 || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v1.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Agni circle (BS English v1)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 1"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v1",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "BS English v1",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha",
+     "P.Bhadrapada"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15,
+     24
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v1 || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v1.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Indra circle (BS English v1)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 1"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v1",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "BS English v1",
+    "nakshatras": [
+     "Rohini",
+     "Anuradha",
+     "Jyeshtha",
+     "U.Ashadha",
+     "Shravana",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     3,
+     16,
+     17,
+     20,
+     21,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v1 || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v1.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Varuna circle (BS English v1)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 1"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v1",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "BS English v1",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "P.Ashadha",
+     "Shatabhisha",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     19,
+     23,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v1 || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v2.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Vayu circle (BS English v2)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 2"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v2",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "BS English v2",
+    "nakshatras": [
+     "Ashwini",
+     "Mrigashira",
+     "Punarvasu",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati"
+    ],
+    "nakshatra_indices": [
+     0,
+     4,
+     6,
+     11,
+     12,
+     13,
+     14
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v2 || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v2.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Agni circle (BS English v2)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 2"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v2",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "BS English v2",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha",
+     "P.Bhadrapada"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15,
+     24
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v2 || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v2.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Indra circle (BS English v2)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 2"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v2",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "BS English v2",
+    "nakshatras": [
+     "Rohini",
+     "Anuradha",
+     "Jyeshtha",
+     "Shravana",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     3,
+     16,
+     17,
+     21,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v2 || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v2.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Varuna circle (BS English v2)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 2"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v2",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "BS English v2",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "P.Ashadha",
+     "U.Ashadha",
+     "Shatabhisha",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     19,
+     20,
+     23,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v2 || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v3.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Vayu circle (BS English v3)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 3"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v3",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "BS English v3",
+    "nakshatras": [
+     "Ashwini",
+     "Mrigashira",
+     "Punarvasu",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati"
+    ],
+    "nakshatra_indices": [
+     0,
+     4,
+     6,
+     11,
+     12,
+     13,
+     14
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v3 || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v3.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Agni circle (BS English v3)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 3"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v3",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "BS English v3",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha",
+     "P.Bhadrapada"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15,
+     24
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v3 || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v3.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Indra circle (BS English v3)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 3"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v3",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "BS English v3",
+    "nakshatras": [
+     "Rohini",
+     "Anuradha",
+     "Jyeshtha",
+     "Shravana",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     3,
+     16,
+     17,
+     21,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v3 || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-BS-English-v3.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Moon in the Varuna circle (BS English v3)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Brihat Samhita, English reading 3"
+  },
+  "condition": {
+   "feature": "moon_circle_bs_english_v3",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "BS English v3",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "P.Ashadha",
+     "Shatabhisha",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     19,
+     23,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, BS English v3 || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-Brihaspati.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Vayu circle (AS Brihaspati)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, Brihaspati's list"
+  },
+  "condition": {
+   "feature": "moon_circle_as_brihaspati",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "AS Brihaspati",
+    "nakshatras": [
+     "Ashwini",
+     "Mrigashira",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati"
+    ],
+    "nakshatra_indices": [
+     0,
+     4,
+     11,
+     12,
+     13,
+     14
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS Brihaspati || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-Brihaspati.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Agni circle (AS Brihaspati)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, Brihaspati's list"
+  },
+  "condition": {
+   "feature": "moon_circle_as_brihaspati",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "AS Brihaspati",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha",
+     "P.Bhadrapada"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15,
+     24
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS Brihaspati || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-Brihaspati.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Indra circle (AS Brihaspati)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, Brihaspati's list"
+  },
+  "condition": {
+   "feature": "moon_circle_as_brihaspati",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "AS Brihaspati",
+    "nakshatras": [
+     "Rohini",
+     "Punarvasu",
+     "Anuradha",
+     "Jyeshtha",
+     "U.Ashadha",
+     "Shravana",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     3,
+     6,
+     16,
+     17,
+     20,
+     21,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS Brihaspati || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-Brihaspati.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Varuna circle (AS Brihaspati)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, Brihaspati's list"
+  },
+  "condition": {
+   "feature": "moon_circle_as_brihaspati",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "AS Brihaspati",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "P.Ashadha",
+     "Shatabhisha",
+     "U.Bhadrapada",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     19,
+     23,
+     25,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS Brihaspati || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-compiler.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Vayu circle (AS compiler)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Vayu circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, compiler's summary"
+  },
+  "condition": {
+   "feature": "moon_circle_as_compiler",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "list": "AS compiler",
+    "nakshatras": [
+     "Ashwini",
+     "Mrigashira",
+     "Punarvasu",
+     "U.Phalguni",
+     "Hasta",
+     "Chitra",
+     "Svati"
+    ],
+    "nakshatra_indices": [
+     0,
+     4,
+     6,
+     11,
+     12,
+     13,
+     14
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS compiler || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-compiler.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Agni circle (AS compiler)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Agni circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, compiler's summary"
+  },
+  "condition": {
+   "feature": "moon_circle_as_compiler",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "list": "AS compiler",
+    "nakshatras": [
+     "Bharani",
+     "Krittika",
+     "Pushya",
+     "Magha",
+     "P.Phalguni",
+     "Vishakha"
+    ],
+    "nakshatra_indices": [
+     1,
+     2,
+     7,
+     9,
+     10,
+     15
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS compiler || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-compiler.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Indra circle (AS compiler)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Indra circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, compiler's summary"
+  },
+  "condition": {
+   "feature": "moon_circle_as_compiler",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "list": "AS compiler",
+    "nakshatras": [
+     "Rohini",
+     "Anuradha",
+     "Jyeshtha",
+     "U.Ashadha",
+     "Shravana",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     3,
+     16,
+     17,
+     20,
+     21,
+     22
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS compiler || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-circle-AS-compiler.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Moon in the Varuna circle (AS compiler)",
+  "statement": "When the Moon is in one of the nakshatras this list assigns to the Varuna circle, earthquakes are over- or under-represented (direction not specified).",
+  "source": {
+   "reference": "Nakshatra circle list in Adbhuta Sagara, compiler's summary"
+  },
+  "condition": {
+   "feature": "moon_circle_as_compiler",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "list": "AS compiler",
+    "nakshatras": [
+     "Ardra",
+     "Ashlesha",
+     "Mula",
+     "P.Ashadha",
+     "Shatabhisha",
+     "U.Bhadrapada",
+     "Revati"
+    ],
+    "nakshatra_indices": [
+     5,
+     8,
+     18,
+     19,
+     23,
+     25,
+     26
+    ],
+    "test": "two-sided z against jittered, location-shuffled 6-hourly background"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon circle, AS compiler || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-reversed.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Vayu (night reversed)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Vayu circle; the night yamas run in reverse order.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_reversed",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "night_order": "reversed",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night reversed) || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-reversed.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Agni (night reversed)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Agni circle; the night yamas run in reverse order.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_reversed",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "night_order": "reversed",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night reversed) || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-reversed.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Indra (night reversed)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Indra circle; the night yamas run in reverse order.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_reversed",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "night_order": "reversed",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night reversed) || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-reversed.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Varuna (night reversed)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Varuna circle; the night yamas run in reverse order.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_reversed",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "night_order": "reversed",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night reversed) || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-Moon-circle-BS-Sanskrit-night-reversed",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama circle equals Moon circle (BS Sanskrit; night reversed)",
+  "statement": "The circle of the time of day is the same as the circle of the Moon's nakshatra.",
+  "source": {
+   "reference": "Yama circles (Adbhuta Sagara) combined with the nakshatra list of Brihat Samhita, Sanskrit list"
+  },
+  "condition": {
+   "feature": "yama_circle_moon_circle_bs_sanskrit_night_reversed",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "moon_list": "BS Sanskrit",
+    "night_order": "reversed"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle = Moon circle, BS Sanskrit (night reversed) || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan. The report lists both the Adbhuta Sagara and the Brihat Samhita as sources."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-Moon-circle-AS-Brihaspati-night-reversed",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama circle equals Moon circle (AS Brihaspati; night reversed)",
+  "statement": "The circle of the time of day is the same as the circle of the Moon's nakshatra.",
+  "source": {
+   "reference": "Yama circles (Adbhuta Sagara) combined with the nakshatra list of Adbhuta Sagara, Brihaspati's list"
+  },
+  "condition": {
+   "feature": "yama_circle_moon_circle_as_brihaspati_night_reversed",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "moon_list": "AS Brihaspati",
+    "night_order": "reversed"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle = Moon circle, AS Brihaspati (night reversed) || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan. The report lists both the Adbhuta Sagara and the Brihat Samhita as sources."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-same-order.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Vayu (night same order)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Vayu circle; the night yamas run in the same order as by day.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_same_order",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "night_order": "same",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night same order) || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-same-order.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Agni (night same order)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Agni circle; the night yamas run in the same order as by day.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_same_order",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "night_order": "same",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night same order) || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-same-order.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Indra (night same order)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Indra circle; the night yamas run in the same order as by day.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_same_order",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "night_order": "same",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night same order) || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-night-same-order.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama-clock circle Varuna (night same order)",
+  "statement": "The time of day (local solar time from the event longitude) falls in the yama the text ties to the Varuna circle; the night yamas run in the same order as by day.",
+  "source": {
+   "reference": "Yama (quarter-of-day) circles in the Adbhuta Sagara"
+  },
+  "condition": {
+   "feature": "yama_circle_night_same_order",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "night_order": "same",
+    "day_split": "sunrise to sunset into four equal parts",
+    "night_split": "sunset to sunrise into four equal parts"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle (night same order) || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-Moon-circle-BS-Sanskrit-night-same-order",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama circle equals Moon circle (BS Sanskrit; night same order)",
+  "statement": "The circle of the time of day is the same as the circle of the Moon's nakshatra.",
+  "source": {
+   "reference": "Yama circles (Adbhuta Sagara) combined with the nakshatra list of Brihat Samhita, Sanskrit list"
+  },
+  "condition": {
+   "feature": "yama_circle_moon_circle_bs_sanskrit_night_same_order",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "moon_list": "BS Sanskrit",
+    "night_order": "same"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle = Moon circle, BS Sanskrit (night same order) || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan. The report lists both the Adbhuta Sagara and the Brihat Samhita as sources."
+  }
+ },
+ {
+  "rule_id": "S5.Yama-circle-Moon-circle-AS-Brihaspati-night-same-order",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-12",
+  "title": "Yama circle equals Moon circle (AS Brihaspati; night same order)",
+  "statement": "The circle of the time of day is the same as the circle of the Moon's nakshatra.",
+  "source": {
+   "reference": "Yama circles (Adbhuta Sagara) combined with the nakshatra list of Adbhuta Sagara, Brihaspati's list"
+  },
+  "condition": {
+   "feature": "yama_circle_moon_circle_as_brihaspati_night_same_order",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "moon_list": "AS Brihaspati",
+    "night_order": "same"
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Yama circle = Moon circle, AS Brihaspati (night same order) || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan. The report lists both the Adbhuta Sagara and the Brihat Samhita as sources."
+  }
+ },
+ {
+  "rule_id": "S5.Clock-time-circle-BS-Ch-32-6-hour-blocks.Vayu",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Clock-time circle Vayu",
+  "statement": "The local solar hour falls in the 6-hour block tied to the Vayu circle.",
+  "source": {
+   "reference": "Brihat Samhita chapter 32"
+  },
+  "condition": {
+   "feature": "clock_time_circle_bs_ch_32_6_hour_blocks",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Vayu",
+    "blocks": "00-06 Varuna, 06-12 Vayu, 12-18 Agni, 18-24 Indra"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Clock-time circle (BS Ch.32 6-hour blocks) || Vayu"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Clock-time-circle-BS-Ch-32-6-hour-blocks.Agni",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Clock-time circle Agni",
+  "statement": "The local solar hour falls in the 6-hour block tied to the Agni circle.",
+  "source": {
+   "reference": "Brihat Samhita chapter 32"
+  },
+  "condition": {
+   "feature": "clock_time_circle_bs_ch_32_6_hour_blocks",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Agni",
+    "blocks": "00-06 Varuna, 06-12 Vayu, 12-18 Agni, 18-24 Indra"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Clock-time circle (BS Ch.32 6-hour blocks) || Agni"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Clock-time-circle-BS-Ch-32-6-hour-blocks.Indra",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Clock-time circle Indra",
+  "statement": "The local solar hour falls in the 6-hour block tied to the Indra circle.",
+  "source": {
+   "reference": "Brihat Samhita chapter 32"
+  },
+  "condition": {
+   "feature": "clock_time_circle_bs_ch_32_6_hour_blocks",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Indra",
+    "blocks": "00-06 Varuna, 06-12 Vayu, 12-18 Agni, 18-24 Indra"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Clock-time circle (BS Ch.32 6-hour blocks) || Indra"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Clock-time-circle-BS-Ch-32-6-hour-blocks.Varuna",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Clock-time circle Varuna",
+  "statement": "The local solar hour falls in the 6-hour block tied to the Varuna circle.",
+  "source": {
+   "reference": "Brihat Samhita chapter 32"
+  },
+  "condition": {
+   "feature": "clock_time_circle_bs_ch_32_6_hour_blocks",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "circle": "Varuna",
+    "blocks": "00-06 Varuna, 06-12 Vayu, 12-18 Agni, 18-24 Indra"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Clock-time circle (BS Ch.32 6-hour blocks) || Varuna"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Moon-in-a-disputed-nakshatra",
+  "rule_kind": "testable_claim",
+  "text_id": null,
+  "title": "Moon in one of the four disputed nakshatras",
+  "statement": "The Moon is in a nakshatra that the lists place in different circles.",
+  "source": {
+   "reference": "Adbhuta Sagara; Brihat Samhita chapter 32 (text for this bin not stated in the report)"
+  },
+  "condition": {
+   "feature": "moon_in_a_disputed_nakshatra",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "nakshatras": [
+     "Mrigashira",
+     "Punarvasu",
+     "P.Ashadha",
+     "Dhanishta"
+    ],
+    "nakshatra_indices": [
+     4,
+     6,
+     19,
+     22
+    ]
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Moon in a disputed nakshatra || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan. Which of the two sources defines this bin is not stated in the report, so text_id is empty."
+  }
+ },
+ {
+  "rule_id": "S5.Twilight-within-48-min-of-sunrise-sunset",
+  "rule_kind": "testable_claim",
+  "text_id": null,
+  "title": "Twilight window",
+  "statement": "The event is within 48 minutes of local sunrise or sunset.",
+  "source": {
+   "reference": "Adbhuta Sagara; Brihat Samhita chapter 32 (text for this bin not stated in the report)"
+  },
+  "condition": {
+   "feature": "twilight_within_48_min_of_sunrise_sunset",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "window_minutes": 48
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Twilight (within 48 min of sunrise/sunset) || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan. Which source defines this bin is not stated in the report, so text_id is empty."
+  }
+ },
+ {
+  "rule_id": "S5.Eclipse-in-the-7-days-before",
+  "rule_kind": "testable_claim",
+  "text_id": null,
+  "title": "Eclipse in the 7 days before",
+  "statement": "An eclipse occurred within the 7 days before the event.",
+  "source": {
+   "reference": "Adbhuta Sagara; Brihat Samhita chapter 32 (text for this bin not stated in the report)"
+  },
+  "condition": {
+   "feature": "eclipse_in_the_7_days_before",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "days_before": 7
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Eclipse in the 7 days before || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan. Which source defines this bin is not stated in the report, so text_id is empty."
+  }
+ },
+ {
+  "rule_id": "S5.Mercury-Jupiter-within-1-deg-BS-17-war",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Mercury-Jupiter within 1 degree",
+  "statement": "Mercury and Jupiter are less than 1 degree apart on the sky.",
+  "source": {
+   "reference": "Brihat Samhita chapter 17 (planetary war)"
+  },
+  "condition": {
+   "feature": "mercury_jupiter_within_1_deg_bs_17_war",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "max_separation_deg": 1
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Mercury-Jupiter within 1 deg (BS 17 war) || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Mercury-Jupiter-within-1-deg-Mercury-the-southern-one",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Mercury-Jupiter within 1 degree, Mercury southern",
+  "statement": "As above, with Mercury the more southern of the two.",
+  "source": {
+   "reference": "Brihat Samhita chapter 17 (planetary war)"
+  },
+  "condition": {
+   "feature": "mercury_jupiter_within_1_deg_mercury_the_southern_one",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "max_separation_deg": 1,
+    "mercury": "southern"
+   },
+   "frame": "not_applicable"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Mercury-Jupiter within 1 deg, Mercury the southern one || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ },
+ {
+  "rule_id": "S5.Any-two-star-planets-within-1-deg-BS-17-war",
+  "rule_kind": "testable_claim",
+  "text_id": "TXT-11",
+  "title": "Any two of Mars, Mercury, Jupiter, Venus, Saturn within 1 degree",
+  "statement": "Any two of the five star-planets are within 1 degree in longitude.",
+  "source": {
+   "reference": "Brihat Samhita chapter 17 (planetary war)"
+  },
+  "condition": {
+   "feature": "any_two_star_planets_within_1_deg_bs_17_war",
+   "operator": "z_bin_scan",
+   "parameters": {
+    "max_separation_deg": 1
+   },
+   "frame": "sidereal_lahiri"
+  },
+  "preregistration": {
+   "file": "docs/audit/preregistrations/preregistration_data_first_treatise_scan.md",
+   "test_id": "Any two star-planets within 1 deg (BS 17 war) || yes"
+  },
+  "provenance_status": "reference_only",
+  "review": {
+   "status": "unreviewed",
+   "notes": "Taken from the Data-First report's source table (section 7); chapter and verse not yet matched to the scan."
+  }
+ }
+]

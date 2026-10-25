@@ -31,7 +31,7 @@
       "additionalProperties": false,
       "properties": {
         "feature": {"type": "string", "description": "A named feature, e.g. moon_mandala, moon_tithi_class, eclipse_within_days."},
-        "operator": {"enum": ["in_set", "within", "equals", "chi_square_classes", "kruskal_wallis"]},
+        "operator": {"enum": ["in_set", "within", "equals", "chi_square_classes", "kruskal_wallis", "z_bin_scan"]},
         "parameters": {"type": "object"},
         "frame": {"enum": ["sidereal_lahiri", "tropical", "not_applicable"]}
       }
