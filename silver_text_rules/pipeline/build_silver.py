@@ -18,8 +18,7 @@ Tables
   extracts   one row per text extraction run: tools, languages, quality summary
   pages      one row per scanned page: text, method, OCR confidence, flag, page hash
   rules      engine rule records (kind 'computational'), the 23 pre-registered Experiment 1 rules and
-             the 54 Experiment 2 stage-5 bins (kind 'testable_claim', from rules/experiment1_rules.json
-             and rules/experiment2_stage5_rules.json, checked against schema/silver_rule.schema.json)
+             the 54 Experiment 2 stage-5 bins (kind 'testable_claim', from every rules/*_rules.json, checked against schema/silver_rule.schema.json)
   rule_sources  rule -> page links, where the engine record names a PDF page
   reported_results  what the studies published for each of those 77 claims (Experiment 2: the committed
              bin-scan CSV); the target Gold must reproduce
@@ -204,8 +203,9 @@ def load_claims(con, rules_name, results_name):
         rows = [(x["rule_id"], float(x["discovery_p"]), float(x["holdout_p"]), x["holdout_observed"],
                  x["holdout_expected"]) for x in csv.DictReader(fh)]
     ids = {r["rule_id"] for r in rules}
-    if {x[0] for x in rows} != ids:
-        sys.exit(f"{results_name} does not match the rule IDs in {rules_name}")
+    extra = {x[0] for x in rows} - ids
+    if extra:      # a batch not yet tested may have fewer (or no) result rows, never rows for unknown rules
+        sys.exit(f"{results_name} names rules that are not in {rules_name}: {sorted(extra)[:3]}")
     con.executemany("INSERT INTO reported_results VALUES (?,?,?,?,?)", rows)
     return len(rules)
 
@@ -233,9 +233,14 @@ def main() -> int:
                     [(a["artifact_id"], a["text_id"], a["original_filename"], a["sha256"], a["bytes"],
                       a["media_type"], a["registered_at"]) for a in registered.values()])
     n_pages = load_pages(con, extracts)
-    n_rules = (load_rules(con)
-               + load_claims(con, "experiment1_rules.json", "experiment1_reported_results.csv")
-               + load_claims(con, "experiment2_stage5_rules.json", "experiment2_stage5_reported_results.csv"))
+    n_rules = load_rules(con)
+    # Every rules/<name>_rules.json is a batch of testable claims and needs its
+    # rules/<name>_reported_results.csv beside it. Adding a batch needs no code change.
+    for rules_file in sorted((SILVER / "rules").glob("*_rules.json")):
+        results_name = rules_file.name.replace("_rules.json", "_reported_results.csv")
+        if not (SILVER / "rules" / results_name).is_file():
+            sys.exit(f"{rules_file.name} has no {results_name} beside it")
+        n_rules += load_claims(con, rules_file.name, results_name)
     con.close()
     for suffix in ("", ".wal"):
         Path(str(db) + suffix).unlink(missing_ok=True)
