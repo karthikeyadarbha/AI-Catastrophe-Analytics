@@ -156,7 +156,7 @@ the choice of ayanāṃśa and older earthquakes (1900–1989) were all null, an
 **Experiment 2, Data-First (start from the earthquakes, look for what stands out, then compare with the texts).** A scan of 433 sky
 bins found only a faint agreement between the two halves of the data (r = 0.105). Its top lead, the Sun in Viśākhā, did not replicate
 on 1964–1989 (1.15×, p = 0.24) or on 8,098 new earthquakes. Combinations and slow-planet factors all failed their bars. The 54
-bins defined by the texts themselves gave 6 nominal hits in 1990–2007, all one effect (Moon in the Indra circle, about 7% low), and none held in 2008–2026.
+bins defined by the texts themselves gave 6 nominal hits in 1990–2007, all one effect (Moon in the Indra circle, about 7% low), and none held in 2008–2026. The one bin that cleared the bar in 2008–2026 alone (Mercury–Jupiter within 1°) did not appear in 1990–2007 and is explained in section 2.
 
 **Overall:** at these sample sizes and with these pre-registered tests, nothing in the source texts shows a reliable link to
 earthquakes. This is evidence of absence of a detectable link, not a proof that no weaker or differently defined effect exists.
@@ -166,7 +166,72 @@ ordered when aftershocks are removed (the committed script reproduces the commit
 lies inside the range of 200 random orders in 45 of 46, and no order ever passes the bar; smallest p over all runs 0.0188). Experiment 2
 stage 5 reproduces exactly. See `gold_experiment1/README.md` and `gold_experiment2/README.md`.
 
-## 2. Adding a new treatise: steps from Bronze to a re-run experiment
+## 2. The astrological rules: what was parsed through each layer
+
+A **rule** is one statement a classical text makes, written so a computer can check it. There are two kinds, 162 in all:
+
+- **Computational rules (85):** how a text *calculates* something (the length of a yuga, the Rsine table, the ayanāṃśa, tithi and nakṣatra from true longitudes). They live in the frozen engine `indic-ganita-engine`, are copied into Silver for traceability, and are **not** tested against earthquakes.
+- **Testable claims (77):** what a text *says should happen in the sky when an earthquake strikes* (for example "the Moon in a sharp nakṣatra", "Mercury and Jupiter in planetary war"). These are the rules the two experiments test. They were written down (pre-registered) before testing.
+
+**Where each rule is at each layer**
+
+| Layer | What happens to the rules |
+|---|---|
+| Bronze | The 85 engine rules arrive as hash-logged extracts (`ENG-nn`, in `ingestion_audit.jsonl`). The books they come from (13 texts, 16 scans, 5,289 pages) are fingerprinted and their text extracted, so a rule can later be matched to a page. Bronze never interprets a rule. |
+| Silver | One `rules` table, one record shape, checked against `silver_rule.schema.json`. Every record carries its text (`text_id`), reference, exact condition, `provenance_status` and `review_status`. The published results of each claim sit beside it in `reported_results` (77 rows). |
+| Gold | Experiment 1 re-runs its 23 claims and Experiment 2 stage 5 its 54 claims from Silver's conditions, then compares with the published numbers. Verdicts are never changed. |
+
+**Rules per classical text (Silver `rules` table)**
+
+| Text | Computational | Testable claims | What the rules are about |
+|---|---|---|---|
+| TXT-01 Āryabhaṭīya | 5 | 0 | epicycles, epoch, Rsine differences, yuga revolutions |
+| TXT-02 Tantrasaṅgraha | 16 | 0 | dhruvas, apsides, Rsine tables, tithi/nakṣatra/yoga, true planets |
+| TXT-03 Gaṇitayuktibhāṣā | 6 | 0 | Madhava sine and arctan series, rationale of true planets |
+| TXT-04 Dṛggaṇita | 17 | 0 | ahargaṇa, four-step planets, corrections, equation tables |
+| TXT-05 Sūryasiddhānta | 17 | 0 | trepidation (ayanāṃśa), corrections, daily motion, retrograde speed |
+| TXT-07 Indian Astronomy: A Source Book | 13 | 0 | tithi, yoga, junction stars, eclipses, visibility limits |
+| TXT-08, TXT-09, TXT-10 (ayanāṃśa works) | 4 | 0 | Chandrahari, Dulakara, Karaṇaratna ayanāṃśa |
+| not tied to one text (KP, Lahiri, Raman, tropical, ...) | 7 | 3 | alternative zodiacs; 3 claims with no single source |
+| TXT-11 Bṛhat Saṃhitā | 0 | 23 | Moon-circle lists, 6-hour clock circles, Mercury–Jupiter war (ch. 17) |
+| TXT-12 Adbhuta Sāgara | 0 | 24 | Moon-circle lists, yama (night-watch) circles |
+| TXT-13 Parāśara Tantra (as quoted) | 0 | 27 | mandala of the Moon, sharp nakṣatras, Rikta tithi, eclipses, retrograde planets, conjunctions |
+| TXT-06 Sūryasiddhānta with Raṅganātha | 0 | 0 | scans and text only; no rules yet |
+
+**Experiment 1 (Rule-First): 23 claims, 46 results (each claim is run on a discovery and a hold-out half)**
+
+| Claim family | Rule IDs | Source | Closest hold-out p (bar is 0.0022) |
+|---|---|---|---|
+| Moon's mandala (4 types by nakṣatra), sidereal and tropical | R1 | PT 18.3–18.6 | 0.151 |
+| Moon in a sharp nakṣatra | R2 | PT Ch.14–16 | 0.039 |
+| Moon in a Rikta tithi; near new or full moon | R3, R4 | PT Ch.14–16 | 0.193 |
+| Moon near a planet or the Sun | R10 | PT Ch.14–16 | 0.288 |
+| Eclipse within 15 or 7 days | R5, R6 | PT Ch.5 | 0.309 |
+| Mars, Mercury, Jupiter, Venus, Saturn retrograde | R7 (5 rules) | PT Ch.15, 6–10, 3 | 0.067 (Mercury) |
+| Jupiter and Saturn in one nakṣatra; any planet pair within 3° | R8, R9 | PT Ch.15, 6–10, 3 | 0.327 |
+| Sun's season (6 seasons) | R11 | PT Ch.15, 6–10, 3 | 0.173 |
+| Mandala versus magnitude and depth | R12 (4 rules) | PT 18.3–18.6 | 0.701 |
+
+Result: none of the 23 passed. The closest, a sharp-nakṣatra Moon (R2, sidereal), reached p = 0.039, and with 23 tests the bar is 0.0022.
+
+**Experiment 2 stage 5 (Data-First, text-defined bins): 54 claims**
+
+| Claim family | Bins | Texts |
+|---|---|---|
+| Moon in each of 4 circles (Agni, Vayu, Indra, Varuṇa) under 8 versions of the nakṣatra lists (Parāśara Tantra corrected and as quoted, Bṛhat Saṃhitā Sanskrit and 3 English readings, Adbhuta Sāgara Bṛhaspati and compiler lists) | 32 | TXT-11, 12, 13 |
+| Yama (night-watch) circles, two night orders | 8 | TXT-12 |
+| Yama circle equal to the Moon's circle (4 combinations) | 4 | TXT-12 |
+| Six-hour clock-time circle | 4 | TXT-11 |
+| Planetary war: Mercury–Jupiter within 1° (all, and Mercury the southern one), any two star-planets within 1° | 3 | TXT-11 |
+| Moon in a disputed nakṣatra; twilight; eclipse in the 7 days before | 3 | no single text |
+
+Result: 6 of 54 bins looked unusual in 1990–2007 (p < 0.05), all the same effect, the Moon in the Indra circle (about 7% fewer earthquakes), and none held in 2008–2026. The bar here is 0.05/54 = 0.00093.
+
+**The one result worth a second look: Mercury–Jupiter within 1° ("planetary war", Bṛhat Saṃhitā ch. 17).** In 2008–2026 it clears the strict bar on its own (19 earthquakes against 8.2 expected, p = 0.00016). It does not count as a finding because the pre-registered rule needs **both** halves, and in 1990–2007 it shows 9 against 7.8 (p = 0.66); the 1964–1989 check shows 8 against 10.5. It is also very rare (19 of 4,707 earthquakes), so a small count moves the result a lot. A follow-up at conjunction-episode level gives the same picture (hold-out 9 of 11 episodes with an earthquake against 5.3 expected, p = 0.022; all eras together p = 0.052). Treat it as a lead for new data, not as a result.
+
+**How honest is the provenance?** All 77 claims are `reference_only` and `unreviewed`: each cites a passage (for example PT 18.3–18.6), not yet a verse and page matched to a scan. Three claims have no `text_id`, 67 of the 85 engine rules cite a reference but no PDF page, and some OCR is weak (Adbhuta Sāgara mean 65.7%; the English Bṛhat Saṃhitā text layer is garbled). The conclusions rest on the tests being faithful to the reports' source registers, not yet on page-level verification. See `silver_text_rules/README.md` and the Technical Design document (`docs/TechnicalDesign_AI-Catastrophe-Analytics.pdf`).
+
+## 3. Adding a new treatise: steps from Bronze to a re-run experiment
 
 Run everything from the repository root. Install once: `python3 -m pip install -r requirements.txt` and `brew install poppler tesseract tesseract-lang`.
 
