@@ -5,7 +5,7 @@ It never changes Bronze or the frozen engine (`indic-ganita-engine` v1.4.2).
 
 ## Build
 ```
-python3 -m pip install duckdb
+python3 -m pip install duckdb jsonschema
 python3 silver_text_rules/pipeline/build_silver.py
 ```
 Writes `silver_text_rules/silver.duckdb` (git-ignored, rebuilt from scratch each run).
@@ -20,12 +20,13 @@ does not vouch for.
 | `artifacts` | registered scans | File, hash, type |
 | `extracts` | one per scan | Tools, languages, OCR quality summary |
 | `pages` | one per page | Text, method (text layer or OCR), confidence, flag, page hash |
-| `rules` | 85 | The engine's rule records, read-only, with `rule_kind = 'computational'`, `provenance_status` and `review_status` |
+| `rules` | 85 + 23 | The engine's 85 records (`computational`, read-only) and the 23 pre-registered Experiment 1 rules (`testable_claim`), each with `provenance_status` and `review_status` |
+| `reported_results` | 23 | What the Rule-First report published for each of the 23 rules. This is the target Gold must reproduce |
 | `rule_sources` | per rule page | Page references exactly as the engine records give them |
 
 ## Two kinds of rule
 - **computational**: how a text calculates something (revolutions in a yuga, Rsine table). The engine's 85 records are this kind.
-- **testable_claim**: a statement that can be tested against earthquakes (for example the Moon's mandala at the time of the event). Experiment 1 uses these. They are not in the table yet; the 23 pre-registered rules in `docs/audit/preregistrations/preregistration_rules.md` are the first to encode.
+- **testable_claim**: a statement that can be tested against earthquakes (for example the Moon's mandala at the time of the event). Experiment 1 uses these. The 23 pre-registered rules in `docs/audit/preregistrations/preregistration_rules.md` are encoded in `rules/experiment1_rules.json`; their citations are passage-level (for example PT 18.3–18.6, PT Ch.14–16) as in the report's source register, so `provenance_status` is `reference_only` and review is `unreviewed` until each is matched to its page. Each is checked against the schema when the database is built.
 
 Both kinds share one record shape: `schema/silver_rule.schema.json`. Engine IDs are kept as they are (the old Bronze pattern `^[A-Z]{2,3}-[0-9]{3,4}$` did not fit them).
 

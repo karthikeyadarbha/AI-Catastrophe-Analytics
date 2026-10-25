@@ -17,8 +17,12 @@ Tables
   artifacts  one row per registered scan (from the audit log)
   extracts   one row per text extraction run: tools, languages, quality summary
   pages      one row per scanned page: text, method, OCR confidence, flag, page hash
-  rules      the engine's rule records (kind 'computational'), with provenance status
+  rules      engine rule records (kind 'computational') and the 23 pre-registered Experiment 1
+             rules (kind 'testable_claim', from silver_text_rules/rules/experiment1_rules.json,
+             checked against schema/silver_rule.schema.json before loading)
   rule_sources  rule -> page links, where the engine record names a PDF page
+  reported_results  what the Rule-First report published for each of the 23 rules; the
+             target Gold must reproduce
 
 The database file is derived data and is git-ignored. Delete it and run this again.
 """
@@ -36,8 +40,10 @@ from audit import AuditLog  # noqa: E402
 
 try:
     import duckdb
+    import jsonschema
 except ImportError:
-    sys.exit("The 'duckdb' package is required. Install it with:  python3 -m pip install duckdb")
+    sys.exit("The 'duckdb' and 'jsonschema' packages are required. Install them with:  "
+             "python3 -m pip install duckdb jsonschema")
 
 AUDIT = BRONZE / "audit" / "ingestion_audit.jsonl"
 REGISTER = BRONZE / "manifest" / "source_register.json"
@@ -60,7 +66,10 @@ CREATE TABLE pages (artifact_id VARCHAR, text_id VARCHAR, page INTEGER, method V
 CREATE TABLE rules (rule_id VARCHAR PRIMARY KEY, rule_kind VARCHAR, text_label VARCHAR, text_id VARCHAR,
                     reference VARCHAR, title VARCHAR, formula VARCHAR, implemented_by VARCHAR,
                     engine_status VARCHAR, sanskrit VARCHAR, sanskrit_verified BOOLEAN, gloss VARCHAR,
-                    notes VARCHAR, provenance_status VARCHAR, review_status VARCHAR, source_file VARCHAR);
+                    notes VARCHAR, provenance_status VARCHAR, review_status VARCHAR, source_file VARCHAR,
+                    statement VARCHAR, condition VARCHAR, preregistration VARCHAR);
+CREATE TABLE reported_results (rule_id VARCHAR PRIMARY KEY, discovery_p DOUBLE, holdout_p DOUBLE,
+                    holdout_observed VARCHAR, holdout_expected VARCHAR);
 CREATE TABLE rule_sources (rule_id VARCHAR, pdf_page_ref VARCHAR);   -- as written, e.g. '102' or '41-54'
 """
 
@@ -154,7 +163,9 @@ def load_rules(con):
         for r in json.loads(f.read_text(encoding="utf-8")):
             has_page = bool(r.get("pdf_pages"))
             prov = "page_cited" if has_page else "reference_only"
-            con.execute("INSERT INTO rules VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", [
+            con.execute("INSERT INTO rules (rule_id, rule_kind, text_label, text_id, reference, title, formula, "
+                        "implemented_by, engine_status, sanskrit, sanskrit_verified, gloss, notes, "
+                        "provenance_status, review_status, source_file) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", [
                 r["id"], "computational", r["text"], text_id_for(r["text"]), r["reference"], r["title"],
                 r["formula"], r["implemented_by"], r["status"], r.get("sanskrit"),
                 bool(r.get("sanskrit_verified")), r.get("gloss") or None, r.get("notes") or None,
@@ -164,6 +175,38 @@ def load_rules(con):
                 con.execute("INSERT INTO rule_sources VALUES (?,?)", [r["id"], str(pg)])
             n += 1
     return n
+
+
+def load_experiment1(con):
+    """Load the pre-registered Experiment 1 rules after checking each against the Silver schema."""
+    import csv
+    schema = json.loads((SILVER / "schema" / "silver_rule.schema.json").read_text(encoding="utf-8"))
+    src = SILVER / "rules" / "experiment1_rules.json"
+    rules = json.loads(src.read_text(encoding="utf-8"))
+    for r in rules:
+        try:
+            jsonschema.validate(r, schema)
+        except jsonschema.ValidationError as exc:
+            sys.exit(f"{r.get('rule_id')}: not valid against silver_rule.schema.json: {exc.message}")
+    texts = {t["id"] for t in json.loads(REGISTER.read_text(encoding="utf-8"))["texts"]}
+    for r in rules:
+        if r["text_id"] not in texts:
+            sys.exit(f"{r['rule_id']}: unknown text {r['text_id']}")
+        con.execute("INSERT INTO rules (rule_id, rule_kind, text_id, reference, title, provenance_status, "
+                    "review_status, source_file, statement, condition, preregistration) "
+                    "VALUES (?,?,?,?,?,?,?,?,?,?,?)", [
+            r["rule_id"], r["rule_kind"], r["text_id"], r["source"]["reference"], r["title"],
+            r["provenance_status"], r["review"]["status"], src.relative_to(REPO).as_posix(),
+            r["statement"], json.dumps(r["condition"], ensure_ascii=False),
+            json.dumps(r["preregistration"])])
+    with (SILVER / "rules" / "experiment1_reported_results.csv").open(newline="", encoding="utf-8") as fh:
+        rows = [(x["rule_id"], float(x["discovery_p"]), float(x["holdout_p"]), x["holdout_observed"],
+                 x["holdout_expected"]) for x in csv.DictReader(fh)]
+    ids = {r["rule_id"] for r in rules}
+    if {x[0] for x in rows} != ids:
+        sys.exit("reported results do not match the Experiment 1 rule IDs")
+    con.executemany("INSERT INTO reported_results VALUES (?,?,?,?,?)", rows)
+    return len(rules)
 
 
 def main() -> int:
@@ -189,7 +232,7 @@ def main() -> int:
                     [(a["artifact_id"], a["text_id"], a["original_filename"], a["sha256"], a["bytes"],
                       a["media_type"], a["registered_at"]) for a in registered.values()])
     n_pages = load_pages(con, extracts)
-    n_rules = load_rules(con)
+    n_rules = load_rules(con) + load_experiment1(con)
     con.close()
     for suffix in ("", ".wal"):
         Path(str(db) + suffix).unlink(missing_ok=True)
